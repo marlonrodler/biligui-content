@@ -5,7 +5,7 @@
    "id": "ngsl-spoken",
    "version": "v1",
    "manifest": "packs/ngsl-spoken/v1/manifest.json",
-   "sha256": "3752e06204198514e7dfa33ffafb3436aa4ff3adaacf6451fe531abd34b55918",
+   "sha256": "3e09b5f2d0967f15244e0765a5118d5bb715d0d19fe06c7e03775bcb0307bd90",
    "words": 116
   }
  ]

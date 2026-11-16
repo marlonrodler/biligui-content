@@ -18,7 +18,6 @@
  {
   "id": "ngsl-spoken:and",
   "flags": [
-   "unknown_word:s1:together",
    "unknown_word:s2:rice,beans"
   ]
  },
@@ -50,9 +49,7 @@
  },
  {
   "id": "ngsl-spoken:do",
-  "flags": [
-   "unknown_word:s1:sorry"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:not",
@@ -124,7 +121,7 @@
   "id": "ngsl-spoken:but",
   "flags": [
    "unknown_word:s1:can't",
-   "unknown_word:s2:it's,small,nice"
+   "unknown_word:s2:it's,small"
   ]
  },
  {
@@ -287,9 +284,7 @@
  },
  {
   "id": "ngsl-spoken:mean",
-  "flags": [
-   "unknown_word:s1:sorry"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:out",
@@ -388,7 +383,6 @@
  {
   "id": "ngsl-spoken:two",
   "flags": [
-   "unknown_word:s1:kids",
    "unknown_word:s2:coffees"
   ]
  },
@@ -407,7 +401,6 @@
  {
   "id": "ngsl-spoken:could",
   "flags": [
-   "unknown_word:s1:excuse",
    "unknown_word:s2:sleep"
   ]
  },
@@ -620,6 +613,161 @@
  },
  {
   "id": "ngsl-spoken:happy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:okay",
+  "flags": [
+   "unknown_word:s1:let's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dad",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mom",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:baby",
+  "flags": [
+   "unknown_word:s1:small"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:little",
+  "flags": [
+   "unknown_word:s2:wait"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stop",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:first",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sorry",
+  "flags": [
+   "unknown_word:s1:late"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:love",
+  "flags": [
+   "unknown_word:s1:pizza",
+   "unknown_word:s2:song"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:kid",
+  "flags": [
+   "unknown_word:s2:music"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bad",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:cool",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:old",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:still",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:always",
+  "flags": [
+   "unknown_word:s1:drink",
+   "unknown_word:s2:late"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nothing",
+  "flags": [
+   "unknown_word:s2:thanks"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nice",
+  "flags": [
+   "unknown_word:s1:meet"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:husband",
+  "flags": [
+   "unknown_word:s1:teacher",
+   "unknown_word:s2:works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:school",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:together",
+  "flags": [
+   "unknown_word:s1:let's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:you-know",
+  "flags": [
+   "unknown_word:s1:fun"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:i-know",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:come-on",
+  "flags": [
+   "unknown_word:s1:let's",
+   "unknown_word:s2:oh"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:you-guys",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:i-got-it",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:excuse-me",
+  "flags": [
+   "unknown_word:s2:yours"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:are-you-kidding",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:don-t-worry",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:i-m-gonna",
+  "flags": [
+   "unknown_word:s1:sleep",
+   "unknown_word:s2:call"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:i-m-not-sure",
   "flags": []
  }
 ]

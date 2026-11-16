@@ -12,9 +12,7 @@
   "CMU Pronouncing Dictionary (BSD-2)"
  ],
  "voices": [
-  "am_michael",
-  "af_heart",
-  "bf_emma"
+  "am_michael"
  ],
  "words": [
   {
@@ -34,9 +32,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/be/am_michael.m4a",
-    "af_heart": "audio/be/af_heart.m4a",
-    "bf_emma": "audio/be/bf_emma.m4a"
+    "am_michael": "audio/be/am_michael.m4a"
    },
    "sentences": [
     {
@@ -69,9 +65,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/the/am_michael.m4a",
-    "af_heart": "audio/the/af_heart.m4a",
-    "bf_emma": "audio/the/bf_emma.m4a"
+    "am_michael": "audio/the/am_michael.m4a"
    },
    "sentences": [
     {
@@ -104,9 +98,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/you/am_michael.m4a",
-    "af_heart": "audio/you/af_heart.m4a",
-    "bf_emma": "audio/you/bf_emma.m4a"
+    "am_michael": "audio/you/am_michael.m4a"
    },
    "sentences": [
     {
@@ -140,9 +132,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/and/am_michael.m4a",
-    "af_heart": "audio/and/af_heart.m4a",
-    "bf_emma": "audio/and/bf_emma.m4a"
+    "am_michael": "audio/and/am_michael.m4a"
    },
    "sentences": [
     {
@@ -175,9 +165,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/it/am_michael.m4a",
-    "af_heart": "audio/it/af_heart.m4a",
-    "bf_emma": "audio/it/bf_emma.m4a"
+    "am_michael": "audio/it/am_michael.m4a"
    },
    "sentences": [
     {
@@ -211,9 +199,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/to/am_michael.m4a",
-    "af_heart": "audio/to/af_heart.m4a",
-    "bf_emma": "audio/to/bf_emma.m4a"
+    "am_michael": "audio/to/am_michael.m4a"
    },
    "sentences": [
     {
@@ -246,9 +232,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/a/am_michael.m4a",
-    "af_heart": "audio/a/af_heart.m4a",
-    "bf_emma": "audio/a/bf_emma.m4a"
+    "am_michael": "audio/a/am_michael.m4a"
    },
    "sentences": [
     {
@@ -282,9 +266,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/have/am_michael.m4a",
-    "af_heart": "audio/have/af_heart.m4a",
-    "bf_emma": "audio/have/bf_emma.m4a"
+    "am_michael": "audio/have/am_michael.m4a"
    },
    "sentences": [
     {
@@ -317,9 +299,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/of/am_michael.m4a",
-    "af_heart": "audio/of/af_heart.m4a",
-    "bf_emma": "audio/of/bf_emma.m4a"
+    "am_michael": "audio/of/am_michael.m4a"
    },
    "sentences": [
     {
@@ -354,9 +334,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/do/am_michael.m4a",
-    "af_heart": "audio/do/af_heart.m4a",
-    "bf_emma": "audio/do/bf_emma.m4a"
+    "am_michael": "audio/do/am_michael.m4a"
    },
    "sentences": [
     {
@@ -389,9 +367,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/not/am_michael.m4a",
-    "af_heart": "audio/not/af_heart.m4a",
-    "bf_emma": "audio/not/bf_emma.m4a"
+    "am_michael": "audio/not/am_michael.m4a"
    },
    "sentences": [
     {
@@ -425,9 +401,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/that/am_michael.m4a",
-    "af_heart": "audio/that/af_heart.m4a",
-    "bf_emma": "audio/that/bf_emma.m4a"
+    "am_michael": "audio/that/am_michael.m4a"
    },
    "sentences": [
     {
@@ -461,9 +435,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/they/am_michael.m4a",
-    "af_heart": "audio/they/af_heart.m4a",
-    "bf_emma": "audio/they/bf_emma.m4a"
+    "am_michael": "audio/they/am_michael.m4a"
    },
    "sentences": [
     {
@@ -496,9 +468,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/we/am_michael.m4a",
-    "af_heart": "audio/we/af_heart.m4a",
-    "bf_emma": "audio/we/bf_emma.m4a"
+    "am_michael": "audio/we/am_michael.m4a"
    },
    "sentences": [
     {
@@ -531,9 +501,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/in/am_michael.m4a",
-    "af_heart": "audio/in/af_heart.m4a",
-    "bf_emma": "audio/in/bf_emma.m4a"
+    "am_michael": "audio/in/am_michael.m4a"
    },
    "sentences": [
     {
@@ -567,9 +535,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/he/am_michael.m4a",
-    "af_heart": "audio/he/af_heart.m4a",
-    "bf_emma": "audio/he/bf_emma.m4a"
+    "am_michael": "audio/he/am_michael.m4a"
    },
    "sentences": [
     {
@@ -602,9 +568,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/know/am_michael.m4a",
-    "af_heart": "audio/know/af_heart.m4a",
-    "bf_emma": "audio/know/bf_emma.m4a"
+    "am_michael": "audio/know/am_michael.m4a"
    },
    "sentences": [
     {
@@ -637,9 +601,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/get/am_michael.m4a",
-    "af_heart": "audio/get/af_heart.m4a",
-    "bf_emma": "audio/get/bf_emma.m4a"
+    "am_michael": "audio/get/am_michael.m4a"
    },
    "sentences": [
     {
@@ -672,9 +634,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/go/am_michael.m4a",
-    "af_heart": "audio/go/af_heart.m4a",
-    "bf_emma": "audio/go/bf_emma.m4a"
+    "am_michael": "audio/go/am_michael.m4a"
    },
    "sentences": [
     {
@@ -707,9 +667,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/so/am_michael.m4a",
-    "af_heart": "audio/so/af_heart.m4a",
-    "bf_emma": "audio/so/bf_emma.m4a"
+    "am_michael": "audio/so/am_michael.m4a"
    },
    "sentences": [
     {
@@ -742,9 +700,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/this/am_michael.m4a",
-    "af_heart": "audio/this/af_heart.m4a",
-    "bf_emma": "audio/this/bf_emma.m4a"
+    "am_michael": "audio/this/am_michael.m4a"
    },
    "sentences": [
     {
@@ -777,9 +733,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/but/am_michael.m4a",
-    "af_heart": "audio/but/af_heart.m4a",
-    "bf_emma": "audio/but/bf_emma.m4a"
+    "am_michael": "audio/but/am_michael.m4a"
    },
    "sentences": [
     {
@@ -812,9 +766,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/on/am_michael.m4a",
-    "af_heart": "audio/on/af_heart.m4a",
-    "bf_emma": "audio/on/bf_emma.m4a"
+    "am_michael": "audio/on/am_michael.m4a"
    },
    "sentences": [
     {
@@ -848,9 +800,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/i/am_michael.m4a",
-    "af_heart": "audio/i/af_heart.m4a",
-    "bf_emma": "audio/i/bf_emma.m4a"
+    "am_michael": "audio/i/am_michael.m4a"
    },
    "sentences": [
     {
@@ -883,9 +833,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/for/am_michael.m4a",
-    "af_heart": "audio/for/af_heart.m4a",
-    "bf_emma": "audio/for/bf_emma.m4a"
+    "am_michael": "audio/for/am_michael.m4a"
    },
    "sentences": [
     {
@@ -918,9 +866,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/think/am_michael.m4a",
-    "af_heart": "audio/think/af_heart.m4a",
-    "bf_emma": "audio/think/bf_emma.m4a"
+    "am_michael": "audio/think/am_michael.m4a"
    },
    "sentences": [
     {
@@ -953,9 +899,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/like/am_michael.m4a",
-    "af_heart": "audio/like/af_heart.m4a",
-    "bf_emma": "audio/like/bf_emma.m4a"
+    "am_michael": "audio/like/am_michael.m4a"
    },
    "sentences": [
     {
@@ -989,9 +933,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/there/am_michael.m4a",
-    "af_heart": "audio/there/af_heart.m4a",
-    "bf_emma": "audio/there/bf_emma.m4a"
+    "am_michael": "audio/there/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1025,9 +967,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/will/am_michael.m4a",
-    "af_heart": "audio/will/af_heart.m4a",
-    "bf_emma": "audio/will/bf_emma.m4a"
+    "am_michael": "audio/will/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1060,9 +1000,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/say/am_michael.m4a",
-    "af_heart": "audio/say/af_heart.m4a",
-    "bf_emma": "audio/say/bf_emma.m4a"
+    "am_michael": "audio/say/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1096,9 +1034,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/she/am_michael.m4a",
-    "af_heart": "audio/she/af_heart.m4a",
-    "bf_emma": "audio/she/bf_emma.m4a"
+    "am_michael": "audio/she/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1131,9 +1067,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/what/am_michael.m4a",
-    "af_heart": "audio/what/af_heart.m4a",
-    "bf_emma": "audio/what/bf_emma.m4a"
+    "am_michael": "audio/what/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1166,9 +1100,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/just/am_michael.m4a",
-    "af_heart": "audio/just/af_heart.m4a",
-    "bf_emma": "audio/just/bf_emma.m4a"
+    "am_michael": "audio/just/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1201,9 +1133,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/well/am_michael.m4a",
-    "af_heart": "audio/well/af_heart.m4a",
-    "bf_emma": "audio/well/bf_emma.m4a"
+    "am_michael": "audio/well/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1236,9 +1166,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/one/am_michael.m4a",
-    "af_heart": "audio/one/af_heart.m4a",
-    "bf_emma": "audio/one/bf_emma.m4a"
+    "am_michael": "audio/one/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1271,9 +1199,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/with/am_michael.m4a",
-    "af_heart": "audio/with/af_heart.m4a",
-    "bf_emma": "audio/with/bf_emma.m4a"
+    "am_michael": "audio/with/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1306,9 +1232,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/if/am_michael.m4a",
-    "af_heart": "audio/if/af_heart.m4a",
-    "bf_emma": "audio/if/bf_emma.m4a"
+    "am_michael": "audio/if/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1341,9 +1265,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/at/am_michael.m4a",
-    "af_heart": "audio/at/af_heart.m4a",
-    "bf_emma": "audio/at/bf_emma.m4a"
+    "am_michael": "audio/at/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1376,9 +1298,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/all/am_michael.m4a",
-    "af_heart": "audio/all/af_heart.m4a",
-    "bf_emma": "audio/all/bf_emma.m4a"
+    "am_michael": "audio/all/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1411,9 +1331,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/about/am_michael.m4a",
-    "af_heart": "audio/about/af_heart.m4a",
-    "bf_emma": "audio/about/bf_emma.m4a"
+    "am_michael": "audio/about/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1446,9 +1364,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/or/am_michael.m4a",
-    "af_heart": "audio/or/af_heart.m4a",
-    "bf_emma": "audio/or/bf_emma.m4a"
+    "am_michael": "audio/or/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1481,9 +1397,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/as/am_michael.m4a",
-    "af_heart": "audio/as/af_heart.m4a",
-    "bf_emma": "audio/as/bf_emma.m4a"
+    "am_michael": "audio/as/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1517,9 +1431,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/would/am_michael.m4a",
-    "af_heart": "audio/would/af_heart.m4a",
-    "bf_emma": "audio/would/bf_emma.m4a"
+    "am_michael": "audio/would/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1552,9 +1464,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/then/am_michael.m4a",
-    "af_heart": "audio/then/af_heart.m4a",
-    "bf_emma": "audio/then/bf_emma.m4a"
+    "am_michael": "audio/then/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1588,9 +1498,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/because/am_michael.m4a",
-    "af_heart": "audio/because/af_heart.m4a",
-    "bf_emma": "audio/because/bf_emma.m4a"
+    "am_michael": "audio/because/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1623,9 +1531,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/right/am_michael.m4a",
-    "af_heart": "audio/right/af_heart.m4a",
-    "bf_emma": "audio/right/bf_emma.m4a"
+    "am_michael": "audio/right/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1658,9 +1564,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/can/am_michael.m4a",
-    "af_heart": "audio/can/af_heart.m4a",
-    "bf_emma": "audio/can/bf_emma.m4a"
+    "am_michael": "audio/can/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1693,9 +1597,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/no/am_michael.m4a",
-    "af_heart": "audio/no/af_heart.m4a",
-    "bf_emma": "audio/no/bf_emma.m4a"
+    "am_michael": "audio/no/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1728,9 +1630,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/up/am_michael.m4a",
-    "af_heart": "audio/up/af_heart.m4a",
-    "bf_emma": "audio/up/bf_emma.m4a"
+    "am_michael": "audio/up/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1763,9 +1663,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/mean/am_michael.m4a",
-    "af_heart": "audio/mean/af_heart.m4a",
-    "bf_emma": "audio/mean/bf_emma.m4a"
+    "am_michael": "audio/mean/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1798,9 +1696,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/out/am_michael.m4a",
-    "af_heart": "audio/out/af_heart.m4a",
-    "bf_emma": "audio/out/bf_emma.m4a"
+    "am_michael": "audio/out/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1833,9 +1729,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/see/am_michael.m4a",
-    "af_heart": "audio/see/af_heart.m4a",
-    "bf_emma": "audio/see/bf_emma.m4a"
+    "am_michael": "audio/see/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1868,9 +1762,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/thing/am_michael.m4a",
-    "af_heart": "audio/thing/af_heart.m4a",
-    "bf_emma": "audio/thing/bf_emma.m4a"
+    "am_michael": "audio/thing/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1903,9 +1795,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/yes/am_michael.m4a",
-    "af_heart": "audio/yes/af_heart.m4a",
-    "bf_emma": "audio/yes/bf_emma.m4a"
+    "am_michael": "audio/yes/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1938,9 +1828,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/when/am_michael.m4a",
-    "af_heart": "audio/when/af_heart.m4a",
-    "bf_emma": "audio/when/bf_emma.m4a"
+    "am_michael": "audio/when/am_michael.m4a"
    },
    "sentences": [
     {
@@ -1973,9 +1861,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/really/am_michael.m4a",
-    "af_heart": "audio/really/af_heart.m4a",
-    "bf_emma": "audio/really/bf_emma.m4a"
+    "am_michael": "audio/really/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2008,9 +1894,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/want/am_michael.m4a",
-    "af_heart": "audio/want/af_heart.m4a",
-    "bf_emma": "audio/want/bf_emma.m4a"
+    "am_michael": "audio/want/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2043,9 +1927,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/come/am_michael.m4a",
-    "af_heart": "audio/come/af_heart.m4a",
-    "bf_emma": "audio/come/bf_emma.m4a"
+    "am_michael": "audio/come/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2078,9 +1960,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/now/am_michael.m4a",
-    "af_heart": "audio/now/af_heart.m4a",
-    "bf_emma": "audio/now/bf_emma.m4a"
+    "am_michael": "audio/now/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2113,9 +1993,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/some/am_michael.m4a",
-    "af_heart": "audio/some/af_heart.m4a",
-    "bf_emma": "audio/some/bf_emma.m4a"
+    "am_michael": "audio/some/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2148,9 +2026,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/good/am_michael.m4a",
-    "af_heart": "audio/good/af_heart.m4a",
-    "bf_emma": "audio/good/bf_emma.m4a"
+    "am_michael": "audio/good/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2183,9 +2059,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/from/am_michael.m4a",
-    "af_heart": "audio/from/af_heart.m4a",
-    "bf_emma": "audio/from/bf_emma.m4a"
+    "am_michael": "audio/from/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2218,9 +2092,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/time/am_michael.m4a",
-    "af_heart": "audio/time/af_heart.m4a",
-    "bf_emma": "audio/time/bf_emma.m4a"
+    "am_michael": "audio/time/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2253,9 +2125,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/people/am_michael.m4a",
-    "af_heart": "audio/people/af_heart.m4a",
-    "bf_emma": "audio/people/bf_emma.m4a"
+    "am_michael": "audio/people/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2288,9 +2158,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/very/am_michael.m4a",
-    "af_heart": "audio/very/af_heart.m4a",
-    "bf_emma": "audio/very/bf_emma.m4a"
+    "am_michael": "audio/very/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2324,9 +2192,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/yeah/am_michael.m4a",
-    "af_heart": "audio/yeah/af_heart.m4a",
-    "bf_emma": "audio/yeah/bf_emma.m4a"
+    "am_michael": "audio/yeah/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2359,9 +2225,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/make/am_michael.m4a",
-    "af_heart": "audio/make/af_heart.m4a",
-    "bf_emma": "audio/make/bf_emma.m4a"
+    "am_michael": "audio/make/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2394,9 +2258,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/look/am_michael.m4a",
-    "af_heart": "audio/look/af_heart.m4a",
-    "bf_emma": "audio/look/bf_emma.m4a"
+    "am_michael": "audio/look/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2431,9 +2293,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/two/am_michael.m4a",
-    "af_heart": "audio/two/af_heart.m4a",
-    "bf_emma": "audio/two/bf_emma.m4a"
+    "am_michael": "audio/two/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2466,9 +2326,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/take/am_michael.m4a",
-    "af_heart": "audio/take/af_heart.m4a",
-    "bf_emma": "audio/take/bf_emma.m4a"
+    "am_michael": "audio/take/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2502,9 +2360,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/here/am_michael.m4a",
-    "af_heart": "audio/here/af_heart.m4a",
-    "bf_emma": "audio/here/bf_emma.m4a"
+    "am_michael": "audio/here/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2537,9 +2393,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/which/am_michael.m4a",
-    "af_heart": "audio/which/af_heart.m4a",
-    "bf_emma": "audio/which/bf_emma.m4a"
+    "am_michael": "audio/which/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2572,9 +2426,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/could/am_michael.m4a",
-    "af_heart": "audio/could/af_heart.m4a",
-    "bf_emma": "audio/could/bf_emma.m4a"
+    "am_michael": "audio/could/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2608,9 +2460,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/work/am_michael.m4a",
-    "af_heart": "audio/work/af_heart.m4a",
-    "bf_emma": "audio/work/bf_emma.m4a"
+    "am_michael": "audio/work/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2643,9 +2493,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/more/am_michael.m4a",
-    "af_heart": "audio/more/af_heart.m4a",
-    "bf_emma": "audio/more/bf_emma.m4a"
+    "am_michael": "audio/more/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2678,9 +2526,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/who/am_michael.m4a",
-    "af_heart": "audio/who/af_heart.m4a",
-    "bf_emma": "audio/who/bf_emma.m4a"
+    "am_michael": "audio/who/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2713,9 +2559,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/other/am_michael.m4a",
-    "af_heart": "audio/other/af_heart.m4a",
-    "bf_emma": "audio/other/bf_emma.m4a"
+    "am_michael": "audio/other/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2748,9 +2592,7 @@
    "concrete": true,
    "image": "img/laugh.webp",
    "audio": {
-    "am_michael": "audio/laugh/am_michael.m4a",
-    "af_heart": "audio/laugh/af_heart.m4a",
-    "bf_emma": "audio/laugh/bf_emma.m4a"
+    "am_michael": "audio/laugh/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2783,9 +2625,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/where/am_michael.m4a",
-    "af_heart": "audio/where/af_heart.m4a",
-    "bf_emma": "audio/where/bf_emma.m4a"
+    "am_michael": "audio/where/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2818,9 +2658,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/use/am_michael.m4a",
-    "af_heart": "audio/use/af_heart.m4a",
-    "bf_emma": "audio/use/bf_emma.m4a"
+    "am_michael": "audio/use/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2853,9 +2691,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/something/am_michael.m4a",
-    "af_heart": "audio/something/af_heart.m4a",
-    "bf_emma": "audio/something/bf_emma.m4a"
+    "am_michael": "audio/something/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2888,9 +2724,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/how/am_michael.m4a",
-    "af_heart": "audio/how/af_heart.m4a",
-    "bf_emma": "audio/how/bf_emma.m4a"
+    "am_michael": "audio/how/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2923,9 +2757,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/back/am_michael.m4a",
-    "af_heart": "audio/back/af_heart.m4a",
-    "bf_emma": "audio/back/bf_emma.m4a"
+    "am_michael": "audio/back/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2958,9 +2790,7 @@
    "concrete": true,
    "image": "img/year.webp",
    "audio": {
-    "am_michael": "audio/year/am_michael.m4a",
-    "af_heart": "audio/year/af_heart.m4a",
-    "bf_emma": "audio/year/bf_emma.m4a"
+    "am_michael": "audio/year/am_michael.m4a"
    },
    "sentences": [
     {
@@ -2993,9 +2823,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/by/am_michael.m4a",
-    "af_heart": "audio/by/af_heart.m4a",
-    "bf_emma": "audio/by/bf_emma.m4a"
+    "am_michael": "audio/by/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3028,9 +2856,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/any/am_michael.m4a",
-    "af_heart": "audio/any/af_heart.m4a",
-    "bf_emma": "audio/any/bf_emma.m4a"
+    "am_michael": "audio/any/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3063,9 +2889,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/lot/am_michael.m4a",
-    "af_heart": "audio/lot/af_heart.m4a",
-    "bf_emma": "audio/lot/bf_emma.m4a"
+    "am_michael": "audio/lot/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3098,9 +2922,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/way/am_michael.m4a",
-    "af_heart": "audio/way/af_heart.m4a",
-    "bf_emma": "audio/way/bf_emma.m4a"
+    "am_michael": "audio/way/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3133,9 +2955,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/put/am_michael.m4a",
-    "af_heart": "audio/put/af_heart.m4a",
-    "bf_emma": "audio/put/bf_emma.m4a"
+    "am_michael": "audio/put/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3168,9 +2988,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/down/am_michael.m4a",
-    "af_heart": "audio/down/af_heart.m4a",
-    "bf_emma": "audio/down/bf_emma.m4a"
+    "am_michael": "audio/down/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3203,9 +3021,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/give/am_michael.m4a",
-    "af_heart": "audio/give/af_heart.m4a",
-    "bf_emma": "audio/give/bf_emma.m4a"
+    "am_michael": "audio/give/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3238,9 +3054,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/sort/am_michael.m4a",
-    "af_heart": "audio/sort/af_heart.m4a",
-    "bf_emma": "audio/sort/bf_emma.m4a"
+    "am_michael": "audio/sort/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3274,9 +3088,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/three/am_michael.m4a",
-    "af_heart": "audio/three/af_heart.m4a",
-    "bf_emma": "audio/three/bf_emma.m4a"
+    "am_michael": "audio/three/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3309,9 +3121,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/much/am_michael.m4a",
-    "af_heart": "audio/much/af_heart.m4a",
-    "bf_emma": "audio/much/bf_emma.m4a"
+    "am_michael": "audio/much/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3344,9 +3154,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/actually/am_michael.m4a",
-    "af_heart": "audio/actually/af_heart.m4a",
-    "bf_emma": "audio/actually/bf_emma.m4a"
+    "am_michael": "audio/actually/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3379,9 +3187,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/need/am_michael.m4a",
-    "af_heart": "audio/need/af_heart.m4a",
-    "bf_emma": "audio/need/bf_emma.m4a"
+    "am_michael": "audio/need/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3414,9 +3220,7 @@
    "concrete": true,
    "image": "img/talk.webp",
    "audio": {
-    "am_michael": "audio/talk/am_michael.m4a",
-    "af_heart": "audio/talk/af_heart.m4a",
-    "bf_emma": "audio/talk/bf_emma.m4a"
+    "am_michael": "audio/talk/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3450,9 +3254,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/kind/am_michael.m4a",
-    "af_heart": "audio/kind/af_heart.m4a",
-    "bf_emma": "audio/kind/bf_emma.m4a"
+    "am_michael": "audio/kind/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3485,9 +3287,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/tell/am_michael.m4a",
-    "af_heart": "audio/tell/af_heart.m4a",
-    "bf_emma": "audio/tell/bf_emma.m4a"
+    "am_michael": "audio/tell/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3520,9 +3320,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/only/am_michael.m4a",
-    "af_heart": "audio/only/af_heart.m4a",
-    "bf_emma": "audio/only/bf_emma.m4a"
+    "am_michael": "audio/only/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3555,9 +3353,7 @@
    "concrete": true,
    "image": "img/water.webp",
    "audio": {
-    "am_michael": "audio/water/am_michael.m4a",
-    "af_heart": "audio/water/af_heart.m4a",
-    "bf_emma": "audio/water/bf_emma.m4a"
+    "am_michael": "audio/water/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3590,9 +3386,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/meeting/am_michael.m4a",
-    "af_heart": "audio/meeting/af_heart.m4a",
-    "bf_emma": "audio/meeting/bf_emma.m4a"
+    "am_michael": "audio/meeting/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3628,9 +3422,7 @@
    "concrete": true,
    "image": "img/phone.webp",
    "audio": {
-    "am_michael": "audio/phone/am_michael.m4a",
-    "af_heart": "audio/phone/af_heart.m4a",
-    "bf_emma": "audio/phone/bf_emma.m4a"
+    "am_michael": "audio/phone/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3663,9 +3455,7 @@
    "concrete": true,
    "image": "img/coffee.webp",
    "audio": {
-    "am_michael": "audio/coffee/am_michael.m4a",
-    "af_heart": "audio/coffee/af_heart.m4a",
-    "bf_emma": "audio/coffee/bf_emma.m4a"
+    "am_michael": "audio/coffee/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3699,9 +3489,7 @@
    "concrete": true,
    "image": "img/house.webp",
    "audio": {
-    "am_michael": "audio/house/am_michael.m4a",
-    "af_heart": "audio/house/af_heart.m4a",
-    "bf_emma": "audio/house/bf_emma.m4a"
+    "am_michael": "audio/house/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3734,9 +3522,7 @@
    "concrete": true,
    "image": "img/car.webp",
    "audio": {
-    "am_michael": "audio/car/am_michael.m4a",
-    "af_heart": "audio/car/af_heart.m4a",
-    "bf_emma": "audio/car/bf_emma.m4a"
+    "am_michael": "audio/car/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3769,9 +3555,7 @@
    "concrete": true,
    "image": "img/money.webp",
    "audio": {
-    "am_michael": "audio/money/am_michael.m4a",
-    "af_heart": "audio/money/af_heart.m4a",
-    "bf_emma": "audio/money/bf_emma.m4a"
+    "am_michael": "audio/money/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3804,9 +3588,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/friend/am_michael.m4a",
-    "af_heart": "audio/friend/af_heart.m4a",
-    "bf_emma": "audio/friend/bf_emma.m4a"
+    "am_michael": "audio/friend/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3840,9 +3622,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/thank-you/am_michael.m4a",
-    "af_heart": "audio/thank-you/af_heart.m4a",
-    "bf_emma": "audio/thank-you/bf_emma.m4a"
+    "am_michael": "audio/thank-you/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3875,9 +3655,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/morning/am_michael.m4a",
-    "af_heart": "audio/morning/af_heart.m4a",
-    "bf_emma": "audio/morning/bf_emma.m4a"
+    "am_michael": "audio/morning/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3910,9 +3688,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/family/am_michael.m4a",
-    "af_heart": "audio/family/af_heart.m4a",
-    "bf_emma": "audio/family/bf_emma.m4a"
+    "am_michael": "audio/family/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3945,9 +3721,7 @@
    "concrete": true,
    "image": "img/food.webp",
    "audio": {
-    "am_michael": "audio/food/am_michael.m4a",
-    "af_heart": "audio/food/af_heart.m4a",
-    "bf_emma": "audio/food/bf_emma.m4a"
+    "am_michael": "audio/food/am_michael.m4a"
    },
    "sentences": [
     {
@@ -3980,9 +3754,7 @@
    "concrete": true,
    "image": "img/book.webp",
    "audio": {
-    "am_michael": "audio/book/am_michael.m4a",
-    "af_heart": "audio/book/af_heart.m4a",
-    "bf_emma": "audio/book/bf_emma.m4a"
+    "am_michael": "audio/book/am_michael.m4a"
    },
    "sentences": [
     {
@@ -4015,9 +3787,7 @@
    "concrete": true,
    "image": "img/dog.webp",
    "audio": {
-    "am_michael": "audio/dog/am_michael.m4a",
-    "af_heart": "audio/dog/af_heart.m4a",
-    "bf_emma": "audio/dog/bf_emma.m4a"
+    "am_michael": "audio/dog/am_michael.m4a"
    },
    "sentences": [
     {
@@ -4050,9 +3820,7 @@
    "concrete": true,
    "image": "img/door.webp",
    "audio": {
-    "am_michael": "audio/door/am_michael.m4a",
-    "af_heart": "audio/door/af_heart.m4a",
-    "bf_emma": "audio/door/bf_emma.m4a"
+    "am_michael": "audio/door/am_michael.m4a"
    },
    "sentences": [
     {
@@ -4085,9 +3853,7 @@
    "concrete": false,
    "image": null,
    "audio": {
-    "am_michael": "audio/happy/am_michael.m4a",
-    "af_heart": "audio/happy/af_heart.m4a",
-    "bf_emma": "audio/happy/bf_emma.m4a"
+    "am_michael": "audio/happy/am_michael.m4a"
    },
    "sentences": [
     {
@@ -4103,6 +3869,1224 @@
      "audio": "audio/happy/s2.m4a"
     }
    ]
+  },
+  {
+   "id": "ngsl-spoken:okay",
+   "rank": 111,
+   "lemma": "okay",
+   "headword": "okay",
+   "ipa": "oʊˈkeɪ",
+   "translation": {
+    "pt": "tudo bem / ok"
+   },
+   "accepted": [
+    "okay",
+    "OK"
+   ],
+   "ptbr_hint": "ôukêi",
+   "concrete": true,
+   "image": "img/okay.webp",
+   "audio": {
+    "am_michael": "audio/okay/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Okay, let's go.",
+     "pt": "Ok, vamos.",
+     "cloze": "___, let's go.",
+     "audio": "audio/okay/s1.m4a"
+    },
+    {
+     "en": "Are you okay?",
+     "pt": "Você está bem?",
+     "cloze": "Are you ___?",
+     "audio": "audio/okay/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:dad",
+   "rank": 381,
+   "lemma": "dad",
+   "headword": "dad",
+   "ipa": "dæd",
+   "translation": {
+    "pt": "pai"
+   },
+   "accepted": [
+    "dad",
+    "daddy"
+   ],
+   "ptbr_hint": "déd",
+   "concrete": true,
+   "image": "img/dad.webp",
+   "audio": {
+    "am_michael": "audio/dad/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "My dad is at work.",
+     "pt": "Meu pai está no trabalho.",
+     "cloze": "My ___ is at work.",
+     "audio": "audio/dad/s1.m4a"
+    },
+    {
+     "en": "Dad, can you help me?",
+     "pt": "Pai, você pode me ajudar?",
+     "cloze": "___, can you help me?",
+     "audio": "audio/dad/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:mom",
+   "rank": 1001,
+   "lemma": "mom",
+   "headword": "mom",
+   "ipa": "mɑm",
+   "translation": {
+    "pt": "mãe"
+   },
+   "accepted": [
+    "mom",
+    "mommy",
+    "mum"
+   ],
+   "ptbr_hint": "mám",
+   "concrete": true,
+   "image": "img/mom.webp",
+   "audio": {
+    "am_michael": "audio/mom/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "My mom likes coffee.",
+     "pt": "Minha mãe gosta de café.",
+     "cloze": "My ___ likes coffee.",
+     "audio": "audio/mom/s1.m4a"
+    },
+    {
+     "en": "Mom, I am home!",
+     "pt": "Mãe, cheguei em casa!",
+     "cloze": "___, I am home!",
+     "audio": "audio/mom/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:baby",
+   "rank": 531,
+   "lemma": "baby",
+   "headword": "baby",
+   "ipa": "ˈbeɪbi",
+   "translation": {
+    "pt": "bebê"
+   },
+   "accepted": [
+    "baby"
+   ],
+   "ptbr_hint": "bêibi",
+   "concrete": true,
+   "image": "img/baby.webp",
+   "audio": {
+    "am_michael": "audio/baby/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "The baby is very small.",
+     "pt": "O bebê é bem pequeno.",
+     "cloze": "The ___ is very small.",
+     "audio": "audio/baby/s1.m4a"
+    },
+    {
+     "en": "We have a baby now.",
+     "pt": "Agora a gente tem um bebê.",
+     "cloze": "We have a ___ now.",
+     "audio": "audio/baby/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:little",
+   "rank": 105,
+   "lemma": "little",
+   "headword": "little",
+   "ipa": "ˈlɪtəl",
+   "translation": {
+    "pt": "pequeno / um pouco"
+   },
+   "accepted": [
+    "little",
+    "a little"
+   ],
+   "ptbr_hint": "lírou",
+   "concrete": true,
+   "image": "img/little.webp",
+   "audio": {
+    "am_michael": "audio/little/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I have a little dog.",
+     "pt": "Eu tenho um cachorrinho.",
+     "cloze": "I have a ___ dog.",
+     "audio": "audio/little/s1.m4a"
+    },
+    {
+     "en": "Wait a little, please.",
+     "pt": "Espera um pouco, por favor.",
+     "cloze": "Wait a ___, please.",
+     "audio": "audio/little/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:stop",
+   "rank": 292,
+   "lemma": "stop",
+   "headword": "stop",
+   "ipa": "stɑp",
+   "translation": {
+    "pt": "parar / pare"
+   },
+   "accepted": [
+    "stop"
+   ],
+   "ptbr_hint": "stóp",
+   "concrete": true,
+   "image": "img/stop.webp",
+   "audio": {
+    "am_michael": "audio/stop/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Stop, please!",
+     "pt": "Pare, por favor!",
+     "cloze": "___, please!",
+     "audio": "audio/stop/s1.m4a"
+    },
+    {
+     "en": "The bus stops here.",
+     "pt": "O ônibus para aqui.",
+     "cloze": "The bus ___ here.",
+     "audio": "audio/stop/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:first",
+   "rank": 113,
+   "lemma": "first",
+   "headword": "first",
+   "ipa": "fɝst",
+   "translation": {
+    "pt": "primeiro"
+   },
+   "accepted": [
+    "first"
+   ],
+   "ptbr_hint": "fârst",
+   "concrete": true,
+   "image": "img/first.webp",
+   "audio": {
+    "am_michael": "audio/first/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "This is my first day.",
+     "pt": "Este é o meu primeiro dia.",
+     "cloze": "This is my ___ day.",
+     "audio": "audio/first/s1.m4a"
+    },
+    {
+     "en": "You go first.",
+     "pt": "Vai você primeiro.",
+     "cloze": "You go ___.",
+     "audio": "audio/first/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:sorry",
+   "rank": 254,
+   "lemma": "sorry",
+   "headword": "sorry",
+   "ipa": "ˈsɑri",
+   "translation": {
+    "pt": "desculpa"
+   },
+   "accepted": [
+    "sorry",
+    "I'm sorry"
+   ],
+   "ptbr_hint": "sóri",
+   "concrete": true,
+   "image": "img/sorry.webp",
+   "audio": {
+    "am_michael": "audio/sorry/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Sorry, I'm late.",
+     "pt": "Desculpa, estou atrasado.",
+     "cloze": "___, I'm late.",
+     "audio": "audio/sorry/s1.m4a"
+    },
+    {
+     "en": "I am so sorry.",
+     "pt": "Sinto muito.",
+     "cloze": "I am so ___.",
+     "audio": "audio/sorry/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:love",
+   "rank": 267,
+   "lemma": "love",
+   "headword": "love",
+   "ipa": "lʌv",
+   "translation": {
+    "pt": "amar / amor"
+   },
+   "accepted": [
+    "love"
+   ],
+   "ptbr_hint": "lâv",
+   "concrete": true,
+   "image": "img/love.webp",
+   "audio": {
+    "am_michael": "audio/love/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I love pizza.",
+     "pt": "Eu amo pizza.",
+     "cloze": "I ___ pizza.",
+     "audio": "audio/love/s1.m4a"
+    },
+    {
+     "en": "We love this song.",
+     "pt": "A gente ama essa música.",
+     "cloze": "We ___ this song.",
+     "audio": "audio/love/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:kid",
+   "rank": 180,
+   "lemma": "kids",
+   "headword": "kid",
+   "ipa": "kɪdz",
+   "translation": {
+    "pt": "crianças / filhos"
+   },
+   "accepted": [
+    "kids",
+    "kid"
+   ],
+   "ptbr_hint": "kids",
+   "concrete": true,
+   "image": "img/kid.webp",
+   "audio": {
+    "am_michael": "audio/kid/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "My kids are at school.",
+     "pt": "Meus filhos estão na escola.",
+     "cloze": "My ___ are at school.",
+     "audio": "audio/kid/s1.m4a"
+    },
+    {
+     "en": "The kids like music.",
+     "pt": "As crianças gostam de música.",
+     "cloze": "The ___ like music.",
+     "audio": "audio/kid/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:bad",
+   "rank": 206,
+   "lemma": "bad",
+   "headword": "bad",
+   "ipa": "bæd",
+   "translation": {
+    "pt": "ruim"
+   },
+   "accepted": [
+    "bad"
+   ],
+   "ptbr_hint": "béd",
+   "concrete": true,
+   "image": "img/bad.webp",
+   "audio": {
+    "am_michael": "audio/bad/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "This coffee is bad.",
+     "pt": "Esse café está ruim.",
+     "cloze": "This coffee is ___.",
+     "audio": "audio/bad/s1.m4a"
+    },
+    {
+     "en": "It is not so bad.",
+     "pt": "Não é tão ruim.",
+     "cloze": "It is not so ___.",
+     "audio": "audio/bad/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:cool",
+   "rank": 611,
+   "lemma": "cool",
+   "headword": "cool",
+   "ipa": "kul",
+   "translation": {
+    "pt": "legal / maneiro"
+   },
+   "accepted": [
+    "cool"
+   ],
+   "ptbr_hint": "kúl",
+   "concrete": true,
+   "image": "img/cool.webp",
+   "audio": {
+    "am_michael": "audio/cool/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Your car is so cool!",
+     "pt": "Seu carro é muito legal!",
+     "cloze": "Your car is so ___!",
+     "audio": "audio/cool/s1.m4a"
+    },
+    {
+     "en": "Cool, see you later.",
+     "pt": "Legal, até mais.",
+     "cloze": "___, see you later.",
+     "audio": "audio/cool/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:old",
+   "rank": 171,
+   "lemma": "old",
+   "headword": "old",
+   "ipa": "oʊld",
+   "translation": {
+    "pt": "velho / antigo"
+   },
+   "accepted": [
+    "old"
+   ],
+   "ptbr_hint": "ôuld",
+   "concrete": true,
+   "image": "img/old.webp",
+   "audio": {
+    "am_michael": "audio/old/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "This phone is old.",
+     "pt": "Esse celular é velho.",
+     "cloze": "This phone is ___.",
+     "audio": "audio/old/s1.m4a"
+    },
+    {
+     "en": "How old are you?",
+     "pt": "Quantos anos você tem?",
+     "cloze": "How ___ are you?",
+     "audio": "audio/old/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:still",
+   "rank": 123,
+   "lemma": "still",
+   "headword": "still",
+   "ipa": "stɪl",
+   "translation": {
+    "pt": "ainda"
+   },
+   "accepted": [
+    "still"
+   ],
+   "ptbr_hint": "stiu",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/still/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I still love you.",
+     "pt": "Eu ainda te amo.",
+     "cloze": "I ___ love you.",
+     "audio": "audio/still/s1.m4a"
+    },
+    {
+     "en": "Are you still here?",
+     "pt": "Você ainda está aqui?",
+     "cloze": "Are you ___ here?",
+     "audio": "audio/still/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:always",
+   "rank": 146,
+   "lemma": "always",
+   "headword": "always",
+   "ipa": "ˈɔlweɪz",
+   "translation": {
+    "pt": "sempre"
+   },
+   "accepted": [
+    "always"
+   ],
+   "ptbr_hint": "óuuêis",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/always/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I always drink coffee.",
+     "pt": "Eu sempre tomo café.",
+     "cloze": "I ___ drink coffee.",
+     "audio": "audio/always/s1.m4a"
+    },
+    {
+     "en": "She is always late.",
+     "pt": "Ela está sempre atrasada.",
+     "cloze": "She is ___ late.",
+     "audio": "audio/always/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:nothing",
+   "rank": 257,
+   "lemma": "nothing",
+   "headword": "nothing",
+   "ipa": "ˈnʌθɪŋ",
+   "translation": {
+    "pt": "nada"
+   },
+   "accepted": [
+    "nothing"
+   ],
+   "ptbr_hint": "nâfin",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/nothing/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "There is nothing here.",
+     "pt": "Não tem nada aqui.",
+     "cloze": "There is ___ here.",
+     "audio": "audio/nothing/s1.m4a"
+    },
+    {
+     "en": "I want nothing, thanks.",
+     "pt": "Não quero nada, obrigado.",
+     "cloze": "I want ___, thanks.",
+     "audio": "audio/nothing/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:nice",
+   "rank": 152,
+   "lemma": "nice",
+   "headword": "nice",
+   "ipa": "naɪs",
+   "translation": {
+    "pt": "legal / bonito / gentil"
+   },
+   "accepted": [
+    "nice"
+   ],
+   "ptbr_hint": "náis",
+   "concrete": true,
+   "image": "img/nice.webp",
+   "audio": {
+    "am_michael": "audio/nice/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Nice to meet you.",
+     "pt": "Prazer em te conhecer.",
+     "cloze": "___ to meet you.",
+     "audio": "audio/nice/s1.m4a"
+    },
+    {
+     "en": "What a nice house!",
+     "pt": "Que casa bonita!",
+     "cloze": "What a ___ house!",
+     "audio": "audio/nice/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:husband",
+   "rank": 575,
+   "lemma": "husband",
+   "headword": "husband",
+   "ipa": "ˈhʌzbənd",
+   "translation": {
+    "pt": "marido"
+   },
+   "accepted": [
+    "husband"
+   ],
+   "ptbr_hint": "râzbând",
+   "concrete": true,
+   "image": "img/husband.webp",
+   "audio": {
+    "am_michael": "audio/husband/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "My husband is a teacher.",
+     "pt": "Meu marido é professor.",
+     "cloze": "My ___ is a teacher.",
+     "audio": "audio/husband/s1.m4a"
+    },
+    {
+     "en": "Her husband works here.",
+     "pt": "O marido dela trabalha aqui.",
+     "cloze": "Her ___ works here.",
+     "audio": "audio/husband/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:school",
+   "rank": 147,
+   "lemma": "school",
+   "headword": "school",
+   "ipa": "skul",
+   "translation": {
+    "pt": "escola"
+   },
+   "accepted": [
+    "school"
+   ],
+   "ptbr_hint": "skúl",
+   "concrete": true,
+   "image": "img/school.webp",
+   "audio": {
+    "am_michael": "audio/school/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "The kids go to school.",
+     "pt": "As crianças vão para a escola.",
+     "cloze": "The kids go to ___.",
+     "audio": "audio/school/s1.m4a"
+    },
+    {
+     "en": "Is your school near?",
+     "pt": "Sua escola é perto?",
+     "cloze": "Is your ___ near?",
+     "audio": "audio/school/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:together",
+   "rank": 270,
+   "lemma": "together",
+   "headword": "together",
+   "ipa": "təˈɡɛðɚ",
+   "translation": {
+    "pt": "juntos"
+   },
+   "accepted": [
+    "together"
+   ],
+   "ptbr_hint": "tuguéder",
+   "concrete": true,
+   "image": "img/together.webp",
+   "audio": {
+    "am_michael": "audio/together/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Let's go together.",
+     "pt": "Vamos juntos.",
+     "cloze": "Let's go ___.",
+     "audio": "audio/together/s1.m4a"
+    },
+    {
+     "en": "We live together.",
+     "pt": "A gente mora junto.",
+     "cloze": "We live ___.",
+     "audio": "audio/together/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:you-know",
+   "rank": 1002,
+   "lemma": "you know",
+   "headword": "you know",
+   "ipa": "ju noʊ",
+   "translation": {
+    "pt": "sabe? / tipo assim"
+   },
+   "accepted": [
+    "you know",
+    "y'know"
+   ],
+   "ptbr_hint": "iú nôu",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/you-know/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "It was, you know, fun.",
+     "pt": "Foi, sabe, divertido.",
+     "cloze": "It was, ___, fun.",
+     "audio": "audio/you-know/s1.m4a"
+    },
+    {
+     "en": "You know, I like it.",
+     "pt": "Sabe, eu gosto disso.",
+     "cloze": "___, I like it.",
+     "audio": "audio/you-know/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:i-know",
+   "rank": 1003,
+   "lemma": "I know",
+   "headword": "I know",
+   "ipa": "aɪ noʊ",
+   "translation": {
+    "pt": "eu sei"
+   },
+   "accepted": [
+    "I know"
+   ],
+   "ptbr_hint": "ai nôu",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/i-know/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Yes, I know.",
+     "pt": "Sim, eu sei.",
+     "cloze": "Yes, ___.",
+     "audio": "audio/i-know/s1.m4a"
+    },
+    {
+     "en": "I know, I know.",
+     "pt": "Eu sei, eu sei.",
+     "cloze": "___, I know.",
+     "audio": "audio/i-know/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:come-on",
+   "rank": 1004,
+   "lemma": "come on",
+   "headword": "come on",
+   "ipa": "kʌm ɑn",
+   "translation": {
+    "pt": "vamos! / ah, qual é"
+   },
+   "accepted": [
+    "come on",
+    "c'mon"
+   ],
+   "ptbr_hint": "kâm ón",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/come-on/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Come on, let's go!",
+     "pt": "Vamos, bora!",
+     "cloze": "___, let's go!",
+     "audio": "audio/come-on/s1.m4a"
+    },
+    {
+     "en": "Oh, come on!",
+     "pt": "Ah, qual é!",
+     "cloze": "Oh, ___!",
+     "audio": "audio/come-on/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:you-guys",
+   "rank": 1005,
+   "lemma": "you guys",
+   "headword": "you guys",
+   "ipa": "ju ɡaɪz",
+   "translation": {
+    "pt": "vocês / pessoal"
+   },
+   "accepted": [
+    "you guys"
+   ],
+   "ptbr_hint": "iú gáis",
+   "concrete": true,
+   "image": "img/you-guys.webp",
+   "audio": {
+    "am_michael": "audio/you-guys/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Are you guys okay?",
+     "pt": "Vocês estão bem?",
+     "cloze": "Are ___ okay?",
+     "audio": "audio/you-guys/s1.m4a"
+    },
+    {
+     "en": "Thank you, you guys.",
+     "pt": "Obrigado, pessoal.",
+     "cloze": "Thank you, ___.",
+     "audio": "audio/you-guys/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:i-got-it",
+   "rank": 1006,
+   "lemma": "I got it",
+   "headword": "I got it",
+   "ipa": "aɪ ɡɑt ɪt",
+   "translation": {
+    "pt": "entendi / deixa comigo"
+   },
+   "accepted": [
+    "I got it",
+    "got it"
+   ],
+   "ptbr_hint": "ai gót it",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/i-got-it/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Okay, I got it.",
+     "pt": "Ok, entendi.",
+     "cloze": "Okay, ___.",
+     "audio": "audio/i-got-it/s1.m4a"
+    },
+    {
+     "en": "Don't worry, I got it.",
+     "pt": "Relaxa, deixa comigo.",
+     "cloze": "Don't worry, ___.",
+     "audio": "audio/i-got-it/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:excuse-me",
+   "rank": 1007,
+   "lemma": "excuse me",
+   "headword": "excuse me",
+   "ipa": "ɪkskˈjus mi",
+   "translation": {
+    "pt": "com licença / desculpa"
+   },
+   "accepted": [
+    "excuse me"
+   ],
+   "ptbr_hint": "ikskiúz mi",
+   "concrete": true,
+   "image": "img/excuse-me.webp",
+   "audio": {
+    "am_michael": "audio/excuse-me/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Excuse me, where is the bus?",
+     "pt": "Com licença, onde fica o ônibus?",
+     "cloze": "___, where is the bus?",
+     "audio": "audio/excuse-me/s1.m4a"
+    },
+    {
+     "en": "Excuse me, is this yours?",
+     "pt": "Com licença, isso é seu?",
+     "cloze": "___, is this yours?",
+     "audio": "audio/excuse-me/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:are-you-kidding",
+   "rank": 1008,
+   "lemma": "are you kidding?",
+   "headword": "are you kidding",
+   "ipa": "ɑr ju ˈkɪdɪŋ",
+   "translation": {
+    "pt": "tá brincando?"
+   },
+   "accepted": [
+    "are you kidding",
+    "are you kidding me",
+    "you kidding"
+   ],
+   "ptbr_hint": "ár iú kíding",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/are-you-kidding/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Are you kidding? That is so good!",
+     "pt": "Tá brincando? Isso é muito bom!",
+     "cloze": "___? That is so good!",
+     "audio": "audio/are-you-kidding/s1.m4a"
+    },
+    {
+     "en": "Are you kidding me?",
+     "pt": "Você tá de brincadeira comigo?",
+     "cloze": "___ me?",
+     "audio": "audio/are-you-kidding/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:don-t-worry",
+   "rank": 1009,
+   "lemma": "don't worry",
+   "headword": "don't worry",
+   "ipa": "doʊnt ˈwɝi",
+   "translation": {
+    "pt": "não se preocupe / relaxa"
+   },
+   "accepted": [
+    "don't worry",
+    "do not worry"
+   ],
+   "ptbr_hint": "dôunt uóri",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/don-t-worry/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Don't worry, I'm here.",
+     "pt": "Relaxa, estou aqui.",
+     "cloze": "___, I'm here.",
+     "audio": "audio/don-t-worry/s1.m4a"
+    },
+    {
+     "en": "Don't worry about it.",
+     "pt": "Não se preocupe com isso.",
+     "cloze": "___ about it.",
+     "audio": "audio/don-t-worry/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:i-m-gonna",
+   "rank": 1010,
+   "lemma": "I'm gonna",
+   "headword": "I'm gonna",
+   "ipa": "aɪm ˈɡɑnə",
+   "translation": {
+    "pt": "eu vou (fazer)"
+   },
+   "accepted": [
+    "I'm gonna",
+    "I'm going to",
+    "I am going to"
+   ],
+   "ptbr_hint": "áim gâna",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/i-m-gonna/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I'm gonna sleep now.",
+     "pt": "Eu vou dormir agora.",
+     "cloze": "___ sleep now.",
+     "audio": "audio/i-m-gonna/s1.m4a"
+    },
+    {
+     "en": "I'm gonna call you.",
+     "pt": "Eu vou te ligar.",
+     "cloze": "___ call you.",
+     "audio": "audio/i-m-gonna/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  },
+  {
+   "id": "ngsl-spoken:i-m-not-sure",
+   "rank": 1011,
+   "lemma": "I'm not sure",
+   "headword": "I'm not sure",
+   "ipa": "aɪm nɑt ʃʊr",
+   "translation": {
+    "pt": "não tenho certeza"
+   },
+   "accepted": [
+    "I'm not sure",
+    "I am not sure"
+   ],
+   "ptbr_hint": "áim nót xúr",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/i-m-not-sure/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I'm not sure, sorry.",
+     "pt": "Não tenho certeza, desculpa.",
+     "cloze": "___, sorry.",
+     "audio": "audio/i-m-not-sure/s1.m4a"
+    },
+    {
+     "en": "I'm not sure it is here.",
+     "pt": "Não tenho certeza se está aqui.",
+     "cloze": "___ it is here.",
+     "audio": "audio/i-m-not-sure/s2.m4a"
+    }
+   ],
+   "deck": "mf-s01e01"
+  }
+ ],
+ "episodes": [
+  {
+   "id": "mf-s01e01",
+   "show": "Modern Family",
+   "season": 1,
+   "episode": 1,
+   "title": "Pilot",
+   "tokens": 3147,
+   "weights": {
+    "ngsl-spoken:okay": 18,
+    "ngsl-spoken:dad": 19,
+    "ngsl-spoken:mom": 9,
+    "ngsl-spoken:baby": 10,
+    "ngsl-spoken:little": 10,
+    "ngsl-spoken:stop": 9,
+    "ngsl-spoken:first": 8,
+    "ngsl-spoken:sorry": 7,
+    "ngsl-spoken:love": 7,
+    "ngsl-spoken:kid": 6,
+    "ngsl-spoken:bad": 6,
+    "ngsl-spoken:cool": 5,
+    "ngsl-spoken:old": 5,
+    "ngsl-spoken:still": 5,
+    "ngsl-spoken:always": 4,
+    "ngsl-spoken:nothing": 4,
+    "ngsl-spoken:nice": 4,
+    "ngsl-spoken:husband": 3,
+    "ngsl-spoken:school": 3,
+    "ngsl-spoken:together": 3,
+    "ngsl-spoken:you-know": 9,
+    "ngsl-spoken:i-know": 12,
+    "ngsl-spoken:come-on": 6,
+    "ngsl-spoken:you-guys": 4,
+    "ngsl-spoken:i-got-it": 3,
+    "ngsl-spoken:excuse-me": 3,
+    "ngsl-spoken:are-you-kidding": 4,
+    "ngsl-spoken:don-t-worry": 4,
+    "ngsl-spoken:i-m-gonna": 16,
+    "ngsl-spoken:i-m-not-sure": 2,
+    "ngsl-spoken:i": 92,
+    "ngsl-spoken:a": 79,
+    "ngsl-spoken:about": 13,
+    "ngsl-spoken:actually": 4,
+    "ngsl-spoken:all": 14,
+    "ngsl-spoken:and": 45,
+    "ngsl-spoken:any": 2,
+    "ngsl-spoken:as": 4,
+    "ngsl-spoken:at": 11,
+    "ngsl-spoken:back": 5,
+    "ngsl-spoken:be": 264,
+    "ngsl-spoken:because": 5,
+    "ngsl-spoken:book": 2,
+    "ngsl-spoken:but": 20,
+    "ngsl-spoken:by": 4,
+    "ngsl-spoken:can": 14,
+    "ngsl-spoken:car": 2,
+    "ngsl-spoken:come": 15,
+    "ngsl-spoken:could": 3,
+    "ngsl-spoken:do": 64,
+    "ngsl-spoken:dog": 1,
+    "ngsl-spoken:door": 1,
+    "ngsl-spoken:down": 6,
+    "ngsl-spoken:family": 6,
+    "ngsl-spoken:for": 24,
+    "ngsl-spoken:friend": 6,
+    "ngsl-spoken:from": 9,
+    "ngsl-spoken:get": 28,
+    "ngsl-spoken:give": 6,
+    "ngsl-spoken:go": 31,
+    "ngsl-spoken:good": 8,
+    "ngsl-spoken:happy": 1,
+    "ngsl-spoken:have": 37,
+    "ngsl-spoken:he": 14,
+    "ngsl-spoken:here": 15,
+    "ngsl-spoken:house": 2,
+    "ngsl-spoken:how": 8,
+    "ngsl-spoken:if": 16,
+    "ngsl-spoken:in": 26,
+    "ngsl-spoken:it": 48,
+    "ngsl-spoken:just": 29,
+    "ngsl-spoken:kind": 1,
+    "ngsl-spoken:know": 30,
+    "ngsl-spoken:laugh": 1,
+    "ngsl-spoken:like": 19,
+    "ngsl-spoken:look": 4,
+    "ngsl-spoken:make": 6,
+    "ngsl-spoken:mean": 9,
+    "ngsl-spoken:money": 1,
+    "ngsl-spoken:more": 2,
+    "ngsl-spoken:need": 11,
+    "ngsl-spoken:no": 28,
+    "ngsl-spoken:not": 31,
+    "ngsl-spoken:now": 10,
+    "ngsl-spoken:of": 20,
+    "ngsl-spoken:on": 26,
+    "ngsl-spoken:one": 14,
+    "ngsl-spoken:only": 5,
+    "ngsl-spoken:or": 2,
+    "ngsl-spoken:other": 1,
+    "ngsl-spoken:out": 15,
+    "ngsl-spoken:people": 3,
+    "ngsl-spoken:put": 2,
+    "ngsl-spoken:really": 7,
+    "ngsl-spoken:right": 13,
+    "ngsl-spoken:say": 20,
+    "ngsl-spoken:see": 8,
+    "ngsl-spoken:she": 13,
+    "ngsl-spoken:so": 19,
+    "ngsl-spoken:some": 5,
+    "ngsl-spoken:something": 4,
+    "ngsl-spoken:sort": 2,
+    "ngsl-spoken:take": 8,
+    "ngsl-spoken:talk": 3,
+    "ngsl-spoken:tell": 10,
+    "ngsl-spoken:thank-you": 10,
+    "ngsl-spoken:that": 48,
+    "ngsl-spoken:the": 61,
+    "ngsl-spoken:then": 5,
+    "ngsl-spoken:there": 10,
+    "ngsl-spoken:they": 2,
+    "ngsl-spoken:thing": 11,
+    "ngsl-spoken:think": 7,
+    "ngsl-spoken:this": 30,
+    "ngsl-spoken:three": 4,
+    "ngsl-spoken:time": 10,
+    "ngsl-spoken:to": 61,
+    "ngsl-spoken:two": 7,
+    "ngsl-spoken:up": 11,
+    "ngsl-spoken:very": 7,
+    "ngsl-spoken:want": 15,
+    "ngsl-spoken:way": 5,
+    "ngsl-spoken:we": 27,
+    "ngsl-spoken:well": 11,
+    "ngsl-spoken:what": 32,
+    "ngsl-spoken:when": 7,
+    "ngsl-spoken:where": 3,
+    "ngsl-spoken:which": 2,
+    "ngsl-spoken:who": 6,
+    "ngsl-spoken:will": 4,
+    "ngsl-spoken:with": 19,
+    "ngsl-spoken:work": 4,
+    "ngsl-spoken:would": 9,
+    "ngsl-spoken:yeah": 9,
+    "ngsl-spoken:year": 6,
+    "ngsl-spoken:yes": 8,
+    "ngsl-spoken:you": 128
+   },
+   "new": [
+    "ngsl-spoken:okay",
+    "ngsl-spoken:dad",
+    "ngsl-spoken:mom",
+    "ngsl-spoken:baby",
+    "ngsl-spoken:little",
+    "ngsl-spoken:stop",
+    "ngsl-spoken:first",
+    "ngsl-spoken:sorry",
+    "ngsl-spoken:love",
+    "ngsl-spoken:kid",
+    "ngsl-spoken:bad",
+    "ngsl-spoken:cool",
+    "ngsl-spoken:old",
+    "ngsl-spoken:still",
+    "ngsl-spoken:always",
+    "ngsl-spoken:nothing",
+    "ngsl-spoken:nice",
+    "ngsl-spoken:husband",
+    "ngsl-spoken:school",
+    "ngsl-spoken:together",
+    "ngsl-spoken:you-know",
+    "ngsl-spoken:i-know",
+    "ngsl-spoken:come-on",
+    "ngsl-spoken:you-guys",
+    "ngsl-spoken:i-got-it",
+    "ngsl-spoken:excuse-me",
+    "ngsl-spoken:are-you-kidding",
+    "ngsl-spoken:don-t-worry",
+    "ngsl-spoken:i-m-gonna",
+    "ngsl-spoken:i-m-not-sure"
+   ],
+   "coverage": 0.655
   }
  ]
 }

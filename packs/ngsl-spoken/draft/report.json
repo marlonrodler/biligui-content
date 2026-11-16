@@ -1,0 +1,86 @@
+[
+ {
+  "id": "ngsl-spoken:water",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:meeting",
+  "flags": [
+   "unknown_word:s1:nine"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:phone",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:coffee",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:house",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:car",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:money",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:time",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:friend",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:work",
+  "flags": [
+   "unknown_word:s2:home"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:good",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:people",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:thank-you",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:morning",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:family",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:food",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:book",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:dog",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:door",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:happy",
+  "flags": []
+ }
+]

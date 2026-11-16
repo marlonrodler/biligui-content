@@ -1,12 +1,12 @@
 {
-  "schema": 1,
-  "packs": [
-    {
-      "id": "ngsl-spoken",
-      "version": "pilot",
-      "manifest": "packs/ngsl-spoken/pilot/manifest.json",
-      "sha256": "7803194306731b4c2cee0b3adbb033ac88036fa09ad351687ce818e93ceff490",
-      "words": 20
-    }
-  ]
+ "schema": 1,
+ "packs": [
+  {
+   "id": "ngsl-spoken",
+   "version": "v1",
+   "manifest": "packs/ngsl-spoken/v1/manifest.json",
+   "sha256": "3752e06204198514e7dfa33ffafb3436aa4ff3adaacf6451fe531abd34b55918",
+   "words": 116
+  }
+ ]
 }

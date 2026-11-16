@@ -3576,7 +3576,7 @@
   },
   {
    "id": "ngsl-spoken:meeting",
-   "rank": 900,
+   "rank": 901,
    "lemma": "meeting",
    "headword": "meeting",
    "ipa": "ˈmitɪŋ",
@@ -3649,7 +3649,7 @@
   },
   {
    "id": "ngsl-spoken:coffee",
-   "rank": 900,
+   "rank": 902,
    "lemma": "coffee",
    "headword": "coffee",
    "ipa": "ˈkɑfi",
@@ -3825,7 +3825,7 @@
   },
   {
    "id": "ngsl-spoken:thank-you",
-   "rank": 900,
+   "rank": 903,
    "lemma": "thank you",
    "headword": "thank you",
    "ipa": "θæŋk ju",

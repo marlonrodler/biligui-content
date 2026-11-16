@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0E1430">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Lero Teste">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <title>Lero · Fase 0</title>
+  <style>
+    :root { --bg:#0E1430; --card:#161E44; --line:#2A3470; --text:#EEF0FF; --muted:#9AA3D9; --coral:#FF7A59; --ok:#5DCAA5; --bad:#F09595; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--text); font:16px/1.5 -apple-system, system-ui, sans-serif;
+           padding: calc(env(safe-area-inset-top) + 16px) 16px calc(env(safe-area-inset-bottom) + 24px); }
+    h1 { font-size:24px; margin:0 0 4px; } h2 { font-size:18px; margin:0 0 8px; }
+    p { margin:0 0 8px; color:var(--muted); font-size:14px; }
+    section { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:16px; margin:16px 0; }
+    .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+    button { font:inherit; color:var(--text); background:transparent; border:1px solid var(--line); border-radius:12px; padding:12px 16px; min-height:44px; }
+    button.primary { background:var(--coral); border-color:var(--coral); color:#2A0F06; font-weight:600; }
+    button[aria-pressed="true"] { border-color:var(--coral); color:var(--coral); }
+    button:disabled { opacity:.5; }
+    .big { font-size:34px; font-weight:600; margin:8px 0; }
+    .pill { font-size:13px; padding:2px 10px; border-radius:999px; border:1px solid var(--line); color:var(--muted); }
+    .ok { color:var(--ok); } .bad { color:var(--bad); }
+    table { width:100%; border-collapse:collapse; font-size:14px; } td { padding:4px 0; border-bottom:1px solid var(--line); }
+    #log { font:12px/1.4 ui-monospace, monospace; color:var(--muted); white-space:pre-wrap; max-height:160px; overflow:auto; }
+    audio { width:100%; margin-top:8px; }
+  </style>
+</head>
+<body>
+  <h1>Lero · Testes da Fase 0</h1>
+  <p>Abra este app pela <b>tela de início</b> (Compartilhar → Adicionar à Tela de Início). É lá que o teste vale.</p>
+  <div class="row" id="env"></div>
+
+  <section aria-labelledby="t1">
+    <h2 id="t1">1 · Reconhecimento de voz</h2>
+    <p>Veja a palavra em português, toque em <b>Falar</b> e diga em inglês. Teste os dois motores.</p>
+    <div class="row" role="group" aria-label="Motor">
+      <button id="eng-webspeech" aria-pressed="true">Web Speech</button>
+      <button id="eng-whisper" aria-pressed="false">Whisper (no celular)</button>
+    </div>
+    <p id="whisper-status" hidden></p>
+    <div class="big" id="prompt">—</div>
+    <p id="hint"></p>
+    <div class="row">
+      <button class="primary" id="speak">Falar</button>
+      <button id="skip">Pular</button>
+    </div>
+    <p id="heard" aria-live="polite"></p>
+    <table aria-label="Placar">
+      <tr><td>Web Speech</td><td id="score-webspeech">0/0</td><td id="time-webspeech">—</td></tr>
+      <tr><td>Whisper</td><td id="score-whisper">0/0</td><td id="time-whisper">—</td></tr>
+    </table>
+  </section>
+
+  <section aria-labelledby="t2">
+    <h2 id="t2">2 · Podcast com a tela bloqueada</h2>
+    <p>Monta <b>1 arquivo único</b> de 10 min (bip agudo = pergunta, 3 s de pausa, bip grave = resposta). Toque em Play e <b>bloqueie a tela</b>. Passa se tocar os 10 min sem parar e aparecer na tela de bloqueio.</p>
+    <div class="row">
+      <button class="primary" id="build">Montar episódio</button>
+      <span class="pill" id="build-status">não montado</span>
+    </div>
+    <audio id="player" controls hidden></audio>
+  </section>
+
+  <section aria-labelledby="t3">
+    <h2 id="t3">Registro</h2>
+    <div id="log" aria-live="polite"></div>
+    <div class="row" style="margin-top:8px"><button id="copy">Copiar resultado</button></div>
+  </section>
+
+  <script type="module" src="spike.js"></script>
+</body>
+</html>

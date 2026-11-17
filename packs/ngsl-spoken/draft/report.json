@@ -488,204 +488,15 @@
   ]
  },
  {
-  "id": "ngsl-spoken:water",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:meeting",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:phone",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:coffee",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:house",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:car",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:money",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:friend",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:thank-you",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:morning",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:family",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:food",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:book",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:dog",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:door",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:happy",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:okay",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:dad",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:mom",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:baby",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:little",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:stop",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:first",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:sorry",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:love",
-  "flags": [
-   "unknown_word:s1:pizza",
-   "unknown_word:s2:song"
-  ]
- },
- {
-  "id": "ngsl-spoken:kid",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:bad",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:cool",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:old",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:still",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:always",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:nothing",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:nice",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:husband",
-  "flags": [
-   "unknown_word:s2:works"
-  ]
- },
- {
-  "id": "ngsl-spoken:school",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:together",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:you-know",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:i-know",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:come-on",
-  "flags": [
-   "unknown_word:s2:oh"
-  ]
- },
- {
-  "id": "ngsl-spoken:you-guys",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:i-got-it",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:excuse-me",
-  "flags": [
-   "unknown_word:s2:yours"
-  ]
- },
- {
-  "id": "ngsl-spoken:are-you-kidding",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:don-t-worry",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:i-m-gonna",
-  "flags": []
- },
- {
-  "id": "ngsl-spoken:i-m-not-sure",
-  "flags": []
- },
- {
   "id": "ngsl-spoken:should",
   "flags": []
  },
  {
   "id": "ngsl-spoken:over",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:little",
   "flags": []
  },
  {
@@ -717,10 +528,18 @@
   ]
  },
  {
+  "id": "ngsl-spoken:okay",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:off",
   "flags": [
    "unknown_word:s1:tv"
   ]
+ },
+ {
+  "id": "ngsl-spoken:first",
+  "flags": []
  },
  {
   "id": "ngsl-spoken:than",
@@ -768,6 +587,10 @@
   "flags": [
    "unknown_word:s2:english"
   ]
+ },
+ {
+  "id": "ngsl-spoken:still",
+  "flags": []
  },
  {
   "id": "ngsl-spoken:find",
@@ -863,6 +686,14 @@
   "flags": []
  },
  {
+  "id": "ngsl-spoken:always",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:school",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:happen",
   "flags": []
  },
@@ -878,6 +709,10 @@
  },
  {
   "id": "ngsl-spoken:another",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:nice",
   "flags": []
  },
  {
@@ -949,6 +784,10 @@
   ]
  },
  {
+  "id": "ngsl-spoken:money",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:place",
   "flags": []
  },
@@ -958,6 +797,10 @@
  },
  {
   "id": "ngsl-spoken:maybe",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:old",
   "flags": []
  },
  {
@@ -977,6 +820,10 @@
   "flags": []
  },
  {
+  "id": "ngsl-spoken:house",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:new",
   "flags": []
  },
@@ -988,6 +835,10 @@
  },
  {
   "id": "ngsl-spoken:part",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:kid",
   "flags": []
  },
  {
@@ -1105,6 +956,10 @@
   "flags": []
  },
  {
+  "id": "ngsl-spoken:bad",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:round",
   "flags": []
  },
@@ -1166,6 +1021,10 @@
   "flags": []
  },
  {
+  "id": "ngsl-spoken:car",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:sit",
   "flags": [
    "unknown_word:s1:relax"
@@ -1173,6 +1032,10 @@
  },
  {
   "id": "ngsl-spoken:bring",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:book",
   "flags": []
  },
  {
@@ -1199,6 +1062,10 @@
  },
  {
   "id": "ngsl-spoken:suppose",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:morning",
   "flags": []
  },
  {
@@ -1330,6 +1197,10 @@
   "flags": []
  },
  {
+  "id": "ngsl-spoken:sorry",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:set",
   "flags": [
    "unknown_word:s2:alarm"
@@ -1340,6 +1211,10 @@
   "flags": [
    "unknown_word:s2:minutes"
   ]
+ },
+ {
+  "id": "ngsl-spoken:nothing",
+  "flags": []
  },
  {
   "id": "ngsl-spoken:case",
@@ -1387,6 +1262,13 @@
   ]
  },
  {
+  "id": "ngsl-spoken:love",
+  "flags": [
+   "unknown_word:s1:pizza",
+   "unknown_word:s2:song"
+  ]
+ },
+ {
   "id": "ngsl-spoken:speak",
   "flags": [
    "unknown_word:s1:english",
@@ -1400,16 +1282,28 @@
   ]
  },
  {
+  "id": "ngsl-spoken:together",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:high",
   "flags": [
    "unknown_word:s2:wall"
   ]
  },
  {
+  "id": "ngsl-spoken:friend",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:build",
   "flags": [
    "unknown_word:s2:apps"
   ]
+ },
+ {
+  "id": "ngsl-spoken:family",
+  "flags": []
  },
  {
   "id": "ngsl-spoken:watch",
@@ -1494,6 +1388,10 @@
  },
  {
   "id": "ngsl-spoken:report",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:stop",
   "flags": []
  },
  {
@@ -1647,6 +1545,10 @@
   ]
  },
  {
+  "id": "ngsl-spoken:phone",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:least",
   "flags": [
    "unknown_word:s1:raining",
@@ -1750,6 +1652,10 @@
   "flags": []
  },
  {
+  "id": "ngsl-spoken:water",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:program",
   "flags": [
    "unknown_word:s1:tv",
@@ -1779,6 +1685,10 @@
   "flags": [
    "unknown_word:s1:reply"
   ]
+ },
+ {
+  "id": "ngsl-spoken:door",
+  "flags": []
  },
  {
   "id": "ngsl-spoken:drive",
@@ -1917,6 +1827,10 @@
   "flags": [
    "unknown_word:s2:goes"
   ]
+ },
+ {
+  "id": "ngsl-spoken:dad",
+  "flags": []
  },
  {
   "id": "ngsl-spoken:view",
@@ -2188,6 +2102,10 @@
  },
  {
   "id": "ngsl-spoken:light",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:happy",
   "flags": []
  },
  {
@@ -2474,6 +2392,10 @@
   ]
  },
  {
+  "id": "ngsl-spoken:dog",
+  "flags": []
+ },
+ {
   "id": "ngsl-spoken:present",
   "flags": []
  },
@@ -2514,6 +2436,10 @@
  },
  {
   "id": "ngsl-spoken:ready",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:food",
   "flags": []
  },
  {
@@ -2677,6 +2603,10 @@
   "flags": [
    "unknown_word:s1:did"
   ]
+ },
+ {
+  "id": "ngsl-spoken:baby",
+  "flags": []
  },
  {
   "id": "ngsl-spoken:chance",
@@ -2900,6 +2830,12 @@
   "flags": []
  },
  {
+  "id": "ngsl-spoken:husband",
+  "flags": [
+   "unknown_word:s2:works"
+  ]
+ },
+ {
   "id": "ngsl-spoken:force",
   "flags": []
  },
@@ -3082,6 +3018,10 @@
    "unknown_word:s1:broken",
    "unknown_word:s2:wash"
   ]
+ },
+ {
+  "id": "ngsl-spoken:cool",
+  "flags": []
  },
  {
   "id": "ngsl-spoken:drop",
@@ -3663,5 +3603,65 @@
   "flags": [
    "unknown_word:s1:apps"
   ]
+ },
+ {
+  "id": "ngsl-spoken:meeting",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:coffee",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:thank-you",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mom",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:you-know",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:i-know",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:come-on",
+  "flags": [
+   "unknown_word:s2:oh"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:you-guys",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:i-got-it",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:excuse-me",
+  "flags": [
+   "unknown_word:s2:yours"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:are-you-kidding",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:don-t-worry",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:i-m-gonna",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:i-m-not-sure",
+  "flags": []
  }
 ]

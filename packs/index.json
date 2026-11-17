@@ -3,9 +3,9 @@
  "packs": [
   {
    "id": "ngsl-spoken",
-   "version": "v6",
-   "manifest": "packs/ngsl-spoken/v6/manifest.json",
-   "sha256": "c171edcfdb2444d6fba04e424e1847c14d0386c8c520f3b9d7f64f1bf5c4fc44",
+   "version": "v7",
+   "manifest": "packs/ngsl-spoken/v7/manifest.json",
+   "sha256": "7dbb7005211f5d3800e5730a94a7c939b1a583efb5533137bfa07e9fe34f6b89",
    "words": 727
   }
  ]

@@ -3473,7 +3473,7 @@
   },
   {
    "id": "ngsl-spoken:meeting",
-   "rank": 901,
+   "rank": 100901,
    "lemma": "meeting",
    "headword": "meeting",
    "ipa": "ˈmitɪŋ",
@@ -3544,7 +3544,7 @@
   },
   {
    "id": "ngsl-spoken:coffee",
-   "rank": 902,
+   "rank": 100902,
    "lemma": "coffee",
    "headword": "coffee",
    "ipa": "ˈkɑfi",
@@ -3715,7 +3715,7 @@
   },
   {
    "id": "ngsl-spoken:thank-you",
-   "rank": 903,
+   "rank": 100903,
    "lemma": "thank you",
    "headword": "thank you",
    "ipa": "θæŋk ju",
@@ -4060,7 +4060,7 @@
   },
   {
    "id": "ngsl-spoken:mom",
-   "rank": 1001,
+   "rank": 101001,
    "lemma": "mom",
    "headword": "mom",
    "ipa": "mɑm",
@@ -4695,7 +4695,7 @@
   },
   {
    "id": "ngsl-spoken:you-know",
-   "rank": 1002,
+   "rank": 101002,
    "lemma": "you know",
    "headword": "you know",
    "ipa": "ju noʊ",
@@ -4731,7 +4731,7 @@
   },
   {
    "id": "ngsl-spoken:i-know",
-   "rank": 1003,
+   "rank": 101003,
    "lemma": "I know",
    "headword": "I know",
    "ipa": "aɪ noʊ",
@@ -4766,7 +4766,7 @@
   },
   {
    "id": "ngsl-spoken:come-on",
-   "rank": 1004,
+   "rank": 101004,
    "lemma": "come on",
    "headword": "come on",
    "ipa": "kʌm ɑn",
@@ -4802,7 +4802,7 @@
   },
   {
    "id": "ngsl-spoken:you-guys",
-   "rank": 1005,
+   "rank": 101005,
    "lemma": "you guys",
    "headword": "you guys",
    "ipa": "ju ɡaɪz",
@@ -4837,7 +4837,7 @@
   },
   {
    "id": "ngsl-spoken:i-got-it",
-   "rank": 1006,
+   "rank": 101006,
    "lemma": "I got it",
    "headword": "I got it",
    "ipa": "aɪ ɡɑt ɪt",
@@ -4873,7 +4873,7 @@
   },
   {
    "id": "ngsl-spoken:excuse-me",
-   "rank": 1007,
+   "rank": 101007,
    "lemma": "excuse me",
    "headword": "excuse me",
    "ipa": "ɪkskˈjus mi",
@@ -4908,7 +4908,7 @@
   },
   {
    "id": "ngsl-spoken:are-you-kidding",
-   "rank": 1008,
+   "rank": 101008,
    "lemma": "are you kidding?",
    "headword": "are you kidding",
    "ipa": "ɑr ju ˈkɪdɪŋ",
@@ -4945,7 +4945,7 @@
   },
   {
    "id": "ngsl-spoken:don-t-worry",
-   "rank": 1009,
+   "rank": 101009,
    "lemma": "don't worry",
    "headword": "don't worry",
    "ipa": "doʊnt ˈwɝi",
@@ -4981,7 +4981,7 @@
   },
   {
    "id": "ngsl-spoken:i-m-gonna",
-   "rank": 1010,
+   "rank": 101010,
    "lemma": "I'm gonna",
    "headword": "I'm gonna",
    "ipa": "aɪm ˈɡɑnə",
@@ -5018,7 +5018,7 @@
   },
   {
    "id": "ngsl-spoken:i-m-not-sure",
-   "rank": 1011,
+   "rank": 101011,
    "lemma": "I'm not sure",
    "headword": "I'm not sure",
    "ipa": "aɪm nɑt ʃʊr",
@@ -25067,6 +25067,6062 @@
     "ngsl-spoken:i-m-not-sure"
    ],
    "coverage": 0.655
+  }
+ ],
+ "stories": [
+  {
+   "id": "a1-coffee",
+   "level": "A1",
+   "title": "The coffee shop",
+   "title_pt": "A cafeteria",
+   "lines": [
+    {
+     "who": "N",
+     "en": "It is Monday morning. Ana is at a small coffee shop.",
+     "pt": "É segunda de manhã. Ana está numa cafeteria pequena.",
+     "tokens": [
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "monday",
+       null
+      ],
+      [
+       "morning",
+       "ngsl-spoken:morning"
+      ],
+      [
+       "ana",
+       null
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "small",
+       "ngsl-spoken:small"
+      ],
+      [
+       "coffee",
+       "ngsl-spoken:coffee"
+      ],
+      [
+       "shop",
+       "ngsl-spoken:shop"
+      ]
+     ],
+     "start": 0.0,
+     "end": 3.58
+    },
+    {
+     "who": "N",
+     "en": "She is tired. She needs a coffee.",
+     "pt": "Ela está cansada. Ela precisa de um café.",
+     "tokens": [
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "tired",
+       null
+      ],
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "needs",
+       "ngsl-spoken:need"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "coffee",
+       "ngsl-spoken:coffee"
+      ]
+     ],
+     "start": 3.93,
+     "end": 5.85
+    },
+    {
+     "who": "Leo",
+     "en": "Good morning! What do you want?",
+     "pt": "Bom dia! O que você quer?",
+     "tokens": [
+      [
+       "good",
+       "ngsl-spoken:good"
+      ],
+      [
+       "morning",
+       "ngsl-spoken:morning"
+      ],
+      [
+       "what",
+       "ngsl-spoken:what"
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "want",
+       "ngsl-spoken:want"
+      ]
+     ],
+     "start": 6.55,
+     "end": 8.39
+    },
+    {
+     "who": "Ana",
+     "en": "Hi! A big coffee, please. No sugar.",
+     "pt": "Oi! Um café grande, por favor. Sem açúcar.",
+     "tokens": [
+      [
+       "hi",
+       null
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "big",
+       "ngsl-spoken:big"
+      ],
+      [
+       "coffee",
+       "ngsl-spoken:coffee"
+      ],
+      [
+       "please",
+       "ngsl-spoken:please"
+      ],
+      [
+       "no",
+       "ngsl-spoken:no"
+      ],
+      [
+       "sugar",
+       null
+      ]
+     ],
+     "start": 9.09,
+     "end": 11.14
+    },
+    {
+     "who": "Leo",
+     "en": "Okay. Anything else?",
+     "pt": "Ok. Mais alguma coisa?",
+     "tokens": [
+      [
+       "okay",
+       "ngsl-spoken:okay"
+      ],
+      [
+       "anything",
+       "ngsl-spoken:anything"
+      ],
+      [
+       "else",
+       "ngsl-spoken:else"
+      ]
+     ],
+     "start": 11.84,
+     "end": 13.46
+    },
+    {
+     "who": "Ana",
+     "en": "No, thank you. How much is it?",
+     "pt": "Não, obrigada. Quanto é?",
+     "tokens": [
+      [
+       "no",
+       "ngsl-spoken:no"
+      ],
+      [
+       "thank",
+       "ngsl-spoken:thank"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "how",
+       "ngsl-spoken:how"
+      ],
+      [
+       "much",
+       "ngsl-spoken:much"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ]
+     ],
+     "start": 14.16,
+     "end": 15.91
+    },
+    {
+     "who": "Leo",
+     "en": "Five dollars.",
+     "pt": "Cinco dólares.",
+     "tokens": [
+      [
+       "five",
+       "ngsl-spoken:five"
+      ],
+      [
+       "dollars",
+       "ngsl-spoken:dollar"
+      ]
+     ],
+     "start": 16.61,
+     "end": 17.67
+    },
+    {
+     "who": "N",
+     "en": "Ana looks in her bag. She can't find her money.",
+     "pt": "Ana olha na bolsa. Ela não acha o dinheiro.",
+     "tokens": [
+      [
+       "ana",
+       null
+      ],
+      [
+       "looks",
+       "ngsl-spoken:look"
+      ],
+      [
+       "in",
+       "ngsl-spoken:in"
+      ],
+      [
+       "her",
+       "ngsl-spoken:she"
+      ],
+      [
+       "bag",
+       "ngsl-spoken:bag"
+      ],
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "find",
+       "ngsl-spoken:find"
+      ],
+      [
+       "her",
+       "ngsl-spoken:she"
+      ],
+      [
+       "money",
+       "ngsl-spoken:money"
+      ]
+     ],
+     "start": 18.37,
+     "end": 21.15
+    },
+    {
+     "who": "Ana",
+     "en": "Oh no. I'm so sorry. I don't have my money.",
+     "pt": "Ah, não. Desculpa mesmo. Estou sem meu dinheiro.",
+     "tokens": [
+      [
+       "oh",
+       null
+      ],
+      [
+       "no",
+       "ngsl-spoken:no"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "'m",
+       "ngsl-spoken:be"
+      ],
+      [
+       "so",
+       "ngsl-spoken:so"
+      ],
+      [
+       "sorry",
+       "ngsl-spoken:sorry"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "have",
+       "ngsl-spoken:have"
+      ],
+      [
+       "my",
+       "ngsl-spoken:i"
+      ],
+      [
+       "money",
+       "ngsl-spoken:money"
+      ]
+     ],
+     "start": 21.85,
+     "end": 24.36
+    },
+    {
+     "who": "Leo",
+     "en": "Don't worry. You can pay tomorrow.",
+     "pt": "Não se preocupe. Você pode pagar amanhã.",
+     "tokens": [
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "worry",
+       "ngsl-spoken:worry"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "pay",
+       "ngsl-spoken:pay"
+      ],
+      [
+       "tomorrow",
+       "ngsl-spoken:tomorrow"
+      ]
+     ],
+     "start": 25.06,
+     "end": 27.28
+    },
+    {
+     "who": "Ana",
+     "en": "Really? Thank you so much!",
+     "pt": "Sério? Muito obrigada!",
+     "tokens": [
+      [
+       "really",
+       "ngsl-spoken:really"
+      ],
+      [
+       "thank",
+       "ngsl-spoken:thank"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "so",
+       "ngsl-spoken:so"
+      ],
+      [
+       "much",
+       "ngsl-spoken:much"
+      ]
+     ],
+     "start": 27.98,
+     "end": 29.39
+    },
+    {
+     "who": "N",
+     "en": "The next day, Ana comes back. She pays for two coffees.",
+     "pt": "No dia seguinte, Ana volta. Ela paga dois cafés.",
+     "tokens": [
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "next",
+       "ngsl-spoken:next"
+      ],
+      [
+       "day",
+       "ngsl-spoken:day"
+      ],
+      [
+       "ana",
+       null
+      ],
+      [
+       "comes",
+       "ngsl-spoken:come"
+      ],
+      [
+       "back",
+       "ngsl-spoken:back"
+      ],
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "pays",
+       "ngsl-spoken:pay"
+      ],
+      [
+       "for",
+       "ngsl-spoken:for"
+      ],
+      [
+       "two",
+       "ngsl-spoken:two"
+      ],
+      [
+       "coffees",
+       "ngsl-spoken:coffee"
+      ]
+     ],
+     "start": 30.09,
+     "end": 33.85
+    },
+    {
+     "who": "Ana",
+     "en": "One for me, and one for you.",
+     "pt": "Um para mim e um para você.",
+     "tokens": [
+      [
+       "one",
+       "ngsl-spoken:one"
+      ],
+      [
+       "for",
+       "ngsl-spoken:for"
+      ],
+      [
+       "me",
+       "ngsl-spoken:i"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "one",
+       "ngsl-spoken:one"
+      ],
+      [
+       "for",
+       "ngsl-spoken:for"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ]
+     ],
+     "start": 34.55,
+     "end": 36.08
+    },
+    {
+     "who": "Leo",
+     "en": "That is very nice. Thanks!",
+     "pt": "Que gentil. Valeu!",
+     "tokens": [
+      [
+       "that",
+       "ngsl-spoken:that"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "very",
+       "ngsl-spoken:very"
+      ],
+      [
+       "nice",
+       "ngsl-spoken:nice"
+      ],
+      [
+       "thanks",
+       "ngsl-spoken:thank"
+      ]
+     ],
+     "start": 36.78,
+     "end": 38.79
+    },
+    {
+     "who": "N",
+     "en": "And now, every morning, they talk a little.",
+     "pt": "E agora, toda manhã, eles conversam um pouco.",
+     "tokens": [
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "now",
+       "ngsl-spoken:now"
+      ],
+      [
+       "every",
+       "ngsl-spoken:every"
+      ],
+      [
+       "morning",
+       "ngsl-spoken:morning"
+      ],
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "talk",
+       "ngsl-spoken:talk"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "little",
+       "ngsl-spoken:little"
+      ]
+     ],
+     "start": 39.49,
+     "end": 41.75
+    }
+   ],
+   "words": {
+    "ngsl-spoken:it": 2,
+    "ngsl-spoken:be": 6,
+    "ngsl-spoken:morning": 3,
+    "ngsl-spoken:at": 1,
+    "ngsl-spoken:a": 4,
+    "ngsl-spoken:small": 1,
+    "ngsl-spoken:coffee": 4,
+    "ngsl-spoken:shop": 1,
+    "ngsl-spoken:she": 6,
+    "ngsl-spoken:need": 1,
+    "ngsl-spoken:good": 1,
+    "ngsl-spoken:what": 1,
+    "ngsl-spoken:do": 3,
+    "ngsl-spoken:you": 5,
+    "ngsl-spoken:want": 1,
+    "ngsl-spoken:big": 1,
+    "ngsl-spoken:please": 1,
+    "ngsl-spoken:no": 3,
+    "ngsl-spoken:okay": 1,
+    "ngsl-spoken:anything": 1,
+    "ngsl-spoken:else": 1,
+    "ngsl-spoken:thank": 3,
+    "ngsl-spoken:how": 1,
+    "ngsl-spoken:much": 2,
+    "ngsl-spoken:five": 1,
+    "ngsl-spoken:dollar": 1,
+    "ngsl-spoken:look": 1,
+    "ngsl-spoken:in": 1,
+    "ngsl-spoken:bag": 1,
+    "ngsl-spoken:can": 2,
+    "ngsl-spoken:not": 3,
+    "ngsl-spoken:find": 1,
+    "ngsl-spoken:money": 2,
+    "ngsl-spoken:i": 4,
+    "ngsl-spoken:so": 2,
+    "ngsl-spoken:sorry": 1,
+    "ngsl-spoken:have": 1,
+    "ngsl-spoken:worry": 1,
+    "ngsl-spoken:pay": 2,
+    "ngsl-spoken:tomorrow": 1,
+    "ngsl-spoken:really": 1,
+    "ngsl-spoken:the": 1,
+    "ngsl-spoken:next": 1,
+    "ngsl-spoken:day": 1,
+    "ngsl-spoken:come": 1,
+    "ngsl-spoken:back": 1,
+    "ngsl-spoken:for": 3,
+    "ngsl-spoken:two": 1,
+    "ngsl-spoken:one": 2,
+    "ngsl-spoken:and": 2,
+    "ngsl-spoken:that": 1,
+    "ngsl-spoken:very": 1,
+    "ngsl-spoken:nice": 1,
+    "ngsl-spoken:now": 1,
+    "ngsl-spoken:every": 1,
+    "ngsl-spoken:they": 1,
+    "ngsl-spoken:talk": 1,
+    "ngsl-spoken:little": 1
+   },
+   "outside": [
+    "hi",
+    "monday",
+    "oh",
+    "sugar",
+    "tired"
+   ],
+   "audio": "stories/a1-coffee.m4a",
+   "duration": 41.71
+  },
+  {
+   "id": "a1-phone",
+   "level": "A1",
+   "title": "Where is my phone?",
+   "title_pt": "Cadê meu celular?",
+   "lines": [
+    {
+     "who": "N",
+     "en": "Leo is at home. He wants to call his mom.",
+     "pt": "Leo está em casa. Ele quer ligar para a mãe.",
+     "tokens": [
+      [
+       "leo",
+       null
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "home",
+       "ngsl-spoken:home"
+      ],
+      [
+       "he",
+       "ngsl-spoken:he"
+      ],
+      [
+       "wants",
+       "ngsl-spoken:want"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "call",
+       "ngsl-spoken:call"
+      ],
+      [
+       "his",
+       "ngsl-spoken:he"
+      ],
+      [
+       "mom",
+       "ngsl-spoken:mom"
+      ]
+     ],
+     "start": 0.0,
+     "end": 2.77
+    },
+    {
+     "who": "N",
+     "en": "But he can't find his phone.",
+     "pt": "Mas ele não acha o celular.",
+     "tokens": [
+      [
+       "but",
+       "ngsl-spoken:but"
+      ],
+      [
+       "he",
+       "ngsl-spoken:he"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "find",
+       "ngsl-spoken:find"
+      ],
+      [
+       "his",
+       "ngsl-spoken:he"
+      ],
+      [
+       "phone",
+       "ngsl-spoken:phone"
+      ]
+     ],
+     "start": 3.12,
+     "end": 4.66
+    },
+    {
+     "who": "Leo",
+     "en": "Where is my phone? It was here!",
+     "pt": "Cadê meu celular? Estava aqui!",
+     "tokens": [
+      [
+       "where",
+       "ngsl-spoken:where"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "my",
+       "ngsl-spoken:i"
+      ],
+      [
+       "phone",
+       "ngsl-spoken:phone"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "was",
+       "ngsl-spoken:be"
+      ],
+      [
+       "here",
+       "ngsl-spoken:here"
+      ]
+     ],
+     "start": 5.36,
+     "end": 7.45
+    },
+    {
+     "who": "N",
+     "en": "He looks on the table. Nothing.",
+     "pt": "Ele olha na mesa. Nada.",
+     "tokens": [
+      [
+       "he",
+       "ngsl-spoken:he"
+      ],
+      [
+       "looks",
+       "ngsl-spoken:look"
+      ],
+      [
+       "on",
+       "ngsl-spoken:on"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "table",
+       "ngsl-spoken:table"
+      ],
+      [
+       "nothing",
+       "ngsl-spoken:nothing"
+      ]
+     ],
+     "start": 8.15,
+     "end": 10.03
+    },
+    {
+     "who": "N",
+     "en": "He looks under the bed. Nothing.",
+     "pt": "Ele olha embaixo da cama. Nada.",
+     "tokens": [
+      [
+       "he",
+       "ngsl-spoken:he"
+      ],
+      [
+       "looks",
+       "ngsl-spoken:look"
+      ],
+      [
+       "under",
+       "ngsl-spoken:under"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "bed",
+       "ngsl-spoken:be"
+      ],
+      [
+       "nothing",
+       "ngsl-spoken:nothing"
+      ]
+     ],
+     "start": 10.38,
+     "end": 12.21
+    },
+    {
+     "who": "Leo",
+     "en": "Mia! Do you know where my phone is?",
+     "pt": "Mia! Você sabe onde está meu celular?",
+     "tokens": [
+      [
+       "mia",
+       null
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "know",
+       "ngsl-spoken:know"
+      ],
+      [
+       "where",
+       "ngsl-spoken:where"
+      ],
+      [
+       "my",
+       "ngsl-spoken:i"
+      ],
+      [
+       "phone",
+       "ngsl-spoken:phone"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ]
+     ],
+     "start": 12.91,
+     "end": 14.96
+    },
+    {
+     "who": "Mia",
+     "en": "No, I don't. Did you look in the car?",
+     "pt": "Não sei. Você olhou no carro?",
+     "tokens": [
+      [
+       "no",
+       "ngsl-spoken:no"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "did",
+       "ngsl-spoken:do"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "look",
+       "ngsl-spoken:look"
+      ],
+      [
+       "in",
+       "ngsl-spoken:in"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "car",
+       "ngsl-spoken:car"
+      ]
+     ],
+     "start": 15.66,
+     "end": 17.58
+    },
+    {
+     "who": "Leo",
+     "en": "Yes, I did. It's not there.",
+     "pt": "Olhei. Não está lá.",
+     "tokens": [
+      [
+       "yes",
+       "ngsl-spoken:yes"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "did",
+       "ngsl-spoken:do"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "'s",
+       "ngsl-spoken:be"
+      ],
+      [
+       "not",
+       "ngsl-spoken:not"
+      ],
+      [
+       "there",
+       "ngsl-spoken:there"
+      ]
+     ],
+     "start": 18.28,
+     "end": 20.41
+    },
+    {
+     "who": "Mia",
+     "en": "Wait a second. I can call it.",
+     "pt": "Espera um segundo. Eu posso ligar para ele.",
+     "tokens": [
+      [
+       "wait",
+       "ngsl-spoken:wait"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "second",
+       "ngsl-spoken:second"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "call",
+       "ngsl-spoken:call"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ]
+     ],
+     "start": 21.11,
+     "end": 22.95
+    },
+    {
+     "who": "N",
+     "en": "Mia calls. They hear a sound in the kitchen.",
+     "pt": "Mia liga. Eles ouvem um som na cozinha.",
+     "tokens": [
+      [
+       "mia",
+       null
+      ],
+      [
+       "calls",
+       "ngsl-spoken:call"
+      ],
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "hear",
+       "ngsl-spoken:hear"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "sound",
+       "ngsl-spoken:sound"
+      ],
+      [
+       "in",
+       "ngsl-spoken:in"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "kitchen",
+       null
+      ]
+     ],
+     "start": 23.65,
+     "end": 26.29
+    },
+    {
+     "who": "N",
+     "en": "The phone is in the fridge, next to the milk!",
+     "pt": "O celular está na geladeira, do lado do leite!",
+     "tokens": [
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "phone",
+       "ngsl-spoken:phone"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "in",
+       "ngsl-spoken:in"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "fridge",
+       null
+      ],
+      [
+       "next",
+       "ngsl-spoken:next"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "milk",
+       null
+      ]
+     ],
+     "start": 26.64,
+     "end": 29.12
+    },
+    {
+     "who": "Mia",
+     "en": "Are you kidding me? In the fridge?",
+     "pt": "Tá brincando? Na geladeira?",
+     "tokens": [
+      [
+       "are",
+       "ngsl-spoken:be"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "kidding",
+       "ngsl-spoken:kid"
+      ],
+      [
+       "me",
+       "ngsl-spoken:i"
+      ],
+      [
+       "in",
+       "ngsl-spoken:in"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "fridge",
+       null
+      ]
+     ],
+     "start": 29.82,
+     "end": 31.52
+    },
+    {
+     "who": "Leo",
+     "en": "I don't know. I was very tired this morning.",
+     "pt": "Não sei. Eu estava muito cansado hoje de manhã.",
+     "tokens": [
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "know",
+       "ngsl-spoken:know"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "was",
+       "ngsl-spoken:be"
+      ],
+      [
+       "very",
+       "ngsl-spoken:very"
+      ],
+      [
+       "tired",
+       null
+      ],
+      [
+       "this",
+       "ngsl-spoken:this"
+      ],
+      [
+       "morning",
+       "ngsl-spoken:morning"
+      ]
+     ],
+     "start": 32.22,
+     "end": 35.0
+    },
+    {
+     "who": "N",
+     "en": "They laugh a lot. Then Leo calls his mom.",
+     "pt": "Eles riem muito. Depois Leo liga para a mãe.",
+     "tokens": [
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "laugh",
+       "ngsl-spoken:laugh"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "lot",
+       "ngsl-spoken:lot"
+      ],
+      [
+       "then",
+       "ngsl-spoken:then"
+      ],
+      [
+       "leo",
+       null
+      ],
+      [
+       "calls",
+       "ngsl-spoken:call"
+      ],
+      [
+       "his",
+       "ngsl-spoken:he"
+      ],
+      [
+       "mom",
+       "ngsl-spoken:mom"
+      ]
+     ],
+     "start": 35.7,
+     "end": 38.43
+    }
+   ],
+   "words": {
+    "ngsl-spoken:be": 9,
+    "ngsl-spoken:at": 1,
+    "ngsl-spoken:home": 1,
+    "ngsl-spoken:he": 7,
+    "ngsl-spoken:want": 1,
+    "ngsl-spoken:to": 2,
+    "ngsl-spoken:call": 4,
+    "ngsl-spoken:mom": 2,
+    "ngsl-spoken:but": 1,
+    "ngsl-spoken:can": 2,
+    "ngsl-spoken:not": 4,
+    "ngsl-spoken:find": 1,
+    "ngsl-spoken:phone": 4,
+    "ngsl-spoken:where": 2,
+    "ngsl-spoken:i": 8,
+    "ngsl-spoken:it": 3,
+    "ngsl-spoken:here": 1,
+    "ngsl-spoken:look": 3,
+    "ngsl-spoken:on": 1,
+    "ngsl-spoken:the": 8,
+    "ngsl-spoken:table": 1,
+    "ngsl-spoken:nothing": 2,
+    "ngsl-spoken:under": 1,
+    "ngsl-spoken:do": 5,
+    "ngsl-spoken:you": 3,
+    "ngsl-spoken:know": 2,
+    "ngsl-spoken:no": 1,
+    "ngsl-spoken:in": 4,
+    "ngsl-spoken:car": 1,
+    "ngsl-spoken:yes": 1,
+    "ngsl-spoken:there": 1,
+    "ngsl-spoken:wait": 1,
+    "ngsl-spoken:a": 3,
+    "ngsl-spoken:second": 1,
+    "ngsl-spoken:they": 2,
+    "ngsl-spoken:hear": 1,
+    "ngsl-spoken:sound": 1,
+    "ngsl-spoken:next": 1,
+    "ngsl-spoken:kid": 1,
+    "ngsl-spoken:very": 1,
+    "ngsl-spoken:this": 1,
+    "ngsl-spoken:morning": 1,
+    "ngsl-spoken:laugh": 1,
+    "ngsl-spoken:lot": 1,
+    "ngsl-spoken:then": 1
+   },
+   "outside": [
+    "fridge",
+    "kitchen",
+    "milk",
+    "tired"
+   ],
+   "audio": "stories/a1-phone.m4a",
+   "duration": 38.37
+  },
+  {
+   "id": "a1-rain",
+   "level": "A1",
+   "title": "A day of rain",
+   "title_pt": "Um dia de chuva",
+   "lines": [
+    {
+     "who": "N",
+     "en": "It is Saturday. Ana and Mia want to go to the park.",
+     "pt": "É sábado. Ana e Mia querem ir ao parque.",
+     "tokens": [
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "saturday",
+       null
+      ],
+      [
+       "ana",
+       null
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "mia",
+       null
+      ],
+      [
+       "want",
+       "ngsl-spoken:want"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "go",
+       "ngsl-spoken:go"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "park",
+       "ngsl-spoken:park"
+      ]
+     ],
+     "start": 0.0,
+     "end": 3.07
+    },
+    {
+     "who": "N",
+     "en": "But it is raining. It is cold, too.",
+     "pt": "Mas está chovendo. Está frio também.",
+     "tokens": [
+      [
+       "but",
+       "ngsl-spoken:but"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "raining",
+       null
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "cold",
+       "ngsl-spoken:cold"
+      ],
+      [
+       "too",
+       "ngsl-spoken:too"
+      ]
+     ],
+     "start": 3.42,
+     "end": 5.6
+    },
+    {
+     "who": "Mia",
+     "en": "Oh, look at the rain. What can we do now?",
+     "pt": "Ah, olha a chuva. O que a gente pode fazer agora?",
+     "tokens": [
+      [
+       "oh",
+       null
+      ],
+      [
+       "look",
+       "ngsl-spoken:look"
+      ],
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "rain",
+       null
+      ],
+      [
+       "what",
+       "ngsl-spoken:what"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "we",
+       "ngsl-spoken:we"
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "now",
+       "ngsl-spoken:now"
+      ]
+     ],
+     "start": 6.3,
+     "end": 8.26
+    },
+    {
+     "who": "Ana",
+     "en": "We can stay at home and watch a movie.",
+     "pt": "A gente pode ficar em casa e ver um filme.",
+     "tokens": [
+      [
+       "we",
+       "ngsl-spoken:we"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "stay",
+       "ngsl-spoken:stay"
+      ],
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "home",
+       "ngsl-spoken:home"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "watch",
+       "ngsl-spoken:watch"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "movie",
+       "ngsl-spoken:movie"
+      ]
+     ],
+     "start": 8.96,
+     "end": 10.92
+    },
+    {
+     "who": "Mia",
+     "en": "Good idea. And we can make some food.",
+     "pt": "Boa ideia. E a gente pode fazer comida.",
+     "tokens": [
+      [
+       "good",
+       "ngsl-spoken:good"
+      ],
+      [
+       "idea",
+       "ngsl-spoken:idea"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "we",
+       "ngsl-spoken:we"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "make",
+       "ngsl-spoken:make"
+      ],
+      [
+       "some",
+       "ngsl-spoken:some"
+      ],
+      [
+       "food",
+       "ngsl-spoken:food"
+      ]
+     ],
+     "start": 11.62,
+     "end": 13.54
+    },
+    {
+     "who": "N",
+     "en": "They make a big pizza together.",
+     "pt": "Elas fazem uma pizza grande juntas.",
+     "tokens": [
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "make",
+       "ngsl-spoken:make"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "big",
+       "ngsl-spoken:big"
+      ],
+      [
+       "pizza",
+       null
+      ],
+      [
+       "together",
+       "ngsl-spoken:together"
+      ]
+     ],
+     "start": 14.24,
+     "end": 15.91
+    },
+    {
+     "who": "N",
+     "en": "Then they sit down and watch a funny movie.",
+     "pt": "Depois elas sentam e veem um filme engraçado.",
+     "tokens": [
+      [
+       "then",
+       "ngsl-spoken:then"
+      ],
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "sit",
+       "ngsl-spoken:sit"
+      ],
+      [
+       "down",
+       "ngsl-spoken:down"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "watch",
+       "ngsl-spoken:watch"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "funny",
+       "ngsl-spoken:funny"
+      ],
+      [
+       "movie",
+       "ngsl-spoken:movie"
+      ]
+     ],
+     "start": 16.26,
+     "end": 18.65
+    },
+    {
+     "who": "Ana",
+     "en": "This is the best part!",
+     "pt": "Esta é a melhor parte!",
+     "tokens": [
+      [
+       "this",
+       "ngsl-spoken:this"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "best",
+       "ngsl-spoken:good"
+      ],
+      [
+       "part",
+       "ngsl-spoken:part"
+      ]
+     ],
+     "start": 19.35,
+     "end": 20.46
+    },
+    {
+     "who": "N",
+     "en": "At night, the rain stops.",
+     "pt": "À noite, a chuva para.",
+     "tokens": [
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "night",
+       "ngsl-spoken:night"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "rain",
+       null
+      ],
+      [
+       "stops",
+       "ngsl-spoken:stop"
+      ]
+     ],
+     "start": 21.16,
+     "end": 22.56
+    },
+    {
+     "who": "Mia",
+     "en": "Look, no more rain. Do you want to go out?",
+     "pt": "Olha, parou a chuva. Quer sair?",
+     "tokens": [
+      [
+       "look",
+       "ngsl-spoken:look"
+      ],
+      [
+       "no",
+       "ngsl-spoken:no"
+      ],
+      [
+       "more",
+       "ngsl-spoken:more"
+      ],
+      [
+       "rain",
+       null
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "want",
+       "ngsl-spoken:want"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "go",
+       "ngsl-spoken:go"
+      ],
+      [
+       "out",
+       "ngsl-spoken:out"
+      ]
+     ],
+     "start": 23.26,
+     "end": 25.27
+    },
+    {
+     "who": "Ana",
+     "en": "No, thanks. I'm happy here.",
+     "pt": "Não, obrigada. Estou feliz aqui.",
+     "tokens": [
+      [
+       "no",
+       "ngsl-spoken:no"
+      ],
+      [
+       "thanks",
+       "ngsl-spoken:thank"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "'m",
+       "ngsl-spoken:be"
+      ],
+      [
+       "happy",
+       "ngsl-spoken:happy"
+      ],
+      [
+       "here",
+       "ngsl-spoken:here"
+      ]
+     ],
+     "start": 25.97,
+     "end": 27.38
+    },
+    {
+     "who": "N",
+     "en": "Sometimes, a day at home is a good day.",
+     "pt": "Às vezes, um dia em casa é um bom dia.",
+     "tokens": [
+      [
+       "sometimes",
+       "ngsl-spoken:sometimes"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "day",
+       "ngsl-spoken:day"
+      ],
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "home",
+       "ngsl-spoken:home"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "good",
+       "ngsl-spoken:good"
+      ],
+      [
+       "day",
+       "ngsl-spoken:day"
+      ]
+     ],
+     "start": 28.08,
+     "end": 30.47
+    }
+   ],
+   "words": {
+    "ngsl-spoken:it": 3,
+    "ngsl-spoken:be": 6,
+    "ngsl-spoken:and": 4,
+    "ngsl-spoken:want": 2,
+    "ngsl-spoken:to": 3,
+    "ngsl-spoken:go": 2,
+    "ngsl-spoken:the": 4,
+    "ngsl-spoken:park": 1,
+    "ngsl-spoken:but": 1,
+    "ngsl-spoken:cold": 1,
+    "ngsl-spoken:too": 1,
+    "ngsl-spoken:look": 2,
+    "ngsl-spoken:at": 4,
+    "ngsl-spoken:what": 1,
+    "ngsl-spoken:can": 3,
+    "ngsl-spoken:we": 3,
+    "ngsl-spoken:do": 2,
+    "ngsl-spoken:now": 1,
+    "ngsl-spoken:stay": 1,
+    "ngsl-spoken:home": 2,
+    "ngsl-spoken:watch": 2,
+    "ngsl-spoken:a": 5,
+    "ngsl-spoken:movie": 2,
+    "ngsl-spoken:good": 3,
+    "ngsl-spoken:idea": 1,
+    "ngsl-spoken:make": 2,
+    "ngsl-spoken:some": 1,
+    "ngsl-spoken:food": 1,
+    "ngsl-spoken:they": 2,
+    "ngsl-spoken:big": 1,
+    "ngsl-spoken:together": 1,
+    "ngsl-spoken:then": 1,
+    "ngsl-spoken:sit": 1,
+    "ngsl-spoken:down": 1,
+    "ngsl-spoken:funny": 1,
+    "ngsl-spoken:this": 1,
+    "ngsl-spoken:part": 1,
+    "ngsl-spoken:night": 1,
+    "ngsl-spoken:stop": 1,
+    "ngsl-spoken:no": 2,
+    "ngsl-spoken:more": 1,
+    "ngsl-spoken:you": 1,
+    "ngsl-spoken:out": 1,
+    "ngsl-spoken:thank": 1,
+    "ngsl-spoken:i": 1,
+    "ngsl-spoken:happy": 1,
+    "ngsl-spoken:here": 1,
+    "ngsl-spoken:sometimes": 1,
+    "ngsl-spoken:day": 2
+   },
+   "outside": [
+    "oh",
+    "pizza",
+    "rain",
+    "raining",
+    "saturday"
+   ],
+   "audio": "stories/a1-rain.m4a",
+   "duration": 30.42
+  },
+  {
+   "id": "a1-new-job",
+   "level": "A1",
+   "title": "The first day",
+   "title_pt": "O primeiro dia",
+   "lines": [
+    {
+     "who": "N",
+     "en": "Today is Leo's first day at a new job.",
+     "pt": "Hoje é o primeiro dia do Leo num emprego novo.",
+     "tokens": [
+      [
+       "today",
+       "ngsl-spoken:today"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "leo",
+       null
+      ],
+      [
+       "'s",
+       "ngsl-spoken:be"
+      ],
+      [
+       "first",
+       "ngsl-spoken:first"
+      ],
+      [
+       "day",
+       "ngsl-spoken:day"
+      ],
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "new",
+       "ngsl-spoken:new"
+      ],
+      [
+       "job",
+       "ngsl-spoken:job"
+      ]
+     ],
+     "start": 0.0,
+     "end": 2.18
+    },
+    {
+     "who": "N",
+     "en": "He wakes up early. He is happy, but a bit nervous.",
+     "pt": "Ele acorda cedo. Ele está feliz, mas um pouco nervoso.",
+     "tokens": [
+      [
+       "he",
+       "ngsl-spoken:he"
+      ],
+      [
+       "wakes",
+       null
+      ],
+      [
+       "up",
+       "ngsl-spoken:up"
+      ],
+      [
+       "early",
+       "ngsl-spoken:early"
+      ],
+      [
+       "he",
+       "ngsl-spoken:he"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "happy",
+       "ngsl-spoken:happy"
+      ],
+      [
+       "but",
+       "ngsl-spoken:but"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "bit",
+       "ngsl-spoken:bit"
+      ],
+      [
+       "nervous",
+       null
+      ]
+     ],
+     "start": 2.53,
+     "end": 5.73
+    },
+    {
+     "who": "Leo",
+     "en": "Okay, Leo. You can do it.",
+     "pt": "Ok, Leo. Você consegue.",
+     "tokens": [
+      [
+       "okay",
+       "ngsl-spoken:okay"
+      ],
+      [
+       "leo",
+       null
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ]
+     ],
+     "start": 6.43,
+     "end": 8.56
+    },
+    {
+     "who": "N",
+     "en": "He takes the bus to the office.",
+     "pt": "Ele pega o ônibus para o escritório.",
+     "tokens": [
+      [
+       "he",
+       "ngsl-spoken:he"
+      ],
+      [
+       "takes",
+       "ngsl-spoken:take"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "bus",
+       "ngsl-spoken:bus"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "office",
+       "ngsl-spoken:office"
+      ]
+     ],
+     "start": 9.26,
+     "end": 10.92
+    },
+    {
+     "who": "Ana",
+     "en": "Hi! You must be Leo. I'm Ana. Welcome!",
+     "pt": "Oi! Você deve ser o Leo. Eu sou a Ana. Bem-vindo!",
+     "tokens": [
+      [
+       "hi",
+       null
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "must",
+       "ngsl-spoken:must"
+      ],
+      [
+       "be",
+       "ngsl-spoken:be"
+      ],
+      [
+       "leo",
+       null
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "'m",
+       "ngsl-spoken:be"
+      ],
+      [
+       "ana",
+       null
+      ],
+      [
+       "welcome",
+       null
+      ]
+     ],
+     "start": 11.62,
+     "end": 13.71
+    },
+    {
+     "who": "Leo",
+     "en": "Hi, Ana. Nice to meet you.",
+     "pt": "Oi, Ana. Prazer em te conhecer.",
+     "tokens": [
+      [
+       "hi",
+       null
+      ],
+      [
+       "ana",
+       null
+      ],
+      [
+       "nice",
+       "ngsl-spoken:nice"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "meet",
+       "ngsl-spoken:meet"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ]
+     ],
+     "start": 14.41,
+     "end": 16.46
+    },
+    {
+     "who": "Ana",
+     "en": "Come with me. This is your desk.",
+     "pt": "Vem comigo. Esta é a sua mesa.",
+     "tokens": [
+      [
+       "come",
+       "ngsl-spoken:come"
+      ],
+      [
+       "with",
+       "ngsl-spoken:with"
+      ],
+      [
+       "me",
+       "ngsl-spoken:i"
+      ],
+      [
+       "this",
+       "ngsl-spoken:this"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "your",
+       "ngsl-spoken:you"
+      ],
+      [
+       "desk",
+       null
+      ]
+     ],
+     "start": 17.16,
+     "end": 18.87
+    },
+    {
+     "who": "N",
+     "en": "Ana shows him the computer and the team.",
+     "pt": "Ana mostra o computador e a equipe.",
+     "tokens": [
+      [
+       "ana",
+       null
+      ],
+      [
+       "shows",
+       "ngsl-spoken:show"
+      ],
+      [
+       "him",
+       "ngsl-spoken:he"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "computer",
+       "ngsl-spoken:computer"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "team",
+       "ngsl-spoken:team"
+      ]
+     ],
+     "start": 19.57,
+     "end": 21.87
+    },
+    {
+     "who": "Leo",
+     "en": "Sorry, I have a question. Where is the coffee?",
+     "pt": "Desculpa, tenho uma pergunta. Onde fica o café?",
+     "tokens": [
+      [
+       "sorry",
+       "ngsl-spoken:sorry"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "have",
+       "ngsl-spoken:have"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "question",
+       "ngsl-spoken:question"
+      ],
+      [
+       "where",
+       "ngsl-spoken:where"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "coffee",
+       "ngsl-spoken:coffee"
+      ]
+     ],
+     "start": 22.57,
+     "end": 25.43
+    },
+    {
+     "who": "Ana",
+     "en": "Good question! The most important place.",
+     "pt": "Boa pergunta! O lugar mais importante.",
+     "tokens": [
+      [
+       "good",
+       "ngsl-spoken:good"
+      ],
+      [
+       "question",
+       "ngsl-spoken:question"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "most",
+       "ngsl-spoken:most"
+      ],
+      [
+       "important",
+       "ngsl-spoken:important"
+      ],
+      [
+       "place",
+       "ngsl-spoken:place"
+      ]
+     ],
+     "start": 26.13,
+     "end": 28.35
+    },
+    {
+     "who": "N",
+     "en": "At the end of the day, Leo is tired but happy.",
+     "pt": "No fim do dia, Leo está cansado, mas feliz.",
+     "tokens": [
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "end",
+       "ngsl-spoken:end"
+      ],
+      [
+       "of",
+       "ngsl-spoken:of"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "day",
+       "ngsl-spoken:day"
+      ],
+      [
+       "leo",
+       null
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "tired",
+       null
+      ],
+      [
+       "but",
+       "ngsl-spoken:but"
+      ],
+      [
+       "happy",
+       "ngsl-spoken:happy"
+      ]
+     ],
+     "start": 29.05,
+     "end": 31.87
+    },
+    {
+     "who": "Leo",
+     "en": "I think I'm going to like this job.",
+     "pt": "Acho que vou gostar deste emprego.",
+     "tokens": [
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "think",
+       "ngsl-spoken:think"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "'m",
+       "ngsl-spoken:be"
+      ],
+      [
+       "going",
+       "ngsl-spoken:go"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "like",
+       "ngsl-spoken:like"
+      ],
+      [
+       "this",
+       "ngsl-spoken:this"
+      ],
+      [
+       "job",
+       "ngsl-spoken:job"
+      ]
+     ],
+     "start": 32.57,
+     "end": 34.61
+    }
+   ],
+   "words": {
+    "ngsl-spoken:today": 1,
+    "ngsl-spoken:be": 9,
+    "ngsl-spoken:first": 1,
+    "ngsl-spoken:day": 2,
+    "ngsl-spoken:at": 2,
+    "ngsl-spoken:a": 3,
+    "ngsl-spoken:new": 1,
+    "ngsl-spoken:job": 2,
+    "ngsl-spoken:he": 4,
+    "ngsl-spoken:up": 1,
+    "ngsl-spoken:early": 1,
+    "ngsl-spoken:happy": 2,
+    "ngsl-spoken:but": 2,
+    "ngsl-spoken:bit": 1,
+    "ngsl-spoken:okay": 1,
+    "ngsl-spoken:you": 4,
+    "ngsl-spoken:can": 1,
+    "ngsl-spoken:do": 1,
+    "ngsl-spoken:it": 1,
+    "ngsl-spoken:take": 1,
+    "ngsl-spoken:the": 8,
+    "ngsl-spoken:bus": 1,
+    "ngsl-spoken:to": 3,
+    "ngsl-spoken:office": 1,
+    "ngsl-spoken:must": 1,
+    "ngsl-spoken:i": 5,
+    "ngsl-spoken:nice": 1,
+    "ngsl-spoken:meet": 1,
+    "ngsl-spoken:come": 1,
+    "ngsl-spoken:with": 1,
+    "ngsl-spoken:this": 2,
+    "ngsl-spoken:show": 1,
+    "ngsl-spoken:computer": 1,
+    "ngsl-spoken:and": 1,
+    "ngsl-spoken:team": 1,
+    "ngsl-spoken:sorry": 1,
+    "ngsl-spoken:have": 1,
+    "ngsl-spoken:question": 2,
+    "ngsl-spoken:where": 1,
+    "ngsl-spoken:coffee": 1,
+    "ngsl-spoken:good": 1,
+    "ngsl-spoken:most": 1,
+    "ngsl-spoken:important": 1,
+    "ngsl-spoken:place": 1,
+    "ngsl-spoken:end": 1,
+    "ngsl-spoken:of": 1,
+    "ngsl-spoken:think": 1,
+    "ngsl-spoken:go": 1,
+    "ngsl-spoken:like": 1
+   },
+   "outside": [
+    "desk",
+    "hi",
+    "nervous",
+    "tired",
+    "wakes",
+    "welcome"
+   ],
+   "audio": "stories/a1-new-job.m4a",
+   "duration": 34.59
+  },
+  {
+   "id": "a1-birthday",
+   "level": "A1",
+   "title": "A birthday surprise",
+   "title_pt": "Uma surpresa de aniversário",
+   "lines": [
+    {
+     "who": "N",
+     "en": "Tomorrow is Mia's birthday.",
+     "pt": "Amanhã é aniversário da Mia.",
+     "tokens": [
+      [
+       "tomorrow",
+       "ngsl-spoken:tomorrow"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "mia",
+       null
+      ],
+      [
+       "'s",
+       "ngsl-spoken:be"
+      ],
+      [
+       "birthday",
+       null
+      ]
+     ],
+     "start": 0.0,
+     "end": 1.71
+    },
+    {
+     "who": "N",
+     "en": "Ana and Leo want to make a surprise party.",
+     "pt": "Ana e Leo querem fazer uma festa surpresa.",
+     "tokens": [
+      [
+       "ana",
+       null
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "leo",
+       null
+      ],
+      [
+       "want",
+       "ngsl-spoken:want"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "make",
+       "ngsl-spoken:make"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "surprise",
+       "ngsl-spoken:surprise"
+      ],
+      [
+       "party",
+       "ngsl-spoken:party"
+      ]
+     ],
+     "start": 2.06,
+     "end": 4.79
+    },
+    {
+     "who": "Ana",
+     "en": "Leo, can you buy the cake?",
+     "pt": "Leo, você pode comprar o bolo?",
+     "tokens": [
+      [
+       "leo",
+       null
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "buy",
+       "ngsl-spoken:buy"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "cake",
+       null
+      ]
+     ],
+     "start": 5.49,
+     "end": 6.77
+    },
+    {
+     "who": "Leo",
+     "en": "Sure. And you call her friends, okay?",
+     "pt": "Claro. E você liga para os amigos dela, ok?",
+     "tokens": [
+      [
+       "sure",
+       "ngsl-spoken:sure"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "call",
+       "ngsl-spoken:call"
+      ],
+      [
+       "her",
+       "ngsl-spoken:she"
+      ],
+      [
+       "friends",
+       "ngsl-spoken:friend"
+      ],
+      [
+       "okay",
+       "ngsl-spoken:okay"
+      ]
+     ],
+     "start": 7.47,
+     "end": 9.9
+    },
+    {
+     "who": "N",
+     "en": "The next day, everybody is in the house. The lights are off.",
+     "pt": "No dia seguinte, todo mundo está na casa. As luzes estão apagadas.",
+     "tokens": [
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "next",
+       "ngsl-spoken:next"
+      ],
+      [
+       "day",
+       "ngsl-spoken:day"
+      ],
+      [
+       "everybody",
+       "ngsl-spoken:everybody"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "in",
+       "ngsl-spoken:in"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "house",
+       "ngsl-spoken:house"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "lights",
+       "ngsl-spoken:light"
+      ],
+      [
+       "are",
+       "ngsl-spoken:be"
+      ],
+      [
+       "off",
+       "ngsl-spoken:off"
+      ]
+     ],
+     "start": 10.6,
+     "end": 14.1
+    },
+    {
+     "who": "N",
+     "en": "Mia opens the door.",
+     "pt": "Mia abre a porta.",
+     "tokens": [
+      [
+       "mia",
+       null
+      ],
+      [
+       "opens",
+       "ngsl-spoken:open"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "door",
+       "ngsl-spoken:door"
+      ]
+     ],
+     "start": 14.45,
+     "end": 15.81
+    },
+    {
+     "who": "Mia",
+     "en": "Hello? Why is it so dark?",
+     "pt": "Alô? Por que está tão escuro?",
+     "tokens": [
+      [
+       "hello",
+       null
+      ],
+      [
+       "why",
+       "ngsl-spoken:why"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "so",
+       "ngsl-spoken:so"
+      ],
+      [
+       "dark",
+       null
+      ]
+     ],
+     "start": 16.51,
+     "end": 18.22
+    },
+    {
+     "who": "N",
+     "en": "The lights come on.",
+     "pt": "As luzes acendem.",
+     "tokens": [
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "lights",
+       "ngsl-spoken:light"
+      ],
+      [
+       "come",
+       "ngsl-spoken:come"
+      ],
+      [
+       "on",
+       "ngsl-spoken:on"
+      ]
+     ],
+     "start": 18.92,
+     "end": 19.99
+    },
+    {
+     "who": "Ana",
+     "en": "Surprise! Happy birthday!",
+     "pt": "Surpresa! Feliz aniversário!",
+     "tokens": [
+      [
+       "surprise",
+       "ngsl-spoken:surprise"
+      ],
+      [
+       "happy",
+       "ngsl-spoken:happy"
+      ],
+      [
+       "birthday",
+       null
+      ]
+     ],
+     "start": 20.69,
+     "end": 22.18
+    },
+    {
+     "who": "Mia",
+     "en": "Oh my God! I can't believe it!",
+     "pt": "Meu Deus! Não acredito!",
+     "tokens": [
+      [
+       "oh",
+       null
+      ],
+      [
+       "my",
+       "ngsl-spoken:i"
+      ],
+      [
+       "god",
+       "ngsl-spoken:go"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "believe",
+       "ngsl-spoken:believe"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ]
+     ],
+     "start": 22.88,
+     "end": 24.76
+    },
+    {
+     "who": "N",
+     "en": "Mia is very happy. They eat cake and talk all night.",
+     "pt": "Mia está muito feliz. Eles comem bolo e conversam a noite toda.",
+     "tokens": [
+      [
+       "mia",
+       null
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "very",
+       "ngsl-spoken:very"
+      ],
+      [
+       "happy",
+       "ngsl-spoken:happy"
+      ],
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "eat",
+       "ngsl-spoken:eat"
+      ],
+      [
+       "cake",
+       null
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "talk",
+       "ngsl-spoken:talk"
+      ],
+      [
+       "all",
+       "ngsl-spoken:all"
+      ],
+      [
+       "night",
+       "ngsl-spoken:night"
+      ]
+     ],
+     "start": 25.46,
+     "end": 28.83
+    },
+    {
+     "who": "Mia",
+     "en": "Thank you, guys. I love you.",
+     "pt": "Obrigada, pessoal. Amo vocês.",
+     "tokens": [
+      [
+       "thank",
+       "ngsl-spoken:thank"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "guys",
+       "ngsl-spoken:guy"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "love",
+       "ngsl-spoken:love"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ]
+     ],
+     "start": 29.53,
+     "end": 31.11
+    }
+   ],
+   "words": {
+    "ngsl-spoken:tomorrow": 1,
+    "ngsl-spoken:be": 6,
+    "ngsl-spoken:and": 3,
+    "ngsl-spoken:want": 1,
+    "ngsl-spoken:to": 1,
+    "ngsl-spoken:make": 1,
+    "ngsl-spoken:a": 1,
+    "ngsl-spoken:surprise": 2,
+    "ngsl-spoken:party": 1,
+    "ngsl-spoken:can": 2,
+    "ngsl-spoken:you": 4,
+    "ngsl-spoken:buy": 1,
+    "ngsl-spoken:the": 6,
+    "ngsl-spoken:sure": 1,
+    "ngsl-spoken:call": 1,
+    "ngsl-spoken:she": 1,
+    "ngsl-spoken:friend": 1,
+    "ngsl-spoken:okay": 1,
+    "ngsl-spoken:next": 1,
+    "ngsl-spoken:day": 1,
+    "ngsl-spoken:everybody": 1,
+    "ngsl-spoken:in": 1,
+    "ngsl-spoken:house": 1,
+    "ngsl-spoken:light": 2,
+    "ngsl-spoken:off": 1,
+    "ngsl-spoken:open": 1,
+    "ngsl-spoken:door": 1,
+    "ngsl-spoken:why": 1,
+    "ngsl-spoken:it": 2,
+    "ngsl-spoken:so": 1,
+    "ngsl-spoken:come": 1,
+    "ngsl-spoken:on": 1,
+    "ngsl-spoken:happy": 2,
+    "ngsl-spoken:i": 3,
+    "ngsl-spoken:go": 1,
+    "ngsl-spoken:not": 1,
+    "ngsl-spoken:believe": 1,
+    "ngsl-spoken:very": 1,
+    "ngsl-spoken:they": 1,
+    "ngsl-spoken:eat": 1,
+    "ngsl-spoken:talk": 1,
+    "ngsl-spoken:all": 1,
+    "ngsl-spoken:night": 1,
+    "ngsl-spoken:thank": 1,
+    "ngsl-spoken:guy": 1,
+    "ngsl-spoken:love": 1
+   },
+   "outside": [
+    "birthday",
+    "cake",
+    "dark",
+    "hello",
+    "oh"
+   ],
+   "audio": "stories/a1-birthday.m4a",
+   "duration": 31.05
+  },
+  {
+   "id": "a2-trip",
+   "level": "A2",
+   "title": "The wrong train",
+   "title_pt": "O trem errado",
+   "lines": [
+    {
+     "who": "N",
+     "en": "Ana is on holiday. She wants to visit a small town near the sea.",
+     "pt": "Ana está de férias. Ela quer visitar uma cidadezinha perto do mar.",
+     "tokens": [
+      [
+       "ana",
+       null
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "on",
+       "ngsl-spoken:on"
+      ],
+      [
+       "holiday",
+       "ngsl-spoken:holiday"
+      ],
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "wants",
+       "ngsl-spoken:want"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "visit",
+       "ngsl-spoken:visit"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "small",
+       "ngsl-spoken:small"
+      ],
+      [
+       "town",
+       "ngsl-spoken:town"
+      ],
+      [
+       "near",
+       "ngsl-spoken:near"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "sea",
+       null
+      ]
+     ],
+     "start": 0.0,
+     "end": 4.22
+    },
+    {
+     "who": "N",
+     "en": "She buys a ticket and gets on the train.",
+     "pt": "Ela compra uma passagem e entra no trem.",
+     "tokens": [
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "buys",
+       "ngsl-spoken:buy"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "ticket",
+       null
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "gets",
+       "ngsl-spoken:get"
+      ],
+      [
+       "on",
+       "ngsl-spoken:on"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "train",
+       "ngsl-spoken:train"
+      ]
+     ],
+     "start": 4.57,
+     "end": 6.84
+    },
+    {
+     "who": "N",
+     "en": "After an hour, she looks out the window. Something is wrong.",
+     "pt": "Depois de uma hora, ela olha pela janela. Tem algo errado.",
+     "tokens": [
+      [
+       "after",
+       "ngsl-spoken:after"
+      ],
+      [
+       "an",
+       "ngsl-spoken:a"
+      ],
+      [
+       "hour",
+       "ngsl-spoken:hour"
+      ],
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "looks",
+       "ngsl-spoken:look"
+      ],
+      [
+       "out",
+       "ngsl-spoken:out"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "window",
+       "ngsl-spoken:window"
+      ],
+      [
+       "something",
+       "ngsl-spoken:something"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "wrong",
+       "ngsl-spoken:wrong"
+      ]
+     ],
+     "start": 7.19,
+     "end": 10.6
+    },
+    {
+     "who": "Ana",
+     "en": "Excuse me. Is this the train to the sea?",
+     "pt": "Com licença. Este é o trem para o mar?",
+     "tokens": [
+      [
+       "excuse",
+       null
+      ],
+      [
+       "me",
+       "ngsl-spoken:i"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "this",
+       "ngsl-spoken:this"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "train",
+       "ngsl-spoken:train"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "sea",
+       null
+      ]
+     ],
+     "start": 11.3,
+     "end": 13.6
+    },
+    {
+     "who": "Leo",
+     "en": "No, sorry. This train goes to the city.",
+     "pt": "Não, desculpa. Este trem vai para a cidade.",
+     "tokens": [
+      [
+       "no",
+       "ngsl-spoken:no"
+      ],
+      [
+       "sorry",
+       "ngsl-spoken:sorry"
+      ],
+      [
+       "this",
+       "ngsl-spoken:this"
+      ],
+      [
+       "train",
+       "ngsl-spoken:train"
+      ],
+      [
+       "goes",
+       "ngsl-spoken:go"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "city",
+       "ngsl-spoken:city"
+      ]
+     ],
+     "start": 14.3,
+     "end": 17.03
+    },
+    {
+     "who": "Ana",
+     "en": "Oh no. I took the wrong train!",
+     "pt": "Ah, não. Peguei o trem errado!",
+     "tokens": [
+      [
+       "oh",
+       null
+      ],
+      [
+       "no",
+       "ngsl-spoken:no"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "took",
+       "ngsl-spoken:take"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "wrong",
+       "ngsl-spoken:wrong"
+      ],
+      [
+       "train",
+       "ngsl-spoken:train"
+      ]
+     ],
+     "start": 17.73,
+     "end": 19.44
+    },
+    {
+     "who": "Leo",
+     "en": "Don't worry. It happens. Get off at the next stop.",
+     "pt": "Não se preocupe. Acontece. Desça na próxima parada.",
+     "tokens": [
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "worry",
+       "ngsl-spoken:worry"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "happens",
+       "ngsl-spoken:happen"
+      ],
+      [
+       "get",
+       "ngsl-spoken:get"
+      ],
+      [
+       "off",
+       "ngsl-spoken:off"
+      ],
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "next",
+       "ngsl-spoken:next"
+      ],
+      [
+       "stop",
+       "ngsl-spoken:stop"
+      ]
+     ],
+     "start": 20.14,
+     "end": 23.25
+    },
+    {
+     "who": "Leo",
+     "en": "Then take the train back. It's only twenty minutes.",
+     "pt": "Depois pegue o trem de volta. São só vinte minutos.",
+     "tokens": [
+      [
+       "then",
+       "ngsl-spoken:then"
+      ],
+      [
+       "take",
+       "ngsl-spoken:take"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "train",
+       "ngsl-spoken:train"
+      ],
+      [
+       "back",
+       "ngsl-spoken:back"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "'s",
+       "ngsl-spoken:be"
+      ],
+      [
+       "only",
+       "ngsl-spoken:on"
+      ],
+      [
+       "twenty",
+       "ngsl-spoken:twenty"
+      ],
+      [
+       "minutes",
+       "ngsl-spoken:minute"
+      ]
+     ],
+     "start": 23.6,
+     "end": 26.72
+    },
+    {
+     "who": "Ana",
+     "en": "Thank you. You are very kind.",
+     "pt": "Obrigada. Você é muito gentil.",
+     "tokens": [
+      [
+       "thank",
+       "ngsl-spoken:thank"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "are",
+       "ngsl-spoken:be"
+      ],
+      [
+       "very",
+       "ngsl-spoken:very"
+      ],
+      [
+       "kind",
+       "ngsl-spoken:kind"
+      ]
+     ],
+     "start": 27.42,
+     "end": 29.0
+    },
+    {
+     "who": "N",
+     "en": "Ana gets off, waits a little, and takes the right train.",
+     "pt": "Ana desce, espera um pouco e pega o trem certo.",
+     "tokens": [
+      [
+       "ana",
+       null
+      ],
+      [
+       "gets",
+       "ngsl-spoken:get"
+      ],
+      [
+       "off",
+       "ngsl-spoken:off"
+      ],
+      [
+       "waits",
+       "ngsl-spoken:wait"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "little",
+       "ngsl-spoken:little"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "takes",
+       "ngsl-spoken:take"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "right",
+       "ngsl-spoken:right"
+      ],
+      [
+       "train",
+       "ngsl-spoken:train"
+      ]
+     ],
+     "start": 29.7,
+     "end": 32.81
+    },
+    {
+     "who": "N",
+     "en": "She arrives late, but the sea is beautiful.",
+     "pt": "Ela chega tarde, mas o mar está lindo.",
+     "tokens": [
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "arrives",
+       null
+      ],
+      [
+       "late",
+       "ngsl-spoken:late"
+      ],
+      [
+       "but",
+       "ngsl-spoken:but"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "sea",
+       null
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "beautiful",
+       null
+      ]
+     ],
+     "start": 33.16,
+     "end": 35.47
+    },
+    {
+     "who": "Ana",
+     "en": "It was a long day. But it was worth it.",
+     "pt": "Foi um dia longo. Mas valeu a pena.",
+     "tokens": [
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "was",
+       "ngsl-spoken:be"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "long",
+       "ngsl-spoken:long"
+      ],
+      [
+       "day",
+       "ngsl-spoken:day"
+      ],
+      [
+       "but",
+       "ngsl-spoken:but"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "was",
+       "ngsl-spoken:be"
+      ],
+      [
+       "worth",
+       "ngsl-spoken:worth"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ]
+     ],
+     "start": 36.17,
+     "end": 38.21
+    }
+   ],
+   "words": {
+    "ngsl-spoken:be": 8,
+    "ngsl-spoken:on": 3,
+    "ngsl-spoken:holiday": 1,
+    "ngsl-spoken:she": 4,
+    "ngsl-spoken:want": 1,
+    "ngsl-spoken:to": 3,
+    "ngsl-spoken:visit": 1,
+    "ngsl-spoken:a": 5,
+    "ngsl-spoken:small": 1,
+    "ngsl-spoken:town": 1,
+    "ngsl-spoken:near": 1,
+    "ngsl-spoken:the": 11,
+    "ngsl-spoken:buy": 1,
+    "ngsl-spoken:and": 2,
+    "ngsl-spoken:get": 3,
+    "ngsl-spoken:train": 6,
+    "ngsl-spoken:after": 1,
+    "ngsl-spoken:hour": 1,
+    "ngsl-spoken:look": 1,
+    "ngsl-spoken:out": 1,
+    "ngsl-spoken:window": 1,
+    "ngsl-spoken:something": 1,
+    "ngsl-spoken:wrong": 2,
+    "ngsl-spoken:i": 2,
+    "ngsl-spoken:this": 2,
+    "ngsl-spoken:no": 2,
+    "ngsl-spoken:sorry": 1,
+    "ngsl-spoken:go": 1,
+    "ngsl-spoken:city": 1,
+    "ngsl-spoken:take": 3,
+    "ngsl-spoken:do": 1,
+    "ngsl-spoken:not": 1,
+    "ngsl-spoken:worry": 1,
+    "ngsl-spoken:it": 5,
+    "ngsl-spoken:happen": 1,
+    "ngsl-spoken:off": 2,
+    "ngsl-spoken:at": 1,
+    "ngsl-spoken:next": 1,
+    "ngsl-spoken:stop": 1,
+    "ngsl-spoken:then": 1,
+    "ngsl-spoken:back": 1,
+    "ngsl-spoken:twenty": 1,
+    "ngsl-spoken:minute": 1,
+    "ngsl-spoken:thank": 1,
+    "ngsl-spoken:you": 2,
+    "ngsl-spoken:very": 1,
+    "ngsl-spoken:kind": 1,
+    "ngsl-spoken:wait": 1,
+    "ngsl-spoken:little": 1,
+    "ngsl-spoken:right": 1,
+    "ngsl-spoken:late": 1,
+    "ngsl-spoken:but": 2,
+    "ngsl-spoken:long": 1,
+    "ngsl-spoken:day": 1,
+    "ngsl-spoken:worth": 1
+   },
+   "outside": [
+    "arrives",
+    "beautiful",
+    "excuse",
+    "oh",
+    "sea",
+    "ticket"
+   ],
+   "audio": "stories/a2-trip.m4a",
+   "duration": 38.21
+  },
+  {
+   "id": "a2-doctor",
+   "level": "A2",
+   "title": "At the doctor",
+   "title_pt": "No médico",
+   "lines": [
+    {
+     "who": "N",
+     "en": "Leo doesn't feel well. His head hurts and he is very hot.",
+     "pt": "Leo não se sente bem. Ele está com dor de cabeça e muito quente.",
+     "tokens": [
+      [
+       "leo",
+       null
+      ],
+      [
+       "does",
+       "ngsl-spoken:do"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "feel",
+       "ngsl-spoken:feel"
+      ],
+      [
+       "well",
+       "ngsl-spoken:well"
+      ],
+      [
+       "his",
+       "ngsl-spoken:he"
+      ],
+      [
+       "head",
+       "ngsl-spoken:head"
+      ],
+      [
+       "hurts",
+       null
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "he",
+       "ngsl-spoken:he"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "very",
+       "ngsl-spoken:very"
+      ],
+      [
+       "hot",
+       "ngsl-spoken:hot"
+      ]
+     ],
+     "start": 0.0,
+     "end": 3.5
+    },
+    {
+     "who": "Mia",
+     "en": "You should see a doctor.",
+     "pt": "Você deveria ir ao médico.",
+     "tokens": [
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "should",
+       "ngsl-spoken:should"
+      ],
+      [
+       "see",
+       "ngsl-spoken:see"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "doctor",
+       "ngsl-spoken:doctor"
+      ]
+     ],
+     "start": 4.2,
+     "end": 5.52
+    },
+    {
+     "who": "Leo",
+     "en": "I'm fine. It's just a cold.",
+     "pt": "Estou bem. É só um resfriado.",
+     "tokens": [
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "'m",
+       "ngsl-spoken:be"
+      ],
+      [
+       "fine",
+       "ngsl-spoken:fine"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "'s",
+       "ngsl-spoken:be"
+      ],
+      [
+       "just",
+       "ngsl-spoken:just"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "cold",
+       "ngsl-spoken:cold"
+      ]
+     ],
+     "start": 6.22,
+     "end": 8.27
+    },
+    {
+     "who": "Mia",
+     "en": "Leo, please. Just go.",
+     "pt": "Leo, por favor. Só vai.",
+     "tokens": [
+      [
+       "leo",
+       null
+      ],
+      [
+       "please",
+       "ngsl-spoken:please"
+      ],
+      [
+       "just",
+       "ngsl-spoken:just"
+      ],
+      [
+       "go",
+       "ngsl-spoken:go"
+      ]
+     ],
+     "start": 8.97,
+     "end": 10.42
+    },
+    {
+     "who": "N",
+     "en": "So Leo goes to the hospital. He waits for an hour.",
+     "pt": "Então Leo vai ao hospital. Ele espera uma hora.",
+     "tokens": [
+      [
+       "so",
+       "ngsl-spoken:so"
+      ],
+      [
+       "leo",
+       null
+      ],
+      [
+       "goes",
+       "ngsl-spoken:go"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "hospital",
+       "ngsl-spoken:hospital"
+      ],
+      [
+       "he",
+       "ngsl-spoken:he"
+      ],
+      [
+       "waits",
+       "ngsl-spoken:wait"
+      ],
+      [
+       "for",
+       "ngsl-spoken:for"
+      ],
+      [
+       "an",
+       "ngsl-spoken:a"
+      ],
+      [
+       "hour",
+       "ngsl-spoken:hour"
+      ]
+     ],
+     "start": 11.12,
+     "end": 14.36
+    },
+    {
+     "who": "Ana",
+     "en": "Hello, I'm the doctor. What's wrong?",
+     "pt": "Olá, eu sou a médica. O que você tem?",
+     "tokens": [
+      [
+       "hello",
+       null
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "'m",
+       "ngsl-spoken:be"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "doctor",
+       "ngsl-spoken:doctor"
+      ],
+      [
+       "what",
+       "ngsl-spoken:what"
+      ],
+      [
+       "'s",
+       "ngsl-spoken:be"
+      ],
+      [
+       "wrong",
+       "ngsl-spoken:wrong"
+      ]
+     ],
+     "start": 15.06,
+     "end": 16.9
+    },
+    {
+     "who": "Leo",
+     "en": "My head hurts, and I can't sleep.",
+     "pt": "Minha cabeça dói e eu não consigo dormir.",
+     "tokens": [
+      [
+       "my",
+       "ngsl-spoken:i"
+      ],
+      [
+       "head",
+       "ngsl-spoken:head"
+      ],
+      [
+       "hurts",
+       null
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "sleep",
+       "ngsl-spoken:sleep"
+      ]
+     ],
+     "start": 17.6,
+     "end": 19.94
+    },
+    {
+     "who": "Ana",
+     "en": "Okay. Let me check. Open your mouth, please.",
+     "pt": "Ok. Deixa eu ver. Abra a boca, por favor.",
+     "tokens": [
+      [
+       "okay",
+       "ngsl-spoken:okay"
+      ],
+      [
+       "let",
+       "ngsl-spoken:let"
+      ],
+      [
+       "me",
+       "ngsl-spoken:i"
+      ],
+      [
+       "check",
+       "ngsl-spoken:check"
+      ],
+      [
+       "open",
+       "ngsl-spoken:open"
+      ],
+      [
+       "your",
+       "ngsl-spoken:you"
+      ],
+      [
+       "mouth",
+       null
+      ],
+      [
+       "please",
+       "ngsl-spoken:please"
+      ]
+     ],
+     "start": 20.64,
+     "end": 23.2
+    },
+    {
+     "who": "Ana",
+     "en": "It's not serious. You need to rest and drink a lot of water.",
+     "pt": "Não é grave. Você precisa descansar e beber muita água.",
+     "tokens": [
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "'s",
+       "ngsl-spoken:be"
+      ],
+      [
+       "not",
+       "ngsl-spoken:not"
+      ],
+      [
+       "serious",
+       null
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "need",
+       "ngsl-spoken:need"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "rest",
+       "ngsl-spoken:rest"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "drink",
+       "ngsl-spoken:drink"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "lot",
+       "ngsl-spoken:lot"
+      ],
+      [
+       "of",
+       "ngsl-spoken:of"
+      ],
+      [
+       "water",
+       "ngsl-spoken:water"
+      ]
+     ],
+     "start": 23.55,
+     "end": 26.84
+    },
+    {
+     "who": "Leo",
+     "en": "Can I go to work tomorrow?",
+     "pt": "Posso ir trabalhar amanhã?",
+     "tokens": [
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "go",
+       "ngsl-spoken:go"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "work",
+       "ngsl-spoken:work"
+      ],
+      [
+       "tomorrow",
+       "ngsl-spoken:tomorrow"
+      ]
+     ],
+     "start": 27.54,
+     "end": 29.16
+    },
+    {
+     "who": "Ana",
+     "en": "No. Stay at home for two days.",
+     "pt": "Não. Fique em casa por dois dias.",
+     "tokens": [
+      [
+       "no",
+       "ngsl-spoken:no"
+      ],
+      [
+       "stay",
+       "ngsl-spoken:stay"
+      ],
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "home",
+       "ngsl-spoken:home"
+      ],
+      [
+       "for",
+       "ngsl-spoken:for"
+      ],
+      [
+       "two",
+       "ngsl-spoken:two"
+      ],
+      [
+       "days",
+       "ngsl-spoken:day"
+      ]
+     ],
+     "start": 29.86,
+     "end": 31.61
+    },
+    {
+     "who": "N",
+     "en": "Leo goes home. Mia makes him a hot tea.",
+     "pt": "Leo vai para casa. Mia faz um chá quente para ele.",
+     "tokens": [
+      [
+       "leo",
+       null
+      ],
+      [
+       "goes",
+       "ngsl-spoken:go"
+      ],
+      [
+       "home",
+       "ngsl-spoken:home"
+      ],
+      [
+       "mia",
+       null
+      ],
+      [
+       "makes",
+       "ngsl-spoken:make"
+      ],
+      [
+       "him",
+       "ngsl-spoken:he"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "hot",
+       "ngsl-spoken:hot"
+      ],
+      [
+       "tea",
+       "ngsl-spoken:tea"
+      ]
+     ],
+     "start": 32.31,
+     "end": 34.96
+    },
+    {
+     "who": "Mia",
+     "en": "See? It was a good idea to go.",
+     "pt": "Viu? Foi uma boa ideia ir.",
+     "tokens": [
+      [
+       "see",
+       "ngsl-spoken:see"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "was",
+       "ngsl-spoken:be"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "good",
+       "ngsl-spoken:good"
+      ],
+      [
+       "idea",
+       "ngsl-spoken:idea"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "go",
+       "ngsl-spoken:go"
+      ]
+     ],
+     "start": 35.66,
+     "end": 37.4
+    }
+   ],
+   "words": {
+    "ngsl-spoken:do": 1,
+    "ngsl-spoken:not": 3,
+    "ngsl-spoken:feel": 1,
+    "ngsl-spoken:well": 1,
+    "ngsl-spoken:he": 4,
+    "ngsl-spoken:head": 2,
+    "ngsl-spoken:and": 3,
+    "ngsl-spoken:be": 7,
+    "ngsl-spoken:very": 1,
+    "ngsl-spoken:hot": 2,
+    "ngsl-spoken:you": 3,
+    "ngsl-spoken:should": 1,
+    "ngsl-spoken:see": 2,
+    "ngsl-spoken:a": 6,
+    "ngsl-spoken:doctor": 2,
+    "ngsl-spoken:i": 6,
+    "ngsl-spoken:fine": 1,
+    "ngsl-spoken:it": 3,
+    "ngsl-spoken:just": 2,
+    "ngsl-spoken:cold": 1,
+    "ngsl-spoken:please": 2,
+    "ngsl-spoken:go": 5,
+    "ngsl-spoken:so": 1,
+    "ngsl-spoken:to": 4,
+    "ngsl-spoken:the": 2,
+    "ngsl-spoken:hospital": 1,
+    "ngsl-spoken:wait": 1,
+    "ngsl-spoken:for": 2,
+    "ngsl-spoken:hour": 1,
+    "ngsl-spoken:what": 1,
+    "ngsl-spoken:wrong": 1,
+    "ngsl-spoken:can": 2,
+    "ngsl-spoken:sleep": 1,
+    "ngsl-spoken:okay": 1,
+    "ngsl-spoken:let": 1,
+    "ngsl-spoken:check": 1,
+    "ngsl-spoken:open": 1,
+    "ngsl-spoken:need": 1,
+    "ngsl-spoken:rest": 1,
+    "ngsl-spoken:drink": 1,
+    "ngsl-spoken:lot": 1,
+    "ngsl-spoken:of": 1,
+    "ngsl-spoken:water": 1,
+    "ngsl-spoken:work": 1,
+    "ngsl-spoken:tomorrow": 1,
+    "ngsl-spoken:no": 1,
+    "ngsl-spoken:stay": 1,
+    "ngsl-spoken:at": 1,
+    "ngsl-spoken:home": 2,
+    "ngsl-spoken:two": 1,
+    "ngsl-spoken:day": 1,
+    "ngsl-spoken:make": 1,
+    "ngsl-spoken:tea": 1,
+    "ngsl-spoken:good": 1,
+    "ngsl-spoken:idea": 1
+   },
+   "outside": [
+    "hello",
+    "hurts",
+    "mouth",
+    "serious"
+   ],
+   "audio": "stories/a2-doctor.m4a",
+   "duration": 37.38
+  },
+  {
+   "id": "a2-interview",
+   "level": "A2",
+   "title": "The job interview",
+   "title_pt": "A entrevista de emprego",
+   "lines": [
+    {
+     "who": "N",
+     "en": "Mia wants a new job. Today she has an interview in English.",
+     "pt": "Mia quer um emprego novo. Hoje ela tem uma entrevista em inglês.",
+     "tokens": [
+      [
+       "mia",
+       null
+      ],
+      [
+       "wants",
+       "ngsl-spoken:want"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "new",
+       "ngsl-spoken:new"
+      ],
+      [
+       "job",
+       "ngsl-spoken:job"
+      ],
+      [
+       "today",
+       "ngsl-spoken:today"
+      ],
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "has",
+       "ngsl-spoken:have"
+      ],
+      [
+       "an",
+       "ngsl-spoken:a"
+      ],
+      [
+       "interview",
+       null
+      ],
+      [
+       "in",
+       "ngsl-spoken:in"
+      ],
+      [
+       "english",
+       null
+      ]
+     ],
+     "start": 0.0,
+     "end": 3.84
+    },
+    {
+     "who": "N",
+     "en": "She studied a lot, but she is nervous.",
+     "pt": "Ela estudou muito, mas está nervosa.",
+     "tokens": [
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "studied",
+       "ngsl-spoken:study"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "lot",
+       "ngsl-spoken:lot"
+      ],
+      [
+       "but",
+       "ngsl-spoken:but"
+      ],
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "nervous",
+       null
+      ]
+     ],
+     "start": 4.19,
+     "end": 6.11
+    },
+    {
+     "who": "Leo",
+     "en": "Good morning. Please, sit down. Tell me about yourself.",
+     "pt": "Bom dia. Por favor, sente-se. Fale sobre você.",
+     "tokens": [
+      [
+       "good",
+       "ngsl-spoken:good"
+      ],
+      [
+       "morning",
+       "ngsl-spoken:morning"
+      ],
+      [
+       "please",
+       "ngsl-spoken:please"
+      ],
+      [
+       "sit",
+       "ngsl-spoken:sit"
+      ],
+      [
+       "down",
+       "ngsl-spoken:down"
+      ],
+      [
+       "tell",
+       "ngsl-spoken:tell"
+      ],
+      [
+       "me",
+       "ngsl-spoken:i"
+      ],
+      [
+       "about",
+       "ngsl-spoken:about"
+      ],
+      [
+       "yourself",
+       "ngsl-spoken:yourself"
+      ]
+     ],
+     "start": 6.81,
+     "end": 10.39
+    },
+    {
+     "who": "Mia",
+     "en": "Hi. My name is Mia. I work with computers. I have five years of experience.",
+     "pt": "Oi. Meu nome é Mia. Eu trabalho com computadores. Tenho cinco anos de experiência.",
+     "tokens": [
+      [
+       "hi",
+       null
+      ],
+      [
+       "my",
+       "ngsl-spoken:i"
+      ],
+      [
+       "name",
+       "ngsl-spoken:name"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "mia",
+       null
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "work",
+       "ngsl-spoken:work"
+      ],
+      [
+       "with",
+       "ngsl-spoken:with"
+      ],
+      [
+       "computers",
+       "ngsl-spoken:computer"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "have",
+       "ngsl-spoken:have"
+      ],
+      [
+       "five",
+       "ngsl-spoken:five"
+      ],
+      [
+       "years",
+       "ngsl-spoken:year"
+      ],
+      [
+       "of",
+       "ngsl-spoken:of"
+      ],
+      [
+       "experience",
+       "ngsl-spoken:experience"
+      ]
+     ],
+     "start": 11.09,
+     "end": 15.45
+    },
+    {
+     "who": "Leo",
+     "en": "Why do you want to work here?",
+     "pt": "Por que você quer trabalhar aqui?",
+     "tokens": [
+      [
+       "why",
+       "ngsl-spoken:why"
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "want",
+       "ngsl-spoken:want"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "work",
+       "ngsl-spoken:work"
+      ],
+      [
+       "here",
+       "ngsl-spoken:here"
+      ]
+     ],
+     "start": 16.15,
+     "end": 17.64
+    },
+    {
+     "who": "Mia",
+     "en": "Because I like your projects. And I want to learn more.",
+     "pt": "Porque eu gosto dos seus projetos. E quero aprender mais.",
+     "tokens": [
+      [
+       "because",
+       "ngsl-spoken:because"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "like",
+       "ngsl-spoken:like"
+      ],
+      [
+       "your",
+       "ngsl-spoken:you"
+      ],
+      [
+       "projects",
+       "ngsl-spoken:project"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "want",
+       "ngsl-spoken:want"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "learn",
+       "ngsl-spoken:learn"
+      ],
+      [
+       "more",
+       "ngsl-spoken:more"
+      ]
+     ],
+     "start": 18.34,
+     "end": 21.03
+    },
+    {
+     "who": "Leo",
+     "en": "What is a problem you solved at work?",
+     "pt": "Qual é um problema que você resolveu no trabalho?",
+     "tokens": [
+      [
+       "what",
+       "ngsl-spoken:what"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "problem",
+       "ngsl-spoken:problem"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "solved",
+       null
+      ],
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "work",
+       "ngsl-spoken:work"
+      ]
+     ],
+     "start": 21.73,
+     "end": 24.24
+    },
+    {
+     "who": "N",
+     "en": "Mia thinks for a moment. Then she tells a story about a hard project.",
+     "pt": "Mia pensa por um momento. Depois ela conta a história de um projeto difícil.",
+     "tokens": [
+      [
+       "mia",
+       null
+      ],
+      [
+       "thinks",
+       "ngsl-spoken:think"
+      ],
+      [
+       "for",
+       "ngsl-spoken:for"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "moment",
+       "ngsl-spoken:moment"
+      ],
+      [
+       "then",
+       "ngsl-spoken:then"
+      ],
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "tells",
+       "ngsl-spoken:tell"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "story",
+       "ngsl-spoken:story"
+      ],
+      [
+       "about",
+       "ngsl-spoken:about"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "hard",
+       "ngsl-spoken:hard"
+      ],
+      [
+       "project",
+       "ngsl-spoken:project"
+      ]
+     ],
+     "start": 24.94,
+     "end": 29.3
+    },
+    {
+     "who": "Leo",
+     "en": "Good. Do you have any questions for me?",
+     "pt": "Bom. Você tem alguma pergunta para mim?",
+     "tokens": [
+      [
+       "good",
+       "ngsl-spoken:good"
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "have",
+       "ngsl-spoken:have"
+      ],
+      [
+       "any",
+       "ngsl-spoken:any"
+      ],
+      [
+       "questions",
+       "ngsl-spoken:question"
+      ],
+      [
+       "for",
+       "ngsl-spoken:for"
+      ],
+      [
+       "me",
+       "ngsl-spoken:i"
+      ]
+     ],
+     "start": 30.0,
+     "end": 32.09
+    },
+    {
+     "who": "Mia",
+     "en": "Yes. When can I start?",
+     "pt": "Sim. Quando eu posso começar?",
+     "tokens": [
+      [
+       "yes",
+       "ngsl-spoken:yes"
+      ],
+      [
+       "when",
+       "ngsl-spoken:when"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "start",
+       "ngsl-spoken:start"
+      ]
+     ],
+     "start": 32.79,
+     "end": 34.24
+    },
+    {
+     "who": "N",
+     "en": "Leo laughs.",
+     "pt": "Leo ri.",
+     "tokens": [
+      [
+       "leo",
+       null
+      ],
+      [
+       "laughs",
+       "ngsl-spoken:laugh"
+      ]
+     ],
+     "start": 34.94,
+     "end": 35.79
+    },
+    {
+     "who": "Leo",
+     "en": "I like you. We will call you next week.",
+     "pt": "Gostei de você. Vamos te ligar semana que vem.",
+     "tokens": [
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "like",
+       "ngsl-spoken:like"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "we",
+       "ngsl-spoken:we"
+      ],
+      [
+       "will",
+       "ngsl-spoken:will"
+      ],
+      [
+       "call",
+       "ngsl-spoken:call"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "next",
+       "ngsl-spoken:next"
+      ],
+      [
+       "week",
+       "ngsl-spoken:week"
+      ]
+     ],
+     "start": 36.49,
+     "end": 38.84
+    },
+    {
+     "who": "N",
+     "en": "One week later, the phone rings. Mia got the job.",
+     "pt": "Uma semana depois, o telefone toca. Mia conseguiu o emprego.",
+     "tokens": [
+      [
+       "one",
+       "ngsl-spoken:one"
+      ],
+      [
+       "week",
+       "ngsl-spoken:week"
+      ],
+      [
+       "later",
+       null
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "phone",
+       "ngsl-spoken:phone"
+      ],
+      [
+       "rings",
+       "ngsl-spoken:ring"
+      ],
+      [
+       "mia",
+       null
+      ],
+      [
+       "got",
+       "ngsl-spoken:get"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "job",
+       "ngsl-spoken:job"
+      ]
+     ],
+     "start": 39.54,
+     "end": 42.82
+    }
+   ],
+   "words": {
+    "ngsl-spoken:want": 3,
+    "ngsl-spoken:a": 7,
+    "ngsl-spoken:new": 1,
+    "ngsl-spoken:job": 2,
+    "ngsl-spoken:today": 1,
+    "ngsl-spoken:she": 4,
+    "ngsl-spoken:have": 3,
+    "ngsl-spoken:in": 1,
+    "ngsl-spoken:study": 1,
+    "ngsl-spoken:lot": 1,
+    "ngsl-spoken:but": 1,
+    "ngsl-spoken:be": 3,
+    "ngsl-spoken:good": 2,
+    "ngsl-spoken:morning": 1,
+    "ngsl-spoken:please": 1,
+    "ngsl-spoken:sit": 1,
+    "ngsl-spoken:down": 1,
+    "ngsl-spoken:tell": 2,
+    "ngsl-spoken:i": 9,
+    "ngsl-spoken:about": 2,
+    "ngsl-spoken:yourself": 1,
+    "ngsl-spoken:name": 1,
+    "ngsl-spoken:work": 3,
+    "ngsl-spoken:with": 1,
+    "ngsl-spoken:computer": 1,
+    "ngsl-spoken:five": 1,
+    "ngsl-spoken:year": 1,
+    "ngsl-spoken:of": 1,
+    "ngsl-spoken:experience": 1,
+    "ngsl-spoken:why": 1,
+    "ngsl-spoken:do": 2,
+    "ngsl-spoken:you": 6,
+    "ngsl-spoken:to": 2,
+    "ngsl-spoken:here": 1,
+    "ngsl-spoken:because": 1,
+    "ngsl-spoken:like": 2,
+    "ngsl-spoken:project": 2,
+    "ngsl-spoken:and": 1,
+    "ngsl-spoken:learn": 1,
+    "ngsl-spoken:more": 1,
+    "ngsl-spoken:what": 1,
+    "ngsl-spoken:problem": 1,
+    "ngsl-spoken:at": 1,
+    "ngsl-spoken:think": 1,
+    "ngsl-spoken:for": 2,
+    "ngsl-spoken:moment": 1,
+    "ngsl-spoken:then": 1,
+    "ngsl-spoken:story": 1,
+    "ngsl-spoken:hard": 1,
+    "ngsl-spoken:any": 1,
+    "ngsl-spoken:question": 1,
+    "ngsl-spoken:yes": 1,
+    "ngsl-spoken:when": 1,
+    "ngsl-spoken:can": 1,
+    "ngsl-spoken:start": 1,
+    "ngsl-spoken:laugh": 1,
+    "ngsl-spoken:we": 1,
+    "ngsl-spoken:will": 1,
+    "ngsl-spoken:call": 1,
+    "ngsl-spoken:next": 1,
+    "ngsl-spoken:week": 2,
+    "ngsl-spoken:one": 1,
+    "ngsl-spoken:the": 2,
+    "ngsl-spoken:phone": 1,
+    "ngsl-spoken:ring": 1,
+    "ngsl-spoken:get": 1
+   },
+   "outside": [
+    "english",
+    "hi",
+    "interview",
+    "later",
+    "nervous",
+    "solved"
+   ],
+   "audio": "stories/a2-interview.m4a",
+   "duration": 42.77
+  },
+  {
+   "id": "a2-dinner",
+   "level": "A2",
+   "title": "Dinner for four",
+   "title_pt": "Jantar para quatro",
+   "lines": [
+    {
+     "who": "N",
+     "en": "Ana invites some friends for dinner on Friday.",
+     "pt": "Ana convida uns amigos para jantar na sexta.",
+     "tokens": [
+      [
+       "ana",
+       null
+      ],
+      [
+       "invites",
+       null
+      ],
+      [
+       "some",
+       "ngsl-spoken:some"
+      ],
+      [
+       "friends",
+       "ngsl-spoken:friend"
+      ],
+      [
+       "for",
+       "ngsl-spoken:for"
+      ],
+      [
+       "dinner",
+       "ngsl-spoken:dinner"
+      ],
+      [
+       "on",
+       "ngsl-spoken:on"
+      ],
+      [
+       "friday",
+       null
+      ]
+     ],
+     "start": 0.0,
+     "end": 2.86
+    },
+    {
+     "who": "N",
+     "en": "The problem is: she doesn't know how to cook.",
+     "pt": "O problema é: ela não sabe cozinhar.",
+     "tokens": [
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "problem",
+       "ngsl-spoken:problem"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "she",
+       "ngsl-spoken:she"
+      ],
+      [
+       "does",
+       "ngsl-spoken:do"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "know",
+       "ngsl-spoken:know"
+      ],
+      [
+       "how",
+       "ngsl-spoken:how"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "cook",
+       null
+      ]
+     ],
+     "start": 3.21,
+     "end": 5.77
+    },
+    {
+     "who": "Ana",
+     "en": "Mia, can you help me? I want to make something special.",
+     "pt": "Mia, você pode me ajudar? Quero fazer algo especial.",
+     "tokens": [
+      [
+       "mia",
+       null
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "help",
+       "ngsl-spoken:help"
+      ],
+      [
+       "me",
+       "ngsl-spoken:i"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "want",
+       "ngsl-spoken:want"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "make",
+       "ngsl-spoken:make"
+      ],
+      [
+       "something",
+       "ngsl-spoken:something"
+      ],
+      [
+       "special",
+       "ngsl-spoken:special"
+      ]
+     ],
+     "start": 6.47,
+     "end": 9.24
+    },
+    {
+     "who": "Mia",
+     "en": "Of course. Let's go step by step.",
+     "pt": "Claro. Vamos passo a passo.",
+     "tokens": [
+      [
+       "of",
+       "ngsl-spoken:of"
+      ],
+      [
+       "course",
+       "ngsl-spoken:course"
+      ],
+      [
+       "let's",
+       "ngsl-spoken:let"
+      ],
+      [
+       "go",
+       "ngsl-spoken:go"
+      ],
+      [
+       "step",
+       "ngsl-spoken:step"
+      ],
+      [
+       "by",
+       "ngsl-spoken:by"
+      ],
+      [
+       "step",
+       "ngsl-spoken:step"
+      ]
+     ],
+     "start": 9.94,
+     "end": 11.99
+    },
+    {
+     "who": "N",
+     "en": "They go to the market and buy rice, chicken and vegetables.",
+     "pt": "Elas vão ao mercado e compram arroz, frango e legumes.",
+     "tokens": [
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "go",
+       "ngsl-spoken:go"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "market",
+       "ngsl-spoken:market"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "buy",
+       "ngsl-spoken:buy"
+      ],
+      [
+       "rice",
+       null
+      ],
+      [
+       "chicken",
+       null
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "vegetables",
+       null
+      ]
+     ],
+     "start": 12.69,
+     "end": 16.15
+    },
+    {
+     "who": "N",
+     "en": "At home, Mia explains everything. Ana takes notes.",
+     "pt": "Em casa, Mia explica tudo. Ana anota.",
+     "tokens": [
+      [
+       "at",
+       "ngsl-spoken:at"
+      ],
+      [
+       "home",
+       "ngsl-spoken:home"
+      ],
+      [
+       "mia",
+       null
+      ],
+      [
+       "explains",
+       "ngsl-spoken:explain"
+      ],
+      [
+       "everything",
+       "ngsl-spoken:everything"
+      ],
+      [
+       "ana",
+       null
+      ],
+      [
+       "takes",
+       "ngsl-spoken:take"
+      ],
+      [
+       "notes",
+       "ngsl-spoken:not"
+      ]
+     ],
+     "start": 16.5,
+     "end": 19.78
+    },
+    {
+     "who": "Ana",
+     "en": "Wait, how much salt? I don't want to make it awful.",
+     "pt": "Espera, quanto sal? Não quero que fique horrível.",
+     "tokens": [
+      [
+       "wait",
+       "ngsl-spoken:wait"
+      ],
+      [
+       "how",
+       "ngsl-spoken:how"
+      ],
+      [
+       "much",
+       "ngsl-spoken:much"
+      ],
+      [
+       "salt",
+       null
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "do",
+       "ngsl-spoken:do"
+      ],
+      [
+       "n't",
+       "ngsl-spoken:not"
+      ],
+      [
+       "want",
+       "ngsl-spoken:want"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "make",
+       "ngsl-spoken:make"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "awful",
+       "ngsl-spoken:awful"
+      ]
+     ],
+     "start": 20.48,
+     "end": 23.13
+    },
+    {
+     "who": "Mia",
+     "en": "Just a little. You can add more later.",
+     "pt": "Só um pouco. Você pode pôr mais depois.",
+     "tokens": [
+      [
+       "just",
+       "ngsl-spoken:just"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "little",
+       "ngsl-spoken:little"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "add",
+       "ngsl-spoken:add"
+      ],
+      [
+       "more",
+       "ngsl-spoken:more"
+      ],
+      [
+       "later",
+       null
+      ]
+     ],
+     "start": 23.83,
+     "end": 25.79
+    },
+    {
+     "who": "N",
+     "en": "On Friday, the friends arrive. The food is ready.",
+     "pt": "Na sexta, os amigos chegam. A comida está pronta.",
+     "tokens": [
+      [
+       "on",
+       "ngsl-spoken:on"
+      ],
+      [
+       "friday",
+       null
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "friends",
+       "ngsl-spoken:friend"
+      ],
+      [
+       "arrive",
+       null
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "food",
+       "ngsl-spoken:food"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "ready",
+       "ngsl-spoken:ready"
+      ]
+     ],
+     "start": 26.49,
+     "end": 29.65
+    },
+    {
+     "who": "Leo",
+     "en": "Wow, this is really good! Did you make it?",
+     "pt": "Nossa, isso está muito bom! Foi você que fez?",
+     "tokens": [
+      [
+       "wow",
+       null
+      ],
+      [
+       "this",
+       "ngsl-spoken:this"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "really",
+       "ngsl-spoken:really"
+      ],
+      [
+       "good",
+       "ngsl-spoken:good"
+      ],
+      [
+       "did",
+       "ngsl-spoken:do"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "make",
+       "ngsl-spoken:make"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ]
+     ],
+     "start": 30.35,
+     "end": 32.95
+    },
+    {
+     "who": "Ana",
+     "en": "Well, I had some help.",
+     "pt": "Bom, eu tive uma ajudinha.",
+     "tokens": [
+      [
+       "well",
+       "ngsl-spoken:well"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "had",
+       "ngsl-spoken:have"
+      ],
+      [
+       "some",
+       "ngsl-spoken:some"
+      ],
+      [
+       "help",
+       "ngsl-spoken:help"
+      ]
+     ],
+     "start": 33.65,
+     "end": 34.8
+    },
+    {
+     "who": "N",
+     "en": "Everyone laughs. It was a wonderful night.",
+     "pt": "Todo mundo ri. Foi uma noite maravilhosa.",
+     "tokens": [
+      [
+       "everyone",
+       "ngsl-spoken:everyone"
+      ],
+      [
+       "laughs",
+       "ngsl-spoken:laugh"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "was",
+       "ngsl-spoken:be"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "wonderful",
+       "ngsl-spoken:wonderful"
+      ],
+      [
+       "night",
+       "ngsl-spoken:night"
+      ]
+     ],
+     "start": 35.5,
+     "end": 37.89
+    }
+   ],
+   "words": {
+    "ngsl-spoken:some": 2,
+    "ngsl-spoken:friend": 2,
+    "ngsl-spoken:for": 1,
+    "ngsl-spoken:dinner": 1,
+    "ngsl-spoken:on": 2,
+    "ngsl-spoken:the": 4,
+    "ngsl-spoken:problem": 1,
+    "ngsl-spoken:be": 4,
+    "ngsl-spoken:she": 1,
+    "ngsl-spoken:do": 3,
+    "ngsl-spoken:not": 3,
+    "ngsl-spoken:know": 1,
+    "ngsl-spoken:how": 2,
+    "ngsl-spoken:to": 4,
+    "ngsl-spoken:can": 2,
+    "ngsl-spoken:you": 3,
+    "ngsl-spoken:help": 2,
+    "ngsl-spoken:i": 4,
+    "ngsl-spoken:want": 2,
+    "ngsl-spoken:make": 3,
+    "ngsl-spoken:something": 1,
+    "ngsl-spoken:special": 1,
+    "ngsl-spoken:of": 1,
+    "ngsl-spoken:course": 1,
+    "ngsl-spoken:let": 1,
+    "ngsl-spoken:go": 2,
+    "ngsl-spoken:step": 2,
+    "ngsl-spoken:by": 1,
+    "ngsl-spoken:they": 1,
+    "ngsl-spoken:market": 1,
+    "ngsl-spoken:and": 2,
+    "ngsl-spoken:buy": 1,
+    "ngsl-spoken:at": 1,
+    "ngsl-spoken:home": 1,
+    "ngsl-spoken:explain": 1,
+    "ngsl-spoken:everything": 1,
+    "ngsl-spoken:take": 1,
+    "ngsl-spoken:wait": 1,
+    "ngsl-spoken:much": 1,
+    "ngsl-spoken:it": 3,
+    "ngsl-spoken:awful": 1,
+    "ngsl-spoken:just": 1,
+    "ngsl-spoken:a": 2,
+    "ngsl-spoken:little": 1,
+    "ngsl-spoken:add": 1,
+    "ngsl-spoken:more": 1,
+    "ngsl-spoken:food": 1,
+    "ngsl-spoken:ready": 1,
+    "ngsl-spoken:this": 1,
+    "ngsl-spoken:really": 1,
+    "ngsl-spoken:good": 1,
+    "ngsl-spoken:well": 1,
+    "ngsl-spoken:have": 1,
+    "ngsl-spoken:everyone": 1,
+    "ngsl-spoken:laugh": 1,
+    "ngsl-spoken:wonderful": 1,
+    "ngsl-spoken:night": 1
+   },
+   "outside": [
+    "arrive",
+    "chicken",
+    "cook",
+    "friday",
+    "invites",
+    "later",
+    "rice",
+    "salt",
+    "vegetables",
+    "wow"
+   ],
+   "audio": "stories/a2-dinner.m4a",
+   "duration": 37.87
+  },
+  {
+   "id": "a2-moving",
+   "level": "A2",
+   "title": "A new home",
+   "title_pt": "Uma casa nova",
+   "lines": [
+    {
+     "who": "N",
+     "en": "Leo is moving to a new apartment. It is on the fifth floor.",
+     "pt": "Leo está se mudando para um apartamento novo. Fica no quinto andar.",
+     "tokens": [
+      [
+       "leo",
+       null
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "moving",
+       "ngsl-spoken:move"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "new",
+       "ngsl-spoken:new"
+      ],
+      [
+       "apartment",
+       null
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "on",
+       "ngsl-spoken:on"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "fifth",
+       null
+      ],
+      [
+       "floor",
+       "ngsl-spoken:floor"
+      ]
+     ],
+     "start": 0.0,
+     "end": 3.75
+    },
+    {
+     "who": "N",
+     "en": "There is no lift, and he has a lot of boxes.",
+     "pt": "Não tem elevador, e ele tem muitas caixas.",
+     "tokens": [
+      [
+       "there",
+       "ngsl-spoken:there"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "no",
+       "ngsl-spoken:no"
+      ],
+      [
+       "lift",
+       null
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "he",
+       "ngsl-spoken:he"
+      ],
+      [
+       "has",
+       "ngsl-spoken:have"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "lot",
+       "ngsl-spoken:lot"
+      ],
+      [
+       "of",
+       "ngsl-spoken:of"
+      ],
+      [
+       "boxes",
+       "ngsl-spoken:box"
+      ]
+     ],
+     "start": 4.1,
+     "end": 6.88
+    },
+    {
+     "who": "Leo",
+     "en": "This box is so heavy. What's in it?",
+     "pt": "Esta caixa está tão pesada. O que tem nela?",
+     "tokens": [
+      [
+       "this",
+       "ngsl-spoken:this"
+      ],
+      [
+       "box",
+       "ngsl-spoken:box"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "so",
+       "ngsl-spoken:so"
+      ],
+      [
+       "heavy",
+       null
+      ],
+      [
+       "what",
+       "ngsl-spoken:what"
+      ],
+      [
+       "'s",
+       "ngsl-spoken:be"
+      ],
+      [
+       "in",
+       "ngsl-spoken:in"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ]
+     ],
+     "start": 7.58,
+     "end": 10.05
+    },
+    {
+     "who": "Ana",
+     "en": "Your books! You have too many books.",
+     "pt": "Seus livros! Você tem livros demais.",
+     "tokens": [
+      [
+       "your",
+       "ngsl-spoken:you"
+      ],
+      [
+       "books",
+       "ngsl-spoken:book"
+      ],
+      [
+       "you",
+       "ngsl-spoken:you"
+      ],
+      [
+       "have",
+       "ngsl-spoken:have"
+      ],
+      [
+       "too",
+       "ngsl-spoken:too"
+      ],
+      [
+       "many",
+       "ngsl-spoken:many"
+      ],
+      [
+       "books",
+       "ngsl-spoken:book"
+      ]
+     ],
+     "start": 10.75,
+     "end": 12.42
+    },
+    {
+     "who": "N",
+     "en": "They carry box after box. After three hours, they finish.",
+     "pt": "Eles carregam caixa atrás de caixa. Depois de três horas, eles terminam.",
+     "tokens": [
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "carry",
+       "ngsl-spoken:carry"
+      ],
+      [
+       "box",
+       "ngsl-spoken:box"
+      ],
+      [
+       "after",
+       "ngsl-spoken:after"
+      ],
+      [
+       "box",
+       "ngsl-spoken:box"
+      ],
+      [
+       "after",
+       "ngsl-spoken:after"
+      ],
+      [
+       "three",
+       "ngsl-spoken:three"
+      ],
+      [
+       "hours",
+       "ngsl-spoken:hour"
+      ],
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "finish",
+       "ngsl-spoken:finish"
+      ]
+     ],
+     "start": 13.12,
+     "end": 16.96
+    },
+    {
+     "who": "Ana",
+     "en": "I'm so tired. My back is killing me.",
+     "pt": "Estou tão cansada. Minhas costas estão me matando.",
+     "tokens": [
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "'m",
+       "ngsl-spoken:be"
+      ],
+      [
+       "so",
+       "ngsl-spoken:so"
+      ],
+      [
+       "tired",
+       null
+      ],
+      [
+       "my",
+       "ngsl-spoken:i"
+      ],
+      [
+       "back",
+       "ngsl-spoken:back"
+      ],
+      [
+       "is",
+       "ngsl-spoken:be"
+      ],
+      [
+       "killing",
+       "ngsl-spoken:kill"
+      ],
+      [
+       "me",
+       "ngsl-spoken:i"
+      ]
+     ],
+     "start": 17.66,
+     "end": 19.83
+    },
+    {
+     "who": "Leo",
+     "en": "Thanks for your help. Let's order a pizza.",
+     "pt": "Obrigado pela ajuda. Vamos pedir uma pizza.",
+     "tokens": [
+      [
+       "thanks",
+       "ngsl-spoken:thank"
+      ],
+      [
+       "for",
+       "ngsl-spoken:for"
+      ],
+      [
+       "your",
+       "ngsl-spoken:you"
+      ],
+      [
+       "help",
+       "ngsl-spoken:help"
+      ],
+      [
+       "let's",
+       "ngsl-spoken:let"
+      ],
+      [
+       "order",
+       "ngsl-spoken:order"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "pizza",
+       null
+      ]
+     ],
+     "start": 20.53,
+     "end": 23.22
+    },
+    {
+     "who": "N",
+     "en": "They sit on the floor and look out the window.",
+     "pt": "Eles sentam no chão e olham pela janela.",
+     "tokens": [
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "sit",
+       "ngsl-spoken:sit"
+      ],
+      [
+       "on",
+       "ngsl-spoken:on"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "floor",
+       "ngsl-spoken:floor"
+      ],
+      [
+       "and",
+       "ngsl-spoken:and"
+      ],
+      [
+       "look",
+       "ngsl-spoken:look"
+      ],
+      [
+       "out",
+       "ngsl-spoken:out"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "window",
+       "ngsl-spoken:window"
+      ]
+     ],
+     "start": 23.92,
+     "end": 26.18
+    },
+    {
+     "who": "N",
+     "en": "They can see the whole city from there.",
+     "pt": "Dá para ver a cidade inteira de lá.",
+     "tokens": [
+      [
+       "they",
+       "ngsl-spoken:they"
+      ],
+      [
+       "can",
+       "ngsl-spoken:can"
+      ],
+      [
+       "see",
+       "ngsl-spoken:see"
+      ],
+      [
+       "the",
+       "ngsl-spoken:the"
+      ],
+      [
+       "whole",
+       "ngsl-spoken:whole"
+      ],
+      [
+       "city",
+       "ngsl-spoken:city"
+      ],
+      [
+       "from",
+       "ngsl-spoken:from"
+      ],
+      [
+       "there",
+       "ngsl-spoken:there"
+      ]
+     ],
+     "start": 26.53,
+     "end": 28.41
+    },
+    {
+     "who": "Ana",
+     "en": "What a view! It was worth it.",
+     "pt": "Que vista! Valeu a pena.",
+     "tokens": [
+      [
+       "what",
+       "ngsl-spoken:what"
+      ],
+      [
+       "a",
+       "ngsl-spoken:a"
+      ],
+      [
+       "view",
+       "ngsl-spoken:view"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ],
+      [
+       "was",
+       "ngsl-spoken:be"
+      ],
+      [
+       "worth",
+       "ngsl-spoken:worth"
+      ],
+      [
+       "it",
+       "ngsl-spoken:it"
+      ]
+     ],
+     "start": 29.11,
+     "end": 30.6
+    },
+    {
+     "who": "Leo",
+     "en": "Yes. I think I'm going to be happy here.",
+     "pt": "Sim. Acho que vou ser feliz aqui.",
+     "tokens": [
+      [
+       "yes",
+       "ngsl-spoken:yes"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "think",
+       "ngsl-spoken:think"
+      ],
+      [
+       "i",
+       "ngsl-spoken:i"
+      ],
+      [
+       "'m",
+       "ngsl-spoken:be"
+      ],
+      [
+       "going",
+       "ngsl-spoken:go"
+      ],
+      [
+       "to",
+       "ngsl-spoken:to"
+      ],
+      [
+       "be",
+       "ngsl-spoken:be"
+      ],
+      [
+       "happy",
+       "ngsl-spoken:happy"
+      ],
+      [
+       "here",
+       "ngsl-spoken:here"
+      ]
+     ],
+     "start": 31.3,
+     "end": 33.48
+    }
+   ],
+   "words": {
+    "ngsl-spoken:be": 10,
+    "ngsl-spoken:move": 1,
+    "ngsl-spoken:to": 2,
+    "ngsl-spoken:a": 4,
+    "ngsl-spoken:new": 1,
+    "ngsl-spoken:it": 4,
+    "ngsl-spoken:on": 2,
+    "ngsl-spoken:the": 4,
+    "ngsl-spoken:floor": 2,
+    "ngsl-spoken:there": 2,
+    "ngsl-spoken:no": 1,
+    "ngsl-spoken:and": 2,
+    "ngsl-spoken:he": 1,
+    "ngsl-spoken:have": 2,
+    "ngsl-spoken:lot": 1,
+    "ngsl-spoken:of": 1,
+    "ngsl-spoken:box": 4,
+    "ngsl-spoken:this": 1,
+    "ngsl-spoken:so": 2,
+    "ngsl-spoken:what": 2,
+    "ngsl-spoken:in": 1,
+    "ngsl-spoken:you": 3,
+    "ngsl-spoken:book": 2,
+    "ngsl-spoken:too": 1,
+    "ngsl-spoken:many": 1,
+    "ngsl-spoken:they": 4,
+    "ngsl-spoken:carry": 1,
+    "ngsl-spoken:after": 2,
+    "ngsl-spoken:three": 1,
+    "ngsl-spoken:hour": 1,
+    "ngsl-spoken:finish": 1,
+    "ngsl-spoken:i": 5,
+    "ngsl-spoken:back": 1,
+    "ngsl-spoken:kill": 1,
+    "ngsl-spoken:thank": 1,
+    "ngsl-spoken:for": 1,
+    "ngsl-spoken:help": 1,
+    "ngsl-spoken:let": 1,
+    "ngsl-spoken:order": 1,
+    "ngsl-spoken:sit": 1,
+    "ngsl-spoken:look": 1,
+    "ngsl-spoken:out": 1,
+    "ngsl-spoken:window": 1,
+    "ngsl-spoken:can": 1,
+    "ngsl-spoken:see": 1,
+    "ngsl-spoken:whole": 1,
+    "ngsl-spoken:city": 1,
+    "ngsl-spoken:from": 1,
+    "ngsl-spoken:view": 1,
+    "ngsl-spoken:worth": 1,
+    "ngsl-spoken:yes": 1,
+    "ngsl-spoken:think": 1,
+    "ngsl-spoken:go": 1,
+    "ngsl-spoken:happy": 1,
+    "ngsl-spoken:here": 1
+   },
+   "outside": [
+    "apartment",
+    "fifth",
+    "heavy",
+    "lift",
+    "pizza",
+    "tired"
+   ],
+   "audio": "stories/a2-moving.m4a",
+   "duration": 33.47
   }
  ]
 }

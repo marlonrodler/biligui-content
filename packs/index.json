@@ -3,10 +3,10 @@
  "packs": [
   {
    "id": "ngsl-spoken",
-   "version": "v10",
-   "manifest": "packs/ngsl-spoken/v10/manifest.json",
-   "sha256": "20a1267327356be5c6abbf445e6d47c6f69ae4a18cbfc8e2db4b930bf19a9f97",
-   "words": 3504
+   "version": "v11",
+   "manifest": "packs/ngsl-spoken/v11/manifest.json",
+   "sha256": "a861de442803a766abde5696955dabc8b57e9a1ecce10a22313f45a65056aa6d",
+   "words": 5004
   }
  ]
 }

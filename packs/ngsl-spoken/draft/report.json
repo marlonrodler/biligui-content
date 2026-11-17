@@ -3279,9 +3279,7 @@
  },
  {
   "id": "ngsl-spoken:require",
-  "flags": [
-   "unknown_word:s1:passport"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:street",
@@ -4417,7 +4415,7 @@
   "flags": [
    "unknown_word:s1:britain,bases,cyprus",
    "too_long:s2",
-   "unknown_word:s2:korea,compulsory,lasts,months",
+   "unknown_word:s2:korea,lasts,months",
    "audio_length:s2"
   ]
  },
@@ -5215,7 +5213,7 @@
  {
   "id": "ngsl-spoken:green",
   "flags": [
-   "unknown_word:s2:marina,had,eyes"
+   "unknown_word:s2:had,eyes"
   ]
  },
  {
@@ -6082,7 +6080,7 @@
  {
   "id": "ngsl-spoken:display",
   "flags": [
-   "unknown_word:s1:proudly,jewels",
+   "unknown_word:s1:jewels",
    "unknown_word:s2:jewels,disappeared"
   ]
  },
@@ -6306,7 +6304,6 @@
  {
   "id": "ngsl-spoken:grant",
   "flags": [
-   "unknown_word:s1:defendant",
    "unknown_word:s2:tom"
   ]
  },
@@ -6640,7 +6637,7 @@
  {
   "id": "ngsl-spoken:introduction",
   "flags": [
-   "unknown_word:s2:dictionary,interlingua"
+   "unknown_word:s2:interlingua"
   ]
  },
  {
@@ -6962,9 +6959,7 @@
  },
  {
   "id": "ngsl-spoken:duty",
-  "flags": [
-   "unknown_word:s1:discharge"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:strength",
@@ -7355,7 +7350,7 @@
   "id": "ngsl-spoken:district",
   "flags": [
    "unknown_word:s1:traveled,tohoku",
-   "unknown_word:s2:abundant,resources"
+   "unknown_word:s2:resources"
   ]
  },
  {
@@ -7598,7 +7593,7 @@
   "id": "ngsl-spoken:proceed",
   "flags": [
    "too_long:s1",
-   "unknown_word:s2:forces,square's,evacuation"
+   "unknown_word:s2:forces,square's"
   ]
  },
  {
@@ -7713,7 +7708,7 @@
   "id": "ngsl-spoken:pack",
   "flags": [
    "unknown_word:s1:tom,attacked,dogs",
-   "unknown_word:s2:fastened,horse's,rope"
+   "unknown_word:s2:fastened,horse's"
   ]
  },
  {
@@ -7985,7 +7980,6 @@
  {
   "id": "ngsl-spoken:manner",
   "flags": [
-   "unknown_word:s1:unconscious",
    "unknown_word:s2:writes,confused"
   ]
  },
@@ -8004,8 +7998,7 @@
  {
   "id": "ngsl-spoken:occasion",
   "flags": [
-   "unknown_word:s1:festive",
-   "unknown_word:s2:noisy"
+   "unknown_word:s1:festive"
   ]
  },
  {
@@ -8037,8 +8030,7 @@
  {
   "id": "ngsl-spoken:civil",
   "flags": [
-   "unknown_word:s1:used",
-   "unknown_word:s2:reign"
+   "unknown_word:s1:used"
   ]
  },
  {
@@ -8176,9 +8168,7 @@
  },
  {
   "id": "ngsl-spoken:assessment",
-  "flags": [
-   "unknown_word:s1:incorrect"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:shoe",
@@ -8406,7 +8396,7 @@
  {
   "id": "ngsl-spoken:bond",
   "flags": [
-   "unknown_word:s1:affection,them"
+   "unknown_word:s1:them"
   ]
  },
  {
@@ -8575,7 +8565,7 @@
    "too_long:s1",
    "unknown_word:s1:mistress",
    "too_long:s2",
-   "unknown_word:s2:fortunately,had,anticipated,made"
+   "unknown_word:s2:had,anticipated,made"
   ]
  },
  {
@@ -8691,7 +8681,7 @@
   "id": "ngsl-spoken:nevertheless",
   "flags": [
    "too_long:s1",
-   "unknown_word:s1:tom's,ox,coward"
+   "unknown_word:s1:tom's,ox"
   ]
  },
  {
@@ -8716,7 +8706,7 @@
   "id": "ngsl-spoken:largely",
   "flags": [
    "too_long:s1",
-   "unknown_word:s1:koala,populations,declining,habitat,fragmentation",
+   "unknown_word:s1:koala,populations,declining,fragmentation",
    "unknown_word:s2:algeria,remains,untouched"
   ]
  },
@@ -8811,7 +8801,7 @@
   "flags": [
    "too_long:s1",
    "unknown_word:s1:according,scientists,getting,warmer",
-   "unknown_word:s2:titan's,nitrogen"
+   "unknown_word:s2:titan's"
   ]
  },
  {
@@ -8930,7 +8920,7 @@
    "too_long:s1",
    "unknown_word:s1:purchased,hong,kong",
    "too_long:s2",
-   "unknown_word:s2:bought,naive"
+   "unknown_word:s2:bought"
   ]
  },
  {
@@ -9299,9 +9289,7 @@
  },
  {
   "id": "ngsl-spoken:proportion",
-  "flags": [
-   "unknown_word:s2:biblical"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:ear",
@@ -9704,9 +9692,7 @@
  },
  {
   "id": "ngsl-spoken:properly",
-  "flags": [
-   "unknown_word:s1:biography"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:ancient",
@@ -10154,7 +10140,7 @@
   "id": "ngsl-spoken:merely",
   "flags": [
    "unknown_word:s1:hypothetical",
-   "unknown_word:s2:disappointment,deferred"
+   "unknown_word:s2:deferred"
   ]
  },
  {
@@ -10736,7 +10722,7 @@
  {
   "id": "ngsl-spoken:educational",
   "flags": [
-   "unknown_word:s2:tom,respected,psychologist"
+   "unknown_word:s2:tom,respected"
   ]
  },
  {
@@ -10768,7 +10754,7 @@
   "id": "ngsl-spoken:slide",
   "flags": [
    "missing_target:s1",
-   "unknown_word:s1:tom,slid,notebook",
+   "unknown_word:s1:tom,slid",
    "missing_target:s2",
    "unknown_word:s2:slid"
   ]
@@ -11134,7 +11120,7 @@
   "id": "ngsl-spoken:sequence",
   "flags": [
    "unknown_word:s1:genes,dna",
-   "unknown_word:s2:miserable,defeats,discouraged,us"
+   "unknown_word:s2:defeats,discouraged,us"
   ]
  },
  {
@@ -11260,9 +11246,7 @@
  },
  {
   "id": "ngsl-spoken:intellectual",
-  "flags": [
-   "unknown_word:s2:chess"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:derive",
@@ -11454,14 +11438,13 @@
   "flags": [
    "unknown_word:s1:requires",
    "too_long:s2",
-   "unknown_word:s2:thorough,requires,hours"
+   "unknown_word:s2:requires,hours"
   ]
  },
  {
   "id": "ngsl-spoken:laughter",
   "flags": [
-   "unknown_word:s1:children's,heard",
-   "unknown_word:s2:abundant"
+   "unknown_word:s1:children's,heard"
   ]
  },
  {
@@ -11520,7 +11503,7 @@
   "flags": [
    "too_long:s1",
    "unknown_word:s1:determined,feelings,intellect",
-   "unknown_word:s2:rigorous,coherent,unconvincing"
+   "unknown_word:s2:coherent,unconvincing"
   ]
  },
  {
@@ -11546,7 +11529,7 @@
   "id": "ngsl-spoken:layer",
   "flags": [
    "unknown_word:s1:ozone",
-   "unknown_word:s2:frost,crystals"
+   "unknown_word:s2:crystals"
   ]
  },
  {
@@ -12242,7 +12225,7 @@
  {
   "id": "ngsl-spoken:perception",
   "flags": [
-   "unknown_word:s1:one's,subjective"
+   "unknown_word:s1:one's"
   ]
  },
  {
@@ -12258,8 +12241,7 @@
  {
   "id": "ngsl-spoken:database",
   "flags": [
-   "unknown_word:s1:tom",
-   "unknown_word:s2:vocabulary"
+   "unknown_word:s1:tom"
   ]
  },
  {
@@ -12284,9 +12266,7 @@
  },
  {
   "id": "ngsl-spoken:height",
-  "flags": [
-   "unknown_word:s2:coward"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:apparent",
@@ -12305,7 +12285,7 @@
  {
   "id": "ngsl-spoken:expansion",
   "flags": [
-   "unknown_word:s1:esperanto,horizon"
+   "unknown_word:s1:esperanto"
   ]
  },
  {
@@ -12503,9 +12483,7 @@
  },
  {
   "id": "ngsl-spoken:extension",
-  "flags": [
-   "unknown_word:s2:cord"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:wealth",
@@ -12590,8 +12568,7 @@
  {
   "id": "ngsl-spoken:adviser",
   "flags": [
-   "missing_target:s2",
-   "unknown_word:s2:advisor"
+   "missing_target:s2"
   ]
  },
  {
@@ -12611,7 +12588,7 @@
   "id": "ngsl-spoken:mode",
   "flags": [
    "unknown_word:s1:cannot,dos",
-   "unknown_word:s2:did,airplane"
+   "unknown_word:s2:did"
   ]
  },
  {
@@ -13093,7 +13070,7 @@
   "id": "ngsl-spoken:dealer",
   "flags": [
    "too_long:s2",
-   "unknown_word:s2:experienced,technician"
+   "unknown_word:s2:experienced"
   ]
  },
  {
@@ -13333,7 +13310,7 @@
  {
   "id": "ngsl-spoken:characterize",
   "flags": [
-   "unknown_word:s1:openness,toughness,korean,diplomacy",
+   "unknown_word:s1:openness,toughness,korean",
    "too_long:s2",
    "unknown_word:s2:s"
   ]
@@ -13361,7 +13338,7 @@
  {
   "id": "ngsl-spoken:operator",
   "flags": [
-   "unknown_word:s1:jacob,crane",
+   "unknown_word:s1:jacob",
    "unknown_word:s2:skilled,strategist,canny"
   ]
  },
@@ -13369,7 +13346,7 @@
   "id": "ngsl-spoken:infant",
   "flags": [
    "unknown_word:s1:abandoned",
-   "unknown_word:s2:been,exposed,radioactive,rays"
+   "unknown_word:s2:been,exposed,rays"
   ]
  },
  {
@@ -13454,7 +13431,7 @@
   "flags": [
    "unknown_word:s1:tom,hired",
    "too_long:s2",
-   "unknown_word:s2:choke,him"
+   "unknown_word:s2:him"
   ]
  },
  {
@@ -13687,17 +13664,14 @@
  },
  {
   "id": "ngsl-spoken:preference",
-  "flags": [
-   "unknown_word:s1:lamb"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:comprehensive",
   "flags": [
    "too_long:s1",
    "unknown_word:s1:gained,reading,bible",
-   "too_long:s2",
-   "unknown_word:s2:textbook"
+   "too_long:s2"
   ]
  },
  {
@@ -13832,7 +13806,7 @@
  {
   "id": "ngsl-spoken:counsel",
   "flags": [
-   "unknown_word:s1:dalai,lama,compassion"
+   "unknown_word:s1:dalai,lama"
   ]
  },
  {
@@ -14002,7 +13976,7 @@
  {
   "id": "ngsl-spoken:burst",
   "flags": [
-   "unknown_word:s1:balloon,flew",
+   "unknown_word:s1:flew",
    "unknown_word:s2:bladder"
   ]
  },
@@ -14094,7 +14068,7 @@
  {
   "id": "ngsl-spoken:roughly",
   "flags": [
-   "unknown_word:s1:tom,chopped,onion"
+   "unknown_word:s1:tom,chopped"
   ]
  },
  {
@@ -14561,7 +14535,7 @@
   "flags": [
    "missing_target:s1",
    "unknown_word:s1:prescribes,penalties,offence",
-   "unknown_word:s2:referee,called"
+   "unknown_word:s2:called"
   ]
  },
  {
@@ -14569,7 +14543,7 @@
   "flags": [
    "too_long:s1",
    "unknown_word:s1:gop,controls,legislatures",
-   "unknown_word:s2:going,subscribe,concerts"
+   "unknown_word:s2:going,concerts"
   ]
  },
  {
@@ -14839,9 +14813,7 @@
  },
  {
   "id": "ngsl-spoken:indication",
-  "flags": [
-   "unknown_word:s1:willingness"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:stability",
@@ -15277,7 +15249,7 @@
  {
   "id": "ngsl-spoken:complexity",
   "flags": [
-   "unknown_word:s1:molecule's,its,synthesis"
+   "unknown_word:s1:molecule's,its"
   ]
  },
  {
@@ -15579,8 +15551,7 @@
  {
   "id": "ngsl-spoken:slope",
   "flags": [
-   "unknown_word:s1:climbed,steep",
-   "unknown_word:s2:steep"
+   "unknown_word:s1:climbed"
   ]
  },
  {
@@ -15870,7 +15841,7 @@
  {
   "id": "ngsl-spoken:experimental",
   "flags": [
-   "unknown_word:s1:mary,architect,specialized,designs"
+   "unknown_word:s1:mary,specialized,designs"
   ]
  },
  {
@@ -16116,7 +16087,7 @@
  {
   "id": "ngsl-spoken:tender",
   "flags": [
-   "unknown_word:s2:turkey,juicy"
+   "unknown_word:s2:turkey"
   ]
  },
  {
@@ -16554,9 +16525,7 @@
  },
  {
   "id": "ngsl-spoken:academy",
-  "flags": [
-   "unknown_word:s2:chess"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:constitution",
@@ -16576,7 +16545,7 @@
   "id": "ngsl-spoken:combat",
   "flags": [
    "too_long:s1",
-   "unknown_word:s1:melbourne,microbiologist,explains,vaccine",
+   "unknown_word:s1:melbourne,microbiologist,explains",
    "unknown_word:s2:tom,died"
   ]
  },
@@ -16756,7 +16725,7 @@
  {
   "id": "ngsl-spoken:circuit",
   "flags": [
-   "unknown_word:s1:defect,found,cooling"
+   "unknown_word:s1:found,cooling"
   ]
  },
  {
@@ -16813,7 +16782,7 @@
   "id": "ngsl-spoken:pet",
   "flags": [
    "unknown_word:s1:had",
-   "unknown_word:s2:eared,called,elephant"
+   "unknown_word:s2:eared,called"
   ]
  },
  {
@@ -16901,7 +16870,7 @@
  {
   "id": "ngsl-spoken:assault",
   "flags": [
-   "unknown_word:s1:driven,jealousy,violently",
+   "unknown_word:s1:driven,violently",
    "unknown_word:s2:layla,brutal"
   ]
  },
@@ -17131,8 +17100,7 @@
  {
   "id": "ngsl-spoken:elite",
   "flags": [
-   "too_long:s1",
-   "unknown_word:s1:goodwill"
+   "too_long:s1"
   ]
  },
  {
@@ -17152,7 +17120,7 @@
   "flags": [
    "unknown_word:s1:sami",
    "too_long:s2",
-   "unknown_word:s2:technological,beings"
+   "unknown_word:s2:beings"
   ]
  },
  {
@@ -17290,7 +17258,7 @@
   "id": "ngsl-spoken:legacy",
   "flags": [
    "too_long:s2",
-   "unknown_word:s2:daniel,naroditsky,gone,chess,immortal"
+   "unknown_word:s2:daniel,naroditsky,gone"
   ]
  },
  {
@@ -17307,7 +17275,7 @@
  {
   "id": "ngsl-spoken:fraud",
   "flags": [
-   "unknown_word:s1:banker,went",
+   "unknown_word:s1:went",
    "unknown_word:s2:tom"
   ]
  },
@@ -17349,7 +17317,7 @@
   "id": "ngsl-spoken:script",
   "flags": [
    "unknown_word:s1:writes,tv,shows",
-   "unknown_word:s2:arabic,replaced,roman,alphabet"
+   "unknown_word:s2:arabic,replaced,roman"
   ]
  },
  {
@@ -17524,7 +17492,7 @@
   "flags": [
    "too_long:s1",
    "unknown_word:s1:fawn,taken",
-   "unknown_word:s2:tom,donated,sanctuary"
+   "unknown_word:s2:tom,donated"
   ]
  },
  {
@@ -17566,7 +17534,7 @@
   "id": "ngsl-spoken:prominent",
   "flags": [
    "unknown_word:s1:fadil",
-   "unknown_word:s2:psychologist,resembles"
+   "unknown_word:s2:resembles"
   ]
  },
  {
@@ -17916,8 +17884,8 @@
  {
   "id": "ngsl-spoken:eligible",
   "flags": [
-   "unknown_word:s1:tom,parole",
-   "unknown_word:s2:tom,parole"
+   "unknown_word:s1:tom",
+   "unknown_word:s2:tom"
   ]
  },
  {
@@ -18022,7 +17990,7 @@
   "flags": [
    "unknown_word:s1:equator,divides,hemispheres",
    "too_long:s2",
-   "unknown_word:s2:grisha,started,elevate,smoothly"
+   "unknown_word:s2:grisha,started,elevate"
   ]
  },
  {
@@ -18187,7 +18155,7 @@
  {
   "id": "ngsl-spoken:cooper",
   "flags": [
-   "unknown_word:s1:pairs,electron,pairs,formed,superconductors"
+   "unknown_word:s1:pairs,pairs,formed,superconductors"
   ]
  },
  {
@@ -18314,7 +18282,7 @@
  {
   "id": "ngsl-spoken:alpha",
   "flags": [
-   "unknown_word:s1:gamma,greek,letters"
+   "unknown_word:s1:greek,letters"
   ]
  },
  {
@@ -18425,7 +18393,7 @@
  {
   "id": "ngsl-spoken:neutral",
   "flags": [
-   "unknown_word:s2:translator,considered"
+   "unknown_word:s2:considered"
   ]
  },
  {
@@ -18438,7 +18406,7 @@
   "id": "ngsl-spoken:suspension",
   "flags": [
    "unknown_word:s1:tom's,ended,october,th",
-   "unknown_word:s2:tom's,ended,october,twentieth"
+   "unknown_word:s2:tom's,ended,october"
   ]
  },
  {
@@ -18497,7 +18465,7 @@
   "id": "ngsl-spoken:outdoor",
   "flags": [
    "unknown_word:s1:jogging",
-   "unknown_word:s2:congresswoman,supporting,recreation,businesses"
+   "unknown_word:s2:congresswoman,supporting,businesses"
   ]
  },
  {
@@ -18575,7 +18543,7 @@
   "id": "ngsl-spoken:rubber",
   "flags": [
    "unknown_word:s1:mayas,made,balls",
-   "unknown_word:s2:tires,made,synthetic"
+   "unknown_word:s2:tires,made"
   ]
  },
  {
@@ -18593,7 +18561,7 @@
   "id": "ngsl-spoken:socialist",
   "flags": [
    "unknown_word:s1:describes",
-   "unknown_word:s2:accompanied,translator"
+   "unknown_word:s2:accompanied"
   ]
  },
  {
@@ -18687,7 +18655,7 @@
   "id": "ngsl-spoken:fluid",
   "flags": [
    "too_long:s2",
-   "unknown_word:s2:circulation,nutrients"
+   "unknown_word:s2:nutrients"
   ]
  },
  {
@@ -18710,7 +18678,7 @@
  {
   "id": "ngsl-spoken:legitimate",
   "flags": [
-   "unknown_word:s1:mafia,uses,operations",
+   "unknown_word:s1:uses,operations",
    "unknown_word:s2:complaints"
   ]
  },
@@ -18894,7 +18862,7 @@
   "id": "ngsl-spoken:bronze",
   "flags": [
    "unknown_word:s1:won",
-   "unknown_word:s2:composed,tin"
+   "unknown_word:s2:composed"
   ]
  },
  {
@@ -18947,9 +18915,7 @@
  },
  {
   "id": "ngsl-spoken:flesh",
-  "flags": [
-   "unknown_word:s2:mortal"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:transit",
@@ -19147,7 +19113,7 @@
   "id": "ngsl-spoken:chill",
   "flags": [
    "unknown_word:s1:wearing",
-   "unknown_word:s2:coming,discouraged,picnic"
+   "unknown_word:s2:coming,discouraged"
   ]
  },
  {
@@ -19170,7 +19136,7 @@
  {
   "id": "ngsl-spoken:parliamentary",
   "flags": [
-   "unknown_word:s1:united,monarchy",
+   "unknown_word:s1:united",
    "unknown_word:s2:germany"
   ]
  },
@@ -19252,9 +19218,7 @@
  },
  {
   "id": "ngsl-spoken:identification",
-  "flags": [
-   "unknown_word:s2:passport"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:verse",
@@ -19278,7 +19242,7 @@
  {
   "id": "ngsl-spoken:revolutionary",
   "flags": [
-   "unknown_word:s1:overthrown,coup"
+   "unknown_word:s1:overthrown"
   ]
  },
  {
@@ -19379,7 +19343,7 @@
  {
   "id": "ngsl-spoken:diabetes",
   "flags": [
-   "unknown_word:s2:obesity,increases,risks"
+   "unknown_word:s2:increases,risks"
   ]
  },
  {
@@ -19496,7 +19460,7 @@
   "flags": [
    "too_long:s1",
    "unknown_word:s1:asbestos,linked,diseases",
-   "unknown_word:s2:envy,sins"
+   "unknown_word:s2:sins"
   ]
  },
  {
@@ -19653,7 +19617,7 @@
  {
   "id": "ngsl-spoken:vertical",
   "flags": [
-   "unknown_word:s2:tango,horizontal"
+   "unknown_word:s2:tango"
   ]
  },
  {
@@ -19810,7 +19774,7 @@
   "id": "ngsl-spoken:sweat",
   "flags": [
    "unknown_word:s1:covered",
-   "unknown_word:s2:wiped,forehead"
+   "unknown_word:s2:wiped"
   ]
  },
  {
@@ -20037,7 +20001,7 @@
  {
   "id": "ngsl-spoken:activist",
   "flags": [
-   "unknown_word:s1:women's,liberation",
+   "unknown_word:s1:women's",
    "unknown_word:s2:tom"
   ]
  },
@@ -20071,8 +20035,7 @@
  {
   "id": "ngsl-spoken:pursuit",
   "flags": [
-   "unknown_word:s1:caught,him",
-   "unknown_word:s2:vain"
+   "unknown_word:s1:caught,him"
   ]
  },
  {
@@ -20376,7 +20339,6 @@
  {
   "id": "ngsl-spoken:bankruptcy",
   "flags": [
-   "unknown_word:s1:verge",
    "unknown_word:s2:tom,filed"
   ]
  },
@@ -20422,7 +20384,7 @@
  {
   "id": "ngsl-spoken:ore",
   "flags": [
-   "unknown_word:s1:actinium,occurs,uranium"
+   "unknown_word:s1:actinium,occurs"
   ]
  },
  {
@@ -20436,7 +20398,7 @@
   "id": "ngsl-spoken:consensus",
   "flags": [
    "too_long:s1",
-   "unknown_word:s1:meant,conscience"
+   "unknown_word:s1:meant"
   ]
  },
  {
@@ -20476,9 +20438,7 @@
  },
  {
   "id": "ngsl-spoken:unlimited",
-  "flags": [
-   "unknown_word:s1:vocabulary"
-  ]
+  "flags": []
  },
  {
   "id": "ngsl-spoken:faithful",
@@ -20532,7 +20492,6 @@
  {
   "id": "ngsl-spoken:breakdown",
   "flags": [
-   "unknown_word:s1:verge",
    "unknown_word:s2:tom,had"
   ]
  },
@@ -20703,6 +20662,9414 @@
   "id": "ngsl-spoken:bride",
   "flags": [
    "unknown_word:s2:wedding"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:architect",
+  "flags": [
+   "unknown_word:s1:designs,creates,houses,buildings",
+   "unknown_word:s2:knows"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:comparable",
+  "flags": [
+   "unknown_word:s1:japan"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:merit",
+  "flags": [
+   "unknown_word:s2:charms,wins"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:coke",
+  "flags": [
+   "unknown_word:s1:dying",
+   "unknown_word:s2:cheeseburger,fries"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:permanently",
+  "flags": [
+   "unknown_word:s1:smoking",
+   "unknown_word:s2:resembling,intoxication"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:underneath",
+  "flags": [
+   "unknown_word:s1:lots,presents,christmas"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tragic",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:subtle",
+  "flags": [
+   "unknown_word:s1:words",
+   "unknown_word:s2:mary's,humour,lost,tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:elephant",
+  "flags": [
+   "unknown_word:s2:blocking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:chick",
+  "flags": [
+   "unknown_word:s1:hatched",
+   "unknown_word:s2:hatched,friday"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:confirmation",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:widow",
+  "flags": [
+   "unknown_word:s1:been",
+   "unknown_word:s2:engaged"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:layout",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:viral",
+  "flags": [
+   "unknown_word:s1:went",
+   "unknown_word:s2:uploaded,gone"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:provincial",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:representatives,zonal,levels"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:inevitable",
+  "flags": [
+   "unknown_word:s1:changes",
+   "unknown_word:s2:things"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:separately",
+  "flags": [
+   "unknown_word:s1:words,written"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cartoon",
+  "flags": [
+   "unknown_word:s1:children",
+   "unknown_word:s2:replaced,sports"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:diameter",
+  "flags": [
+   "unknown_word:s1:miles",
+   "unknown_word:s2:concentric,circles,differing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pastor",
+  "flags": [
+   "unknown_word:s1:told,tom",
+   "unknown_word:s2:evangelical"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:micro",
+  "flags": [
+   "unknown_word:s1:tom,mary",
+   "unknown_word:s2:caused,organism"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:glorious",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:needed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:myth",
+  "flags": [
+   "unknown_word:s1:greek",
+   "unknown_word:s2:its"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bud",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:rose,sweeter,blown",
+   "unknown_word:s2:roses"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:warehouse",
+  "flags": [
+   "unknown_word:s1:men,entered,weapons",
+   "unknown_word:s2:tom,worked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:poison",
+  "flags": [
+   "unknown_word:s1:made,drank",
+   "unknown_word:s2:tom,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rebel",
+  "flags": [
+   "unknown_word:s1:took",
+   "unknown_word:s2:farmers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unbelievable",
+  "flags": [
+   "unknown_word:s1:told"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:console",
+  "flags": [
+   "unknown_word:s2:objects"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:grief",
+  "flags": [
+   "unknown_word:s1:wings,flies",
+   "unknown_word:s2:crying"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:basin",
+  "flags": [
+   "unknown_word:s1:poured",
+   "unknown_word:s2:tom,poured"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lodge",
+  "flags": [
+   "too_long:s1",
+   "missing_target:s1",
+   "unknown_word:s1:whose,houses,demolished,received,lodging"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fabric",
+  "flags": [
+   "unknown_word:s1:did",
+   "unknown_word:s2:made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fabulous",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:islands,viking,ships"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reign",
+  "flags": [
+   "unknown_word:s1:came",
+   "unknown_word:s2:surroundings"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:horizon",
+  "flags": [
+   "unknown_word:s1:appeared"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:notable",
+  "flags": [
+   "unknown_word:s1:made",
+   "unknown_word:s2:statues,buddha,works,japanese"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:blanket",
+  "flags": [
+   "unknown_word:s1:fell",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:administrator",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:excellence",
+  "flags": [
+   "unknown_word:s1:won,subjects",
+   "too_long:s2",
+   "unknown_word:s2:cheating,threatens,blemish,university's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ninth",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:watched"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ink",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:quantum",
+  "flags": [
+   "unknown_word:s2:studied,physics"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:freely",
+  "flags": [
+   "unknown_word:s2:flies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hostile",
+  "flags": [
+   "unknown_word:s2:villagers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:motorcycle",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:miserable",
+  "flags": [
+   "unknown_word:s2:made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sunny",
+  "flags": [
+   "unknown_word:s2:flies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:inn",
+  "flags": [
+   "unknown_word:s1:found"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:flame",
+  "flags": [
+   "unknown_word:s1:destroyed,building"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:submission",
+  "flags": [
+   "unknown_word:s1:congratulations"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:matrix",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:inverse,non"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:toe",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:continent",
+  "flags": [
+   "unknown_word:s1:nile",
+   "unknown_word:s2:borneo"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:beard",
+  "flags": [
+   "unknown_word:s1:trying"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:graduation",
+  "flags": [
+   "unknown_word:s2:tom,decided,panama"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tremendous",
+  "flags": [
+   "unknown_word:s2:tom's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unhappy",
+  "flags": [
+   "unknown_word:s1:tom,mary",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:demon",
+  "flags": [
+   "unknown_word:s1:worst",
+   "unknown_word:s2:he's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:interactive",
+  "flags": [
+   "unknown_word:s1:tatoeba,multilingual"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:password",
+  "flags": [
+   "unknown_word:s1:wifi"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cheat",
+  "flags": [
+   "unknown_word:s1:suspected",
+   "unknown_word:s2:cares"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:elaborate",
+  "flags": [
+   "unknown_word:s1:made",
+   "too_long:s2",
+   "unknown_word:s2:dentzel,carousels,known,graceful,animals,carvings"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:adorable",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:pulse",
+  "flags": [
+   "unknown_word:s1:took",
+   "unknown_word:s2:took"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:detection",
+  "flags": [
+   "unknown_word:s1:testing,works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:doll",
+  "flags": [
+   "unknown_word:s1:gave",
+   "unknown_word:s2:bought"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:northeast",
+  "flags": [
+   "unknown_word:s1:brazil"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:independently",
+  "flags": [
+   "unknown_word:s1:calculus,developed,leibniz"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:traditionally",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:swazi,women,plait,thatch,roofs,homes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:smartphone",
+  "flags": [
+   "unknown_word:s1:bought"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ballot",
+  "flags": [
+   "unknown_word:s1:reexamination,invalidated",
+   "unknown_word:s2:being,counted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ambulance",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:realm",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:spectacular",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:politically",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:marginalizing,them,ignoring,demands"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:laundry",
+  "flags": [
+   "unknown_word:s1:helped"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hull",
+  "flags": [
+   "unknown_word:s1:ship's,damaged"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:intimate",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:expertise",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:subscription",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:rope",
+  "flags": [
+   "unknown_word:s1:thrown",
+   "unknown_word:s2:teeth"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:halfway",
+  "flags": [
+   "too_long:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cheer",
+  "flags": [
+   "unknown_word:s2:listening"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:martial",
+  "flags": [
+   "unknown_word:s1:mary,thinks,arts",
+   "unknown_word:s2:sumo,japanese"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:compact",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:tolerance",
+  "flags": [
+   "unknown_word:s2:tom's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:technological",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:hurdles,they're,surmountable,added",
+   "too_long:s2",
+   "unknown_word:s2:alien,humankind's,greatest,challenges"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rational",
+  "flags": [
+   "unknown_word:s1:humans,creatures",
+   "unknown_word:s2:being"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:temporarily",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:limits,visitors",
+   "unknown_word:s2:tatoeba,unavailable"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:graph",
+  "flags": [
+   "unknown_word:s2:misleading"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:buzz",
+  "flags": [
+   "unknown_word:s1:bees",
+   "unknown_word:s2:he's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rhythm",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:tide",
+  "flags": [
+   "unknown_word:s1:turning",
+   "unknown_word:s2:lands,flooded"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:frankly",
+  "flags": [
+   "unknown_word:s1:stands",
+   "unknown_word:s2:speaking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:medieval",
+  "flags": [
+   "unknown_word:s1:castles,europe",
+   "unknown_word:s2:looking,spain"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lamp",
+  "flags": [
+   "unknown_word:s2:did,tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:brass",
+  "flags": [
+   "unknown_word:s2:tom,tried"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:subway",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:oven",
+  "flags": [
+   "unknown_word:s2:heated"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:someday",
+  "flags": [
+   "unknown_word:s1:yours",
+   "unknown_word:s2:australia"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thesis",
+  "flags": [
+   "unknown_word:s1:decided",
+   "unknown_word:s2:finished,writing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:passport",
+  "flags": [
+   "unknown_word:s2:lost"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tablet",
+  "flags": [
+   "unknown_word:s2:costs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:shooter",
+  "flags": [
+   "unknown_word:s1:tom,isn't,games",
+   "unknown_word:s2:games"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ignorant",
+  "flags": [
+   "unknown_word:s2:rules"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spam",
+  "flags": [
+   "unknown_word:s1:twitter,suspended",
+   "unknown_word:s2:getting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:interact",
+  "flags": [
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rabbit",
+  "flags": [
+   "unknown_word:s2:saw"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:slim",
+  "flags": [
+   "unknown_word:s2:wants,tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hatred",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mobility",
+  "flags": [
+   "unknown_word:s1:lacked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dip",
+  "flags": [
+   "unknown_word:s1:its",
+   "unknown_word:s2:honey"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:surgical",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:hands"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:majesty",
+  "flags": [
+   "unknown_word:s1:loses"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:apology",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:diesel",
+  "flags": [
+   "unknown_word:s1:cars,europe",
+   "unknown_word:s2:france,cars"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stack",
+  "flags": [
+   "unknown_word:s1:books",
+   "unknown_word:s2:chairs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:exceptional",
+  "flags": [
+   "unknown_word:s1:showed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stance",
+  "flags": [
+   "unknown_word:s1:takes",
+   "unknown_word:s2:i've,changed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:emotionally",
+  "flags": [
+   "unknown_word:s1:refugees,suffered",
+   "too_long:s2",
+   "unknown_word:s2:distraught"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ignorance",
+  "flags": [
+   "unknown_word:s1:takes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bolt",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:came"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:creepy",
+  "flags": [
+   "unknown_word:s1:voices"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:comply",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:thee",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:drinks,ladies",
+   "missing_target:s2",
+   "unknown_word:s2:said"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:placement",
+  "flags": [
+   "unknown_word:s1:berber"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:magnificent",
+  "flags": [
+   "unknown_word:s1:concerns",
+   "unknown_word:s2:flowers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sketch",
+  "flags": [
+   "unknown_word:s2:apple"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mathematical",
+  "flags": [
+   "unknown_word:s1:solving,complicated,problems",
+   "unknown_word:s2:describes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:intermediate",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:uveitis,characterized,floaters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:invention",
+  "flags": [
+   "unknown_word:s2:washing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:donate",
+  "flags": [
+   "unknown_word:s1:tom,promised,dollars",
+   "unknown_word:s2:tom,wanted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:flavor",
+  "flags": [
+   "unknown_word:s1:enhances,meals",
+   "unknown_word:s2:vanilla"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:shallow",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:authentic",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:living",
+   "unknown_word:s2:damiano,confirmed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:likewise",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:recreation",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:soda",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:bi",
+  "flags": [
+   "unknown_word:s1:mary's",
+   "unknown_word:s2:tom's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:workplace",
+  "flags": [
+   "unknown_word:s1:inclusive"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:echo",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:nonetheless",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:loved,children",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:collar",
+  "flags": [
+   "unknown_word:s1:held,him",
+   "unknown_word:s2:dog's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sunset",
+  "flags": [
+   "unknown_word:s1:opened,watched",
+   "unknown_word:s2:us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tin",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:headline",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:junk",
+  "flags": [
+   "unknown_word:s1:depressed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:threshold",
+  "flags": [
+   "unknown_word:s2:tom,carried,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cannabis",
+  "flags": [
+   "unknown_word:s1:hung"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:orbit",
+  "flags": [
+   "unknown_word:s1:planets",
+   "unknown_word:s2:moons,saturn"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:eager",
+  "flags": [
+   "unknown_word:s1:they're"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:modest",
+  "flags": [
+   "unknown_word:s2:men"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:container",
+  "flags": [
+   "unknown_word:s2:tom,emptied"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cloth",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:had,eyes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:trunk",
+  "flags": [
+   "unknown_word:s1:looked",
+   "unknown_word:s2:hid,nearest"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tribal",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:shared"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:peninsula",
+  "flags": [
+   "unknown_word:s1:italy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mineral",
+  "flags": [
+   "unknown_word:s2:resources"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ladder",
+  "flags": [
+   "unknown_word:s1:broken",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:semester",
+  "flags": [
+   "unknown_word:s1:subjects",
+   "unknown_word:s2:bs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lobby",
+  "flags": [
+   "unknown_word:s2:us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:passive",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:essence",
+  "flags": [
+   "unknown_word:s1:loving"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sentiment",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:buddhism",
+   "unknown_word:s2:mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:profitable",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:blog,days",
+   "too_long:s2",
+   "unknown_word:s2:faltered,longer"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:remainder",
+  "flags": [
+   "unknown_word:s1:divided",
+   "too_long:s2",
+   "unknown_word:s2:tom,spent,thinking,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mob",
+  "flags": [
+   "unknown_word:s2:battled"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:harvest",
+  "flags": [
+   "unknown_word:s1:olives",
+   "unknown_word:s2:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:verdict",
+  "flags": [
+   "unknown_word:s2:appealed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ranch",
+  "flags": [
+   "unknown_word:s1:tom,lived",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:kidney",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:donates"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cease",
+  "flags": [
+   "unknown_word:s1:thought",
+   "missing_target:s2",
+   "unknown_word:s2:cried,hours,ceasing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:heck",
+  "flags": [
+   "unknown_word:s1:eyebrows"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:deliberately",
+  "flags": [
+   "unknown_word:s1:ignored",
+   "unknown_word:s2:knew,lying"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lamb",
+  "flags": [
+   "unknown_word:s1:attacked",
+   "unknown_word:s2:brother's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gut",
+  "flags": [
+   "unknown_word:s1:feeling"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:starter",
+  "flags": [
+   "too_long:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:badge",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:workout",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:cyclists,grueling,sessions,beginning"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:width",
+  "flags": [
+   "unknown_word:s1:feet"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:resignation",
+  "flags": [
+   "unknown_word:s1:handed",
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mercury",
+  "flags": [
+   "unknown_word:s2:closest"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:convenience",
+  "flags": [
+   "unknown_word:s1:saw",
+   "unknown_word:s2:closes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:goat",
+  "flags": [
+   "unknown_word:s2:ate"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:arch",
+  "flags": [
+   "unknown_word:s1:its",
+   "too_long:s2",
+   "unknown_word:s2:rainbow,colour"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:machinery",
+  "flags": [
+   "unknown_word:s2:uses"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:accommodate",
+  "flags": [
+   "unknown_word:s2:spectators"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fusion",
+  "flags": [
+   "unknown_word:s1:coming",
+   "too_long:s2",
+   "unknown_word:s2:physicist"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:enthusiasm",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:showed,products",
+   "unknown_word:s2:tom's,caught"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ideology",
+  "flags": [
+   "unknown_word:s1:yours",
+   "unknown_word:s2:intolerant"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ferry",
+  "flags": [
+   "unknown_word:s1:tom,waiting",
+   "unknown_word:s2:waiting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ritual",
+  "flags": [
+   "unknown_word:s1:uses",
+   "unknown_word:s2:there's,initiation"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gauge",
+  "flags": [
+   "unknown_word:s1:looked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:platinum",
+  "flags": [
+   "unknown_word:s1:mounting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rider",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:sealed",
+   "unknown_word:s2:tom,motocross"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dignity",
+  "flags": [
+   "unknown_word:s2:said"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:liar",
+  "flags": [
+   "unknown_word:s1:knows",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:isolation",
+  "flags": [
+   "unknown_word:s1:solitude,vitalizes,kills",
+   "unknown_word:s2:solitude,vivifies,kills"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ego",
+  "flags": [
+   "unknown_word:s1:nations,individuals",
+   "unknown_word:s2:biggest"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bizarre",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mansion",
+  "flags": [
+   "unknown_word:s2:enters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cannon",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:sweets",
+   "unknown_word:s2:looks,flimsy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:subscribe",
+  "flags": [
+   "unknown_word:s1:decided"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:axis",
+  "flags": [
+   "unknown_word:s1:revolves,its"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:algorithm",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:its",
+   "too_long:s2",
+   "unknown_word:s2:solving"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dictionary",
+  "flags": [
+   "unknown_word:s2:yours"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bounce",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:flexibility",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:instructor",
+  "flags": [
+   "unknown_word:s1:driving,says",
+   "unknown_word:s2:advised"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:goddess",
+  "flags": [
+   "unknown_word:s1:worshiped,gods",
+   "unknown_word:s2:worshipped,gods"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:massage",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:liquor",
+  "flags": [
+   "unknown_word:s2:sold"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:insert",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:void",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:nephew",
+  "flags": [
+   "unknown_word:s1:ethiopia,ethiopian",
+   "unknown_word:s2:getting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:specially",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:engineered",
+   "unknown_word:s2:packaged"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:whip",
+  "flags": [
+   "unknown_word:s1:candies",
+   "too_long:s2",
+   "unknown_word:s2:lost"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vitamin",
+  "flags": [
+   "unknown_word:s1:oranges,c",
+   "unknown_word:s2:oranges,c"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:preservation",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:orchestra",
+  "flags": [
+   "unknown_word:s1:playing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tan",
+  "flags": [
+   "unknown_word:s1:did,tom",
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:precision",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:gained,pleonasm"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:salmon",
+  "flags": [
+   "unknown_word:s1:i'll",
+   "unknown_word:s2:i'll"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:den",
+  "flags": [
+   "unknown_word:s1:crazies",
+   "unknown_word:s2:tom,mary,playing,darts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:seller",
+  "flags": [
+   "unknown_word:s1:vegetables"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:civilization",
+  "flags": [
+   "unknown_word:s2:learned,greek"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sympathy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:thumb",
+  "flags": [
+   "unknown_word:s2:turkish"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:secretly",
+  "flags": [
+   "unknown_word:s1:showed",
+   "unknown_word:s2:gets"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pad",
+  "flags": [
+   "unknown_word:s1:wrote,writing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:notably",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:coldwater,sardines,sources,omega,acids",
+   "audio_length:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:transparent",
+  "flags": [
+   "unknown_word:s1:contains"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wheat",
+  "flags": [
+   "unknown_word:s1:harvested",
+   "unknown_word:s2:conditions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bail",
+  "flags": [
+   "unknown_word:s1:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:delicate",
+  "flags": [
+   "unknown_word:s1:dogs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wrist",
+  "flags": [
+   "unknown_word:s1:took,him",
+   "unknown_word:s2:grabbed,tom's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:advisor",
+  "flags": [
+   "missing_target:s1",
+   "missing_target:s2",
+   "unknown_word:s2:mr"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:disappointment",
+  "flags": [
+   "unknown_word:s2:bitterest"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:creativity",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:timber",
+  "flags": [
+   "unknown_word:s1:extraction,prohibited"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:donation",
+  "flags": [
+   "unknown_word:s2:religions,organ"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:disclosure",
+  "flags": [
+   "unknown_word:s1:tom,signed,non"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vinyl",
+  "flags": [
+   "unknown_word:s1:thinks,records"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:coup",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:d'etat,brazil,affront",
+   "too_long:s2",
+   "unknown_word:s2:prosecuting,attempted,witch"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:kindness",
+  "flags": [
+   "unknown_word:s2:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:publicity",
+  "flags": [
+   "unknown_word:s1:did,stunt"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:magnitude",
+  "flags": [
+   "unknown_word:s1:shook,tokyo",
+   "too_long:s2",
+   "unknown_word:s2:had,richter"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:disposal",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:cottage",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:tom",
+   "unknown_word:s2:peter's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vaccine",
+  "flags": [
+   "unknown_word:s1:scientists,haven't,found",
+   "unknown_word:s2:autism"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:interim",
+  "flags": [
+   "unknown_word:s1:tom,serving"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:flour",
+  "flags": [
+   "unknown_word:s1:bought"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:telegraph",
+  "flags": [
+   "unknown_word:s1:invented",
+   "unknown_word:s2:pole"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:acute",
+  "flags": [
+   "unknown_word:s2:germans,commatitis"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:escort",
+  "flags": [
+   "unknown_word:s1:him",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:crude",
+  "flags": [
+   "unknown_word:s1:imported,malaysia",
+   "unknown_word:s2:japan,imports,quantities"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:considerably",
+  "flags": [
+   "unknown_word:s1:logging,decreased",
+   "unknown_word:s2:english,improved"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prescription",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:survivor",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:minus",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:pledge",
+  "flags": [
+   "unknown_word:s1:smoking",
+   "unknown_word:s2:allegiance"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dash",
+  "flags": [
+   "unknown_word:s1:tom,made",
+   "unknown_word:s2:tom,won"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:kindly",
+  "flags": [
+   "unknown_word:s1:helped"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lottery",
+  "flags": [
+   "unknown_word:s1:won",
+   "unknown_word:s2:won"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:chin",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:laughed",
+   "unknown_word:s2:tom,tried"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:asylum",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:deaf",
+  "flags": [
+   "unknown_word:s1:goes",
+   "unknown_word:s2:turned,complaints"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:skinny",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:remix",
+  "flags": [
+   "no_ipa"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sore",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s2:eyes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:denial",
+  "flags": [
+   "unknown_word:s2:been,useless"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:instrumental",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:barn",
+  "flags": [
+   "unknown_word:s1:ended,sleeping",
+   "unknown_word:s2:soldiers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:whatsoever",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:steep",
+  "flags": [
+   "unknown_word:s1:zigzagged"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:outbreak",
+  "flags": [
+   "unknown_word:s1:there's,measles,europe",
+   "too_long:s2",
+   "unknown_word:s2:wars"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:offset",
+  "flags": [
+   "unknown_word:s1:costs",
+   "unknown_word:s2:credits"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:insult",
+  "flags": [
+   "unknown_word:s1:trying"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:injection",
+  "flags": [
+   "unknown_word:s1:getting",
+   "too_long:s2",
+   "unknown_word:s2:administering,subjects,died"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:inappropriate",
+  "flags": [
+   "unknown_word:s2:doing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:honesty",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:spark",
+  "flags": [
+   "unknown_word:s1:shining,eyes",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:freight",
+  "flags": [
+   "unknown_word:s1:arrived"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:successor",
+  "flags": [
+   "unknown_word:s1:naming,died",
+   "unknown_word:s2:died,naming"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:consistency",
+  "flags": [
+   "unknown_word:s1:unimaginative",
+   "unknown_word:s2:starch,gives,its"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:speculation",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:cylinder",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:g,s",
+   "unknown_word:s2:butane,weighs,kg"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cathedral",
+  "flags": [
+   "unknown_word:s1:dates,ages",
+   "unknown_word:s2:built,centuries"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:perfection",
+  "flags": [
+   "unknown_word:s1:puts",
+   "too_long:s2",
+   "unknown_word:s2:things"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:expedition",
+  "flags": [
+   "unknown_word:s2:returned"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:straw",
+  "flags": [
+   "unknown_word:s1:lying"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dancer",
+  "flags": [
+   "unknown_word:s1:thought,wanted",
+   "unknown_word:s2:wearing,tights"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:accurately",
+  "flags": [
+   "unknown_word:s1:work's,done",
+   "unknown_word:s2:father's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:resistant",
+  "flags": [
+   "unknown_word:s2:boxes,cheaper"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:uncertain",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:feat",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:amazing,engineering"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:upload",
+  "flags": [
+   "unknown_word:s1:tom,youtube"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:probe",
+  "flags": [
+   "unknown_word:s1:landed,mars",
+   "unknown_word:s2:horizons,flew,pluto"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:evident",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:came"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hazard",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:optical,instruments"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wade",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:flamingo,wading",
+   "missing_target:s2",
+   "unknown_word:s2:flamingos,wading,birds"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bean",
+  "flags": [
+   "unknown_word:s1:planting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dense",
+  "flags": [
+   "unknown_word:s1:landed",
+   "unknown_word:s2:seen"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:habitat",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:giraffe,its",
+   "too_long:s2",
+   "unknown_word:s2:garnets,microbes,hardness"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pond",
+  "flags": [
+   "unknown_word:s1:swimming"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pity",
+  "flags": [
+   "unknown_word:s1:cannot"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:geography",
+  "flags": [
+   "unknown_word:s2:helps,us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:defendant",
+  "flags": [
+   "unknown_word:s1:sentenced"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bump",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:tom,knocked,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:seasonal",
+  "flags": [
+   "unknown_word:s1:allergies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:archive",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:alc's,english,expressions",
+   "too_long:s2",
+   "unknown_word:s2:going,forgot"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ruby",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:tom,mastermind"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cart",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:you're,putting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prey",
+  "flags": [
+   "unknown_word:s1:hunts,rats,brings,us",
+   "unknown_word:s2:dived,its"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:porter",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:lawn",
+  "flags": [
+   "unknown_word:s1:needs,watered",
+   "too_long:s2",
+   "unknown_word:s2:others"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:freshman",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:mennad"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sensible",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:oval",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:circus",
+  "flags": [
+   "unknown_word:s2:enjoyed,watching"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:furious",
+  "flags": [
+   "unknown_word:s1:apologized",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cord",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:desperately",
+  "flags": [
+   "unknown_word:s1:needed",
+   "unknown_word:s2:wanted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gig",
+  "flags": [
+   "unknown_word:s1:lined"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:absent",
+  "flags": [
+   "unknown_word:s1:cannot",
+   "unknown_word:s2:marked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:atomic",
+  "flags": [
+   "unknown_word:s1:working"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:financially",
+  "flags": [
+   "unknown_word:s2:relies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:needle",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:looking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hydrogen",
+  "flags": [
+   "unknown_word:s1:reacts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:referendum",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:norway,opted,eu,november"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:intact",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:tv,fell"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prophet",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:jaw",
+  "flags": [
+   "unknown_word:s1:broke,lost,teeth",
+   "unknown_word:s2:broke"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:merger",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:gravitational,waves,generated,holes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ankle",
+  "flags": [
+   "unknown_word:s1:tripped,twisting",
+   "unknown_word:s2:twisted,fell"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:frustration",
+  "flags": [
+   "unknown_word:s1:born",
+   "unknown_word:s2:tom's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:therapist",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:capitalism",
+  "flags": [
+   "unknown_word:s1:concerns,chinese,communists",
+   "unknown_word:s2:ended,built"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:caution",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:suspicion",
+  "flags": [
+   "unknown_word:s2:haunts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bachelor",
+  "flags": [
+   "unknown_word:s1:sami"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:grasp",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:madness",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:explosive",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:deals",
+   "unknown_word:s2:jim,detonated"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:armor",
+  "flags": [
+   "unknown_word:s1:mars',made,cyclopes",
+   "missing_target:s2",
+   "unknown_word:s2:crayfish,shed,armour"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:memorable",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:days"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:headache",
+  "flags": [
+   "unknown_word:s1:suffering",
+   "unknown_word:s2:woke"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:compatible",
+  "flags": [
+   "unknown_word:s2:toki,pona"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rub",
+  "flags": [
+   "unknown_word:s1:spots,leaves"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:superintendent",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:building's,residents"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:scout",
+  "flags": [
+   "unknown_word:s2:decided"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thorough",
+  "flags": [
+   "unknown_word:s2:wrote"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fortunately",
+  "flags": [
+   "unknown_word:s1:passengers,injured"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:portable",
+  "flags": [
+   "unknown_word:s1:octopuses,coconut,shells,shelters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:clash",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:strongest,teams",
+   "too_long:s2",
+   "unknown_word:s2:broke,protesters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:curiosity",
+  "flags": [
+   "unknown_word:s1:excited,children"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:steak",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:harmful",
+  "flags": [
+   "unknown_word:s1:effects",
+   "unknown_word:s2:knows"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:poker",
+  "flags": [
+   "unknown_word:s1:taught",
+   "unknown_word:s2:playing,them"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:continuously",
+  "flags": [
+   "unknown_word:s1:blew",
+   "unknown_word:s2:rained"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:berry",
+  "flags": [
+   "too_long:s2",
+   "missing_target:s2",
+   "unknown_word:s2:terrifying,grizzlies,berries,grubs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:slap",
+  "flags": [
+   "unknown_word:s1:did,tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:manga",
+  "flags": [
+   "unknown_word:s2:japanese"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:robbery",
+  "flags": [
+   "unknown_word:s1:hands",
+   "unknown_word:s2:gone"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tumor",
+  "flags": [
+   "unknown_word:s1:benign",
+   "unknown_word:s2:tom,benign"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:frontier",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:families"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reconstruction",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:revelation",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:higher"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spa",
+  "flags": [
+   "unknown_word:s1:went"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:viable",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:waist",
+  "flags": [
+   "unknown_word:s2:knees"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:flu",
+  "flags": [
+   "unknown_word:s1:tired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:detention",
+  "flags": [
+   "unknown_word:s1:tom,given,talking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:circulation",
+  "flags": [
+   "too_long:s1",
+   "too_long:s2",
+   "unknown_word:s2:ginger,increases,improves,metabolism"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:coincidence",
+  "flags": [
+   "unknown_word:s1:thought"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:toast",
+  "flags": [
+   "unknown_word:s1:going"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fraction",
+  "flags": [
+   "unknown_word:s1:written"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:countless",
+  "flags": [
+   "unknown_word:s1:knows,places",
+   "unknown_word:s2:donated,pieces"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pirate",
+  "flags": [
+   "unknown_word:s1:wore,halloween",
+   "unknown_word:s2:wore,halloween"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lightly",
+  "flags": [
+   "unknown_word:s1:slept",
+   "unknown_word:s2:angels"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pillow",
+  "flags": [
+   "unknown_word:s2:laid"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:marble",
+  "flags": [
+   "unknown_word:s1:made",
+   "unknown_word:s2:made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:explicitly",
+  "flags": [
+   "unknown_word:s1:says,things"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:conscience",
+  "flags": [
+   "unknown_word:s1:persons",
+   "unknown_word:s2:weighed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dame",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:comedian",
+  "flags": [
+   "unknown_word:s1:been"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wit",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:serviceable"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:deceased",
+  "flags": [
+   "unknown_word:s2:known"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:triumph",
+  "flags": [
+   "unknown_word:s1:friends"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:clearance",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:tom,bought,shoes",
+   "too_long:s2",
+   "unknown_word:s2:came,opposing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:puzzle",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:socially",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:anthropology,shapes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prediction",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:oath",
+  "flags": [
+   "unknown_word:s2:euthanasia,comes,hippocratic"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:architectural",
+  "flags": [
+   "unknown_word:s1:russia,boasts,stunning,wonders"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:supposedly",
+  "flags": [
+   "unknown_word:s1:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spike",
+  "flags": [
+   "unknown_word:s1:there's,been"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:superb",
+  "flags": [
+   "unknown_word:s2:tom,done"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:integral",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:operations,calculus,derivative"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:canvas",
+  "flags": [
+   "unknown_word:s1:loves",
+   "too_long:s2",
+   "unknown_word:s2:deckchair,comes,floral"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:canyon",
+  "flags": [
+   "unknown_word:s1:gunshot,echoed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tricky",
+  "flags": [
+   "unknown_word:s2:i've,heard,french"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:compassion",
+  "flags": [
+   "unknown_word:s2:tom's,surprised,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:meditation",
+  "flags": [
+   "unknown_word:s1:gives",
+   "too_long:s2",
+   "unknown_word:s2:emptying,thoughts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:purse",
+  "flags": [
+   "unknown_word:s2:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:synthetic",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:playing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:plasma",
+  "flags": [
+   "unknown_word:s1:tom,bought,tv,friday"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:absurd",
+  "flags": [
+   "unknown_word:s1:teaching,english",
+   "unknown_word:s2:them"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:elegant",
+  "flags": [
+   "unknown_word:s2:looked,underpants"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:herald",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:children"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:collision",
+  "flags": [
+   "unknown_word:s1:tom,didn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vegan",
+  "flags": [
+   "unknown_word:s1:dishes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:secular",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:rooted",
+   "unknown_word:s2:russia"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hollow",
+  "flags": [
+   "unknown_word:s1:there's,nest",
+   "unknown_word:s2:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reservation",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:messenger",
+  "flags": [
+   "unknown_word:s1:gods"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pencil",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:amid",
+  "flags": [
+   "unknown_word:s1:stood,ruins",
+   "unknown_word:s2:noises"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sixteen",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:businessman",
+  "flags": [
+   "unknown_word:s1:used",
+   "missing_target:s2",
+   "unknown_word:s2:businessmen"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tense",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:feast",
+  "flags": [
+   "unknown_word:s1:gathered"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:execute",
+  "flags": [
+   "unknown_word:s2:orders"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:supervisor",
+  "flags": [
+   "unknown_word:s1:i'll"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:distress",
+  "flags": [
+   "unknown_word:s1:admitted",
+   "unknown_word:s2:nagging"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ambitious",
+  "flags": [
+   "unknown_word:s1:tom,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:plea",
+  "flags": [
+   "unknown_word:s1:rejected,middletown,charged,shooting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:punish",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ballet",
+  "flags": [
+   "unknown_word:s1:invited",
+   "unknown_word:s2:dancing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:frost",
+  "flags": [
+   "unknown_word:s1:streets",
+   "too_long:s2",
+   "unknown_word:s2:rays,covered,fields"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:blend",
+  "flags": [
+   "unknown_word:s1:eggs",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sovereign",
+  "flags": [
+   "unknown_word:s1:queen,victoria,britain"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bargain",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:spouse",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:homeland",
+  "flags": [
+   "unknown_word:s2:portuguese"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wilderness",
+  "flags": [
+   "unknown_word:s2:believed,protecting,united,states',areas"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:locker",
+  "flags": [
+   "unknown_word:s1:books"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hike",
+  "flags": [
+   "unknown_word:s1:exhausted",
+   "unknown_word:s2:hours"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:correction",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:binary",
+  "flags": [
+   "unknown_word:s1:stars,stars,synonyms"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:recipient",
+  "flags": [
+   "unknown_word:s1:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dull",
+  "flags": [
+   "unknown_word:s1:chapters",
+   "unknown_word:s2:found"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:aggregate",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:being,cells"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:supervision",
+  "flags": [
+   "unknown_word:s1:kept"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sober",
+  "flags": [
+   "unknown_word:s1:dances",
+   "unknown_word:s2:tom,been"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hobby",
+  "flags": [
+   "unknown_word:s1:painting,pictures,flowers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:newton",
+  "flags": [
+   "unknown_word:s1:thought,had,been,created,bc",
+   "unknown_word:s2:saw,apple"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gum",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:vibe",
+  "flags": [
+   "unknown_word:s1:gave"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fare",
+  "flags": [
+   "unknown_word:s1:according",
+   "unknown_word:s2:hilton"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:automobile",
+  "flags": [
+   "unknown_word:s2:ran,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:motive",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:cement",
+  "flags": [
+   "unknown_word:s1:bags"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:virtue",
+  "flags": [
+   "unknown_word:s1:days"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rebellion",
+  "flags": [
+   "unknown_word:s1:troops",
+   "unknown_word:s2:said"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:junction",
+  "flags": [
+   "unknown_word:s1:notorious,accidents"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:profound",
+  "flags": [
+   "unknown_word:s1:freud,had,hollywood"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:scam",
+  "flags": [
+   "unknown_word:s2:schemes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:idol",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:squeeze",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:chess",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:robust",
+  "flags": [
+   "unknown_word:s1:featured",
+   "too_long:s2",
+   "unknown_word:s2:boxes,produced,made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:risky",
+  "flags": [
+   "unknown_word:s2:doing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:grind",
+  "flags": [
+   "unknown_word:s1:tired",
+   "unknown_word:s2:tom,teeth"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:refund",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:crossed",
+   "unknown_word:s2:expecting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:towel",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:incorrect",
+  "flags": [
+   "unknown_word:s1:answers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:generator",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:blackout"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:swap",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:snag,forced"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:overtime",
+  "flags": [
+   "unknown_word:s2:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prosecutor",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:lawyer's,talking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:grove",
+  "flags": [
+   "unknown_word:s1:peaceful,trees",
+   "unknown_word:s2:pandas,bamboo"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unconscious",
+  "flags": [
+   "unknown_word:s1:been,days",
+   "unknown_word:s2:taken"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:terrain",
+  "flags": [
+   "unknown_word:s1:mars,appears,hospitable",
+   "too_long:s2",
+   "unknown_word:s2:had,roads,hilly"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:illusion",
+  "flags": [
+   "unknown_word:s1:pleasures"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:simulation",
+  "flags": [
+   "unknown_word:s1:living",
+   "too_long:s2",
+   "unknown_word:s2:preferable"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:postal",
+  "flags": [
+   "unknown_word:s1:disrupted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:norm",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:understanding"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tenure",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:received,teaches"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:descent",
+  "flags": [
+   "unknown_word:s2:mary's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:soundtrack",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:litigation",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:remains"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:directory",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:looked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:acre",
+  "flags": [
+   "unknown_word:s1:measures"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:jar",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:siege",
+  "flags": [
+   "unknown_word:s1:took,hours"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pierce",
+  "flags": [
+   "unknown_word:s1:ears",
+   "unknown_word:s2:dido,takes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:merchandise",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:shopping,catalogs,gives"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sanctuary",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:prone",
+  "flags": [
+   "unknown_word:s1:sentimentality"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bundle",
+  "flags": [
+   "unknown_word:s1:bound,letters",
+   "unknown_word:s2:nerves"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:treasurer",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:needs,officers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:clown",
+  "flags": [
+   "unknown_word:s2:dressed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sleeve",
+  "flags": [
+   "unknown_word:s1:wiped"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:discharge",
+  "flags": [
+   "unknown_word:s1:tom,been",
+   "unknown_word:s2:servants"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thankful",
+  "flags": [
+   "unknown_word:s2:yanni"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:conjunction",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:wizard",
+  "flags": [
+   "unknown_word:s1:merlin",
+   "unknown_word:s2:sorcerer"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mentor",
+  "flags": [
+   "unknown_word:s2:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spine",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:books,distinguished",
+   "unknown_word:s2:sends,shivers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:triangle",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:sides"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:texture",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:dodge",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:painter",
+  "flags": [
+   "unknown_word:s1:born",
+   "unknown_word:s2:austrian"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reunion",
+  "flags": [
+   "unknown_word:s2:been"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dial",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:readily",
+  "flags": [
+   "unknown_word:s1:tom,agreed,asked",
+   "unknown_word:s2:tom,accepted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:costly",
+  "flags": [
+   "unknown_word:s1:did",
+   "unknown_word:s2:eating"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:monk",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:tenth",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:runway",
+  "flags": [
+   "unknown_word:s1:ran"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:crane",
+  "flags": [
+   "unknown_word:s1:controlled",
+   "unknown_word:s2:raises,materials"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pasta",
+  "flags": [
+   "unknown_word:s2:happens"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:debris",
+  "flags": [
+   "unknown_word:s1:littered,streets"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:luckily",
+  "flags": [
+   "unknown_word:s1:conditioned",
+   "unknown_word:s2:injured"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:theology",
+  "flags": [
+   "unknown_word:s1:fadil,studied"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:airplane",
+  "flags": [
+   "unknown_word:s1:missed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sensor",
+  "flags": [
+   "unknown_word:s1:parking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:indicator",
+  "flags": [
+   "unknown_word:s1:pollen,allergy,sufferers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:countryside",
+  "flags": [
+   "unknown_word:s2:loves"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:polite",
+  "flags": [
+   "unknown_word:s2:been"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pi",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:its",
+   "audio_length:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:biblical",
+  "flags": [
+   "unknown_word:s2:oxymoron"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:garlic",
+  "flags": [
+   "unknown_word:s1:liked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:beautifully",
+  "flags": [
+   "unknown_word:s1:blackbird,sings,chimney"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:affection",
+  "flags": [
+   "unknown_word:s1:him",
+   "unknown_word:s2:needs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:donor",
+  "flags": [
+   "unknown_word:s1:requested,anonymity",
+   "unknown_word:s2:tom,registered,organ"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:underwater",
+  "flags": [
+   "unknown_word:s1:minutes",
+   "too_long:s2",
+   "unknown_word:s2:longest"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:receipt",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:manuscript",
+  "flags": [
+   "unknown_word:s1:monks,discovered",
+   "unknown_word:s2:french,english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wax",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hail",
+  "flags": [
+   "unknown_word:s2:caused"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fierce",
+  "flags": [
+   "unknown_word:s1:fought",
+   "too_long:s2",
+   "unknown_word:s2:looking,stood,growling,us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:notification",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:smoking,posted",
+   "too_long:s2",
+   "unknown_word:s2:didn't,having,been,fired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:leisure",
+  "flags": [
+   "unknown_word:s1:fishing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:altitude",
+  "flags": [
+   "unknown_word:s1:meters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mint",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:reminds",
+   "unknown_word:s2:penny,leaves"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:boo",
+  "flags": [
+   "unknown_word:s1:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:competent",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:judges"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sculpture",
+  "flags": [
+   "unknown_word:s1:thinker,known,rodin"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gratitude",
+  "flags": [
+   "unknown_word:s1:souls"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:plaza",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:leaves,formed",
+   "unknown_word:s2:deserted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sphere",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:batch",
+  "flags": [
+   "unknown_word:s1:expired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pioneer",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:liberation",
+  "flags": [
+   "unknown_word:s1:felt"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hometown",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:verbal",
+  "flags": [
+   "unknown_word:s1:non"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:continually",
+  "flags": [
+   "unknown_word:s1:peter,making,calls"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fury",
+  "flags": [
+   "unknown_word:s1:avarice"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:suburban",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:provides,milieu,raising"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thriller",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fountain",
+  "flags": [
+   "unknown_word:s2:rome"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:refuge",
+  "flags": [
+   "unknown_word:s1:couldn't",
+   "too_long:s2",
+   "unknown_word:s2:unimaginative"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prosperity",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:s,algeria,considered"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:alcoholic",
+  "flags": [
+   "unknown_word:s1:revealed,teenagers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:renewable",
+  "flags": [
+   "unknown_word:s1:sources"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:necessity",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ambition",
+  "flags": [
+   "unknown_word:s2:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:glow",
+  "flags": [
+   "unknown_word:s2:matthew's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:massacre",
+  "flags": [
+   "unknown_word:s1:animals"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:compliment",
+  "flags": [
+   "unknown_word:s1:took,words"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:optional",
+  "flags": [
+   "unknown_word:s1:growing,growing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nationalist",
+  "flags": [
+   "unknown_word:s1:hindu,wield,india",
+   "unknown_word:s2:tom,fanatical"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:likelihood",
+  "flags": [
+   "unknown_word:s2:succeeding"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:observer",
+  "flags": [
+   "unknown_word:s1:observed,cannot,separated"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:genocide",
+  "flags": [
+   "unknown_word:s1:armenian"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:immunity",
+  "flags": [
+   "unknown_word:s1:vaccinated"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:exotic",
+  "flags": [
+   "unknown_word:s2:foods"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ammunition",
+  "flags": [
+   "unknown_word:s2:conserve"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nickname",
+  "flags": [
+   "unknown_word:s1:gave",
+   "unknown_word:s2:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hay",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:caught",
+   "unknown_word:s2:fever"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:shortage",
+  "flags": [
+   "unknown_word:s1:presents,doctors",
+   "unknown_word:s2:caused"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:collector",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:grandpa,avid,stamps"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:feminine",
+  "flags": [
+   "unknown_word:s1:names,trees,latin",
+   "unknown_word:s2:portuguese"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:anthem",
+  "flags": [
+   "unknown_word:s1:greece",
+   "unknown_word:s2:played"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stiff",
+  "flags": [
+   "unknown_word:s1:woke"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sensation",
+  "flags": [
+   "unknown_word:s2:felt,burning"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:monument",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:drought",
+  "flags": [
+   "unknown_word:s1:peasants,died"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fog",
+  "flags": [
+   "unknown_word:s1:settles",
+   "unknown_word:s2:delayed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vault",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:grenade,doors"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:snack",
+  "flags": [
+   "unknown_word:s2:went"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:blunt",
+  "flags": [
+   "unknown_word:s1:angles"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:peanut",
+  "flags": [
+   "unknown_word:s1:planted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:aggression",
+  "flags": [
+   "unknown_word:s1:causes,dogs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:obsession",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hospitality",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:advocacy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:particle",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:champagne",
+  "flags": [
+   "unknown_word:s1:imported,france",
+   "unknown_word:s2:drank,christmas"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:inevitably",
+  "flags": [
+   "unknown_word:s1:translations,nuances"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:shepherd",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hostage",
+  "flags": [
+   "unknown_word:s1:taken",
+   "unknown_word:s2:mary,taken"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:balloon",
+  "flags": [
+   "unknown_word:s2:filled"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rebuild",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:being,rebuilt",
+   "unknown_word:s2:we're,going"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reservoir",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:terrific",
+  "flags": [
+   "unknown_word:s1:tom,doing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cardinal",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:points"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:progression",
+  "flags": [
+   "unknown_word:s1:chord"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:confidential",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:madam"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:chorus",
+  "flags": [
+   "unknown_word:s1:joined"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:esteem",
+  "flags": [
+   "unknown_word:s1:loves,reading,sentences"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mortality",
+  "flags": [
+   "unknown_word:s1:fallen",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gosh",
+  "flags": [
+   "unknown_word:s1:embarrassing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:clarity",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:written,translators",
+   "unknown_word:s2:we'll"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:horizontal",
+  "flags": [
+   "unknown_word:s1:dancing,perpendicular",
+   "too_long:s2",
+   "unknown_word:s2:dancing,legalized"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spotlight",
+  "flags": [
+   "unknown_word:s1:loves,being",
+   "unknown_word:s2:being"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unemployed",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unlock",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:persistent",
+  "flags": [
+   "unknown_word:s1:things",
+   "unknown_word:s2:longing,torments"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stern",
+  "flags": [
+   "unknown_word:s2:sami"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:trinity",
+  "flags": [
+   "unknown_word:s1:petersburg"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:plague",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:bubonic",
+   "unknown_word:s2:died"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:foolish",
+  "flags": [
+   "unknown_word:s1:him",
+   "unknown_word:s2:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:farewell",
+  "flags": [
+   "unknown_word:s1:going,alberto's",
+   "unknown_word:s2:going,tom's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:supernatural",
+  "flags": [
+   "unknown_word:s1:abilities",
+   "unknown_word:s2:miracles,caused,forces"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:specialty",
+  "flags": [
+   "missing_target:s2",
+   "unknown_word:s2:speciality"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cocktail",
+  "flags": [
+   "unknown_word:s1:parties,boring,times",
+   "unknown_word:s2:tom,fixed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thirteen",
+  "flags": [
+   "unknown_word:s2:names"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:biography",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:geniuses,shortest,biographies",
+   "unknown_word:s2:been,translated,languages"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cellular",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fist",
+  "flags": [
+   "unknown_word:s1:closed",
+   "unknown_word:s2:raised"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nursery",
+  "flags": [
+   "unknown_word:s1:works",
+   "unknown_word:s2:rhyme"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tomb",
+  "flags": [
+   "unknown_word:s1:mary's,ordered,mother's,opened",
+   "unknown_word:s2:tom's,ordered,son's,opened"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:liable",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:others",
+   "unknown_word:s2:articles"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sincerely",
+  "flags": [
+   "unknown_word:s1:joking",
+   "unknown_word:s2:happiest"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:imprisonment",
+  "flags": [
+   "unknown_word:s1:sentenced",
+   "too_long:s2",
+   "unknown_word:s2:countries,being"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cod",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:tastes,i'll"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mosque",
+  "flags": [
+   "unknown_word:s1:shoes",
+   "unknown_word:s2:kabylie"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:voyage",
+  "flags": [
+   "unknown_word:s1:poets,compared"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:moss",
+  "flags": [
+   "unknown_word:s1:grows",
+   "too_long:s2",
+   "unknown_word:s2:trees"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:landlord",
+  "flags": [
+   "unknown_word:s1:visits,us",
+   "unknown_word:s2:says,wants"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:landmark",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:pyramids"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:onion",
+  "flags": [
+   "unknown_word:s1:eaten,cooked",
+   "unknown_word:s2:used,dishes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:destructive",
+  "flags": [
+   "unknown_word:s1:experienced,wars",
+   "unknown_word:s2:hurricanes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dislike",
+  "flags": [
+   "unknown_word:s1:him",
+   "unknown_word:s2:told,tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:solidarity",
+  "flags": [
+   "unknown_word:s2:victims"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:heir",
+  "flags": [
+   "unknown_word:s1:english",
+   "unknown_word:s2:made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:holocaust",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fry",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:fried",
+   "missing_target:s2",
+   "unknown_word:s2:fried"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:immense",
+  "flags": [
+   "unknown_word:s1:given,us",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:terrace",
+  "flags": [
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:whistle",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:boys,whistling,cheering"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sadness",
+  "flags": [
+   "unknown_word:s2:written"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fourteen",
+  "flags": [
+   "unknown_word:s1:jacques",
+   "unknown_word:s2:days"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:confession",
+  "flags": [
+   "unknown_word:s1:forced",
+   "unknown_word:s2:came"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stressful",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:karma",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:yearly",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:tom's,been"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:metric",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:u,s"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mankind",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:choir",
+  "flags": [
+   "unknown_word:s1:sings,ladies'",
+   "unknown_word:s2:tom,sings"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:credibility",
+  "flags": [
+   "unknown_word:s1:destroyed,tom's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:leverage",
+  "flags": [
+   "unknown_word:s1:lever",
+   "unknown_word:s2:tom,used,told,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:corridor",
+  "flags": [
+   "unknown_word:s1:meters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:clutch",
+  "flags": [
+   "unknown_word:s1:drove",
+   "unknown_word:s2:he'll"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gossip",
+  "flags": [
+   "unknown_word:s2:they're"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spoon",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:thief",
+  "flags": [
+   "unknown_word:s1:stolen"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:geometry",
+  "flags": [
+   "unknown_word:s2:concepts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:candle",
+  "flags": [
+   "unknown_word:s1:lit"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:undoubtedly",
+  "flags": [
+   "unknown_word:s1:advances",
+   "unknown_word:s2:cases,tougher"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:headphones",
+  "flags": [
+   "unknown_word:s1:came",
+   "unknown_word:s2:tom,took"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bunny",
+  "flags": [
+   "unknown_word:s1:tom,gave,stuffed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:verify",
+  "flags": [
+   "unknown_word:s2:we're,going"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:intersection",
+  "flags": [
+   "unknown_word:s1:took"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sour",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:abbey",
+  "flags": [
+   "unknown_word:s1:stood"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:upstairs",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:forehead",
+  "flags": [
+   "unknown_word:s1:kissed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:surplus",
+  "flags": [
+   "unknown_word:s1:japan,europe"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:owl",
+  "flags": [
+   "unknown_word:s1:saw"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unacceptable",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:seventeen",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rubbish",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:backyard",
+  "flags": [
+   "unknown_word:s1:cannot",
+   "unknown_word:s2:children,playing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:optimistic",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:tom,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:uncommon",
+  "flags": [
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unstable",
+  "flags": [
+   "unknown_word:s1:april",
+   "unknown_word:s2:antimatter"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sodium",
+  "flags": [
+   "unknown_word:s2:reacts,vigorously,exothermically"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:economist",
+  "flags": [
+   "unknown_word:s1:canadian"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pharmacy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:bully",
+  "flags": [
+   "unknown_word:s1:schools",
+   "missing_target:s2",
+   "unknown_word:s2:bullied"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unaware",
+  "flags": [
+   "unknown_word:s2:fadil,layla,had,gone"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:forgiveness",
+  "flags": [
+   "unknown_word:s2:sought,acts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:illegally",
+  "flags": [
+   "unknown_word:s1:usa",
+   "unknown_word:s2:living"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:heather",
+  "flags": [
+   "unknown_word:s1:loves"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vague",
+  "flags": [
+   "unknown_word:s2:gave"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:woo",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:wow,amazing,had",
+   "missing_target:s2",
+   "unknown_word:s2:wow,talented"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:alley",
+  "flags": [
+   "unknown_word:s1:there's",
+   "unknown_word:s2:tom,killed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:messy",
+  "flags": [
+   "unknown_word:s1:room's",
+   "unknown_word:s2:tom's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:marsh",
+  "flags": [
+   "unknown_word:s1:lots,herons",
+   "unknown_word:s2:swamps,bogs,types,wetlands"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:processor",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:abusive",
+  "flags": [
+   "unknown_word:s1:layla,slipped,deeper",
+   "unknown_word:s2:sami,did,things"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wee",
+  "flags": [
+   "unknown_word:s1:grows",
+   "unknown_word:s2:sami,caught,selling"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:salon",
+  "flags": [
+   "unknown_word:s1:saturdays",
+   "too_long:s2",
+   "unknown_word:s2:goes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gem",
+  "flags": [
+   "unknown_word:s1:pearls,heal"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:marshal",
+  "flags": [
+   "unknown_word:s1:tom,talked,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:maturity",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:roast",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:psychiatric",
+  "flags": [
+   "unknown_word:s1:him",
+   "unknown_word:s2:been,hospitalized"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:informal",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:being,starting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:appetite",
+  "flags": [
+   "unknown_word:s1:i've,lost"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:instinct",
+  "flags": [
+   "unknown_word:s2:acting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:coral",
+  "flags": [
+   "unknown_word:s1:tom,discovered",
+   "unknown_word:s2:region's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:congressman",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fringe",
+  "flags": [
+   "unknown_word:s1:comes,benefits"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:surf",
+  "flags": [
+   "unknown_word:s1:went",
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fragile",
+  "flags": [
+   "unknown_word:s1:said"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lime",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:behavioral",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:florida,entertains,tourists,enlightens,experts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:radius",
+  "flags": [
+   "unknown_word:s1:earth's,meters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dentist",
+  "flags": [
+   "unknown_word:s1:invented",
+   "unknown_word:s2:monday"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lively",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:breeze",
+  "flags": [
+   "unknown_word:s1:comes",
+   "too_long:s2",
+   "unknown_word:s2:made,ending,gale"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:scroll",
+  "flags": [
+   "unknown_word:s1:used",
+   "too_long:s2",
+   "unknown_word:s2:designed,website,shouldn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fictional",
+  "flags": [
+   "unknown_word:s2:dragon"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:trilogy",
+  "flags": [
+   "unknown_word:s1:watched"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cooperative",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:being"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mindset",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:taxpayer",
+  "flags": [
+   "unknown_word:s1:earned"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ant",
+  "flags": [
+   "unknown_word:s1:covered",
+   "unknown_word:s2:seen"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wheelchair",
+  "flags": [
+   "unknown_word:s1:uses",
+   "unknown_word:s2:uses"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mortal",
+  "flags": [
+   "unknown_word:s1:given",
+   "unknown_word:s2:actions,gods"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:carnival",
+  "flags": [
+   "unknown_word:s2:rio's,held,february"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dough",
+  "flags": [
+   "unknown_word:s1:faster",
+   "unknown_word:s2:beaten,eggs,frying"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sunlight",
+  "flags": [
+   "unknown_word:s1:vampires",
+   "unknown_word:s2:flowers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thrust",
+  "flags": [
+   "unknown_word:s1:marched",
+   "unknown_word:s2:policeman"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:maid",
+  "flags": [
+   "unknown_word:s1:gave",
+   "unknown_word:s2:came,bearing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:morality",
+  "flags": [
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:correlation",
+  "flags": [
+   "unknown_word:s1:found",
+   "too_long:s2",
+   "unknown_word:s2:facts,them"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:handbook",
+  "flags": [
+   "unknown_word:s1:esperanto"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:referee",
+  "flags": [
+   "unknown_word:s2:made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:maple",
+  "flags": [
+   "unknown_word:s1:trees",
+   "too_long:s2",
+   "unknown_word:s2:canadian,leaf"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:abundance",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:correspondence",
+  "flags": [
+   "unknown_word:s1:kept,files"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:uranium",
+  "flags": [
+   "unknown_word:s1:used",
+   "unknown_word:s2:actinium"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:explorer",
+  "flags": [
+   "unknown_word:s1:reached",
+   "unknown_word:s2:james,british"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:composer",
+  "flags": [
+   "unknown_word:s2:greatest"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:arbitrary",
+  "flags": [
+   "unknown_word:s1:portugal"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:carriage",
+  "flags": [
+   "unknown_word:s1:horses",
+   "unknown_word:s2:princess,rode"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:volleyball",
+  "flags": [
+   "unknown_word:s2:started,playing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gasoline",
+  "flags": [
+   "unknown_word:s1:longer",
+   "unknown_word:s2:cheaper"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spit",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:splash",
+  "flags": [
+   "unknown_word:s1:passing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:undergraduate",
+  "flags": [
+   "unknown_word:s1:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:incomplete",
+  "flags": [
+   "unknown_word:s1:sentences"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:desirable",
+  "flags": [
+   "unknown_word:s1:italian",
+   "too_long:s2",
+   "unknown_word:s2:surpass"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bark",
+  "flags": [
+   "unknown_word:s1:walks",
+   "unknown_word:s2:cannot"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tomato",
+  "flags": [
+   "unknown_word:s2:eaten"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:builder",
+  "flags": [
+   "unknown_word:s1:houses"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spinal",
+  "flags": [
+   "unknown_word:s1:invertebrates,backbone"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:clarify",
+  "flags": [
+   "unknown_word:s1:did,had",
+   "unknown_word:s2:sami,felt"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spiral",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:closest,milky,andromeda",
+   "unknown_word:s2:snail's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:yell",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:heard,men,french"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:grandson",
+  "flags": [
+   "unknown_word:s1:wants"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:proposition",
+  "flags": [
+   "unknown_word:s2:accepted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:utter",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:autonomous",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:colleges,universities,united,states"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:governmental",
+  "flags": [
+   "unknown_word:s1:prefectures,divisions,france,japan"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:feminism",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:bra",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:diagram",
+  "flags": [
+   "unknown_word:s2:illustrated"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:porch",
+  "flags": [
+   "unknown_word:s1:saw,tom,sitting",
+   "unknown_word:s2:sleeping"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mock",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:obscure",
+  "flags": [
+   "unknown_word:s1:reveals"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:censorship",
+  "flags": [
+   "unknown_word:s2:unhampered"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cowboy",
+  "flags": [
+   "unknown_word:s1:entered,saloon",
+   "unknown_word:s2:tom,wore"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:recession",
+  "flags": [
+   "unknown_word:s1:hopes",
+   "unknown_word:s2:collapsed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:disclose",
+  "flags": [
+   "unknown_word:s1:cannot,informant"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:treason",
+  "flags": [
+   "unknown_word:s2:lies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hut",
+  "flags": [
+   "unknown_word:s1:saw"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:testify",
+  "flags": [
+   "unknown_word:s1:refusing",
+   "missing_target:s2",
+   "unknown_word:s2:testified,saw"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:paperwork",
+  "flags": [
+   "unknown_word:s1:agreed",
+   "too_long:s2",
+   "unknown_word:s2:spends,doing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:swan",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:swimming"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:daylight",
+  "flags": [
+   "unknown_word:s1:attacked",
+   "unknown_word:s2:scared,living"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:genetics",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:brasil,largest"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:marina",
+  "flags": [
+   "unknown_word:s1:russian,russian",
+   "unknown_word:s2:sings"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:grill",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:tolerate",
+  "flags": [
+   "unknown_word:s1:fighting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:heel",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:mary,alice,wearing,skirts",
+   "unknown_word:s2:mary,wearing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:slaughter",
+  "flags": [
+   "unknown_word:s2:prisoners,barbarous"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:atmospheric",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:enthusiastic",
+  "flags": [
+   "unknown_word:s1:tried",
+   "unknown_word:s2:boys"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sincere",
+  "flags": [
+   "unknown_word:s2:hurts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:violet",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:exploitation",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:refers,unfettered",
+   "audio_length:s1",
+   "unknown_word:s2:fought,brazil"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:monopoly",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:exile",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ruler",
+  "flags": [
+   "unknown_word:s1:resisted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spill",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:envy",
+  "flags": [
+   "unknown_word:s1:friends",
+   "missing_target:s2",
+   "unknown_word:s2:envies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:doe",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:tom,done",
+   "unknown_word:s2:teaches,english,yamada"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:goose",
+  "flags": [
+   "unknown_word:s2:lays,eggs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cardiac",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:used,measures"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:swamp",
+  "flags": [
+   "too_long:s1",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:elbow",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:bracket",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:offers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:urine",
+  "flags": [
+   "unknown_word:s1:grandpa,cannot"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:synthesis",
+  "flags": [
+   "unknown_word:s2:ribosomes,organelles"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:zoom",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s2:used"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dessert",
+  "flags": [
+   "unknown_word:s1:made,whipped"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:differential",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:solved,laplace",
+   "unknown_word:s2:equations,equations,involving,derivatives"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:toddler",
+  "flags": [
+   "unknown_word:s1:shouldn't",
+   "unknown_word:s2:wobbled,stood"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:naughty",
+  "flags": [
+   "unknown_word:s1:needs,beating",
+   "unknown_word:s2:who's,broke"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:exploit",
+  "flags": [
+   "unknown_word:s1:grew,workers",
+   "unknown_word:s2:cows"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:humidity",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:covid",
+   "too_long:s2",
+   "unknown_word:s2:didn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:critique",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sage",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:fool",
+   "unknown_word:s2:drinking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nationalism",
+  "flags": [
+   "unknown_word:s1:confused,patriotism"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:boil",
+  "flags": [
+   "unknown_word:s1:eggs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vicious",
+  "flags": [
+   "unknown_word:s1:monkey"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thoughtful",
+  "flags": [
+   "unknown_word:s2:cows,eyes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:obey",
+  "flags": [
+   "unknown_word:s1:had,directions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:merry",
+  "flags": [
+   "unknown_word:s1:comes",
+   "unknown_word:s2:songs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:refusal",
+  "flags": [
+   "unknown_word:s1:isn't",
+   "too_long:s2",
+   "unknown_word:s2:questions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pumpkin",
+  "flags": [
+   "unknown_word:s1:eating"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:overly",
+  "flags": [
+   "unknown_word:s1:you're"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ivy",
+  "flags": [
+   "unknown_word:s1:ziri,unchecked",
+   "too_long:s2",
+   "unknown_word:s2:oldest,facebook,twitter,died"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mafia",
+  "flags": [
+   "unknown_word:s1:organisation",
+   "unknown_word:s2:worked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bald",
+  "flags": [
+   "unknown_word:s1:tom,going",
+   "unknown_word:s2:started,going"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:straightforward",
+  "flags": [
+   "unknown_word:s2:answers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:breakthrough",
+  "flags": [
+   "too_long:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prototype",
+  "flags": [
+   "too_long:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:applause",
+  "flags": [
+   "unknown_word:s1:received",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:convey",
+  "flags": [
+   "unknown_word:s1:proverbs,values,principles",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:investigator",
+  "flags": [
+   "unknown_word:s1:couldn't,pulled",
+   "unknown_word:s2:noticed,anomalies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:economically",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:inherent",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:seems"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:livestock",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:decay",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sickness",
+  "flags": [
+   "unknown_word:s1:valued,comes",
+   "unknown_word:s2:prevented,him,going"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reef",
+  "flags": [
+   "unknown_word:s1:tom,aquarium"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:shave",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:shaving",
+   "missing_target:s2",
+   "unknown_word:s2:shaving"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:justification",
+  "flags": [
+   "unknown_word:s1:punished"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cone",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:'pine",
+   "unknown_word:s2:jane,wanted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:innocence",
+  "flags": [
+   "unknown_word:s1:convinced",
+   "unknown_word:s2:convinced,us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:superstar",
+  "flags": [
+   "unknown_word:s1:dr,sadiq",
+   "unknown_word:s2:tom,isn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:despair",
+  "flags": [
+   "unknown_word:s1:gave",
+   "unknown_word:s2:lost"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tornado",
+  "flags": [
+   "unknown_word:s2:destroyed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:decree",
+  "flags": [
+   "unknown_word:s1:gods"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:remedy",
+  "flags": [
+   "unknown_word:s2:trying"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:certainty",
+  "flags": [
+   "too_long:s1",
+   "too_long:s2",
+   "unknown_word:s2:knew,unaccountable,instantaneous"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:coordinate",
+  "flags": [
+   "unknown_word:s1:spherical"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hormone",
+  "flags": [
+   "unknown_word:s1:estrogen",
+   "unknown_word:s2:testosterone,aggressivity"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:revision",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:electron",
+  "flags": [
+   "unknown_word:s1:protons,components,atoms",
+   "unknown_word:s2:atom's,nucleus,surrounded"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:willingness",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:murderer",
+  "flags": [
+   "unknown_word:s1:took,him",
+   "unknown_word:s2:caught"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:scent",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:dogs,picked,tom's,started,barking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lace",
+  "flags": [
+   "unknown_word:s1:hooded",
+   "unknown_word:s2:trimmed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:archbishop",
+  "flags": [
+   "unknown_word:s1:bishops,abbots,composed,clergy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:inadequate",
+  "flags": [
+   "unknown_word:s1:times,words,woefully",
+   "too_long:s2",
+   "unknown_word:s2:dogmas,stormy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:endure",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:nerves,had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rainfall",
+  "flags": [
+   "unknown_word:s1:leaves",
+   "too_long:s2",
+   "unknown_word:s2:collected,gardens,growing,ferns,palmettos,bananas"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:infinity",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:infinities,bigger,infinities",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:intentionally",
+  "flags": [
+   "unknown_word:s1:been"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reckless",
+  "flags": [
+   "unknown_word:s1:opposes",
+   "unknown_word:s2:tom,isn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sunrise",
+  "flags": [
+   "unknown_word:s2:works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:twilight",
+  "flags": [
+   "unknown_word:s2:merged"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:enzyme",
+  "flags": [
+   "unknown_word:s1:produced",
+   "unknown_word:s2:pancreas,secretes,hormones"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:worthless",
+  "flags": [
+   "unknown_word:s1:you're",
+   "unknown_word:s2:hobbies,esperanto"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nap",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:yacht",
+  "flags": [
+   "unknown_word:s1:said,wants",
+   "unknown_word:s2:said,wants"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hatch",
+  "flags": [
+   "unknown_word:s1:eggs,hasn't",
+   "unknown_word:s2:chickens"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pardon",
+  "flags": [
+   "unknown_word:s2:asked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:niece",
+  "flags": [
+   "unknown_word:s2:libya,libyan"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vocabulary",
+  "flags": [
+   "unknown_word:s1:counts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nickel",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:calcium",
+  "flags": [
+   "unknown_word:s1:ca",
+   "unknown_word:s2:alkali"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cube",
+  "flags": [
+   "unknown_word:s2:sides"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:congregation",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:blessed",
+   "unknown_word:s2:moved,sermon"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pier",
+  "flags": [
+   "unknown_word:s1:tom,jumped",
+   "unknown_word:s2:tom,lying,getting,suntan"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dye",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:drift",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:accidental",
+  "flags": [
+   "unknown_word:s1:established,wasn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:confess",
+  "flags": [
+   "unknown_word:s1:sins",
+   "unknown_word:s2:forgiven"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stimulus",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:token",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:maiden",
+  "flags": [
+   "unknown_word:s1:whomever,chooses",
+   "unknown_word:s2:titanic,sunk,its"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:decoration",
+  "flags": [
+   "unknown_word:s1:gave",
+   "unknown_word:s2:today's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:globally",
+  "flags": [
+   "unknown_word:s1:rising"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lid",
+  "flags": [
+   "unknown_word:s1:cannot",
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ribbon",
+  "flags": [
+   "unknown_word:s2:wore,tied"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:infectious",
+  "flags": [
+   "unknown_word:s1:diseases,contagious",
+   "unknown_word:s2:diseases,contagious"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:eclipse",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:assurance",
+  "flags": [
+   "unknown_word:s1:answered,questions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sympathetic",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:carpenter",
+  "flags": [
+   "unknown_word:s1:tom,been,working"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:homemade",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:spoil",
+  "flags": [
+   "unknown_word:s1:improves,gets",
+   "unknown_word:s2:being"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:suburb",
+  "flags": [
+   "unknown_word:s2:tokyo"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:submarine",
+  "flags": [
+   "unknown_word:s1:came",
+   "unknown_word:s2:sank"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:temper",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:respiratory",
+  "flags": [
+   "unknown_word:s1:causes,diseases"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:insulin",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:syringe,used,administer"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:roommate",
+  "flags": [
+   "unknown_word:s2:introduced"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:inferior",
+  "flags": [
+   "unknown_word:s2:patzer"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:boycott",
+  "flags": [
+   "unknown_word:s1:countries,olympics",
+   "unknown_word:s2:tried,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:flee",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:fled,leaving,traces",
+   "unknown_word:s2:others"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cuisine",
+  "flags": [
+   "unknown_word:s1:chinese",
+   "unknown_word:s2:its"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reluctant",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:rotten",
+  "flags": [
+   "unknown_word:s1:did,eggs",
+   "unknown_word:s2:denmark"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:glimpse",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:memo",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:obesity",
+  "flags": [
+   "unknown_word:s1:overcoming"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:barber",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:masterpiece",
+  "flags": [
+   "unknown_word:s1:attempts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:melody",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:had,composing,melodies",
+   "unknown_word:s2:tried"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:absorb",
+  "flags": [
+   "unknown_word:s1:towels"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hawk",
+  "flags": [
+   "unknown_word:s1:eagles,falcons,birds"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:narrator",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sofa",
+  "flags": [
+   "unknown_word:s1:found"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:doom",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:seems",
+   "unknown_word:s2:tom's,haunt,boston"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:manor",
+  "flags": [
+   "unknown_word:s1:sami,owned,majestic,english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:eighteen",
+  "flags": [
+   "unknown_word:s1:came,tokyo",
+   "unknown_word:s2:said"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spicy",
+  "flags": [
+   "unknown_word:s2:being"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:inheritance",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:ended",
+   "too_long:s2",
+   "unknown_word:s2:taxes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:primitive",
+  "flags": [
+   "unknown_word:s1:plays",
+   "unknown_word:s2:senses"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:font",
+  "flags": [
+   "unknown_word:s1:looks,handwriting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:glue",
+  "flags": [
+   "unknown_word:s2:boards,held,using"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:psychic",
+  "flags": [
+   "unknown_word:s1:abilities"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sufficiently",
+  "flags": [
+   "unknown_word:s1:road's,isn't,draining",
+   "unknown_word:s2:mr,tanaka,had,trained"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:psychologist",
+  "flags": [
+   "unknown_word:s1:tom,mary,licensed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hairy",
+  "flags": [
+   "unknown_word:s1:attracts,men",
+   "unknown_word:s2:koalas,ears"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reproductive",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:octopus,exits,purposes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:twentieth",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:gave",
+   "too_long:s2",
+   "unknown_word:s2:celebrating,wedding"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:seize",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:decorative",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:luggage",
+  "flags": [
+   "unknown_word:s1:lost"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:minimize",
+  "flags": [
+   "unknown_word:s1:done",
+   "unknown_word:s2:chances"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:atlas",
+  "flags": [
+   "unknown_word:s1:japan",
+   "unknown_word:s2:paid"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:confront",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:epidemic",
+  "flags": [
+   "unknown_word:s2:cholera,haiti"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tutorial",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:sew,cuffs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:picnic",
+  "flags": [
+   "unknown_word:s1:canceled",
+   "unknown_word:s2:canceled"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sticky",
+  "flags": [
+   "unknown_word:s1:sap",
+   "too_long:s2",
+   "unknown_word:s2:flaxseeds"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vent",
+  "flags": [
+   "unknown_word:s1:telephoned",
+   "unknown_word:s2:being,bunkers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unpleasant",
+  "flags": [
+   "unknown_word:s1:eyes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:microwave",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:skeleton",
+  "flags": [
+   "unknown_word:s1:tom,dressed,halloween",
+   "unknown_word:s2:he's,looks"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vacant",
+  "flags": [
+   "unknown_word:s1:wasn't",
+   "unknown_word:s2:parked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tick",
+  "flags": [
+   "unknown_word:s2:spiders,scorpions,arachnids"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ironic",
+  "flags": [
+   "unknown_word:s2:being"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unrelated",
+  "flags": [
+   "unknown_word:s1:problems"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:righteous",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:seeking,evildoers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:flush",
+  "flags": [
+   "unknown_word:s1:hands",
+   "unknown_word:s2:toilet"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:eternity",
+  "flags": [
+   "unknown_word:s1:seemed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:decisive",
+  "flags": [
+   "unknown_word:s1:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wardrobe",
+  "flags": [
+   "unknown_word:s1:used",
+   "too_long:s2",
+   "unknown_word:s2:being,emptied,contents,being,checked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:conductor",
+  "flags": [
+   "unknown_word:s1:boxes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:warmth",
+  "flags": [
+   "unknown_word:s1:arms",
+   "unknown_word:s2:hands"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:homicide",
+  "flags": [
+   "unknown_word:s1:dan",
+   "too_long:s2",
+   "unknown_word:s2:jos,sentenced,attempted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:peel",
+  "flags": [
+   "unknown_word:s1:potatoes,divides,them,pieces"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:coffin",
+  "flags": [
+   "unknown_word:s2:tom,lies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:puppet",
+  "flags": [
+   "unknown_word:s1:seen",
+   "too_long:s2",
+   "unknown_word:s2:manchuria,japan"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:definitive",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:results,dna's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:goalkeeper",
+  "flags": [
+   "unknown_word:s1:caught",
+   "unknown_word:s2:lev,yashin,greatest"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:patriotic",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cautious",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:probable",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:curb",
+  "flags": [
+   "unknown_word:s1:centimeters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:axe",
+  "flags": [
+   "unknown_word:s1:american",
+   "missing_target:s2",
+   "unknown_word:s2:ax"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:imaginary",
+  "flags": [
+   "unknown_word:s1:characters",
+   "unknown_word:s2:events,described"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fascist",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:mussolini,dictatorship"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:capitalist",
+  "flags": [
+   "unknown_word:s2:shouldn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:loudly",
+  "flags": [
+   "unknown_word:s2:speaks"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stall",
+  "flags": [
+   "unknown_word:s1:told",
+   "unknown_word:s2:tom,isn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:projection",
+  "flags": [
+   "too_long:s1",
+   "too_long:s2",
+   "unknown_word:s2:you're,talking,called"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prejudice",
+  "flags": [
+   "unknown_word:s1:suspected,tom",
+   "unknown_word:s2:countries"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:strap",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:traumatic",
+  "flags": [
+   "unknown_word:s1:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:playground",
+  "flags": [
+   "unknown_word:s2:ran"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pitcher",
+  "flags": [
+   "unknown_word:s2:tom,mary,drank"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vendor",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:its,alphabay,boasted,customers",
+   "audio_length:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:encouragement",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:cooperate",
+  "flags": [
+   "unknown_word:s1:decided,him",
+   "unknown_word:s2:employees,lower,expenses"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:kindergarten",
+  "flags": [
+   "unknown_word:s1:learned"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:oppression",
+  "flags": [
+   "unknown_word:s1:africans,injustice"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:harmless",
+  "flags": [
+   "unknown_word:s1:snakes",
+   "unknown_word:s2:warts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bulletin",
+  "flags": [
+   "unknown_word:s1:tom",
+   "too_long:s2",
+   "unknown_word:s2:interrupt"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gamble",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:went,gambling,debts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spokesman",
+  "flags": [
+   "unknown_word:s1:paid"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reproduction",
+  "flags": [
+   "unknown_word:s1:we're,studying",
+   "unknown_word:s2:cells,methods,mitosis,meiosis"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:raven",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:subjective",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sailor",
+  "flags": [
+   "unknown_word:s1:seen",
+   "unknown_word:s2:abandoned,burning"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:supermarket",
+  "flags": [
+   "unknown_word:s1:opened"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stab",
+  "flags": [
+   "unknown_word:s1:tried",
+   "unknown_word:s2:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:visibility",
+  "flags": [
+   "unknown_word:s1:limited,meters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:constructive",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:prom",
+  "flags": [
+   "unknown_word:s1:asked,mary",
+   "unknown_word:s2:wanted,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sociology",
+  "flags": [
+   "unknown_word:s1:auguste,comte,regarded"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tenant",
+  "flags": [
+   "unknown_word:s1:building's,artists"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:allergic",
+  "flags": [
+   "unknown_word:s1:medicines"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:render",
+  "flags": [
+   "unknown_word:s2:words,speechless"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:greenhouse",
+  "flags": [
+   "unknown_word:s1:needs,heated",
+   "unknown_word:s2:causes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:forge",
+  "flags": [
+   "unknown_word:s1:did,tom's",
+   "missing_target:s2",
+   "unknown_word:s2:blacksmith,forging"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:disco",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:went"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sweater",
+  "flags": [
+   "unknown_word:s2:czech"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:variant",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:cosmic",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:laid"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lightweight",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:fiber,bicycle"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:foam",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:mentions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:compensate",
+  "flags": [
+   "unknown_word:s1:them"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:backpack",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:exempt",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:vegetarian",
+  "flags": [
+   "unknown_word:s1:did,tom",
+   "unknown_word:s2:been"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:newborn",
+  "flags": [
+   "too_long:s1",
+   "too_long:s2",
+   "unknown_word:s2:found"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:questionable",
+  "flags": [
+   "unknown_word:s2:tom,made,choices"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:daisy",
+  "flags": [
+   "unknown_word:s1:picked",
+   "unknown_word:s2:plucked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hierarchy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:distraction",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:apparatus",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ecological",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:balcony",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:whiskey",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:whisky",
+   "missing_target:s2",
+   "unknown_word:s2:whisky"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unwanted",
+  "flags": [
+   "unknown_word:s1:receiving,emails",
+   "unknown_word:s2:he's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:penguin",
+  "flags": [
+   "unknown_word:s1:pole",
+   "unknown_word:s2:cannot"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fertility",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:pomegranate",
+   "too_long:s2",
+   "unknown_word:s2:easter,symbolizes,renewal"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tractor",
+  "flags": [
+   "unknown_word:s2:started"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:banker",
+  "flags": [
+   "unknown_word:s2:aren't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:queue",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:collaborative",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:parole",
+  "flags": [
+   "unknown_word:s1:fadil"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:faint",
+  "flags": [
+   "unknown_word:s1:sees"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:polo",
+  "flags": [
+   "unknown_word:s1:practices,m",
+   "too_long:s2",
+   "unknown_word:s2:tom,wore,popped"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:digit",
+  "flags": [
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:seminar",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:motley,educators,students,gathered"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:antenna",
+  "flags": [
+   "unknown_word:s1:tried",
+   "too_long:s2",
+   "unknown_word:s2:tom,needs,putting,tv"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vein",
+  "flags": [
+   "unknown_word:s1:running"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:algebra",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:stereo",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:simplicity",
+  "flags": [
+   "unknown_word:s2:toki,pona"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:audition",
+  "flags": [
+   "unknown_word:s1:tom,wants",
+   "unknown_word:s2:tom,going"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:peach",
+  "flags": [
+   "unknown_word:s1:fallen",
+   "unknown_word:s2:fell,newton's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sustainability",
+  "flags": [
+   "unknown_word:s1:bicycles,tools"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prohibition",
+  "flags": [
+   "unknown_word:s1:went"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:herb",
+  "flags": [
+   "unknown_word:s1:finishing",
+   "too_long:s2",
+   "unknown_word:s2:used,parsley"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:symphony",
+  "flags": [
+   "unknown_word:s1:instruments",
+   "unknown_word:s2:who's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:textbook",
+  "flags": [
+   "unknown_word:s1:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:chop",
+  "flags": [
+   "unknown_word:s2:cries,onions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:conquest",
+  "flags": [
+   "unknown_word:s1:america",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:outrageous",
+  "flags": [
+   "unknown_word:s1:politicians,censured",
+   "too_long:s2",
+   "unknown_word:s2:batting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:offspring",
+  "flags": [
+   "unknown_word:s1:rabbits",
+   "too_long:s2",
+   "unknown_word:s2:th,physics"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:occurrence",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fortress",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:credible",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:heard,versions,fable"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:drainage",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:systems"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:worm",
+  "flags": [
+   "unknown_word:s1:looking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ideological",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:modification",
+  "flags": [
+   "unknown_word:s1:approved"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:relieve",
+  "flags": [
+   "unknown_word:s1:told",
+   "unknown_word:s2:looked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:comparative",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:learning,languages"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:scar",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:maternal",
+  "flags": [
+   "unknown_word:s1:mother's",
+   "too_long:s2",
+   "unknown_word:s2:mothers,children,cannot",
+   "audio_length:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:memoir",
+  "flags": [
+   "unknown_word:s1:decided"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:flint",
+  "flags": [
+   "unknown_word:s1:struck"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:conquer",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:packet",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:chewing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:abundant",
+  "flags": [
+   "unknown_word:s1:resources,japan",
+   "unknown_word:s2:resources"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:complement",
+  "flags": [
+   "unknown_word:s1:pronoun"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:literal",
+  "flags": [
+   "unknown_word:s1:explained,meaning",
+   "unknown_word:s2:explained,meaning,sentences"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:objection",
+  "flags": [
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mold",
+  "flags": [
+   "unknown_word:s2:walls"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:softly",
+  "flags": [
+   "unknown_word:s1:laid",
+   "unknown_word:s2:barked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:velvet",
+  "flags": [
+   "unknown_word:s1:wedding,rings",
+   "too_long:s2",
+   "unknown_word:s2:seen"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:interval",
+  "flags": [
+   "unknown_word:s1:erupts",
+   "unknown_word:s2:friend's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:presenter",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:auxiliary,materials,machines,making"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:crawl",
+  "flags": [
+   "unknown_word:s1:started",
+   "unknown_word:s2:started"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:jelly",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:prop",
+  "flags": [
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:immortal",
+  "flags": [
+   "unknown_word:s1:us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vegetation",
+  "flags": [
+   "unknown_word:s1:lush"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:username",
+  "flags": [
+   "unknown_word:s1:written"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:extinction",
+  "flags": [
+   "too_long:s1",
+   "too_long:s2",
+   "unknown_word:s2:americans,languages"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stubborn",
+  "flags": [
+   "unknown_word:s1:tom,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:diploma",
+  "flags": [
+   "unknown_word:s1:received",
+   "unknown_word:s2:used"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:duchess",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:tabloids,called,frumpy,dumpy,worse"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nitrogen",
+  "flags": [
+   "unknown_word:s1:made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dispatch",
+  "flags": [
+   "unknown_word:s1:been",
+   "too_long:s2",
+   "unknown_word:s2:charter,buses"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:twitch",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:calculation",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:according,india",
+   "unknown_word:s2:i've,made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cruelty",
+  "flags": [
+   "unknown_word:s2:limits"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cancellation",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:gram",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:stainless",
+  "flags": [
+   "unknown_word:s1:spoons,made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:geology",
+  "flags": [
+   "unknown_word:s1:tom,cheated"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:behold",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:leaps,rainbow"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nineteenth",
+  "flags": [
+   "unknown_word:s1:thursday,october"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:accountant",
+  "flags": [
+   "unknown_word:s2:cooked,books"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:heavenly",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:takes",
+   "unknown_word:s2:astronomy,bodies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cane",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:phenomenal",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:activate",
+  "flags": [
+   "unknown_word:s1:reading",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pinch",
+  "flags": [
+   "unknown_word:s1:frying"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:turf",
+  "flags": [
+   "unknown_word:s2:tom's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:billionaire",
+  "flags": [
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:syrup",
+  "flags": [
+   "unknown_word:s1:aspirin",
+   "unknown_word:s2:pancakes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:volcano",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:photographic",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:transplant",
+  "flags": [
+   "unknown_word:s1:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:predictable",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:resurrection",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:easter,christians,commemorating,christ"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bypass",
+  "flags": [
+   "unknown_word:s1:managed,geoblocking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:catalyst",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:used"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unreasonable",
+  "flags": [
+   "unknown_word:s2:being"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vivid",
+  "flags": [
+   "unknown_word:s1:pleased",
+   "unknown_word:s2:playwright,cherishes,memories"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:upwards",
+  "flags": [
+   "unknown_word:s1:kept,climbing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:naive",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:tray",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:endorsement",
+  "flags": [
+   "unknown_word:s1:didn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pyramid",
+  "flags": [
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ark",
+  "flags": [
+   "unknown_word:s1:noah's",
+   "too_long:s2",
+   "unknown_word:s2:animals,moses'"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:splendid",
+  "flags": [
+   "unknown_word:s1:saw",
+   "unknown_word:s2:had,sweden"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:finite",
+  "flags": [
+   "unknown_word:s1:theorem,sets",
+   "unknown_word:s2:man's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:screenshot",
+  "flags": [
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:greedy",
+  "flags": [
+   "unknown_word:s2:tom,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:textile",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:gallon",
+  "flags": [
+   "unknown_word:s1:shopping"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:migrant",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:trickle,spain,s,african,enclave,ceuta"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:remotely",
+  "flags": [
+   "unknown_word:s1:ssh,computers",
+   "unknown_word:s2:satellite's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gown",
+  "flags": [
+   "unknown_word:s1:made",
+   "unknown_word:s2:wears,dotted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:forensic",
+  "flags": [
+   "unknown_word:s1:pathologist,fadil,sadiq",
+   "unknown_word:s2:layla,archaeologist"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:halo",
+  "flags": [
+   "unknown_word:s1:hypocrisy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:deed",
+  "flags": [
+   "unknown_word:s1:one's,neighbours"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thickness",
+  "flags": [
+   "unknown_word:s1:ipad,millimeters",
+   "unknown_word:s2:copybooks"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:selfie",
+  "flags": [
+   "unknown_word:s2:tom,mary,took"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:telescope",
+  "flags": [
+   "unknown_word:s1:adjusted",
+   "unknown_word:s2:used"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rigid",
+  "flags": [
+   "unknown_word:s1:him,training"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:violate",
+  "flags": [
+   "unknown_word:s2:appeared,had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:perfume",
+  "flags": [
+   "unknown_word:s2:did,mary,tom,gave"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:amusement",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:appropriately",
+  "flags": [
+   "unknown_word:s1:tom,dressed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:endurance",
+  "flags": [
+   "unknown_word:s1:meters",
+   "too_long:s2",
+   "unknown_word:s2:sports"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:singular",
+  "flags": [
+   "unknown_word:s2:genitive,rosa,rosae"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vain",
+  "flags": [
+   "unknown_word:s2:tried"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ironically",
+  "flags": [
+   "unknown_word:s1:arrested",
+   "unknown_word:s2:arrested,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pneumonia",
+  "flags": [
+   "unknown_word:s2:cured"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:violin",
+  "flags": [
+   "unknown_word:s1:carrying,seemed",
+   "unknown_word:s2:playing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:supper",
+  "flags": [
+   "unknown_word:s1:takes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:compass",
+  "flags": [
+   "unknown_word:s1:swung",
+   "unknown_word:s2:points"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:upright",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:hunchbacks,elegance"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:beacon",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:advent"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ceramic",
+  "flags": [
+   "unknown_word:s1:archeologists,found,artifacts,archeological"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:exceptionally",
+  "flags": [
+   "unknown_word:s2:been,tiring"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vanity",
+  "flags": [
+   "unknown_word:s1:vanities",
+   "unknown_word:s2:fools"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:falcon",
+  "flags": [
+   "unknown_word:s2:birds"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nod",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hedge",
+  "flags": [
+   "unknown_word:s1:surrounded"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ecology",
+  "flags": [
+   "too_long:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thirsty",
+  "flags": [
+   "unknown_word:s1:children",
+   "unknown_word:s2:told,tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:torch",
+  "flags": [
+   "unknown_word:s1:holding",
+   "unknown_word:s2:should've,brought"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:challenger",
+  "flags": [
+   "unknown_word:s1:exploded,january,th"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:skate",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:wanted,skating,tom",
+   "missing_target:s2",
+   "unknown_word:s2:broke,skating"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:contempt",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:potent",
+  "flags": [
+   "unknown_word:s2:neurotoxin"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:evacuation",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s2:drill"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:arrogant",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:hates,dan's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ingredient",
+  "flags": [
+   "unknown_word:s1:cakes",
+   "unknown_word:s2:used,chinese"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:salty",
+  "flags": [
+   "unknown_word:s2:drank"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:renovation",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:jewellery",
+  "flags": [
+   "no_ipa",
+   "missing_target:s1",
+   "unknown_word:s1:jewelry",
+   "missing_target:s2",
+   "unknown_word:s2:confesses,having,stolen,jewelry"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:disappearance",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:had,fadil's",
+   "unknown_word:s2:murders"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rainy",
+  "flags": [
+   "unknown_word:s1:misses,him,days",
+   "unknown_word:s2:days,june"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:anticipation",
+  "flags": [
+   "unknown_word:s1:arising"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cereal",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:offline",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:october,th,scheduled"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:groove",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:we'll,things"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sweetheart",
+  "flags": [
+   "unknown_word:s2:said"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:understandable",
+  "flags": [
+   "unknown_word:s1:reasons,been,rejected",
+   "unknown_word:s2:wrote"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:coma",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:rust",
+  "flags": [
+   "unknown_word:s1:eating",
+   "unknown_word:s2:eats,worries"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:comfortably",
+  "flags": [
+   "unknown_word:s1:higher,allows,him",
+   "unknown_word:s2:higher"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:erotic",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:discovered,comics,had,been,hiding",
+   "unknown_word:s2:looking,novels"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:jealousy",
+  "flags": [
+   "unknown_word:s1:related",
+   "unknown_word:s2:made,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:folder",
+  "flags": [
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:notebook",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:overweight",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:americans"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stray",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:tom,killed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:millionaire",
+  "flags": [
+   "unknown_word:s1:wants"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:magnet",
+  "flags": [
+   "unknown_word:s2:attracts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:analog",
+  "flags": [
+   "unknown_word:s1:clocks,ones",
+   "unknown_word:s2:watches,ones"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:glove",
+  "flags": [
+   "unknown_word:s1:boys,wearing",
+   "unknown_word:s2:bought"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:genus",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:wolves,dogs,animals",
+   "too_long:s2",
+   "unknown_word:s2:horses,zebras,animals"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:asthma",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:suffered,attacks"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:acceleration",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:saddle",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:paramount",
+  "flags": [
+   "unknown_word:s1:others"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:excel",
+  "flags": [
+   "unknown_word:s1:tom's,abstracting,generalizing",
+   "unknown_word:s2:fadil,areas"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sorrow",
+  "flags": [
+   "unknown_word:s2:didn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:paranoid",
+  "flags": [
+   "unknown_word:s2:enemies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:yen",
+  "flags": [
+   "unknown_word:s1:stuck,debts",
+   "unknown_word:s2:gave,them"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:metaphor",
+  "flags": [
+   "unknown_word:s1:came"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:childish",
+  "flags": [
+   "unknown_word:s1:thinking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:arcade",
+  "flags": [
+   "unknown_word:s1:playing,games"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:solitary",
+  "flags": [
+   "unknown_word:s1:aardvarks,animals"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hose",
+  "flags": [
+   "unknown_word:s2:didn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:patriot",
+  "flags": [
+   "unknown_word:s1:speaks"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:revolt",
+  "flags": [
+   "unknown_word:s2:tyranny"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sniper",
+  "flags": [
+   "unknown_word:s1:cupid",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:chili",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:chile,waiting",
+   "missing_target:s2",
+   "unknown_word:s2:chile"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:blink",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:thrive",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:fadil's,thriving",
+   "unknown_word:s2:injustice,reigns"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:shrine",
+  "flags": [
+   "unknown_word:s1:built",
+   "unknown_word:s2:kyoto"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:renew",
+  "flags": [
+   "unknown_word:s1:asked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rumor",
+  "flags": [
+   "unknown_word:s1:students,believed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:greed",
+  "flags": [
+   "unknown_word:s1:men",
+   "unknown_word:s2:fadil,went,extremes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:notify",
+  "flags": [
+   "missing_target:s2",
+   "unknown_word:s2:notified,october,th"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:resemble",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vest",
+  "flags": [
+   "unknown_word:s1:wore,bulletproof",
+   "too_long:s2",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bankrupt",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:having,fallen,increased,went"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dilemma",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:disgrace",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:lava",
+  "flags": [
+   "unknown_word:s1:puyehue,keeps,spewing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:popcorn",
+  "flags": [
+   "unknown_word:s1:eaten,covered",
+   "unknown_word:s2:snacks"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:downstairs",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:waiting,us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:disguise",
+  "flags": [
+   "unknown_word:s1:entered",
+   "unknown_word:s2:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:philosopher",
+  "flags": [
+   "unknown_word:s2:greatest,lived"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:insanity",
+  "flags": [
+   "unknown_word:s1:there's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:radioactive",
+  "flags": [
+   "unknown_word:s1:remains,unresolved",
+   "unknown_word:s2:actinium"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:aisle",
+  "flags": [
+   "too_long:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tow",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:it'll"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:contributor",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:tatoeba",
+   "too_long:s2",
+   "unknown_word:s2:sentences,id,sentences,added,tatoeba"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dismissal",
+  "flags": [
+   "unknown_word:s1:tom,asked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:razor",
+  "flags": [
+   "unknown_word:s2:shaves"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:intentional",
+  "flags": [
+   "unknown_word:s1:tom,did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:slogan",
+  "flags": [
+   "unknown_word:s1:translating"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thrill",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:seeing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unarmed",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:been,having,wits",
+   "unknown_word:s2:karate"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:empathy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:realization",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:apparel",
+  "flags": [
+   "unknown_word:s1:queen,richly"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:inflammatory",
+  "flags": [
+   "unknown_word:s1:anti,isilda"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:feasible",
+  "flags": [
+   "unknown_word:s1:tom,mary's",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:choke",
+  "flags": [
+   "unknown_word:s2:eating,olives"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nationality",
+  "flags": [
+   "unknown_word:s2:french,vietnamese,origins"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:insecure",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:tom,feels"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prostitution",
+  "flags": [
+   "unknown_word:s2:fadil's,ran,oiled"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cholesterol",
+  "flags": [
+   "unknown_word:s1:levels"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prose",
+  "flags": [
+   "unknown_word:s1:reads",
+   "unknown_word:s2:reads"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:atom",
+  "flags": [
+   "unknown_word:s1:cannot,seen",
+   "unknown_word:s2:made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:strawberry",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:strawberries,them",
+   "missing_target:s2",
+   "unknown_word:s2:strawberries"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:obstacle",
+  "flags": [
+   "unknown_word:s1:pioneers,overcame",
+   "unknown_word:s2:challenging"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reconciliation",
+  "flags": [
+   "unknown_word:s1:religions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:condemn",
+  "flags": [
+   "unknown_word:s1:opposed,policies",
+   "unknown_word:s2:believes,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unpopular",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:temptation",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:motto",
+  "flags": [
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:homosexual",
+  "flags": [
+   "unknown_word:s1:friends"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:steer",
+  "flags": [
+   "unknown_word:s2:butcher,deboning,carcass"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:almighty",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:strive",
+  "flags": [
+   "too_long:s2",
+   "missing_target:s2",
+   "unknown_word:s2:authorities,striving,stabilize"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:miniature",
+  "flags": [
+   "unknown_word:s1:schnauzer"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:grease",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:voluntarily",
+  "flags": [
+   "unknown_word:s1:he's,supporting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:confrontation",
+  "flags": [
+   "unknown_word:s1:fadil,didn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:microphone",
+  "flags": [
+   "unknown_word:s2:switched"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bleed",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:bled"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:volatile",
+  "flags": [
+   "unknown_word:s1:elemental"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lust",
+  "flags": [
+   "unknown_word:s1:sins"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:knot",
+  "flags": [
+   "unknown_word:s2:untie"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:impulse",
+  "flags": [
+   "unknown_word:s1:felt"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tile",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:unfinished",
+  "flags": [
+   "unknown_word:s2:remains"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:plantation",
+  "flags": [
+   "unknown_word:s1:children,slaves,cocoa"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:incapable",
+  "flags": [
+   "unknown_word:s1:telling",
+   "unknown_word:s2:taking"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:municipality",
+  "flags": [
+   "unknown_word:s1:hemmingen,germany",
+   "too_long:s2",
+   "unknown_word:s2:viana",
+   "audio_length:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:abnormal",
+  "flags": [
+   "unknown_word:s1:causing,conditions",
+   "unknown_word:s2:children"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tactic",
+  "flags": [
+   "unknown_word:s2:tom,changed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:diplomacy",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:countries",
+   "unknown_word:s2:skillful,helps,avert"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:preferably",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:antennas,placed,highest,building"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:masculine",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:t",
+   "too_long:s2",
+   "unknown_word:s2:thomas,means,hebrew"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:backward",
+  "flags": [
+   "unknown_word:s1:going,you're,going"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pod",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:twins,peas",
+   "too_long:s2",
+   "unknown_word:s2:earlier,whales,found,washed,ashore"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:spontaneous",
+  "flags": [
+   "unknown_word:s2:tom,isn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cubic",
+  "flags": [
+   "unknown_word:s1:elongated",
+   "unknown_word:s2:corresponds,liters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:digest",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:knows,knows"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:volcanic",
+  "flags": [
+   "unknown_word:s1:disrupted",
+   "unknown_word:s2:hawaii,archipelago,pacific"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:greatness",
+  "flags": [
+   "unknown_word:s1:us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tract",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:millions,organisms,digestive"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:observatory",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:knows,discoveries,observatories,uncover"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sticker",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:salute",
+  "flags": [
+   "too_long:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:respectable",
+  "flags": [
+   "unknown_word:s2:layla,been,raised,honorable"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:energetic",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:infrared",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:using,cameras,researchers,tracked,blinks,movements"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:magistrate",
+  "flags": [
+   "unknown_word:s1:made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:template",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ample",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:linguistic",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:shady",
+  "flags": [
+   "unknown_word:s1:website,advertisements,clickbait"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prophecy",
+  "flags": [
+   "unknown_word:s1:came"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:predator",
+  "flags": [
+   "unknown_word:s2:they're"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unexpectedly",
+  "flags": [
+   "unknown_word:s1:attacked",
+   "unknown_word:s2:exhaustion,mary"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:proudly",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:smoking,leaning"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:boulder",
+  "flags": [
+   "unknown_word:s1:catapult,hurled,walls",
+   "too_long:s2",
+   "unknown_word:s2:smaller,larger,pebble"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cork",
+  "flags": [
+   "unknown_word:s1:removed",
+   "unknown_word:s2:regenerates,its"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:respectful",
+  "flags": [
+   "unknown_word:s1:others",
+   "unknown_word:s2:students,towards"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:disadvantage",
+  "flags": [
+   "unknown_word:s1:writing,systems,advantages",
+   "unknown_word:s2:its,advantages"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:analogy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:distract",
+  "flags": [
+   "unknown_word:s1:trying"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pedestrian",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:closed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:calf",
+  "flags": [
+   "unknown_word:s1:separated,its",
+   "unknown_word:s2:born"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:friction",
+  "flags": [
+   "unknown_word:s1:causes",
+   "too_long:s2",
+   "unknown_word:s2:occurs,vaporization,generates,flare"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cosmetic",
+  "flags": [
+   "unknown_word:s1:longer,sells",
+   "unknown_word:s2:boys,wearing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:quartz",
+  "flags": [
+   "unknown_word:s1:kinds",
+   "unknown_word:s2:rose"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prank",
+  "flags": [
+   "unknown_word:s2:tom,thinks"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:apprentice",
+  "flags": [
+   "unknown_word:s1:tom's",
+   "unknown_word:s2:tom,spent"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:genome",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:specifies,being",
+   "too_long:s2",
+   "unknown_word:s2:francis,collins,describes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pottery",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:appears,advent"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:emission",
+  "flags": [
+   "unknown_word:s1:filters",
+   "unknown_word:s2:ways"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bisexual",
+  "flags": [
+   "unknown_word:s2:japanese,prejudiced,lesbians"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:idle",
+  "flags": [
+   "unknown_word:s2:jim,works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:haircut",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:roar",
+  "flags": [
+   "unknown_word:s2:did,lions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:compulsory",
+  "flags": [
+   "unknown_word:s1:countries,voting",
+   "unknown_word:s2:english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:alphabet",
+  "flags": [
+   "unknown_word:s1:'a',comes,'b'"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fin",
+  "flags": [
+   "unknown_word:s1:gills",
+   "unknown_word:s2:shark,soup"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:delegate",
+  "flags": [
+   "unknown_word:s1:voted",
+   "unknown_word:s2:voted,times"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:premature",
+  "flags": [
+   "too_long:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stylish",
+  "flags": [
+   "unknown_word:s1:italians"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:adore",
+  "flags": [
+   "unknown_word:s1:christmas",
+   "unknown_word:s2:students,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:grape",
+  "flags": [
+   "unknown_word:s2:its"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:overlap",
+  "flags": [
+   "unknown_word:s1:shadows"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:psychiatrist",
+  "flags": [
+   "unknown_word:s1:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:domination",
+  "flags": [
+   "unknown_word:s1:didn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:peek",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:studying,languages,windows,souls",
+   "too_long:s2",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:crust",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:th,earth's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cinnamon",
+  "flags": [
+   "unknown_word:s1:donuts",
+   "unknown_word:s2:cooked,apples"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:irregular",
+  "flags": [
+   "unknown_word:s1:verbs,english",
+   "unknown_word:s2:verbs,forms"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stimulation",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:validity",
+  "flags": [
+   "unknown_word:s1:doubted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:manually",
+  "flags": [
+   "unknown_word:s1:texts",
+   "unknown_word:s2:done"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:limb",
+  "flags": [
+   "unknown_word:s2:frozen"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fracture",
+  "flags": [
+   "unknown_word:s1:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:crisp",
+  "flags": [
+   "unknown_word:s1:menthol,cigarettes",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:comprehend",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:juicy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:bracelet",
+  "flags": [
+   "unknown_word:s1:broken,favourite"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:meaningless",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:rot",
+  "flags": [
+   "unknown_word:s2:begun"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:deploy",
+  "flags": [
+   "unknown_word:s1:tom,iraq",
+   "unknown_word:s2:philae's,harpoons,did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:flora",
+  "flags": [
+   "unknown_word:s1:australia,fauna"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:songwriter",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:technician",
+  "flags": [
+   "unknown_word:s1:born"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:creed",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:millennium",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:gamma",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:stars,emit,rays"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:jumper",
+  "flags": [
+   "unknown_word:s2:i've,knitted,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:feather",
+  "flags": [
+   "unknown_word:s1:birds,covered",
+   "unknown_word:s2:covered"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:monarch",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:rabbi",
+  "flags": [
+   "unknown_word:s1:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:inconvenience",
+  "flags": [
+   "unknown_word:s2:had,been"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:grim",
+  "flags": [
+   "unknown_word:s1:tom,had,identifying,mary's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mustard",
+  "flags": [
+   "unknown_word:s1:forgot"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hemisphere",
+  "flags": [
+   "unknown_word:s1:equator",
+   "unknown_word:s2:equator"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:underestimate",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:footballer",
+  "flags": [
+   "no_ipa",
+   "unknown_word:s2:developed,peter's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:chalk",
+  "flags": [
+   "unknown_word:s1:took",
+   "unknown_word:s2:tom,threw"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:willow",
+  "flags": [
+   "unknown_word:s1:weeping"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wallpaper",
+  "flags": [
+   "unknown_word:s1:using",
+   "unknown_word:s2:matched"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:shin",
+  "flags": [
+   "unknown_word:s1:tom,kicked,mary",
+   "unknown_word:s2:he's,gash"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ipod",
+  "flags": [
+   "unknown_word:s2:nano"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:traitor",
+  "flags": [
+   "unknown_word:s2:us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:diplomat",
+  "flags": [
+   "unknown_word:s2:languages"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:poetic",
+  "flags": [
+   "unknown_word:s1:found",
+   "unknown_word:s2:images"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:purity",
+  "flags": [
+   "unknown_word:s1:approximation"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:retrieve",
+  "flags": [
+   "too_long:s1",
+   "too_long:s2",
+   "unknown_word:s2:went"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:manipulate",
+  "flags": [
+   "unknown_word:s1:been",
+   "unknown_word:s2:being"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:entirety",
+  "flags": [
+   "unknown_word:s1:approved,its"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:beverage",
+  "flags": [
+   "unknown_word:s1:includes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:trait",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:helpless",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:unmasked,maintained,defiance"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:broadband",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:flock",
+  "flags": [
+   "unknown_word:s1:saw",
+   "too_long:s2",
+   "unknown_word:s2:said"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rehearsal",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rigorous",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:words"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:durable",
+  "flags": [
+   "unknown_word:s1:isn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:strand",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:pulp",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:sat,watched,being,beaten"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:drummer",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s2:who's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:manifest",
+  "flags": [
+   "unknown_word:s1:haven't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:scarf",
+  "flags": [
+   "unknown_word:s1:gloves"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ransom",
+  "flags": [
+   "unknown_word:s1:tom,refused",
+   "unknown_word:s2:fadil,received"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:jewel",
+  "flags": [
+   "unknown_word:s2:believed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:efficacy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:outreach",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:tom,volunteers,designed,homeless"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:defect",
+  "flags": [
+   "unknown_word:s1:drinking",
+   "unknown_word:s2:corrected"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sidewalk",
+  "flags": [
+   "unknown_word:s1:found"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:preacher",
+  "flags": [
+   "unknown_word:s1:amen",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sushi",
+  "flags": [
+   "unknown_word:s2:ate,drank"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:navigate",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:navigating,towards",
+   "too_long:s2",
+   "unknown_word:s2:claudio,used,flashlight"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:revive",
+  "flags": [
+   "unknown_word:s2:tried,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unanimous",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:investigative",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:inspired,tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:clone",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:approved,cloning"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:vengeance",
+  "flags": [
+   "unknown_word:s1:acted",
+   "unknown_word:s2:hedonistic"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:courier",
+  "flags": [
+   "unknown_word:s1:carries,letters"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:obese",
+  "flags": [
+   "unknown_word:s1:americans",
+   "unknown_word:s2:being,unhealthy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:terminology",
+  "flags": [
+   "unknown_word:s1:its"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:skeptical",
+  "flags": [
+   "unknown_word:s1:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ignition",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:tom,tried"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:disastrous",
+  "flags": [
+   "unknown_word:s2:government's,had,consequences"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:theatrical",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:drown",
+  "flags": [
+   "unknown_word:s2:saved"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:validation",
+  "flags": [
+   "unknown_word:s1:friends"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unpredictable",
+  "flags": [
+   "unknown_word:s1:computers,cats",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sleepy",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:honeymoon",
+  "flags": [
+   "unknown_word:s1:went,australia",
+   "unknown_word:s2:australia"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:timer",
+  "flags": [
+   "unknown_word:s1:i'll,tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:protector",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:scenery",
+  "flags": [
+   "unknown_word:s2:words"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:restart",
+  "flags": [
+   "unknown_word:s1:did",
+   "unknown_word:s2:tried"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:smoothly",
+  "flags": [
+   "unknown_word:s1:turns",
+   "too_long:s2",
+   "unknown_word:s2:elegantly,poured"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reinforce",
+  "flags": [
+   "unknown_word:s2:opinions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:addict",
+  "flags": [
+   "unknown_word:s1:contributing,tatoeba,you're"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:malicious",
+  "flags": [
+   "unknown_word:s1:journalists',questions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:imminent",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:mattress",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:gala",
+  "flags": [
+   "unknown_word:s1:going",
+   "unknown_word:s2:p,m"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hacker",
+  "flags": [
+   "unknown_word:s1:cannot"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lure",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:layla,tried,sami,him",
+   "unknown_word:s2:sami,girls"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:partition",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:yeast",
+  "flags": [
+   "unknown_word:s1:made",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:chaotic",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:molecule",
+  "flags": [
+   "unknown_word:s1:made,atoms",
+   "unknown_word:s2:smaller"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dolphin",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:rash",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:tom,came,changing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:replica",
+  "flags": [
+   "unknown_word:s1:dinosaur's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:believer",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:heartbeat",
+  "flags": [
+   "unknown_word:s1:layla's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:coward",
+  "flags": [
+   "unknown_word:s1:according"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:parcel",
+  "flags": [
+   "unknown_word:s1:japan",
+   "too_long:s2",
+   "unknown_word:s2:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:muscular",
+  "flags": [
+   "unknown_word:s1:boxing,athletes",
+   "unknown_word:s2:weakened"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:verge",
+  "flags": [
+   "unknown_word:s1:animals",
+   "unknown_word:s2:animals"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:savior",
+  "flags": [
+   "unknown_word:s1:times",
+   "unknown_word:s2:maximus,rome"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:irresponsible",
+  "flags": [
+   "unknown_word:s2:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reside",
+  "flags": [
+   "unknown_word:s1:friends",
+   "unknown_word:s2:york"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:gladly",
+  "flags": [
+   "unknown_word:s1:accepted"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:noisy",
+  "flags": [
+   "unknown_word:s2:cities"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:protagonist",
+  "flags": [
+   "too_long:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dusty",
+  "flags": [
+   "unknown_word:s2:books"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:susceptible",
+  "flags": [
+   "unknown_word:s1:colds"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sane",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:insulation",
+  "flags": [
+   "unknown_word:s1:deadened",
+   "too_long:s2",
+   "unknown_word:s2:developed,biodegradable,made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:prostate",
+  "flags": [
+   "unknown_word:s1:tom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:alas",
+  "flags": [
+   "too_long:s1"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bakery",
+  "flags": [
+   "unknown_word:s2:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unsafe",
+  "flags": [
+   "unknown_word:s1:sold,products",
+   "unknown_word:s2:tom,told"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tutor",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:hired",
+   "unknown_word:s2:tom,didn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:intern",
+  "flags": [
+   "too_long:s2",
+   "unknown_word:s2:windows"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:caffeine",
+  "flags": [
+   "unknown_word:s1:coca,cola"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:snail",
+  "flags": [
+   "unknown_word:s1:fuji",
+   "unknown_word:s2:french"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dent",
+  "flags": [
+   "unknown_word:s1:tom",
+   "unknown_word:s2:stopgap,measures,won't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:peculiar",
+  "flags": [
+   "unknown_word:s1:noticed,painting",
+   "unknown_word:s2:they're,colored"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:monarchy",
+  "flags": [
+   "unknown_word:s1:dictatorship",
+   "too_long:s2",
+   "missing_target:s2",
+   "unknown_word:s2:differences,dictatorships,monarchies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:goodwill",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:seemed,made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:translator",
+  "flags": [
+   "unknown_word:s1:according,italians,traitors"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ripe",
+  "flags": [
+   "unknown_word:s1:collected",
+   "unknown_word:s2:grapes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sip",
+  "flags": [
+   "unknown_word:s1:took",
+   "unknown_word:s2:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:depart",
+  "flags": [
+   "unknown_word:s1:london"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:strangely",
+  "flags": [
+   "unknown_word:s1:felt",
+   "unknown_word:s2:didn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:commentator",
+  "flags": [
+   "unknown_word:s1:tom,sports"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dreadful",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:says,had",
+   "too_long:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:poop",
+  "flags": [
+   "unknown_word:s1:did",
+   "unknown_word:s2:covered,pigeon"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:brewery",
+  "flags": [
+   "unknown_word:s1:produces,beers"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:optimism",
+  "flags": [
+   "unknown_word:s2:others,tom's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:erase",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:dependence",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:dire",
+  "flags": [
+   "too_long:s1",
+   "unknown_word:s1:circumstances"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tilt",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:daytime",
+  "flags": [
+   "unknown_word:s1:stars,cannot,seen",
+   "unknown_word:s2:looks,children"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:immature",
+  "flags": [
+   "unknown_word:s2:being"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:suppress",
+  "flags": [
+   "unknown_word:s1:feelings",
+   "unknown_word:s2:couldn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:forbid",
+  "flags": [
+   "unknown_word:s2:did,adam"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:extinct",
+  "flags": [
+   "unknown_word:s1:butterflies",
+   "unknown_word:s2:dodo"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:freezer",
+  "flags": [
+   "unknown_word:s1:working",
+   "unknown_word:s2:juice"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:chew",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mute",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:dictator",
+  "flags": [
+   "unknown_word:s2:came"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:veil",
+  "flags": [
+   "unknown_word:s1:getting,thinner",
+   "unknown_word:s2:covering"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:southeastern",
+  "flags": [
+   "unknown_word:s1:croatia,europe",
+   "unknown_word:s2:croatia,europe"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:accelerate",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:imperative",
+  "flags": [
+   "unknown_word:s1:instructions",
+   "too_long:s2",
+   "unknown_word:s2:us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:outdated",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:novelty",
+  "flags": [
+   "unknown_word:s1:discovered",
+   "unknown_word:s2:conformity,others"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pronounce",
+  "flags": [
+   "unknown_word:s1:words,them",
+   "missing_target:s2",
+   "unknown_word:s2:pronouncing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:assassin",
+  "flags": [
+   "unknown_word:s1:charles,guiteau",
+   "unknown_word:s2:tom,killed,hired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:stupidity",
+  "flags": [
+   "unknown_word:s1:called"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hare",
+  "flags": [
+   "unknown_word:s1:hid",
+   "unknown_word:s2:running"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:disregard",
+  "flags": [
+   "unknown_word:s2:tom,mary's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:trivial",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:versatile",
+  "flags": [
+   "unknown_word:s1:tom,isn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:knit",
+  "flags": [
+   "unknown_word:s2:finished"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pint",
+  "flags": [
+   "unknown_word:s1:sold",
+   "unknown_word:s2:sold"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:manly",
+  "flags": [
+   "unknown_word:s1:he's"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cardboard",
+  "flags": [
+   "unknown_word:s1:made",
+   "unknown_word:s2:boxes"
   ]
  },
  {

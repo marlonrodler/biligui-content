@@ -47,7 +47,8 @@
      "cloze": null,
      "audio": "audio/be/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/be/pt.m4a"
   },
   {
    "id": "ngsl-spoken:the",
@@ -80,7 +81,8 @@
      "cloze": "Close ___ door, please.",
      "audio": "audio/the/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/the/pt.m4a"
   },
   {
    "id": "ngsl-spoken:you",
@@ -113,7 +115,8 @@
      "cloze": "Thank ___, you are kind.",
      "audio": "audio/you/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/you/pt.m4a"
   },
   {
    "id": "ngsl-spoken:and",
@@ -147,7 +150,8 @@
      "cloze": "I like rice ___ beans.",
      "audio": "audio/and/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/and/pt.m4a"
   },
   {
    "id": "ngsl-spoken:it",
@@ -180,7 +184,8 @@
      "cloze": "Where is ___?",
      "audio": "audio/it/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/it/pt.m4a"
   },
   {
    "id": "ngsl-spoken:to",
@@ -214,7 +219,8 @@
      "cloze": "I need ___ sleep.",
      "audio": "audio/to/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/to/pt.m4a"
   },
   {
    "id": "ngsl-spoken:a",
@@ -247,7 +253,8 @@
      "cloze": "She has ___ dog.",
      "audio": "audio/a/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/a/pt.m4a"
   },
   {
    "id": "ngsl-spoken:have",
@@ -281,7 +288,8 @@
      "cloze": "Do you ___ time?",
      "audio": "audio/have/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/have/pt.m4a"
   },
   {
    "id": "ngsl-spoken:of",
@@ -314,7 +322,8 @@
      "cloze": "A cup ___ coffee, please.",
      "audio": "audio/of/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/of/pt.m4a"
   },
   {
    "id": "ngsl-spoken:do",
@@ -349,7 +358,8 @@
      "cloze": "___ you work here?",
      "audio": "audio/do/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/do/pt.m4a"
   },
   {
    "id": "ngsl-spoken:not",
@@ -382,7 +392,8 @@
      "cloze": "It is ___ my car.",
      "audio": "audio/not/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/not/pt.m4a"
   },
   {
    "id": "ngsl-spoken:that",
@@ -416,7 +427,8 @@
      "cloze": "I like ___ song.",
      "audio": "audio/that/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/that/pt.m4a"
   },
   {
    "id": "ngsl-spoken:they",
@@ -450,7 +462,8 @@
      "cloze": "___ live here.",
      "audio": "audio/they/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/they/pt.m4a"
   },
   {
    "id": "ngsl-spoken:we",
@@ -483,7 +496,8 @@
      "cloze": "___ are late.",
      "audio": "audio/we/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/we/pt.m4a"
   },
   {
    "id": "ngsl-spoken:in",
@@ -516,7 +530,8 @@
      "cloze": "I live ___ Brazil.",
      "audio": "audio/in/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/in/pt.m4a"
   },
   {
    "id": "ngsl-spoken:he",
@@ -550,7 +565,8 @@
      "cloze": "___ works at night.",
      "audio": "audio/he/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/he/pt.m4a"
   },
   {
    "id": "ngsl-spoken:know",
@@ -583,7 +599,8 @@
      "cloze": "Do you ___ the answer?",
      "audio": "audio/know/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/know/pt.m4a"
   },
   {
    "id": "ngsl-spoken:get",
@@ -616,7 +633,8 @@
      "cloze": "I ___ home at six.",
      "audio": "audio/get/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/get/pt.m4a"
   },
   {
    "id": "ngsl-spoken:go",
@@ -649,7 +667,8 @@
      "cloze": "We ___ to the beach.",
      "audio": "audio/go/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/go/pt.m4a"
   },
   {
    "id": "ngsl-spoken:so",
@@ -682,7 +701,8 @@
      "cloze": "I was tired, ___ I slept.",
      "audio": "audio/so/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/so/pt.m4a"
   },
   {
    "id": "ngsl-spoken:this",
@@ -715,7 +735,8 @@
      "cloze": "___ is my house.",
      "audio": "audio/this/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/this/pt.m4a"
   },
   {
    "id": "ngsl-spoken:but",
@@ -748,7 +769,8 @@
      "cloze": "It's small ___ nice.",
      "audio": "audio/but/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/but/pt.m4a"
   },
   {
    "id": "ngsl-spoken:on",
@@ -781,7 +803,8 @@
      "cloze": "Turn ___ the light.",
      "audio": "audio/on/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/on/pt.m4a"
   },
   {
    "id": "ngsl-spoken:i",
@@ -815,7 +838,8 @@
      "cloze": "___ love you.",
      "audio": "audio/i/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/i/pt.m4a"
   },
   {
    "id": "ngsl-spoken:for",
@@ -848,7 +872,8 @@
      "cloze": "Thanks ___ the help.",
      "audio": "audio/for/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/for/pt.m4a"
   },
   {
    "id": "ngsl-spoken:think",
@@ -881,7 +906,8 @@
      "cloze": "What do you ___?",
      "audio": "audio/think/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/think/pt.m4a"
   },
   {
    "id": "ngsl-spoken:like",
@@ -914,7 +940,8 @@
      "cloze": "Do you ___ it?",
      "audio": "audio/like/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/like/pt.m4a"
   },
   {
    "id": "ngsl-spoken:there",
@@ -948,7 +975,8 @@
      "cloze": "Put it over ___.",
      "audio": "audio/there/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/there/pt.m4a"
   },
   {
    "id": "ngsl-spoken:will",
@@ -982,7 +1010,8 @@
      "cloze": "It ___ rain today.",
      "audio": "audio/will/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/will/pt.m4a"
   },
   {
    "id": "ngsl-spoken:say",
@@ -1015,7 +1044,8 @@
      "cloze": "___ it again, please.",
      "audio": "audio/say/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/say/pt.m4a"
   },
   {
    "id": "ngsl-spoken:she",
@@ -1049,7 +1079,8 @@
      "cloze": "___ works at home.",
      "audio": "audio/she/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/she/pt.m4a"
   },
   {
    "id": "ngsl-spoken:what",
@@ -1082,7 +1113,8 @@
      "cloze": "___ do you do?",
      "audio": "audio/what/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/what/pt.m4a"
   },
   {
    "id": "ngsl-spoken:just",
@@ -1115,7 +1147,8 @@
      "cloze": "I ___ want water.",
      "audio": "audio/just/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/just/pt.m4a"
   },
   {
    "id": "ngsl-spoken:well",
@@ -1148,7 +1181,8 @@
      "cloze": "___, I don't know.",
      "audio": "audio/well/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/well/pt.m4a"
   },
   {
    "id": "ngsl-spoken:one",
@@ -1181,7 +1215,8 @@
      "cloze": "Just ___, please.",
      "audio": "audio/one/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/one/pt.m4a"
   },
   {
    "id": "ngsl-spoken:with",
@@ -1214,7 +1249,8 @@
      "cloze": "I live ___ my family.",
      "audio": "audio/with/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/with/pt.m4a"
   },
   {
    "id": "ngsl-spoken:if",
@@ -1247,7 +1283,8 @@
      "cloze": "Call me ___ you need.",
      "audio": "audio/if/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/if/pt.m4a"
   },
   {
    "id": "ngsl-spoken:at",
@@ -1280,7 +1317,8 @@
      "cloze": "See you ___ five.",
      "audio": "audio/at/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/at/pt.m4a"
   },
   {
    "id": "ngsl-spoken:all",
@@ -1313,7 +1351,8 @@
      "cloze": "That's ___, thanks.",
      "audio": "audio/all/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/all/pt.m4a"
   },
   {
    "id": "ngsl-spoken:about",
@@ -1346,7 +1385,8 @@
      "cloze": "What is it ___?",
      "audio": "audio/about/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/about/pt.m4a"
   },
   {
    "id": "ngsl-spoken:or",
@@ -1379,7 +1419,8 @@
      "cloze": "Yes ___ no?",
      "audio": "audio/or/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/or/pt.m4a"
   },
   {
    "id": "ngsl-spoken:as",
@@ -1412,7 +1453,8 @@
      "cloze": "She works ___ a teacher.",
      "audio": "audio/as/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/as/pt.m4a"
   },
   {
    "id": "ngsl-spoken:would",
@@ -1446,7 +1488,8 @@
      "cloze": "___ you help me?",
      "audio": "audio/would/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/would/pt.m4a"
   },
   {
    "id": "ngsl-spoken:then",
@@ -1479,7 +1522,8 @@
      "cloze": "I ate, ___ I slept.",
      "audio": "audio/then/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/then/pt.m4a"
   },
   {
    "id": "ngsl-spoken:because",
@@ -1513,7 +1557,8 @@
      "cloze": "Why? ___ I want to.",
      "audio": "audio/because/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/because/pt.m4a"
   },
   {
    "id": "ngsl-spoken:right",
@@ -1546,7 +1591,8 @@
      "cloze": "Turn ___ here.",
      "audio": "audio/right/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/right/pt.m4a"
   },
   {
    "id": "ngsl-spoken:can",
@@ -1579,7 +1625,8 @@
      "cloze": "I ___ swim.",
      "audio": "audio/can/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/can/pt.m4a"
   },
   {
    "id": "ngsl-spoken:no",
@@ -1612,7 +1659,8 @@
      "cloze": "There is ___ time.",
      "audio": "audio/no/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/no/pt.m4a"
   },
   {
    "id": "ngsl-spoken:up",
@@ -1645,7 +1693,8 @@
      "cloze": "Stand ___, please.",
      "audio": "audio/up/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/up/pt.m4a"
   },
   {
    "id": "ngsl-spoken:mean",
@@ -1678,7 +1727,8 @@
      "cloze": "I ___ it.",
      "audio": "audio/mean/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/mean/pt.m4a"
   },
   {
    "id": "ngsl-spoken:out",
@@ -1711,7 +1761,8 @@
      "cloze": "Get ___ of the car.",
      "audio": "audio/out/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/out/pt.m4a"
   },
   {
    "id": "ngsl-spoken:see",
@@ -1744,7 +1795,8 @@
      "cloze": "___ you later!",
      "audio": "audio/see/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/see/pt.m4a"
   },
   {
    "id": "ngsl-spoken:thing",
@@ -1777,7 +1829,8 @@
      "cloze": "One more ___.",
      "audio": "audio/thing/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/thing/pt.m4a"
   },
   {
    "id": "ngsl-spoken:yes",
@@ -1810,7 +1863,8 @@
      "cloze": "Say ___!",
      "audio": "audio/yes/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/yes/pt.m4a"
   },
   {
    "id": "ngsl-spoken:when",
@@ -1843,7 +1897,8 @@
      "cloze": "Call me ___ you arrive.",
      "audio": "audio/when/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/when/pt.m4a"
   },
   {
    "id": "ngsl-spoken:really",
@@ -1876,7 +1931,8 @@
      "cloze": "I ___ like it.",
      "audio": "audio/really/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/really/pt.m4a"
   },
   {
    "id": "ngsl-spoken:want",
@@ -1909,7 +1965,8 @@
      "cloze": "What do you ___?",
      "audio": "audio/want/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/want/pt.m4a"
   },
   {
    "id": "ngsl-spoken:come",
@@ -1942,7 +1999,8 @@
      "cloze": "Can you ___ tomorrow?",
      "audio": "audio/come/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/come/pt.m4a"
   },
   {
    "id": "ngsl-spoken:now",
@@ -1975,7 +2033,8 @@
      "cloze": "Where are you ___?",
      "audio": "audio/now/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/now/pt.m4a"
   },
   {
    "id": "ngsl-spoken:some",
@@ -2008,7 +2067,8 @@
      "cloze": "___ people like it.",
      "audio": "audio/some/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/some/pt.m4a"
   },
   {
    "id": "ngsl-spoken:good",
@@ -2041,7 +2101,8 @@
      "cloze": "Have a ___ day!",
      "audio": "audio/good/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/good/pt.m4a"
   },
   {
    "id": "ngsl-spoken:from",
@@ -2074,7 +2135,8 @@
      "cloze": "I'm ___ Brazil.",
      "audio": "audio/from/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/from/pt.m4a"
   },
   {
    "id": "ngsl-spoken:time",
@@ -2107,7 +2169,8 @@
      "cloze": "I don't have ___ now.",
      "audio": "audio/time/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/time/pt.m4a"
   },
   {
    "id": "ngsl-spoken:people",
@@ -2140,7 +2203,8 @@
      "cloze": "I like these ___.",
      "audio": "audio/people/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/people/pt.m4a"
   },
   {
    "id": "ngsl-spoken:very",
@@ -2173,7 +2237,8 @@
      "cloze": "I'm ___ tired.",
      "audio": "audio/very/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/very/pt.m4a"
   },
   {
    "id": "ngsl-spoken:yeah",
@@ -2207,7 +2272,8 @@
      "cloze": "___, let's go!",
      "audio": "audio/yeah/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/yeah/pt.m4a"
   },
   {
    "id": "ngsl-spoken:make",
@@ -2240,7 +2306,8 @@
      "cloze": "Don't ___ noise.",
      "audio": "audio/make/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/make/pt.m4a"
   },
   {
    "id": "ngsl-spoken:look",
@@ -2273,7 +2340,8 @@
      "cloze": "You ___ tired.",
      "audio": "audio/look/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/look/pt.m4a"
   },
   {
    "id": "ngsl-spoken:two",
@@ -2308,7 +2376,8 @@
      "cloze": "___ coffees, please.",
      "audio": "audio/two/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/two/pt.m4a"
   },
   {
    "id": "ngsl-spoken:take",
@@ -2341,7 +2410,8 @@
      "cloze": "Can I ___ this?",
      "audio": "audio/take/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/take/pt.m4a"
   },
   {
    "id": "ngsl-spoken:here",
@@ -2375,7 +2445,8 @@
      "cloze": "___ you go.",
      "audio": "audio/here/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/here/pt.m4a"
   },
   {
    "id": "ngsl-spoken:which",
@@ -2408,7 +2479,8 @@
      "cloze": "___ is your car?",
      "audio": "audio/which/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/which/pt.m4a"
   },
   {
    "id": "ngsl-spoken:could",
@@ -2441,7 +2513,8 @@
      "cloze": "I ___ not sleep.",
      "audio": "audio/could/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/could/pt.m4a"
   },
   {
    "id": "ngsl-spoken:work",
@@ -2475,7 +2548,8 @@
      "cloze": "I ___ from home today.",
      "audio": "audio/work/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/work/pt.m4a"
   },
   {
    "id": "ngsl-spoken:more",
@@ -2508,7 +2582,8 @@
      "cloze": "One ___ time.",
      "audio": "audio/more/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/more/pt.m4a"
   },
   {
    "id": "ngsl-spoken:who",
@@ -2541,7 +2616,8 @@
      "cloze": "___ wants coffee?",
      "audio": "audio/who/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/who/pt.m4a"
   },
   {
    "id": "ngsl-spoken:other",
@@ -2574,7 +2650,8 @@
      "cloze": "___ people think so.",
      "audio": "audio/other/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/other/pt.m4a"
   },
   {
    "id": "ngsl-spoken:laugh",
@@ -2607,7 +2684,8 @@
      "cloze": "We ___ a lot.",
      "audio": "audio/laugh/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/laugh/pt.m4a"
   },
   {
    "id": "ngsl-spoken:where",
@@ -2640,7 +2718,8 @@
      "cloze": "___ do you live?",
      "audio": "audio/where/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/where/pt.m4a"
   },
   {
    "id": "ngsl-spoken:use",
@@ -2673,7 +2752,8 @@
      "cloze": "I ___ it every day.",
      "audio": "audio/use/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/use/pt.m4a"
   },
   {
    "id": "ngsl-spoken:something",
@@ -2706,7 +2786,8 @@
      "cloze": "___ is wrong.",
      "audio": "audio/something/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/something/pt.m4a"
   },
   {
    "id": "ngsl-spoken:how",
@@ -2739,7 +2820,8 @@
      "cloze": "___ do you say this?",
      "audio": "audio/how/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/how/pt.m4a"
   },
   {
    "id": "ngsl-spoken:back",
@@ -2772,7 +2854,8 @@
      "cloze": "I'll be ___.",
      "audio": "audio/back/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/back/pt.m4a"
   },
   {
    "id": "ngsl-spoken:year",
@@ -2805,7 +2888,8 @@
      "cloze": "I lived there one ___.",
      "audio": "audio/year/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/year/pt.m4a"
   },
   {
    "id": "ngsl-spoken:by",
@@ -2838,7 +2922,8 @@
      "cloze": "Is it ___ the door?",
      "audio": "audio/by/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/by/pt.m4a"
   },
   {
    "id": "ngsl-spoken:any",
@@ -2871,7 +2956,8 @@
      "cloze": "I don't have ___ time.",
      "audio": "audio/any/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/any/pt.m4a"
   },
   {
    "id": "ngsl-spoken:lot",
@@ -2904,7 +2990,8 @@
      "cloze": "I like it a ___.",
      "audio": "audio/lot/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/lot/pt.m4a"
   },
   {
    "id": "ngsl-spoken:way",
@@ -2937,7 +3024,8 @@
      "cloze": "No ___!",
      "audio": "audio/way/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/way/pt.m4a"
   },
   {
    "id": "ngsl-spoken:put",
@@ -2970,7 +3058,8 @@
      "cloze": "Where did you ___ my keys?",
      "audio": "audio/put/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/put/pt.m4a"
   },
   {
    "id": "ngsl-spoken:down",
@@ -3003,7 +3092,8 @@
      "cloze": "Calm ___.",
      "audio": "audio/down/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/down/pt.m4a"
   },
   {
    "id": "ngsl-spoken:give",
@@ -3036,7 +3126,8 @@
      "cloze": "Can you ___ me that?",
      "audio": "audio/give/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/give/pt.m4a"
   },
   {
    "id": "ngsl-spoken:sort",
@@ -3069,7 +3160,8 @@
      "cloze": "Yeah, ___ of.",
      "audio": "audio/sort/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/sort/pt.m4a"
   },
   {
    "id": "ngsl-spoken:three",
@@ -3103,7 +3195,8 @@
      "cloze": "It's ___ o'clock.",
      "audio": "audio/three/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/three/pt.m4a"
   },
   {
    "id": "ngsl-spoken:much",
@@ -3136,7 +3229,8 @@
      "cloze": "Thank you so ___!",
      "audio": "audio/much/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/much/pt.m4a"
   },
   {
    "id": "ngsl-spoken:actually",
@@ -3169,7 +3263,8 @@
      "cloze": "I ___ like it.",
      "audio": "audio/actually/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/actually/pt.m4a"
   },
   {
    "id": "ngsl-spoken:need",
@@ -3202,7 +3297,8 @@
      "cloze": "Do you ___ anything?",
      "audio": "audio/need/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/need/pt.m4a"
   },
   {
    "id": "ngsl-spoken:talk",
@@ -3235,7 +3331,8 @@
      "cloze": "___ to me.",
      "audio": "audio/talk/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/talk/pt.m4a"
   },
   {
    "id": "ngsl-spoken:kind",
@@ -3269,7 +3366,8 @@
      "cloze": "She is very ___.",
      "audio": "audio/kind/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/kind/pt.m4a"
   },
   {
    "id": "ngsl-spoken:tell",
@@ -3302,7 +3400,8 @@
      "cloze": "Can you ___ him?",
      "audio": "audio/tell/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/tell/pt.m4a"
   },
   {
    "id": "ngsl-spoken:only",
@@ -3335,7 +3434,8 @@
      "cloze": "___ you.",
      "audio": "audio/only/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/only/pt.m4a"
   },
   {
    "id": "ngsl-spoken:water",
@@ -3368,7 +3468,8 @@
      "cloze": "The ___ is cold.",
      "audio": "audio/water/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/water/pt.m4a"
   },
   {
    "id": "ngsl-spoken:meeting",
@@ -3401,7 +3502,8 @@
      "cloze": "The ___ is in the morning.",
      "audio": "audio/meeting/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/meeting/pt.m4a"
   },
   {
    "id": "ngsl-spoken:phone",
@@ -3437,7 +3539,8 @@
      "cloze": "My ___ is on the table.",
      "audio": "audio/phone/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/phone/pt.m4a"
   },
   {
    "id": "ngsl-spoken:coffee",
@@ -3470,7 +3573,8 @@
      "cloze": "This ___ is very good.",
      "audio": "audio/coffee/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/coffee/pt.m4a"
   },
   {
    "id": "ngsl-spoken:house",
@@ -3504,7 +3608,8 @@
      "cloze": "Come to my ___ today.",
      "audio": "audio/house/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/house/pt.m4a"
   },
   {
    "id": "ngsl-spoken:car",
@@ -3537,7 +3642,8 @@
      "cloze": "We can go by ___.",
      "audio": "audio/car/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/car/pt.m4a"
   },
   {
    "id": "ngsl-spoken:money",
@@ -3570,7 +3676,8 @@
      "cloze": "Do you need ___?",
      "audio": "audio/money/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/money/pt.m4a"
   },
   {
    "id": "ngsl-spoken:friend",
@@ -3603,7 +3710,8 @@
      "cloze": "My ___ lives here.",
      "audio": "audio/friend/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/friend/pt.m4a"
   },
   {
    "id": "ngsl-spoken:thank-you",
@@ -3637,7 +3745,8 @@
      "cloze": "___, see you later.",
      "audio": "audio/thank-you/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/thank-you/pt.m4a"
   },
   {
    "id": "ngsl-spoken:morning",
@@ -3670,7 +3779,8 @@
      "cloze": "I run every ___.",
      "audio": "audio/morning/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/morning/pt.m4a"
   },
   {
    "id": "ngsl-spoken:family",
@@ -3703,7 +3813,8 @@
      "cloze": "I love my ___.",
      "audio": "audio/family/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/family/pt.m4a"
   },
   {
    "id": "ngsl-spoken:food",
@@ -3736,7 +3847,8 @@
      "cloze": "Do you like Brazilian ___?",
      "audio": "audio/food/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/food/pt.m4a"
   },
   {
    "id": "ngsl-spoken:book",
@@ -3769,7 +3881,8 @@
      "cloze": "I read a ___ every month.",
      "audio": "audio/book/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/book/pt.m4a"
   },
   {
    "id": "ngsl-spoken:dog",
@@ -3802,7 +3915,8 @@
      "cloze": "Your ___ is very happy.",
      "audio": "audio/dog/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/dog/pt.m4a"
   },
   {
    "id": "ngsl-spoken:door",
@@ -3835,7 +3949,8 @@
      "cloze": "Someone is at the ___.",
      "audio": "audio/door/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/door/pt.m4a"
   },
   {
    "id": "ngsl-spoken:happy",
@@ -3868,7 +3983,8 @@
      "cloze": "Are you ___ here?",
      "audio": "audio/happy/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/happy/pt.m4a"
   },
   {
    "id": "ngsl-spoken:okay",
@@ -3903,7 +4019,8 @@
      "audio": "audio/okay/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/okay/pt.m4a"
   },
   {
    "id": "ngsl-spoken:dad",
@@ -3938,7 +4055,8 @@
      "audio": "audio/dad/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/dad/pt.m4a"
   },
   {
    "id": "ngsl-spoken:mom",
@@ -3974,7 +4092,8 @@
      "audio": "audio/mom/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/mom/pt.m4a"
   },
   {
    "id": "ngsl-spoken:baby",
@@ -4008,7 +4127,8 @@
      "audio": "audio/baby/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/baby/pt.m4a"
   },
   {
    "id": "ngsl-spoken:little",
@@ -4043,7 +4163,8 @@
      "audio": "audio/little/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/little/pt.m4a"
   },
   {
    "id": "ngsl-spoken:stop",
@@ -4077,7 +4198,8 @@
      "audio": "audio/stop/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/stop/pt.m4a"
   },
   {
    "id": "ngsl-spoken:first",
@@ -4111,7 +4233,8 @@
      "audio": "audio/first/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/first/pt.m4a"
   },
   {
    "id": "ngsl-spoken:sorry",
@@ -4146,7 +4269,8 @@
      "audio": "audio/sorry/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/sorry/pt.m4a"
   },
   {
    "id": "ngsl-spoken:love",
@@ -4180,7 +4304,8 @@
      "audio": "audio/love/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/love/pt.m4a"
   },
   {
    "id": "ngsl-spoken:kid",
@@ -4215,7 +4340,8 @@
      "audio": "audio/kid/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/kid/pt.m4a"
   },
   {
    "id": "ngsl-spoken:bad",
@@ -4249,7 +4375,8 @@
      "audio": "audio/bad/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/bad/pt.m4a"
   },
   {
    "id": "ngsl-spoken:cool",
@@ -4283,7 +4410,8 @@
      "audio": "audio/cool/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/cool/pt.m4a"
   },
   {
    "id": "ngsl-spoken:old",
@@ -4317,7 +4445,8 @@
      "audio": "audio/old/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/old/pt.m4a"
   },
   {
    "id": "ngsl-spoken:still",
@@ -4351,7 +4480,8 @@
      "audio": "audio/still/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/still/pt.m4a"
   },
   {
    "id": "ngsl-spoken:always",
@@ -4385,7 +4515,8 @@
      "audio": "audio/always/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/always/pt.m4a"
   },
   {
    "id": "ngsl-spoken:nothing",
@@ -4419,7 +4550,8 @@
      "audio": "audio/nothing/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/nothing/pt.m4a"
   },
   {
    "id": "ngsl-spoken:nice",
@@ -4453,7 +4585,8 @@
      "audio": "audio/nice/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/nice/pt.m4a"
   },
   {
    "id": "ngsl-spoken:husband",
@@ -4487,7 +4620,8 @@
      "audio": "audio/husband/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/husband/pt.m4a"
   },
   {
    "id": "ngsl-spoken:school",
@@ -4521,7 +4655,8 @@
      "audio": "audio/school/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/school/pt.m4a"
   },
   {
    "id": "ngsl-spoken:together",
@@ -4555,7 +4690,8 @@
      "audio": "audio/together/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/together/pt.m4a"
   },
   {
    "id": "ngsl-spoken:you-know",
@@ -4590,7 +4726,8 @@
      "audio": "audio/you-know/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/you-know/pt.m4a"
   },
   {
    "id": "ngsl-spoken:i-know",
@@ -4624,7 +4761,8 @@
      "audio": "audio/i-know/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/i-know/pt.m4a"
   },
   {
    "id": "ngsl-spoken:come-on",
@@ -4659,7 +4797,8 @@
      "audio": "audio/come-on/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/come-on/pt.m4a"
   },
   {
    "id": "ngsl-spoken:you-guys",
@@ -4693,7 +4832,8 @@
      "audio": "audio/you-guys/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/you-guys/pt.m4a"
   },
   {
    "id": "ngsl-spoken:i-got-it",
@@ -4728,7 +4868,8 @@
      "audio": "audio/i-got-it/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/i-got-it/pt.m4a"
   },
   {
    "id": "ngsl-spoken:excuse-me",
@@ -4762,7 +4903,8 @@
      "audio": "audio/excuse-me/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/excuse-me/pt.m4a"
   },
   {
    "id": "ngsl-spoken:are-you-kidding",
@@ -4798,7 +4940,8 @@
      "audio": "audio/are-you-kidding/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/are-you-kidding/pt.m4a"
   },
   {
    "id": "ngsl-spoken:don-t-worry",
@@ -4833,7 +4976,8 @@
      "audio": "audio/don-t-worry/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/don-t-worry/pt.m4a"
   },
   {
    "id": "ngsl-spoken:i-m-gonna",
@@ -4869,7 +5013,8 @@
      "audio": "audio/i-m-gonna/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/i-m-gonna/pt.m4a"
   },
   {
    "id": "ngsl-spoken:i-m-not-sure",
@@ -4904,7 +5049,8 @@
      "audio": "audio/i-m-not-sure/s2.m4a"
     }
    ],
-   "deck": "mf-s01e01"
+   "deck": "mf-s01e01",
+   "audio_pt": "audio/i-m-not-sure/pt.m4a"
   },
   {
    "id": "ngsl-spoken:should",
@@ -4937,7 +5083,8 @@
      "cloze": "You ___ call her.",
      "audio": "audio/should/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/should/pt.m4a"
   },
   {
    "id": "ngsl-spoken:over",
@@ -4971,7 +5118,8 @@
      "cloze": "It's ___, let's go home.",
      "audio": "audio/over/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/over/pt.m4a"
   },
   {
    "id": "ngsl-spoken:day",
@@ -5004,7 +5152,8 @@
      "cloze": "It was a long ___.",
      "audio": "audio/day/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/day/pt.m4a"
   },
   {
    "id": "ngsl-spoken:into",
@@ -5038,7 +5187,8 @@
      "cloze": "She went ___ the car.",
      "audio": "audio/into/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/into/pt.m4a"
   },
   {
    "id": "ngsl-spoken:bit",
@@ -5072,7 +5222,8 @@
      "cloze": "Wait a ___, please.",
      "audio": "audio/bit/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/bit/pt.m4a"
   },
   {
    "id": "ngsl-spoken:try",
@@ -5105,7 +5256,8 @@
      "cloze": "I will ___.",
      "audio": "audio/try/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/try/pt.m4a"
   },
   {
    "id": "ngsl-spoken:why",
@@ -5138,7 +5290,8 @@
      "cloze": "___ not?",
      "audio": "audio/why/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/why/pt.m4a"
   },
   {
    "id": "ngsl-spoken:off",
@@ -5172,7 +5325,8 @@
      "cloze": "Can you turn it ___?",
      "audio": "audio/off/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/off/pt.m4a"
   },
   {
    "id": "ngsl-spoken:than",
@@ -5205,7 +5359,8 @@
      "cloze": "Tea is better ___ coffee.",
      "audio": "audio/than/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/than/pt.m4a"
   },
   {
    "id": "ngsl-spoken:too",
@@ -5238,7 +5393,8 @@
      "cloze": "I'm hungry. Me ___.",
      "audio": "audio/too/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/too/pt.m4a"
   },
   {
    "id": "ngsl-spoken:five",
@@ -5272,7 +5428,8 @@
      "cloze": "Give me ___ minutes.",
      "audio": "audio/five/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/five/pt.m4a"
   },
   {
    "id": "ngsl-spoken:let",
@@ -5306,7 +5463,8 @@
      "cloze": "___'s talk later.",
      "audio": "audio/let/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/let/pt.m4a"
   },
   {
    "id": "ngsl-spoken:call",
@@ -5339,7 +5497,8 @@
      "cloze": "___ the doctor.",
      "audio": "audio/call/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/call/pt.m4a"
   },
   {
    "id": "ngsl-spoken:four",
@@ -5373,7 +5532,8 @@
      "cloze": "It is ___ o'clock.",
      "audio": "audio/four/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/four/pt.m4a"
   },
   {
    "id": "ngsl-spoken:last",
@@ -5406,7 +5566,8 @@
      "cloze": "Where were you ___ night?",
      "audio": "audio/last/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/last/pt.m4a"
   },
   {
    "id": "ngsl-spoken:start",
@@ -5439,7 +5600,8 @@
      "cloze": "The class ___ at nine.",
      "audio": "audio/start/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/start/pt.m4a"
   },
   {
    "id": "ngsl-spoken:quite",
@@ -5472,7 +5634,8 @@
      "cloze": "Your English is ___ good.",
      "audio": "audio/quite/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/quite/pt.m4a"
   },
   {
    "id": "ngsl-spoken:find",
@@ -5505,7 +5668,8 @@
      "cloze": "Did you ___ it?",
      "audio": "audio/find/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/find/pt.m4a"
   },
   {
    "id": "ngsl-spoken:probably",
@@ -5538,7 +5702,8 @@
      "cloze": "She will ___ come.",
      "audio": "audio/probably/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/probably/pt.m4a"
   },
   {
    "id": "ngsl-spoken:even",
@@ -5571,7 +5736,8 @@
      "cloze": "___ my mom likes it.",
      "audio": "audio/even/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/even/pt.m4a"
   },
   {
    "id": "ngsl-spoken:might",
@@ -5604,7 +5770,8 @@
      "cloze": "I ___ be late.",
      "audio": "audio/might/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/might/pt.m4a"
   },
   {
    "id": "ngsl-spoken:through",
@@ -5637,7 +5804,8 @@
      "cloze": "Look ___ the window.",
      "audio": "audio/through/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/through/pt.m4a"
   },
   {
    "id": "ngsl-spoken:point",
@@ -5670,7 +5838,8 @@
      "cloze": "That is a good ___.",
      "audio": "audio/point/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/point/pt.m4a"
   },
   {
    "id": "ngsl-spoken:anything",
@@ -5703,7 +5872,8 @@
      "cloze": "I can eat ___.",
      "audio": "audio/anything/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/anything/pt.m4a"
   },
   {
    "id": "ngsl-spoken:week",
@@ -5736,7 +5906,8 @@
      "cloze": "I travel next ___.",
      "audio": "audio/week/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/week/pt.m4a"
   },
   {
    "id": "ngsl-spoken:before",
@@ -5769,7 +5940,8 @@
      "cloze": "Call me ___ you go.",
      "audio": "audio/before/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/before/pt.m4a"
   },
   {
    "id": "ngsl-spoken:again",
@@ -5802,7 +5974,8 @@
      "cloze": "See you ___!",
      "audio": "audio/again/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/again/pt.m4a"
   },
   {
    "id": "ngsl-spoken:problem",
@@ -5835,7 +6008,8 @@
      "cloze": "We have a ___.",
      "audio": "audio/problem/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/problem/pt.m4a"
   },
   {
    "id": "ngsl-spoken:never",
@@ -5868,7 +6042,8 @@
      "cloze": "___ say never.",
      "audio": "audio/never/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/never/pt.m4a"
   },
   {
    "id": "ngsl-spoken:same",
@@ -5901,7 +6076,8 @@
      "cloze": "It is the ___ thing.",
      "audio": "audio/same/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/same/pt.m4a"
   },
   {
    "id": "ngsl-spoken:big",
@@ -5934,7 +6110,8 @@
      "cloze": "We live in a ___ city.",
      "audio": "audio/big/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/big/pt.m4a"
   },
   {
    "id": "ngsl-spoken:feel",
@@ -5967,7 +6144,8 @@
      "cloze": "How do you ___?",
      "audio": "audio/feel/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/feel/pt.m4a"
   },
   {
    "id": "ngsl-spoken:ask",
@@ -6000,7 +6178,8 @@
      "cloze": "___ your teacher.",
      "audio": "audio/ask/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/ask/pt.m4a"
   },
   {
    "id": "ngsl-spoken:question",
@@ -6033,7 +6212,8 @@
      "cloze": "Good ___!",
      "audio": "audio/question/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/question/pt.m4a"
   },
   {
    "id": "ngsl-spoken:also",
@@ -6066,7 +6246,8 @@
      "cloze": "She is ___ a doctor.",
      "audio": "audio/also/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/also/pt.m4a"
   },
   {
    "id": "ngsl-spoken:different",
@@ -6099,7 +6280,8 @@
      "cloze": "Try a ___ way.",
      "audio": "audio/different/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/different/pt.m4a"
   },
   {
    "id": "ngsl-spoken:sure",
@@ -6132,7 +6314,8 @@
      "cloze": "Are you ___?",
      "audio": "audio/sure/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/sure/pt.m4a"
   },
   {
    "id": "ngsl-spoken:long",
@@ -6165,7 +6348,8 @@
      "cloze": "How ___ is the movie?",
      "audio": "audio/long/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/long/pt.m4a"
   },
   {
    "id": "ngsl-spoken:happen",
@@ -6199,7 +6383,8 @@
      "cloze": "It can ___.",
      "audio": "audio/happen/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/happen/pt.m4a"
   },
   {
    "id": "ngsl-spoken:course",
@@ -6232,7 +6417,8 @@
      "cloze": "Can I sit here? Of ___!",
      "audio": "audio/course/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/course/pt.m4a"
   },
   {
    "id": "ngsl-spoken:keep",
@@ -6265,7 +6451,8 @@
      "cloze": "You can ___ it.",
      "audio": "audio/keep/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/keep/pt.m4a"
   },
   {
    "id": "ngsl-spoken:another",
@@ -6298,7 +6485,8 @@
      "cloze": "Maybe ___ day.",
      "audio": "audio/another/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/another/pt.m4a"
   },
   {
    "id": "ngsl-spoken:read",
@@ -6331,7 +6519,8 @@
      "cloze": "Can you ___ this?",
      "audio": "audio/read/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/read/pt.m4a"
   },
   {
    "id": "ngsl-spoken:hundred",
@@ -6366,7 +6555,8 @@
      "cloze": "It costs a ___ dollars.",
      "audio": "audio/hundred/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/hundred/pt.m4a"
   },
   {
    "id": "ngsl-spoken:leave",
@@ -6399,7 +6589,8 @@
      "cloze": "___ it here.",
      "audio": "audio/leave/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/leave/pt.m4a"
   },
   {
    "id": "ngsl-spoken:many",
@@ -6432,7 +6623,8 @@
      "cloze": "How ___ are there?",
      "audio": "audio/many/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/many/pt.m4a"
   },
   {
    "id": "ngsl-spoken:after",
@@ -6465,7 +6657,8 @@
      "cloze": "See you ___ work.",
      "audio": "audio/after/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/after/pt.m4a"
   },
   {
    "id": "ngsl-spoken:thank",
@@ -6499,7 +6692,8 @@
      "cloze": "___ for the coffee.",
      "audio": "audio/thank/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/thank/pt.m4a"
   },
   {
    "id": "ngsl-spoken:meet",
@@ -6532,7 +6726,8 @@
      "cloze": "Where can we ___?",
      "audio": "audio/meet/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/meet/pt.m4a"
   },
   {
    "id": "ngsl-spoken:stuff",
@@ -6565,7 +6760,8 @@
      "cloze": "I have a lot of ___ to do.",
      "audio": "audio/stuff/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/stuff/pt.m4a"
   },
   {
    "id": "ngsl-spoken:end",
@@ -6598,7 +6794,8 @@
      "cloze": "This is the ___.",
      "audio": "audio/end/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/end/pt.m4a"
   },
   {
    "id": "ngsl-spoken:number",
@@ -6631,7 +6828,8 @@
      "cloze": "Pick a ___.",
      "audio": "audio/number/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/number/pt.m4a"
   },
   {
    "id": "ngsl-spoken:hear",
@@ -6664,7 +6862,8 @@
      "cloze": "I can't ___ you.",
      "audio": "audio/hear/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/hear/pt.m4a"
   },
   {
    "id": "ngsl-spoken:next",
@@ -6697,7 +6896,8 @@
      "cloze": "Take the ___ bus.",
      "audio": "audio/next/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/next/pt.m4a"
   },
   {
    "id": "ngsl-spoken:six",
@@ -6731,7 +6931,8 @@
      "cloze": "She has ___ cats.",
      "audio": "audio/six/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/six/pt.m4a"
   },
   {
    "id": "ngsl-spoken:pay",
@@ -6764,7 +6965,8 @@
      "cloze": "I will ___ for lunch.",
      "audio": "audio/pay/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/pay/pt.m4a"
   },
   {
    "id": "ngsl-spoken:place",
@@ -6797,7 +6999,8 @@
      "cloze": "It is a nice ___.",
      "audio": "audio/place/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/place/pt.m4a"
   },
   {
    "id": "ngsl-spoken:remember",
@@ -6830,7 +7033,8 @@
      "cloze": "I don't ___.",
      "audio": "audio/remember/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/remember/pt.m4a"
   },
   {
    "id": "ngsl-spoken:maybe",
@@ -6863,7 +7067,8 @@
      "cloze": "___ you are right.",
      "audio": "audio/maybe/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/maybe/pt.m4a"
   },
   {
    "id": "ngsl-spoken:test",
@@ -6896,7 +7101,8 @@
      "cloze": "The ___ was easy.",
      "audio": "audio/test/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/test/pt.m4a"
   },
   {
    "id": "ngsl-spoken:home",
@@ -6929,7 +7135,8 @@
      "cloze": "Are you at ___ now?",
      "audio": "audio/home/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/home/pt.m4a"
   },
   {
    "id": "ngsl-spoken:change",
@@ -6962,7 +7169,8 @@
      "cloze": "People can ___.",
      "audio": "audio/change/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/change/pt.m4a"
   },
   {
    "id": "ngsl-spoken:though",
@@ -6995,7 +7203,8 @@
      "cloze": "Nice car, ___.",
      "audio": "audio/though/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/though/pt.m4a"
   },
   {
    "id": "ngsl-spoken:new",
@@ -7028,7 +7237,8 @@
      "cloze": "Is that a ___ car?",
      "audio": "audio/new/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/new/pt.m4a"
   },
   {
    "id": "ngsl-spoken:live",
@@ -7061,7 +7271,8 @@
      "cloze": "I ___ near here.",
      "audio": "audio/live/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/live/pt.m4a"
   },
   {
    "id": "ngsl-spoken:part",
@@ -7094,7 +7305,8 @@
      "cloze": "I read ___ of the book.",
      "audio": "audio/part/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/part/pt.m4a"
   },
   {
    "id": "ngsl-spoken:interest",
@@ -7128,7 +7340,8 @@
      "cloze": "Are you ___?",
      "audio": "audio/interest/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/interest/pt.m4a"
   },
   {
    "id": "ngsl-spoken:around",
@@ -7161,7 +7374,8 @@
      "cloze": "See you ___!",
      "audio": "audio/around/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/around/pt.m4a"
   },
   {
    "id": "ngsl-spoken:write",
@@ -7194,7 +7408,8 @@
      "cloze": "I ___ every day.",
      "audio": "audio/write/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/write/pt.m4a"
   },
   {
    "id": "ngsl-spoken:most",
@@ -7227,7 +7442,8 @@
      "cloze": "This is the ___ fun part.",
      "audio": "audio/most/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/most/pt.m4a"
   },
   {
    "id": "ngsl-spoken:move",
@@ -7260,7 +7476,8 @@
      "cloze": "Don't ___!",
      "audio": "audio/move/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/move/pt.m4a"
   },
   {
    "id": "ngsl-spoken:every",
@@ -7293,7 +7510,8 @@
      "cloze": "We walk ___ day.",
      "audio": "audio/every/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/every/pt.m4a"
   },
   {
    "id": "ngsl-spoken:today",
@@ -7326,7 +7544,8 @@
      "cloze": "___ is a good day.",
      "audio": "audio/today/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/today/pt.m4a"
   },
   {
    "id": "ngsl-spoken:twenty",
@@ -7360,7 +7579,8 @@
      "cloze": "It takes ___ minutes.",
      "audio": "audio/twenty/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/twenty/pt.m4a"
   },
   {
    "id": "ngsl-spoken:else",
@@ -7393,7 +7613,8 @@
      "cloze": "Let's talk about something ___.",
      "audio": "audio/else/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/else/pt.m4a"
   },
   {
    "id": "ngsl-spoken:anyway",
@@ -7426,7 +7647,8 @@
      "cloze": "Thanks ___.",
      "audio": "audio/anyway/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/anyway/pt.m4a"
   },
   {
    "id": "ngsl-spoken:child",
@@ -7459,7 +7681,8 @@
      "cloze": "I was a happy ___.",
      "audio": "audio/child/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/child/pt.m4a"
   },
   {
    "id": "ngsl-spoken:buy",
@@ -7492,7 +7715,8 @@
      "cloze": "What did you ___?",
      "audio": "audio/buy/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/buy/pt.m4a"
   },
   {
    "id": "ngsl-spoken:fact",
@@ -7525,7 +7749,8 @@
      "cloze": "In ___, she is right.",
      "audio": "audio/fact/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/fact/pt.m4a"
   },
   {
    "id": "ngsl-spoken:play",
@@ -7558,7 +7783,8 @@
      "cloze": "I ___ the guitar.",
      "audio": "audio/play/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/play/pt.m4a"
   },
   {
    "id": "ngsl-spoken:great",
@@ -7591,7 +7817,8 @@
      "cloze": "___ job!",
      "audio": "audio/great/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/great/pt.m4a"
   },
   {
    "id": "ngsl-spoken:job",
@@ -7624,7 +7851,8 @@
      "cloze": "She has a new ___.",
      "audio": "audio/job/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/job/pt.m4a"
   },
   {
    "id": "ngsl-spoken:seem",
@@ -7657,7 +7885,8 @@
      "cloze": "You ___ happy today.",
      "audio": "audio/seem/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/seem/pt.m4a"
   },
   {
    "id": "ngsl-spoken:man",
@@ -7690,7 +7919,8 @@
      "cloze": "He is a good ___.",
      "audio": "audio/man/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/man/pt.m4a"
   },
   {
    "id": "ngsl-spoken:night",
@@ -7724,7 +7954,8 @@
      "cloze": "I work at ___.",
      "audio": "audio/night/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/night/pt.m4a"
   },
   {
    "id": "ngsl-spoken:away",
@@ -7757,7 +7988,8 @@
      "cloze": "The pain will go ___.",
      "audio": "audio/away/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/away/pt.m4a"
   },
   {
    "id": "ngsl-spoken:issue",
@@ -7790,7 +8022,8 @@
      "cloze": "It is not an ___.",
      "audio": "audio/issue/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/issue/pt.m4a"
   },
   {
    "id": "ngsl-spoken:own",
@@ -7823,7 +8056,8 @@
      "cloze": "I did it on my ___.",
      "audio": "audio/own/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/own/pt.m4a"
   },
   {
    "id": "ngsl-spoken:area",
@@ -7856,7 +8090,8 @@
      "cloze": "It is a quiet ___.",
      "audio": "audio/area/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/area/pt.m4a"
   },
   {
    "id": "ngsl-spoken:half",
@@ -7889,7 +8124,8 @@
      "cloze": "Wait ___ an hour.",
      "audio": "audio/half/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/half/pt.m4a"
   },
   {
    "id": "ngsl-spoken:round",
@@ -7923,7 +8159,8 @@
      "cloze": "Can I come ___ later?",
      "audio": "audio/round/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/round/pt.m4a"
   },
   {
    "id": "ngsl-spoken:eight",
@@ -7957,7 +8194,8 @@
      "cloze": "The shop opens at ___.",
      "audio": "audio/eight/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/eight/pt.m4a"
   },
   {
    "id": "ngsl-spoken:help",
@@ -7990,7 +8228,8 @@
      "cloze": "Thanks for your ___.",
      "audio": "audio/help/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/help/pt.m4a"
   },
   {
    "id": "ngsl-spoken:ten",
@@ -8024,7 +8263,8 @@
      "cloze": "I have ___ friends here.",
      "audio": "audio/ten/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/ten/pt.m4a"
   },
   {
    "id": "ngsl-spoken:whole",
@@ -8057,7 +8297,8 @@
      "cloze": "It rained the ___ day.",
      "audio": "audio/whole/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/whole/pt.m4a"
   },
   {
    "id": "ngsl-spoken:everything",
@@ -8090,7 +8331,8 @@
      "cloze": "Thanks for ___.",
      "audio": "audio/everything/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/everything/pt.m4a"
   },
   {
    "id": "ngsl-spoken:minute",
@@ -8124,7 +8366,8 @@
      "cloze": "I will be there in a ___.",
      "audio": "audio/minute/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/minute/pt.m4a"
   },
   {
    "id": "ngsl-spoken:may",
@@ -8157,7 +8400,8 @@
      "cloze": "___ I sit here?",
      "audio": "audio/may/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/may/pt.m4a"
   },
   {
    "id": "ngsl-spoken:whether",
@@ -8190,7 +8434,8 @@
      "cloze": "Ask him ___ he can come.",
      "audio": "audio/whether/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/whether/pt.m4a"
   },
   {
    "id": "ngsl-spoken:student",
@@ -8223,7 +8468,8 @@
      "cloze": "She is a good ___.",
      "audio": "audio/student/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/student/pt.m4a"
   },
   {
    "id": "ngsl-spoken:guess",
@@ -8256,7 +8502,8 @@
      "cloze": "I ___ you are right.",
      "audio": "audio/guess/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/guess/pt.m4a"
   },
   {
    "id": "ngsl-spoken:whatever",
@@ -8289,7 +8536,8 @@
      "cloze": "Eat ___ you want.",
      "audio": "audio/whatever/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/whatever/pt.m4a"
   },
   {
    "id": "ngsl-spoken:sit",
@@ -8322,7 +8570,8 @@
      "cloze": "Can I ___ down here?",
      "audio": "audio/sit/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/sit/pt.m4a"
   },
   {
    "id": "ngsl-spoken:bring",
@@ -8355,7 +8604,8 @@
      "cloze": "Can you ___ water?",
      "audio": "audio/bring/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/bring/pt.m4a"
   },
   {
    "id": "ngsl-spoken:name",
@@ -8388,7 +8638,8 @@
      "cloze": "What's your ___?",
      "audio": "audio/name/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/name/pt.m4a"
   },
   {
    "id": "ngsl-spoken:run",
@@ -8421,7 +8672,3908 @@
      "cloze": "___, we are late!",
      "audio": "audio/run/s2.m4a"
     }
-   ]
+   ],
+   "audio_pt": "audio/run/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:show",
+   "rank": 225,
+   "lemma": "show me",
+   "headword": "show",
+   "ipa": "ʃoʊ mi",
+   "translation": {
+    "pt": "me mostra"
+   },
+   "accepted": [
+    "show me"
+   ],
+   "ptbr_hint": "xôu mi",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/show/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Show me your phone.",
+     "pt": "Me mostra seu celular.",
+     "cloze": "___ me your phone.",
+     "audio": "audio/show/s1.m4a"
+    },
+    {
+     "en": "Can you show me the way?",
+     "pt": "Você pode me mostrar o caminho?",
+     "cloze": "Can you ___ me the way?",
+     "audio": "audio/show/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/show/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:word",
+   "rank": 226,
+   "lemma": "word",
+   "headword": "word",
+   "ipa": "wɝd",
+   "translation": {
+    "pt": "palavra"
+   },
+   "accepted": [
+    "word"
+   ],
+   "ptbr_hint": "uârd",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/word/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I learned a new word.",
+     "pt": "Aprendi uma palavra nova.",
+     "cloze": "I learned a new ___.",
+     "audio": "audio/word/s1.m4a"
+    },
+    {
+     "en": "What does this word mean?",
+     "pt": "O que significa esta palavra?",
+     "cloze": "What does this ___ mean?",
+     "audio": "audio/word/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/word/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:suppose",
+   "rank": 227,
+   "lemma": "I suppose",
+   "headword": "suppose",
+   "ipa": "aɪ səˈpoʊz",
+   "translation": {
+    "pt": "eu acho / suponho"
+   },
+   "accepted": [
+    "I suppose"
+   ],
+   "ptbr_hint": "ai sâpôuz",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/suppose/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I suppose you are right.",
+     "pt": "Suponho que você tem razão.",
+     "cloze": "I ___ you are right.",
+     "audio": "audio/suppose/s1.m4a"
+    },
+    {
+     "en": "I suppose so.",
+     "pt": "Acho que sim.",
+     "cloze": "I ___ so.",
+     "audio": "audio/suppose/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/suppose/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:must",
+   "rank": 229,
+   "lemma": "you must",
+   "headword": "must",
+   "ipa": "ju mʌst",
+   "translation": {
+    "pt": "você deve / precisa"
+   },
+   "accepted": [
+    "you must"
+   ],
+   "ptbr_hint": "iú mâst",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/must/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "You must be tired.",
+     "pt": "Você deve estar cansado.",
+     "cloze": "You ___ be tired.",
+     "audio": "audio/must/s1.m4a"
+    },
+    {
+     "en": "You must see this.",
+     "pt": "Você precisa ver isso.",
+     "cloze": "You ___ see this.",
+     "audio": "audio/must/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/must/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:understand",
+   "rank": 230,
+   "lemma": "I understand",
+   "headword": "understand",
+   "ipa": "aɪ ʌndɚsˈtænd",
+   "translation": {
+    "pt": "eu entendo"
+   },
+   "accepted": [
+    "I understand"
+   ],
+   "ptbr_hint": "ai ândersténd",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/understand/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I understand you.",
+     "pt": "Eu te entendo.",
+     "cloze": "I ___ you.",
+     "audio": "audio/understand/s1.m4a"
+    },
+    {
+     "en": "I don't understand.",
+     "pt": "Não entendo.",
+     "cloze": "I don't ___.",
+     "audio": "audio/understand/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/understand/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:month",
+   "rank": 231,
+   "lemma": "next month",
+   "headword": "month",
+   "ipa": "nɛkst mʌnθ",
+   "translation": {
+    "pt": "mês que vem"
+   },
+   "accepted": [
+    "next month"
+   ],
+   "ptbr_hint": "nékst mânth",
+   "concrete": true,
+   "image": "img/month.webp",
+   "audio": {
+    "am_michael": "audio/month/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I start next month.",
+     "pt": "Eu começo mês que vem.",
+     "cloze": "I start next ___.",
+     "audio": "audio/month/s1.m4a"
+    },
+    {
+     "en": "See you next month.",
+     "pt": "Até o mês que vem.",
+     "cloze": "See you next ___.",
+     "audio": "audio/month/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/month/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:both",
+   "rank": 232,
+   "lemma": "both",
+   "headword": "both",
+   "ipa": "boʊθ",
+   "translation": {
+    "pt": "os dois / ambos"
+   },
+   "accepted": [
+    "both"
+   ],
+   "ptbr_hint": "bôuth",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/both/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I like both.",
+     "pt": "Gosto dos dois.",
+     "cloze": "I like ___.",
+     "audio": "audio/both/s1.m4a"
+    },
+    {
+     "en": "Both of us are tired.",
+     "pt": "Nós dois estamos cansados.",
+     "cloze": "___ of us are tired.",
+     "audio": "audio/both/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/both/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:idea",
+   "rank": 233,
+   "lemma": "good idea",
+   "headword": "idea",
+   "ipa": "ɡʊd aɪˈdiə",
+   "translation": {
+    "pt": "boa ideia"
+   },
+   "accepted": [
+    "good idea"
+   ],
+   "ptbr_hint": "gud aidía",
+   "concrete": true,
+   "image": "img/idea.webp",
+   "audio": {
+    "am_michael": "audio/idea/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Good idea!",
+     "pt": "Boa ideia!",
+     "cloze": "Good ___!",
+     "audio": "audio/idea/s1.m4a"
+    },
+    {
+     "en": "I have an idea.",
+     "pt": "Tenho uma ideia.",
+     "cloze": "I have an ___.",
+     "audio": "audio/idea/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/idea/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:seven",
+   "rank": 234,
+   "lemma": "seven",
+   "headword": "seven",
+   "ipa": "ˈsɛvən",
+   "translation": {
+    "pt": "sete"
+   },
+   "accepted": [
+    "seven",
+    "7"
+   ],
+   "ptbr_hint": "séven",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/seven/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "There are seven days in a week.",
+     "pt": "Uma semana tem sete dias.",
+     "cloze": "There are ___ days in a week.",
+     "audio": "audio/seven/s1.m4a"
+    },
+    {
+     "en": "I wake up at seven.",
+     "pt": "Eu acordo às sete.",
+     "cloze": "I wake up at ___.",
+     "audio": "audio/seven/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/seven/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:pretty",
+   "rank": 235,
+   "lemma": "pretty good",
+   "headword": "pretty",
+   "ipa": "pˈrɪti ɡʊd",
+   "translation": {
+    "pt": "bem bom"
+   },
+   "accepted": [
+    "pretty good"
+   ],
+   "ptbr_hint": "príri gud",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/pretty/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "It's pretty good.",
+     "pt": "É bem bom.",
+     "cloze": "It's ___ good.",
+     "audio": "audio/pretty/s1.m4a"
+    },
+    {
+     "en": "I feel pretty good today.",
+     "pt": "Hoje me sinto bem.",
+     "cloze": "I feel ___ good today.",
+     "audio": "audio/pretty/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/pretty/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:somebody",
+   "rank": 236,
+   "lemma": "somebody",
+   "headword": "somebody",
+   "ipa": "ˈsʌmbɑdi",
+   "translation": {
+    "pt": "alguém"
+   },
+   "accepted": [
+    "somebody"
+   ],
+   "ptbr_hint": "sâmbâdi",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/somebody/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Somebody is at the door.",
+     "pt": "Tem alguém na porta.",
+     "cloze": "___ is at the door.",
+     "audio": "audio/somebody/s1.m4a"
+    },
+    {
+     "en": "Can somebody help me?",
+     "pt": "Alguém pode me ajudar?",
+     "cloze": "Can ___ help me?",
+     "audio": "audio/somebody/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/somebody/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:able",
+   "rank": 237,
+   "lemma": "be able to",
+   "headword": "able",
+   "ipa": "bi ˈeɪbəl tu",
+   "translation": {
+    "pt": "conseguir"
+   },
+   "accepted": [
+    "be able to",
+    "able to"
+   ],
+   "ptbr_hint": "bi êibol tu",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/able/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I will be able to go.",
+     "pt": "Vou conseguir ir.",
+     "cloze": "I will be ___ to go.",
+     "audio": "audio/able/s1.m4a"
+    },
+    {
+     "en": "Are you able to come?",
+     "pt": "Você consegue vir?",
+     "cloze": "Are you ___ to come?",
+     "audio": "audio/able/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/able/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:item",
+   "rank": 238,
+   "lemma": "item",
+   "headword": "item",
+   "ipa": "ˈaɪtəm",
+   "translation": {
+    "pt": "item"
+   },
+   "accepted": [
+    "item"
+   ],
+   "ptbr_hint": "áitem",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/item/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "This item is on sale.",
+     "pt": "Este item está em promoção.",
+     "cloze": "This ___ is on sale.",
+     "audio": "audio/item/s1.m4a"
+    },
+    {
+     "en": "I bought one item.",
+     "pt": "Comprei um item.",
+     "cloze": "I bought one ___.",
+     "audio": "audio/item/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/item/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:hour",
+   "rank": 239,
+   "lemma": "an hour",
+   "headword": "hour",
+   "ipa": "æn ˈaʊɚ",
+   "translation": {
+    "pt": "uma hora"
+   },
+   "accepted": [
+    "an hour",
+    "one hour"
+   ],
+   "ptbr_hint": "ân áuer",
+   "concrete": true,
+   "image": "img/hour.webp",
+   "audio": {
+    "am_michael": "audio/hour/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I waited an hour.",
+     "pt": "Esperei uma hora.",
+     "cloze": "I waited an ___.",
+     "audio": "audio/hour/s1.m4a"
+    },
+    {
+     "en": "The class is one hour.",
+     "pt": "A aula tem uma hora.",
+     "cloze": "The class is one ___.",
+     "audio": "audio/hour/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/hour/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:side",
+   "rank": 240,
+   "lemma": "side",
+   "headword": "side",
+   "ipa": "saɪd",
+   "translation": {
+    "pt": "lado"
+   },
+   "accepted": [
+    "side"
+   ],
+   "ptbr_hint": "sáid",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/side/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I'm on your side.",
+     "pt": "Estou do seu lado.",
+     "cloze": "I'm on your ___.",
+     "audio": "audio/side/s1.m4a"
+    },
+    {
+     "en": "Sit on this side.",
+     "pt": "Sente deste lado.",
+     "cloze": "Sit on this ___.",
+     "audio": "audio/side/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/side/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:enough",
+   "rank": 241,
+   "lemma": "enough",
+   "headword": "enough",
+   "ipa": "ɪˈnʌf",
+   "translation": {
+    "pt": "suficiente / chega"
+   },
+   "accepted": [
+    "enough"
+   ],
+   "ptbr_hint": "ináf",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/enough/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "That is enough!",
+     "pt": "Chega!",
+     "cloze": "That is ___!",
+     "audio": "audio/enough/s1.m4a"
+    },
+    {
+     "en": "Do we have enough food?",
+     "pt": "Temos comida suficiente?",
+     "cloze": "Do we have ___ food?",
+     "audio": "audio/enough/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/enough/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:ever",
+   "rank": 242,
+   "lemma": "have you ever",
+   "headword": "ever",
+   "ipa": "hæv ju ˈɛvɚ",
+   "translation": {
+    "pt": "você já (alguma vez)"
+   },
+   "accepted": [
+    "have you ever"
+   ],
+   "ptbr_hint": "rév iú éver",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/ever/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Have you ever been to London?",
+     "pt": "Você já foi a Londres?",
+     "cloze": "Have you ___ been to London?",
+     "audio": "audio/ever/s1.m4a"
+    },
+    {
+     "en": "Have you ever seen snow?",
+     "pt": "Você já viu neve?",
+     "cloze": "Have you ___ seen snow?",
+     "audio": "audio/ever/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/ever/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:important",
+   "rank": 243,
+   "lemma": "important",
+   "headword": "important",
+   "ipa": "ɪmˈpɔrtənt",
+   "translation": {
+    "pt": "importante"
+   },
+   "accepted": [
+    "important"
+   ],
+   "ptbr_hint": "impórtant",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/important/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "This is very important.",
+     "pt": "Isso é muito importante.",
+     "cloze": "This is very ___.",
+     "audio": "audio/important/s1.m4a"
+    },
+    {
+     "en": "Family is important.",
+     "pt": "Família é importante.",
+     "cloze": "Family is ___.",
+     "audio": "audio/important/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/important/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:late",
+   "rank": 244,
+   "lemma": "I'm late",
+   "headword": "late",
+   "ipa": "aɪm leɪt",
+   "translation": {
+    "pt": "estou atrasado"
+   },
+   "accepted": [
+    "I'm late",
+    "I am late"
+   ],
+   "ptbr_hint": "áim lêit",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/late/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Sorry, I'm late!",
+     "pt": "Desculpa, estou atrasado!",
+     "cloze": "Sorry, I'm ___!",
+     "audio": "audio/late/s1.m4a"
+    },
+    {
+     "en": "It is late, go to bed.",
+     "pt": "Está tarde, vá dormir.",
+     "cloze": "It is ___, go to bed.",
+     "audio": "audio/late/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/late/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:turn",
+   "rank": 245,
+   "lemma": "turn left",
+   "headword": "turn",
+   "ipa": "tɝn lɛft",
+   "translation": {
+    "pt": "vire à esquerda"
+   },
+   "accepted": [
+    "turn left"
+   ],
+   "ptbr_hint": "târn léft",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/turn/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Turn left here.",
+     "pt": "Vire à esquerda aqui.",
+     "cloze": "___ left here.",
+     "audio": "audio/turn/s1.m4a"
+    },
+    {
+     "en": "It is your turn.",
+     "pt": "É a sua vez.",
+     "cloze": "It is your ___.",
+     "audio": "audio/turn/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/turn/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:between",
+   "rank": 246,
+   "lemma": "between",
+   "headword": "between",
+   "ipa": "bɪtˈwin",
+   "translation": {
+    "pt": "entre"
+   },
+   "accepted": [
+    "between"
+   ],
+   "ptbr_hint": "bituín",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/between/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Sit between us.",
+     "pt": "Sente entre a gente.",
+     "cloze": "Sit ___ us.",
+     "audio": "audio/between/s1.m4a"
+    },
+    {
+     "en": "It is between the bank and the shop.",
+     "pt": "Fica entre o banco e a loja.",
+     "cloze": "It is ___ the bank and the shop.",
+     "audio": "audio/between/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/between/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:thousand",
+   "rank": 247,
+   "lemma": "a thousand",
+   "headword": "thousand",
+   "ipa": "ə ˈθaʊzənd",
+   "translation": {
+    "pt": "mil"
+   },
+   "accepted": [
+    "a thousand",
+    "one thousand"
+   ],
+   "ptbr_hint": "â tháuzand",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/thousand/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "It costs a thousand dollars.",
+     "pt": "Custa mil dólares.",
+     "cloze": "It costs a ___ dollars.",
+     "audio": "audio/thousand/s1.m4a"
+    },
+    {
+     "en": "A thousand people came.",
+     "pt": "Vieram mil pessoas.",
+     "cloze": "A ___ people came.",
+     "audio": "audio/thousand/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/thousand/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:few",
+   "rank": 248,
+   "lemma": "a few",
+   "headword": "few",
+   "ipa": "ə fju",
+   "translation": {
+    "pt": "alguns / poucos"
+   },
+   "accepted": [
+    "a few"
+   ],
+   "ptbr_hint": "â fiú",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/few/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I have a few friends here.",
+     "pt": "Tenho alguns amigos aqui.",
+     "cloze": "I have a ___ friends here.",
+     "audio": "audio/few/s1.m4a"
+    },
+    {
+     "en": "Wait a few minutes.",
+     "pt": "Espere alguns minutos.",
+     "cloze": "Wait a ___ minutes.",
+     "audio": "audio/few/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/few/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:term",
+   "rank": 249,
+   "lemma": "in terms of",
+   "headword": "term",
+   "ipa": "ɪn tɝmz ʌv",
+   "translation": {
+    "pt": "em termos de"
+   },
+   "accepted": [
+    "in terms of"
+   ],
+   "ptbr_hint": "in târms óv",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/term/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "In terms of money, it is fine.",
+     "pt": "Em termos de dinheiro, está bem.",
+     "cloze": "In ___ of money, it is fine.",
+     "audio": "audio/term/s1.m4a"
+    },
+    {
+     "en": "The school term starts soon.",
+     "pt": "O semestre começa logo.",
+     "cloze": "The school ___ starts soon.",
+     "audio": "audio/term/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/term/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:life",
+   "rank": 250,
+   "lemma": "life",
+   "headword": "life",
+   "ipa": "laɪf",
+   "translation": {
+    "pt": "vida"
+   },
+   "accepted": [
+    "life"
+   ],
+   "ptbr_hint": "láif",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/life/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "That is life.",
+     "pt": "A vida é assim.",
+     "cloze": "That is ___.",
+     "audio": "audio/life/s1.m4a"
+    },
+    {
+     "en": "I love my life.",
+     "pt": "Eu amo a minha vida.",
+     "cloze": "I love my ___.",
+     "audio": "audio/life/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/life/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:nine",
+   "rank": 251,
+   "lemma": "nine",
+   "headword": "nine",
+   "ipa": "naɪn",
+   "translation": {
+    "pt": "nove"
+   },
+   "accepted": [
+    "nine",
+    "9"
+   ],
+   "ptbr_hint": "náin",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/nine/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "The shop opens at nine.",
+     "pt": "A loja abre às nove.",
+     "cloze": "The shop opens at ___.",
+     "audio": "audio/nine/s1.m4a"
+    },
+    {
+     "en": "I have nine cousins.",
+     "pt": "Tenho nove primos.",
+     "cloze": "I have ___ cousins.",
+     "audio": "audio/nine/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/nine/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:believe",
+   "rank": 252,
+   "lemma": "I can't believe",
+   "headword": "believe",
+   "ipa": "aɪ kænt bɪˈliv",
+   "translation": {
+    "pt": "não acredito"
+   },
+   "accepted": [
+    "I can't believe",
+    "I cannot believe"
+   ],
+   "ptbr_hint": "ai ként bilív",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/believe/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I can't believe it!",
+     "pt": "Não acredito!",
+     "cloze": "I can't ___ it!",
+     "audio": "audio/believe/s1.m4a"
+    },
+    {
+     "en": "Do you believe me?",
+     "pt": "Você acredita em mim?",
+     "cloze": "Do you ___ me?",
+     "audio": "audio/believe/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/believe/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:far",
+   "rank": 253,
+   "lemma": "far",
+   "headword": "far",
+   "ipa": "fɑr",
+   "translation": {
+    "pt": "longe"
+   },
+   "accepted": [
+    "far"
+   ],
+   "ptbr_hint": "fár",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/far/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Is it far from here?",
+     "pt": "É longe daqui?",
+     "cloze": "Is it ___ from here?",
+     "audio": "audio/far/s1.m4a"
+    },
+    {
+     "en": "My house is not far.",
+     "pt": "Minha casa não é longe.",
+     "cloze": "My house is not ___.",
+     "audio": "audio/far/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/far/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:set",
+   "rank": 255,
+   "lemma": "set the table",
+   "headword": "set",
+   "ipa": "sɛt ðə ˈteɪbəl",
+   "translation": {
+    "pt": "pôr a mesa"
+   },
+   "accepted": [
+    "set the table"
+   ],
+   "ptbr_hint": "sét dâ têibol",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/set/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Can you set the table?",
+     "pt": "Você pode pôr a mesa?",
+     "cloze": "Can you ___ the table?",
+     "audio": "audio/set/s1.m4a"
+    },
+    {
+     "en": "I set an alarm.",
+     "pt": "Coloquei um alarme.",
+     "cloze": "I ___ an alarm.",
+     "audio": "audio/set/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/set/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:thirty",
+   "rank": 256,
+   "lemma": "thirty",
+   "headword": "thirty",
+   "ipa": "ˈθɝdi",
+   "translation": {
+    "pt": "trinta"
+   },
+   "accepted": [
+    "thirty",
+    "30"
+   ],
+   "ptbr_hint": "thârri",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/thirty/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I am thirty years old.",
+     "pt": "Tenho trinta anos.",
+     "cloze": "I am ___ years old.",
+     "audio": "audio/thirty/s1.m4a"
+    },
+    {
+     "en": "Wait thirty minutes.",
+     "pt": "Espere trinta minutos.",
+     "cloze": "Wait ___ minutes.",
+     "audio": "audio/thirty/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/thirty/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:case",
+   "rank": 258,
+   "lemma": "just in case",
+   "headword": "case",
+   "ipa": "dʒʌst ɪn keɪs",
+   "translation": {
+    "pt": "só por precaução"
+   },
+   "accepted": [
+    "just in case",
+    "in case"
+   ],
+   "ptbr_hint": "djâst in kêis",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/case/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Take a coat, just in case.",
+     "pt": "Leve um casaco, só por precaução.",
+     "cloze": "Take a coat, just in ___.",
+     "audio": "audio/case/s1.m4a"
+    },
+    {
+     "en": "In that case, I will stay.",
+     "pt": "Nesse caso, eu fico.",
+     "cloze": "In that ___, I will stay.",
+     "audio": "audio/case/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/case/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:real",
+   "rank": 259,
+   "lemma": "real",
+   "headword": "real",
+   "ipa": "ril",
+   "translation": {
+    "pt": "real / de verdade"
+   },
+   "accepted": [
+    "real"
+   ],
+   "ptbr_hint": "ríal",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/real/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Is this real?",
+     "pt": "Isso é de verdade?",
+     "cloze": "Is this ___?",
+     "audio": "audio/real/s1.m4a"
+    },
+    {
+     "en": "He is a real friend.",
+     "pt": "Ele é um amigo de verdade.",
+     "cloze": "He is a ___ friend.",
+     "audio": "audio/real/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/real/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:second",
+   "rank": 260,
+   "lemma": "wait a second",
+   "headword": "second",
+   "ipa": "weɪt ə ˈsɛkənd",
+   "translation": {
+    "pt": "espera um segundo"
+   },
+   "accepted": [
+    "wait a second",
+    "a second"
+   ],
+   "ptbr_hint": "uêit â sékond",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/second/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Wait a second, please.",
+     "pt": "Espera um segundo, por favor.",
+     "cloze": "Wait a ___, please.",
+     "audio": "audio/second/s1.m4a"
+    },
+    {
+     "en": "This is my second time here.",
+     "pt": "É a minha segunda vez aqui.",
+     "cloze": "This is my ___ time here.",
+     "audio": "audio/second/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/second/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:mind",
+   "rank": 261,
+   "lemma": "I don't mind",
+   "headword": "mind",
+   "ipa": "aɪ doʊnt maɪnd",
+   "translation": {
+    "pt": "não me importo"
+   },
+   "accepted": [
+    "I don't mind",
+    "I do not mind"
+   ],
+   "ptbr_hint": "ai dôunt máind",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/mind/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I don't mind, you choose.",
+     "pt": "Não me importo, você escolhe.",
+     "cloze": "I don't ___, you choose.",
+     "audio": "audio/mind/s1.m4a"
+    },
+    {
+     "en": "Do you mind if I sit here?",
+     "pt": "Você se importa se eu sentar aqui?",
+     "cloze": "Do you ___ if I sit here?",
+     "audio": "audio/mind/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/mind/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:woman",
+   "rank": 262,
+   "lemma": "woman",
+   "headword": "woman",
+   "ipa": "ˈwʊmən",
+   "translation": {
+    "pt": "mulher"
+   },
+   "accepted": [
+    "woman"
+   ],
+   "ptbr_hint": "uúman",
+   "concrete": true,
+   "image": "img/woman.webp",
+   "audio": {
+    "am_michael": "audio/woman/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Who is that woman?",
+     "pt": "Quem é aquela mulher?",
+     "cloze": "Who is that ___?",
+     "audio": "audio/woman/s1.m4a"
+    },
+    {
+     "en": "She is a strong woman.",
+     "pt": "Ela é uma mulher forte.",
+     "cloze": "She is a strong ___.",
+     "audio": "audio/woman/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/woman/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:guy",
+   "rank": 263,
+   "lemma": "guy",
+   "headword": "guy",
+   "ipa": "ɡaɪ",
+   "translation": {
+    "pt": "cara"
+   },
+   "accepted": [
+    "guy"
+   ],
+   "ptbr_hint": "gái",
+   "concrete": true,
+   "image": "img/guy.webp",
+   "audio": {
+    "am_michael": "audio/guy/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "He is a nice guy.",
+     "pt": "Ele é um cara legal.",
+     "cloze": "He is a nice ___.",
+     "audio": "audio/guy/s1.m4a"
+    },
+    {
+     "en": "Who is that guy?",
+     "pt": "Quem é aquele cara?",
+     "cloze": "Who is that ___?",
+     "audio": "audio/guy/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/guy/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:each",
+   "rank": 264,
+   "lemma": "each",
+   "headword": "each",
+   "ipa": "itʃ",
+   "translation": {
+    "pt": "cada"
+   },
+   "accepted": [
+    "each"
+   ],
+   "ptbr_hint": "ítch",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/each/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Each one costs five dollars.",
+     "pt": "Cada um custa cinco dólares.",
+     "cloze": "___ one costs five dollars.",
+     "audio": "audio/each/s1.m4a"
+    },
+    {
+     "en": "We see each other every day.",
+     "pt": "A gente se vê todo dia.",
+     "cloze": "We see ___ other every day.",
+     "audio": "audio/each/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/each/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:hard",
+   "rank": 265,
+   "lemma": "hard",
+   "headword": "hard",
+   "ipa": "hɑrd",
+   "translation": {
+    "pt": "difícil / duro"
+   },
+   "accepted": [
+    "hard"
+   ],
+   "ptbr_hint": "hárd",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/hard/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "English is not hard.",
+     "pt": "Inglês não é difícil.",
+     "cloze": "English is not ___.",
+     "audio": "audio/hard/s1.m4a"
+    },
+    {
+     "en": "She works hard.",
+     "pt": "Ela trabalha muito.",
+     "cloze": "She works ___.",
+     "audio": "audio/hard/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/hard/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:couple",
+   "rank": 266,
+   "lemma": "a couple of",
+   "headword": "couple",
+   "ipa": "ə ˈkʌpəl ʌv",
+   "translation": {
+    "pt": "uns dois / alguns"
+   },
+   "accepted": [
+    "a couple of",
+    "a couple"
+   ],
+   "ptbr_hint": "â kâpol óv",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/couple/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Give me a couple of minutes.",
+     "pt": "Me dá uns minutinhos.",
+     "cloze": "Give me a ___ of minutes.",
+     "audio": "audio/couple/s1.m4a"
+    },
+    {
+     "en": "They are a nice couple.",
+     "pt": "Eles são um casal legal.",
+     "cloze": "They are a nice ___.",
+     "audio": "audio/couple/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/couple/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:speak",
+   "rank": 268,
+   "lemma": "speak",
+   "headword": "speak",
+   "ipa": "spik",
+   "translation": {
+    "pt": "falar"
+   },
+   "accepted": [
+    "speak"
+   ],
+   "ptbr_hint": "spík",
+   "concrete": true,
+   "image": "img/speak.webp",
+   "audio": {
+    "am_michael": "audio/speak/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Do you speak English?",
+     "pt": "Você fala inglês?",
+     "cloze": "Do you ___ English?",
+     "audio": "audio/speak/s1.m4a"
+    },
+    {
+     "en": "Speak slowly, please.",
+     "pt": "Fale devagar, por favor.",
+     "cloze": "___ slowly, please.",
+     "audio": "audio/speak/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/speak/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:group",
+   "rank": 269,
+   "lemma": "group",
+   "headword": "group",
+   "ipa": "ɡrup",
+   "translation": {
+    "pt": "grupo"
+   },
+   "accepted": [
+    "group"
+   ],
+   "ptbr_hint": "grúp",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/group/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "We work in a group.",
+     "pt": "A gente trabalha em grupo.",
+     "cloze": "We work in a ___.",
+     "audio": "audio/group/s1.m4a"
+    },
+    {
+     "en": "Join our group!",
+     "pt": "Entre no nosso grupo!",
+     "cloze": "Join our ___!",
+     "audio": "audio/group/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/group/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:high",
+   "rank": 271,
+   "lemma": "high",
+   "headword": "high",
+   "ipa": "haɪ",
+   "translation": {
+    "pt": "alto"
+   },
+   "accepted": [
+    "high"
+   ],
+   "ptbr_hint": "rái",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/high/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "The price is too high.",
+     "pt": "O preço está alto demais.",
+     "cloze": "The price is too ___.",
+     "audio": "audio/high/s1.m4a"
+    },
+    {
+     "en": "The wall is very high.",
+     "pt": "O muro é bem alto.",
+     "cloze": "The wall is very ___.",
+     "audio": "audio/high/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/high/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:build",
+   "rank": 273,
+   "lemma": "build",
+   "headword": "build",
+   "ipa": "bɪld",
+   "translation": {
+    "pt": "construir"
+   },
+   "accepted": [
+    "build"
+   ],
+   "ptbr_hint": "bild",
+   "concrete": true,
+   "image": "img/build.webp",
+   "audio": {
+    "am_michael": "audio/build/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "They want to build a house.",
+     "pt": "Eles querem construir uma casa.",
+     "cloze": "They want to ___ a house.",
+     "audio": "audio/build/s1.m4a"
+    },
+    {
+     "en": "We build apps.",
+     "pt": "A gente constrói apps.",
+     "cloze": "We ___ apps.",
+     "audio": "audio/build/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/build/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:watch",
+   "rank": 275,
+   "lemma": "watch",
+   "headword": "watch",
+   "ipa": "wɑtʃ",
+   "translation": {
+    "pt": "assistir / olhar"
+   },
+   "accepted": [
+    "watch"
+   ],
+   "ptbr_hint": "uótch",
+   "concrete": true,
+   "image": "img/watch.webp",
+   "audio": {
+    "am_michael": "audio/watch/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Let's watch a movie.",
+     "pt": "Vamos assistir um filme.",
+     "cloze": "Let's ___ a movie.",
+     "audio": "audio/watch/s1.m4a"
+    },
+    {
+     "en": "Watch out!",
+     "pt": "Cuidado!",
+     "cloze": "___ out!",
+     "audio": "audio/watch/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/watch/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:country",
+   "rank": 276,
+   "lemma": "country",
+   "headword": "country",
+   "ipa": "ˈkʌntri",
+   "translation": {
+    "pt": "país"
+   },
+   "accepted": [
+    "country"
+   ],
+   "ptbr_hint": "kântri",
+   "concrete": true,
+   "image": "img/country.webp",
+   "audio": {
+    "am_michael": "audio/country/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "What country are you from?",
+     "pt": "De que país você é?",
+     "cloze": "What ___ are you from?",
+     "audio": "audio/country/s1.m4a"
+    },
+    {
+     "en": "Brazil is a big country.",
+     "pt": "O Brasil é um país grande.",
+     "cloze": "Brazil is a big ___.",
+     "audio": "audio/country/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/country/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:plan",
+   "rank": 277,
+   "lemma": "plan",
+   "headword": "plan",
+   "ipa": "plæn",
+   "translation": {
+    "pt": "plano / planejar"
+   },
+   "accepted": [
+    "plan"
+   ],
+   "ptbr_hint": "plén",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/plan/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "What is the plan?",
+     "pt": "Qual é o plano?",
+     "cloze": "What is the ___?",
+     "audio": "audio/plan/s1.m4a"
+    },
+    {
+     "en": "I plan to travel.",
+     "pt": "Eu pretendo viajar.",
+     "cloze": "I ___ to travel.",
+     "audio": "audio/plan/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/plan/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:fifty",
+   "rank": 278,
+   "lemma": "fifty",
+   "headword": "fifty",
+   "ipa": "ˈfɪfti",
+   "translation": {
+    "pt": "cinquenta"
+   },
+   "accepted": [
+    "fifty",
+    "50"
+   ],
+   "ptbr_hint": "fífti",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/fifty/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "It costs fifty dollars.",
+     "pt": "Custa cinquenta dólares.",
+     "cloze": "It costs ___ dollars.",
+     "audio": "audio/fifty/s1.m4a"
+    },
+    {
+     "en": "My dad is fifty.",
+     "pt": "Meu pai tem cinquenta anos.",
+     "cloze": "My dad is ___.",
+     "audio": "audio/fifty/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/fifty/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:send",
+   "rank": 279,
+   "lemma": "send",
+   "headword": "send",
+   "ipa": "sɛnd",
+   "translation": {
+    "pt": "mandar / enviar"
+   },
+   "accepted": [
+    "send"
+   ],
+   "ptbr_hint": "sénd",
+   "concrete": true,
+   "image": "img/send.webp",
+   "audio": {
+    "am_michael": "audio/send/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Send me a message.",
+     "pt": "Me manda uma mensagem.",
+     "cloze": "___ me a message.",
+     "audio": "audio/send/s1.m4a"
+    },
+    {
+     "en": "I will send it today.",
+     "pt": "Vou mandar hoje.",
+     "cloze": "I will ___ it today.",
+     "audio": "audio/send/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/send/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:obviously",
+   "rank": 280,
+   "lemma": "obviously",
+   "headword": "obviously",
+   "ipa": "ˈɑbviəsli",
+   "translation": {
+    "pt": "obviamente"
+   },
+   "accepted": [
+    "obviously"
+   ],
+   "ptbr_hint": "óbviâsli",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/obviously/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Obviously, I said yes.",
+     "pt": "Obviamente, eu disse sim.",
+     "cloze": "___, I said yes.",
+     "audio": "audio/obviously/s1.m4a"
+    },
+    {
+     "en": "He is obviously tired.",
+     "pt": "Ele obviamente está cansado.",
+     "cloze": "He is ___ tired.",
+     "audio": "audio/obviously/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/obviously/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:reason",
+   "rank": 281,
+   "lemma": "reason",
+   "headword": "reason",
+   "ipa": "ˈrizən",
+   "translation": {
+    "pt": "motivo / razão"
+   },
+   "accepted": [
+    "reason"
+   ],
+   "ptbr_hint": "rízon",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/reason/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "What is the reason?",
+     "pt": "Qual é o motivo?",
+     "cloze": "What is the ___?",
+     "audio": "audio/reason/s1.m4a"
+    },
+    {
+     "en": "There is a reason for it.",
+     "pt": "Existe um motivo para isso.",
+     "cloze": "There is a ___ for it.",
+     "audio": "audio/reason/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/reason/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:yet",
+   "rank": 282,
+   "lemma": "not yet",
+   "headword": "yet",
+   "ipa": "nɑt jɛt",
+   "translation": {
+    "pt": "ainda não"
+   },
+   "accepted": [
+    "not yet"
+   ],
+   "ptbr_hint": "nót iét",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/yet/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Are you ready? Not yet.",
+     "pt": "Está pronto? Ainda não.",
+     "cloze": "Are you ready? Not ___.",
+     "audio": "audio/yet/s1.m4a"
+    },
+    {
+     "en": "I haven't eaten yet.",
+     "pt": "Ainda não comi.",
+     "cloze": "I haven't eaten ___.",
+     "audio": "audio/yet/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/yet/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:walk",
+   "rank": 283,
+   "lemma": "walk",
+   "headword": "walk",
+   "ipa": "wɔk",
+   "translation": {
+    "pt": "andar / caminhar"
+   },
+   "accepted": [
+    "walk"
+   ],
+   "ptbr_hint": "uók",
+   "concrete": true,
+   "image": "img/walk.webp",
+   "audio": {
+    "am_michael": "audio/walk/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Let's walk to the park.",
+     "pt": "Vamos andando até o parque.",
+     "cloze": "Let's ___ to the park.",
+     "audio": "audio/walk/s1.m4a"
+    },
+    {
+     "en": "I walk to work.",
+     "pt": "Eu vou a pé para o trabalho.",
+     "cloze": "I ___ to work.",
+     "audio": "audio/walk/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/walk/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:either",
+   "rank": 284,
+   "lemma": "me either",
+   "headword": "either",
+   "ipa": "mi ˈiðɚ",
+   "translation": {
+    "pt": "nem eu"
+   },
+   "accepted": [
+    "me either",
+    "me neither"
+   ],
+   "ptbr_hint": "mi íder",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/either/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I don't like it. Me either.",
+     "pt": "Não gosto disso. Nem eu.",
+     "cloze": "I don't like it. Me ___.",
+     "audio": "audio/either/s1.m4a"
+    },
+    {
+     "en": "You can take either one.",
+     "pt": "Pode pegar qualquer um dos dois.",
+     "cloze": "You can take ___ one.",
+     "audio": "audio/either/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/either/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:wait",
+   "rank": 285,
+   "lemma": "wait",
+   "headword": "wait",
+   "ipa": "weɪt",
+   "translation": {
+    "pt": "esperar"
+   },
+   "accepted": [
+    "wait"
+   ],
+   "ptbr_hint": "uêit",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/wait/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Wait for me!",
+     "pt": "Me espera!",
+     "cloze": "___ for me!",
+     "audio": "audio/wait/s1.m4a"
+    },
+    {
+     "en": "I can't wait!",
+     "pt": "Mal posso esperar!",
+     "cloze": "I can't ___!",
+     "audio": "audio/wait/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/wait/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:already",
+   "rank": 286,
+   "lemma": "already",
+   "headword": "already",
+   "ipa": "ɔlˈrɛdi",
+   "translation": {
+    "pt": "já"
+   },
+   "accepted": [
+    "already"
+   ],
+   "ptbr_hint": "olrédi",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/already/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I already ate.",
+     "pt": "Eu já comi.",
+     "cloze": "I ___ ate.",
+     "audio": "audio/already/s1.m4a"
+    },
+    {
+     "en": "Is it already ten?",
+     "pt": "Já são dez horas?",
+     "cloze": "Is it ___ ten?",
+     "audio": "audio/already/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/already/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:person",
+   "rank": 287,
+   "lemma": "person",
+   "headword": "person",
+   "ipa": "ˈpɝsən",
+   "translation": {
+    "pt": "pessoa"
+   },
+   "accepted": [
+    "person"
+   ],
+   "ptbr_hint": "pârson",
+   "concrete": true,
+   "image": "img/person.webp",
+   "audio": {
+    "am_michael": "audio/person/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "She is a good person.",
+     "pt": "Ela é uma boa pessoa.",
+     "cloze": "She is a good ___.",
+     "audio": "audio/person/s1.m4a"
+    },
+    {
+     "en": "One person is missing.",
+     "pt": "Falta uma pessoa.",
+     "cloze": "One ___ is missing.",
+     "audio": "audio/person/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/person/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:open",
+   "rank": 288,
+   "lemma": "open",
+   "headword": "open",
+   "ipa": "ˈoʊpən",
+   "translation": {
+    "pt": "abrir / aberto"
+   },
+   "accepted": [
+    "open"
+   ],
+   "ptbr_hint": "ôupen",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/open/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Open the door, please.",
+     "pt": "Abra a porta, por favor.",
+     "cloze": "___ the door, please.",
+     "audio": "audio/open/s1.m4a"
+    },
+    {
+     "en": "Is the shop open?",
+     "pt": "A loja está aberta?",
+     "cloze": "Is the shop ___?",
+     "audio": "audio/open/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/open/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:once",
+   "rank": 289,
+   "lemma": "once",
+   "headword": "once",
+   "ipa": "wʌns",
+   "translation": {
+    "pt": "uma vez"
+   },
+   "accepted": [
+    "once"
+   ],
+   "ptbr_hint": "uâns",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/once/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I went there once.",
+     "pt": "Fui lá uma vez.",
+     "cloze": "I went there ___.",
+     "audio": "audio/once/s1.m4a"
+    },
+    {
+     "en": "Once a week is fine.",
+     "pt": "Uma vez por semana está bom.",
+     "cloze": "___ a week is fine.",
+     "audio": "audio/once/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/once/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:deal",
+   "rank": 290,
+   "lemma": "deal",
+   "headword": "deal",
+   "ipa": "dil",
+   "translation": {
+    "pt": "combinado / acordo"
+   },
+   "accepted": [
+    "deal"
+   ],
+   "ptbr_hint": "díl",
+   "concrete": true,
+   "image": "img/deal.webp",
+   "audio": {
+    "am_michael": "audio/deal/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Okay, deal!",
+     "pt": "Ok, combinado!",
+     "cloze": "Okay, ___!",
+     "audio": "audio/deal/s1.m4a"
+    },
+    {
+     "en": "It is a good deal.",
+     "pt": "É um bom negócio.",
+     "cloze": "It is a good ___.",
+     "audio": "audio/deal/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/deal/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:report",
+   "rank": 291,
+   "lemma": "report",
+   "headword": "report",
+   "ipa": "riˈpɔrt",
+   "translation": {
+    "pt": "relatório"
+   },
+   "accepted": [
+    "report"
+   ],
+   "ptbr_hint": "ripórt",
+   "concrete": true,
+   "image": "img/report.webp",
+   "audio": {
+    "am_michael": "audio/report/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I need to write a report.",
+     "pt": "Preciso escrever um relatório.",
+     "cloze": "I need to write a ___.",
+     "audio": "audio/report/s1.m4a"
+    },
+    {
+     "en": "Send me the report.",
+     "pt": "Me manda o relatório.",
+     "cloze": "Send me the ___.",
+     "audio": "audio/report/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/report/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:hand",
+   "rank": 293,
+   "lemma": "hand",
+   "headword": "hand",
+   "ipa": "hænd",
+   "translation": {
+    "pt": "mão"
+   },
+   "accepted": [
+    "hand"
+   ],
+   "ptbr_hint": "rénd",
+   "concrete": true,
+   "image": "img/hand.webp",
+   "audio": {
+    "am_michael": "audio/hand/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Wash your hands.",
+     "pt": "Lave as mãos.",
+     "cloze": "Wash your ___.",
+     "audio": "audio/hand/s1.m4a"
+    },
+    {
+     "en": "Give me your hand.",
+     "pt": "Me dá sua mão.",
+     "cloze": "Give me your ___.",
+     "audio": "audio/hand/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/hand/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:alright",
+   "rank": 294,
+   "lemma": "alright",
+   "headword": "alright",
+   "ipa": "ɔlˈraɪt",
+   "translation": {
+    "pt": "tudo bem / certo"
+   },
+   "accepted": [
+    "alright",
+    "all right"
+   ],
+   "ptbr_hint": "ol-ráit",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/alright/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Alright, see you later.",
+     "pt": "Certo, até mais.",
+     "cloze": "___, see you later.",
+     "audio": "audio/alright/s1.m4a"
+    },
+    {
+     "en": "Is everything alright?",
+     "pt": "Está tudo bem?",
+     "cloze": "Is everything ___?",
+     "audio": "audio/alright/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/alright/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:example",
+   "rank": 295,
+   "lemma": "for example",
+   "headword": "example",
+   "ipa": "fɔr ɪɡˈzæmpəl",
+   "translation": {
+    "pt": "por exemplo"
+   },
+   "accepted": [
+    "for example"
+   ],
+   "ptbr_hint": "for igzémpol",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/example/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "For example, I like rice.",
+     "pt": "Por exemplo, eu gosto de arroz.",
+     "cloze": "For ___, I like rice.",
+     "audio": "audio/example/s1.m4a"
+    },
+    {
+     "en": "Can you give me an example?",
+     "pt": "Você pode me dar um exemplo?",
+     "cloze": "Can you give me an ___?",
+     "audio": "audio/example/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/example/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:cause",
+   "rank": 296,
+   "lemma": "'cause",
+   "headword": "cause",
+   "ipa": "kəz",
+   "translation": {
+    "pt": "porque (informal)"
+   },
+   "accepted": [
+    "'cause",
+    "cause",
+    "because"
+   ],
+   "ptbr_hint": "kóz",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/cause/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I'm happy 'cause it's Friday.",
+     "pt": "Estou feliz porque é sexta.",
+     "cloze": "I'm happy '___ it's Friday.",
+     "audio": "audio/cause/s1.m4a"
+    },
+    {
+     "en": "I stayed 'cause it was late.",
+     "pt": "Eu fiquei porque era tarde.",
+     "cloze": "I stayed '___ it was late.",
+     "audio": "audio/cause/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/cause/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:information",
+   "rank": 297,
+   "lemma": "information",
+   "headword": "information",
+   "ipa": "ɪnfɚˈmeɪʃən",
+   "translation": {
+    "pt": "informação"
+   },
+   "accepted": [
+    "information"
+   ],
+   "ptbr_hint": "informêixon",
+   "concrete": true,
+   "image": "img/information.webp",
+   "audio": {
+    "am_michael": "audio/information/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I need more information.",
+     "pt": "Preciso de mais informação.",
+     "cloze": "I need more ___.",
+     "audio": "audio/information/s1.m4a"
+    },
+    {
+     "en": "Thanks for the information.",
+     "pt": "Obrigado pela informação.",
+     "cloze": "Thanks for the ___.",
+     "audio": "audio/information/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/information/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:please",
+   "rank": 298,
+   "lemma": "please",
+   "headword": "please",
+   "ipa": "pliz",
+   "translation": {
+    "pt": "por favor"
+   },
+   "accepted": [
+    "please"
+   ],
+   "ptbr_hint": "plíz",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/please/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Water, please.",
+     "pt": "Água, por favor.",
+     "cloze": "Water, ___.",
+     "audio": "audio/please/s1.m4a"
+    },
+    {
+     "en": "Please, come in.",
+     "pt": "Por favor, entre.",
+     "cloze": "___, come in.",
+     "audio": "audio/please/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/please/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:exactly",
+   "rank": 299,
+   "lemma": "exactly",
+   "headword": "exactly",
+   "ipa": "ɪɡˈzæktli",
+   "translation": {
+    "pt": "exatamente"
+   },
+   "accepted": [
+    "exactly"
+   ],
+   "ptbr_hint": "igzéktli",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/exactly/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Exactly!",
+     "pt": "Exatamente!",
+     "cloze": "___!",
+     "audio": "audio/exactly/s1.m4a"
+    },
+    {
+     "en": "That is exactly what I need.",
+     "pt": "É exatamente o que eu preciso.",
+     "cloze": "That is ___ what I need.",
+     "audio": "audio/exactly/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/exactly/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:ago",
+   "rank": 300,
+   "lemma": "two years ago",
+   "headword": "ago",
+   "ipa": "tu jɪrz əˈɡoʊ",
+   "translation": {
+    "pt": "dois anos atrás"
+   },
+   "accepted": [
+    "two years ago",
+    "ago"
+   ],
+   "ptbr_hint": "tú íers âgôu",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/ago/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I moved here two years ago.",
+     "pt": "Me mudei para cá dois anos atrás.",
+     "cloze": "I moved here two years ___.",
+     "audio": "audio/ago/s1.m4a"
+    },
+    {
+     "en": "She called an hour ago.",
+     "pt": "Ela ligou uma hora atrás.",
+     "cloze": "She called an hour ___.",
+     "audio": "audio/ago/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/ago/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:room",
+   "rank": 301,
+   "lemma": "room",
+   "headword": "room",
+   "ipa": "rum",
+   "translation": {
+    "pt": "quarto / sala"
+   },
+   "accepted": [
+    "room"
+   ],
+   "ptbr_hint": "rúm",
+   "concrete": true,
+   "image": "img/room.webp",
+   "audio": {
+    "am_michael": "audio/room/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "My room is small.",
+     "pt": "Meu quarto é pequeno.",
+     "cloze": "My ___ is small.",
+     "audio": "audio/room/s1.m4a"
+    },
+    {
+     "en": "Is there room for me?",
+     "pt": "Tem espaço para mim?",
+     "cloze": "Is there ___ for me?",
+     "audio": "audio/room/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/room/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:answer",
+   "rank": 302,
+   "lemma": "answer",
+   "headword": "answer",
+   "ipa": "ˈænsɚ",
+   "translation": {
+    "pt": "resposta / responder"
+   },
+   "accepted": [
+    "answer"
+   ],
+   "ptbr_hint": "énser",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/answer/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "What is the answer?",
+     "pt": "Qual é a resposta?",
+     "cloze": "What is the ___?",
+     "audio": "audio/answer/s1.m4a"
+    },
+    {
+     "en": "Answer the phone!",
+     "pt": "Atende o telefone!",
+     "cloze": "___ the phone!",
+     "audio": "audio/answer/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/answer/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:spend",
+   "rank": 303,
+   "lemma": "spend",
+   "headword": "spend",
+   "ipa": "spɛnd",
+   "translation": {
+    "pt": "gastar / passar (tempo)"
+   },
+   "accepted": [
+    "spend"
+   ],
+   "ptbr_hint": "spénd",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/spend/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Don't spend too much money.",
+     "pt": "Não gaste dinheiro demais.",
+     "cloze": "Don't ___ too much money.",
+     "audio": "audio/spend/s1.m4a"
+    },
+    {
+     "en": "I spend time with my family.",
+     "pt": "Passo tempo com minha família.",
+     "cloze": "I ___ time with my family.",
+     "audio": "audio/spend/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/spend/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:stay",
+   "rank": 304,
+   "lemma": "stay",
+   "headword": "stay",
+   "ipa": "steɪ",
+   "translation": {
+    "pt": "ficar"
+   },
+   "accepted": [
+    "stay"
+   ],
+   "ptbr_hint": "stêi",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/stay/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Stay here, please.",
+     "pt": "Fique aqui, por favor.",
+     "cloze": "___ here, please.",
+     "audio": "audio/stay/s1.m4a"
+    },
+    {
+     "en": "I stayed at home.",
+     "pt": "Fiquei em casa.",
+     "cloze": "I ___ at home.",
+     "audio": "audio/stay/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/stay/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:rather",
+   "rank": 305,
+   "lemma": "I'd rather",
+   "headword": "rather",
+   "ipa": "aɪd ˈræðɚ",
+   "translation": {
+    "pt": "eu prefiro"
+   },
+   "accepted": [
+    "I'd rather",
+    "I would rather"
+   ],
+   "ptbr_hint": "áid réder",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/rather/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I'd rather stay home.",
+     "pt": "Prefiro ficar em casa.",
+     "cloze": "I'd ___ stay home.",
+     "audio": "audio/rather/s1.m4a"
+    },
+    {
+     "en": "I'd rather have tea.",
+     "pt": "Prefiro chá.",
+     "cloze": "I'd ___ have tea.",
+     "audio": "audio/rather/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/rather/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:certainly",
+   "rank": 306,
+   "lemma": "certainly",
+   "headword": "certainly",
+   "ipa": "ˈsɝtənli",
+   "translation": {
+    "pt": "certamente / claro"
+   },
+   "accepted": [
+    "certainly"
+   ],
+   "ptbr_hint": "sârtenli",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/certainly/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Certainly, sir.",
+     "pt": "Claro, senhor.",
+     "cloze": "___, sir.",
+     "audio": "audio/certainly/s1.m4a"
+    },
+    {
+     "en": "It will certainly rain.",
+     "pt": "Com certeza vai chover.",
+     "cloze": "It will ___ rain.",
+     "audio": "audio/certainly/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/certainly/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:while",
+   "rank": 308,
+   "lemma": "for a while",
+   "headword": "while",
+   "ipa": "fɔr ə waɪl",
+   "translation": {
+    "pt": "por um tempo"
+   },
+   "accepted": [
+    "for a while"
+   ],
+   "ptbr_hint": "for â uáiol",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/while/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I lived there for a while.",
+     "pt": "Morei lá por um tempo.",
+     "cloze": "I lived there for a ___.",
+     "audio": "audio/while/s1.m4a"
+    },
+    {
+     "en": "Let's rest for a while.",
+     "pt": "Vamos descansar um pouco.",
+     "cloze": "Let's rest for a ___.",
+     "audio": "audio/while/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/while/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:everybody",
+   "rank": 309,
+   "lemma": "everybody",
+   "headword": "everybody",
+   "ipa": "ˈɛvribɑdi",
+   "translation": {
+    "pt": "todo mundo"
+   },
+   "accepted": [
+    "everybody"
+   ],
+   "ptbr_hint": "évri-bâdi",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/everybody/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Hi, everybody!",
+     "pt": "Oi, pessoal!",
+     "cloze": "Hi, ___!",
+     "audio": "audio/everybody/s1.m4a"
+    },
+    {
+     "en": "Everybody knows him.",
+     "pt": "Todo mundo conhece ele.",
+     "cloze": "___ knows him.",
+     "audio": "audio/everybody/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/everybody/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:clear",
+   "rank": 310,
+   "lemma": "clear",
+   "headword": "clear",
+   "ipa": "klɪr",
+   "translation": {
+    "pt": "claro / limpo"
+   },
+   "accepted": [
+    "clear"
+   ],
+   "ptbr_hint": "klíer",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/clear/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Is that clear?",
+     "pt": "Ficou claro?",
+     "cloze": "Is that ___?",
+     "audio": "audio/clear/s1.m4a"
+    },
+    {
+     "en": "The sky is clear today.",
+     "pt": "O céu está limpo hoje.",
+     "cloze": "The sky is ___ today.",
+     "audio": "audio/clear/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/clear/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:eat",
+   "rank": 311,
+   "lemma": "eat",
+   "headword": "eat",
+   "ipa": "it",
+   "translation": {
+    "pt": "comer"
+   },
+   "accepted": [
+    "eat"
+   ],
+   "ptbr_hint": "ít",
+   "concrete": true,
+   "image": "img/eat.webp",
+   "audio": {
+    "am_michael": "audio/eat/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Let's eat now.",
+     "pt": "Vamos comer agora.",
+     "cloze": "Let's ___ now.",
+     "audio": "audio/eat/s1.m4a"
+    },
+    {
+     "en": "What do you want to eat?",
+     "pt": "O que você quer comer?",
+     "cloze": "What do you want to ___?",
+     "audio": "audio/eat/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/eat/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:perhaps",
+   "rank": 312,
+   "lemma": "perhaps",
+   "headword": "perhaps",
+   "ipa": "pɚˈhæps",
+   "translation": {
+    "pt": "talvez"
+   },
+   "accepted": [
+    "perhaps"
+   ],
+   "ptbr_hint": "pârréps",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/perhaps/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Perhaps you are right.",
+     "pt": "Talvez você esteja certo.",
+     "cloze": "___ you are right.",
+     "audio": "audio/perhaps/s1.m4a"
+    },
+    {
+     "en": "Perhaps next week.",
+     "pt": "Talvez semana que vem.",
+     "cloze": "___ next week.",
+     "audio": "audio/perhaps/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/perhaps/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:early",
+   "rank": 313,
+   "lemma": "early",
+   "headword": "early",
+   "ipa": "ˈɝli",
+   "translation": {
+    "pt": "cedo"
+   },
+   "accepted": [
+    "early"
+   ],
+   "ptbr_hint": "ârli",
+   "concrete": true,
+   "image": "img/early.webp",
+   "audio": {
+    "am_michael": "audio/early/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I wake up early.",
+     "pt": "Eu acordo cedo.",
+     "cloze": "I wake up ___.",
+     "audio": "audio/early/s1.m4a"
+    },
+    {
+     "en": "You are early today!",
+     "pt": "Você chegou cedo hoje!",
+     "cloze": "You are ___ today!",
+     "audio": "audio/early/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/early/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:care",
+   "rank": 314,
+   "lemma": "take care",
+   "headword": "care",
+   "ipa": "teɪk kɛr",
+   "translation": {
+    "pt": "se cuida"
+   },
+   "accepted": [
+    "take care"
+   ],
+   "ptbr_hint": "têik kér",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/care/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Take care, see you!",
+     "pt": "Se cuida, até mais!",
+     "cloze": "Take ___, see you!",
+     "audio": "audio/care/s1.m4a"
+    },
+    {
+     "en": "I care about you.",
+     "pt": "Eu me importo com você.",
+     "cloze": "I ___ about you.",
+     "audio": "audio/care/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/care/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:pick",
+   "rank": 315,
+   "lemma": "pick up",
+   "headword": "pick",
+   "ipa": "pɪk ʌp",
+   "translation": {
+    "pt": "buscar / pegar"
+   },
+   "accepted": [
+    "pick up",
+    "pick you up"
+   ],
+   "ptbr_hint": "pik âp",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/pick/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I will pick you up at eight.",
+     "pt": "Te busco às oito.",
+     "cloze": "I will ___ you up at eight.",
+     "audio": "audio/pick/s1.m4a"
+    },
+    {
+     "en": "Pick a color.",
+     "pt": "Escolha uma cor.",
+     "cloze": "___ a color.",
+     "audio": "audio/pick/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/pick/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:type",
+   "rank": 316,
+   "lemma": "type",
+   "headword": "type",
+   "ipa": "taɪp",
+   "translation": {
+    "pt": "tipo"
+   },
+   "accepted": [
+    "type"
+   ],
+   "ptbr_hint": "táip",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/type/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "What type of music do you like?",
+     "pt": "Que tipo de música você gosta?",
+     "cloze": "What ___ of music do you like?",
+     "audio": "audio/type/s1.m4a"
+    },
+    {
+     "en": "He is not my type.",
+     "pt": "Ele não é meu tipo.",
+     "cloze": "He is not my ___.",
+     "audio": "audio/type/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/type/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:matter",
+   "rank": 317,
+   "lemma": "it doesn't matter",
+   "headword": "matter",
+   "ipa": "ɪt ˈdʌzənt ˈmætɚ",
+   "translation": {
+    "pt": "não importa"
+   },
+   "accepted": [
+    "it doesn't matter",
+    "no matter"
+   ],
+   "ptbr_hint": "it dâzent méter",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/matter/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "It doesn't matter, really.",
+     "pt": "Não importa, sério.",
+     "cloze": "It doesn't ___, really.",
+     "audio": "audio/matter/s1.m4a"
+    },
+    {
+     "en": "What's the matter?",
+     "pt": "O que houve?",
+     "cloze": "What's the ___?",
+     "audio": "audio/matter/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/matter/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:such",
+   "rank": 318,
+   "lemma": "such a",
+   "headword": "such",
+   "ipa": "sʌtʃ ə",
+   "translation": {
+    "pt": "um / uma tão"
+   },
+   "accepted": [
+    "such a"
+   ],
+   "ptbr_hint": "sâtch â",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/such/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "It was such a good day!",
+     "pt": "Foi um dia tão bom!",
+     "cloze": "It was ___ a good day!",
+     "audio": "audio/such/s1.m4a"
+    },
+    {
+     "en": "She is such a nice person.",
+     "pt": "Ela é uma pessoa tão legal.",
+     "cloze": "She is ___ a nice person.",
+     "audio": "audio/such/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/such/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:until",
+   "rank": 319,
+   "lemma": "until",
+   "headword": "until",
+   "ipa": "ənˈtɪl",
+   "translation": {
+    "pt": "até"
+   },
+   "accepted": [
+    "until"
+   ],
+   "ptbr_hint": "ântil",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/until/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Wait until tomorrow.",
+     "pt": "Espere até amanhã.",
+     "cloze": "Wait ___ tomorrow.",
+     "audio": "audio/until/s1.m4a"
+    },
+    {
+     "en": "I work until six.",
+     "pt": "Trabalho até as seis.",
+     "cloze": "I work ___ six.",
+     "audio": "audio/until/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/until/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:hope",
+   "rank": 320,
+   "lemma": "I hope",
+   "headword": "hope",
+   "ipa": "aɪ hoʊp",
+   "translation": {
+    "pt": "eu espero (que)"
+   },
+   "accepted": [
+    "I hope"
+   ],
+   "ptbr_hint": "ai rôup",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/hope/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I hope you like it.",
+     "pt": "Espero que você goste.",
+     "cloze": "I ___ you like it.",
+     "audio": "audio/hope/s1.m4a"
+    },
+    {
+     "en": "I hope so!",
+     "pt": "Espero que sim!",
+     "cloze": "I ___ so!",
+     "audio": "audio/hope/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/hope/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:level",
+   "rank": 321,
+   "lemma": "level",
+   "headword": "level",
+   "ipa": "ˈlɛvəl",
+   "translation": {
+    "pt": "nível"
+   },
+   "accepted": [
+    "level"
+   ],
+   "ptbr_hint": "lévol",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/level/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "What is your English level?",
+     "pt": "Qual é o seu nível de inglês?",
+     "cloze": "What is your English ___?",
+     "audio": "audio/level/s1.m4a"
+    },
+    {
+     "en": "This game has ten levels.",
+     "pt": "Este jogo tem dez níveis.",
+     "cloze": "This game has ten ___.",
+     "audio": "audio/level/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/level/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:small",
+   "rank": 322,
+   "lemma": "small",
+   "headword": "small",
+   "ipa": "smɔl",
+   "translation": {
+    "pt": "pequeno"
+   },
+   "accepted": [
+    "small"
+   ],
+   "ptbr_hint": "smól",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/small/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I live in a small town.",
+     "pt": "Moro numa cidade pequena.",
+     "cloze": "I live in a ___ town.",
+     "audio": "audio/small/s1.m4a"
+    },
+    {
+     "en": "A small coffee, please.",
+     "pt": "Um café pequeno, por favor.",
+     "cloze": "A ___ coffee, please.",
+     "audio": "audio/small/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/small/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:line",
+   "rank": 323,
+   "lemma": "line",
+   "headword": "line",
+   "ipa": "laɪn",
+   "translation": {
+    "pt": "fila / linha"
+   },
+   "accepted": [
+    "line"
+   ],
+   "ptbr_hint": "láin",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/line/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "The line is very long.",
+     "pt": "A fila está bem longa.",
+     "cloze": "The ___ is very long.",
+     "audio": "audio/line/s1.m4a"
+    },
+    {
+     "en": "Read the first line.",
+     "pt": "Leia a primeira linha.",
+     "cloze": "Read the first ___.",
+     "audio": "audio/line/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/line/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:close",
+   "rank": 324,
+   "lemma": "close",
+   "headword": "close",
+   "ipa": "kloʊs",
+   "translation": {
+    "pt": "fechar / perto"
+   },
+   "accepted": [
+    "close"
+   ],
+   "ptbr_hint": "klôuz",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/close/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Close the window, please.",
+     "pt": "Feche a janela, por favor.",
+     "cloze": "___ the window, please.",
+     "audio": "audio/close/s1.m4a"
+    },
+    {
+     "en": "The bank is close to here.",
+     "pt": "O banco fica perto daqui.",
+     "cloze": "The bank is ___ to here.",
+     "audio": "audio/close/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/close/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:least",
+   "rank": 326,
+   "lemma": "at least",
+   "headword": "least",
+   "ipa": "æt list",
+   "translation": {
+    "pt": "pelo menos"
+   },
+   "accepted": [
+    "at least"
+   ],
+   "ptbr_hint": "ét líst",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/least/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "At least it is not raining.",
+     "pt": "Pelo menos não está chovendo.",
+     "cloze": "At ___ it is not raining.",
+     "audio": "audio/least/s1.m4a"
+    },
+    {
+     "en": "Sleep at least eight hours.",
+     "pt": "Durma pelo menos oito horas.",
+     "cloze": "Sleep at ___ eight hours.",
+     "audio": "audio/least/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/least/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:under",
+   "rank": 327,
+   "lemma": "under",
+   "headword": "under",
+   "ipa": "ˈʌndɚ",
+   "translation": {
+    "pt": "embaixo de / sob"
+   },
+   "accepted": [
+    "under"
+   ],
+   "ptbr_hint": "ânder",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/under/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "The cat is under the bed.",
+     "pt": "O gato está embaixo da cama.",
+     "cloze": "The cat is ___ the bed.",
+     "audio": "audio/under/s1.m4a"
+    },
+    {
+     "en": "Kids under ten pay less.",
+     "pt": "Crianças com menos de dez anos pagam menos.",
+     "cloze": "Kids ___ ten pay less.",
+     "audio": "audio/under/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/under/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:someone",
+   "rank": 328,
+   "lemma": "someone",
+   "headword": "someone",
+   "ipa": "ˈsʌmwʌn",
+   "translation": {
+    "pt": "alguém"
+   },
+   "accepted": [
+    "someone"
+   ],
+   "ptbr_hint": "sâm-uân",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/someone/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Someone called you.",
+     "pt": "Alguém te ligou.",
+     "cloze": "___ called you.",
+     "audio": "audio/someone/s1.m4a"
+    },
+    {
+     "en": "I need someone to help me.",
+     "pt": "Preciso de alguém para me ajudar.",
+     "cloze": "I need ___ to help me.",
+     "audio": "audio/someone/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/someone/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:system",
+   "rank": 329,
+   "lemma": "system",
+   "headword": "system",
+   "ipa": "ˈsɪstəm",
+   "translation": {
+    "pt": "sistema"
+   },
+   "accepted": [
+    "system"
+   ],
+   "ptbr_hint": "sístem",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/system/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "The system is down.",
+     "pt": "O sistema caiu.",
+     "cloze": "The ___ is down.",
+     "audio": "audio/system/s1.m4a"
+    },
+    {
+     "en": "We have a new system.",
+     "pt": "Temos um sistema novo.",
+     "cloze": "We have a new ___.",
+     "audio": "audio/system/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/system/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:cost",
+   "rank": 330,
+   "lemma": "how much does it cost?",
+   "headword": "cost",
+   "ipa": "haʊ mʌtʃ dʌz ɪt kɑst",
+   "translation": {
+    "pt": "quanto custa?"
+   },
+   "accepted": [
+    "how much does it cost",
+    "how much does it cost?"
+   ],
+   "ptbr_hint": "ráu mâtch dâz it kóst",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/cost/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "How much does it cost?",
+     "pt": "Quanto custa?",
+     "cloze": "How much does it ___?",
+     "audio": "audio/cost/s1.m4a"
+    },
+    {
+     "en": "It costs too much.",
+     "pt": "Custa caro demais.",
+     "cloze": "It ___ too much.",
+     "audio": "audio/cost/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/cost/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:state",
+   "rank": 331,
+   "lemma": "state",
+   "headword": "state",
+   "ipa": "steɪt",
+   "translation": {
+    "pt": "estado"
+   },
+   "accepted": [
+    "state"
+   ],
+   "ptbr_hint": "stêit",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/state/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I live in São Paulo state.",
+     "pt": "Moro no estado de São Paulo.",
+     "cloze": "I live in São Paulo ___.",
+     "audio": "audio/state/s1.m4a"
+    },
+    {
+     "en": "What state are you from?",
+     "pt": "De que estado você é?",
+     "cloze": "What ___ are you from?",
+     "audio": "audio/state/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/state/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:sometimes",
+   "rank": 332,
+   "lemma": "sometimes",
+   "headword": "sometimes",
+   "ipa": "səmˈtaɪmz",
+   "translation": {
+    "pt": "às vezes"
+   },
+   "accepted": [
+    "sometimes"
+   ],
+   "ptbr_hint": "sâmtáims",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/sometimes/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Sometimes I cook.",
+     "pt": "Às vezes eu cozinho.",
+     "cloze": "___ I cook.",
+     "audio": "audio/sometimes/s1.m4a"
+    },
+    {
+     "en": "It rains here sometimes.",
+     "pt": "Às vezes chove aqui.",
+     "cloze": "It rains here ___.",
+     "audio": "audio/sometimes/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/sometimes/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:paper",
+   "rank": 333,
+   "lemma": "paper",
+   "headword": "paper",
+   "ipa": "ˈpeɪpɚ",
+   "translation": {
+    "pt": "papel"
+   },
+   "accepted": [
+    "paper"
+   ],
+   "ptbr_hint": "pêiper",
+   "concrete": true,
+   "image": "img/paper.webp",
+   "audio": {
+    "am_michael": "audio/paper/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Do you have paper?",
+     "pt": "Você tem papel?",
+     "cloze": "Do you have ___?",
+     "audio": "audio/paper/s1.m4a"
+    },
+    {
+     "en": "Write it on paper.",
+     "pt": "Escreva no papel.",
+     "cloze": "Write it on ___.",
+     "audio": "audio/paper/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/paper/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:top",
+   "rank": 334,
+   "lemma": "on top of",
+   "headword": "top",
+   "ipa": "ɑn tɑp ʌv",
+   "translation": {
+    "pt": "em cima de"
+   },
+   "accepted": [
+    "on top of"
+   ],
+   "ptbr_hint": "ón tóp óv",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/top/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "It is on top of the table.",
+     "pt": "Está em cima da mesa.",
+     "cloze": "It is on ___ of the table.",
+     "audio": "audio/top/s1.m4a"
+    },
+    {
+     "en": "You are the top student!",
+     "pt": "Você é o melhor aluno!",
+     "cloze": "You are the ___ student!",
+     "audio": "audio/top/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/top/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:concern",
+   "rank": 335,
+   "lemma": "concerned",
+   "headword": "concern",
+   "ipa": "kənˈsɝnd",
+   "translation": {
+    "pt": "preocupado"
+   },
+   "accepted": [
+    "concerned"
+   ],
+   "ptbr_hint": "konsârnd",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/concern/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I'm concerned about him.",
+     "pt": "Estou preocupado com ele.",
+     "cloze": "I'm ___ about him.",
+     "audio": "audio/concern/s1.m4a"
+    },
+    {
+     "en": "No need to be concerned.",
+     "pt": "Não precisa se preocupar.",
+     "cloze": "No need to be ___.",
+     "audio": "audio/concern/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/concern/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:since",
+   "rank": 336,
+   "lemma": "since",
+   "headword": "since",
+   "ipa": "sɪns",
+   "translation": {
+    "pt": "desde"
+   },
+   "accepted": [
+    "since"
+   ],
+   "ptbr_hint": "sins",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/since/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I have lived here since 2020.",
+     "pt": "Moro aqui desde 2020.",
+     "cloze": "I have lived here ___ 2020.",
+     "audio": "audio/since/s1.m4a"
+    },
+    {
+     "en": "I know her since school.",
+     "pt": "Conheço ela desde a escola.",
+     "cloze": "I know her ___ school.",
+     "audio": "audio/since/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/since/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:order",
+   "rank": 338,
+   "lemma": "order",
+   "headword": "order",
+   "ipa": "ˈɔrdɚ",
+   "translation": {
+    "pt": "pedir / pedido"
+   },
+   "accepted": [
+    "order"
+   ],
+   "ptbr_hint": "órder",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/order/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Can I order now?",
+     "pt": "Posso pedir agora?",
+     "cloze": "Can I ___ now?",
+     "audio": "audio/order/s1.m4a"
+    },
+    {
+     "en": "Your order is ready.",
+     "pt": "Seu pedido está pronto.",
+     "cloze": "Your ___ is ready.",
+     "audio": "audio/order/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/order/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:government",
+   "rank": 339,
+   "lemma": "government",
+   "headword": "government",
+   "ipa": "ˈɡʌvɚmənt",
+   "translation": {
+    "pt": "governo"
+   },
+   "accepted": [
+    "government"
+   ],
+   "ptbr_hint": "gâvernment",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/government/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "The government changed the law.",
+     "pt": "O governo mudou a lei.",
+     "cloze": "The ___ changed the law.",
+     "audio": "audio/government/s1.m4a"
+    },
+    {
+     "en": "He works for the government.",
+     "pt": "Ele trabalha para o governo.",
+     "cloze": "He works for the ___.",
+     "audio": "audio/government/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/government/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:sound",
+   "rank": 340,
+   "lemma": "sounds good",
+   "headword": "sound",
+   "ipa": "saʊndz ɡʊd",
+   "translation": {
+    "pt": "parece bom / beleza"
+   },
+   "accepted": [
+    "sounds good",
+    "sound good"
+   ],
+   "ptbr_hint": "sáunds gud",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/sound/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Pizza tonight? Sounds good!",
+     "pt": "Pizza hoje? Beleza!",
+     "cloze": "Pizza tonight? ___ good!",
+     "audio": "audio/sound/s1.m4a"
+    },
+    {
+     "en": "That sounds good to me.",
+     "pt": "Para mim parece bom.",
+     "cloze": "That ___ good to me.",
+     "audio": "audio/sound/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/sound/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:tomorrow",
+   "rank": 341,
+   "lemma": "see you tomorrow",
+   "headword": "tomorrow",
+   "ipa": "si ju təˈmɑroʊ",
+   "translation": {
+    "pt": "até amanhã"
+   },
+   "accepted": [
+    "see you tomorrow"
+   ],
+   "ptbr_hint": "sí iú tumórrôu",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/tomorrow/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Bye, see you tomorrow!",
+     "pt": "Tchau, até amanhã!",
+     "cloze": "Bye, see you ___!",
+     "audio": "audio/tomorrow/s1.m4a"
+    },
+    {
+     "en": "I work tomorrow.",
+     "pt": "Eu trabalho amanhã.",
+     "cloze": "I work ___.",
+     "audio": "audio/tomorrow/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/tomorrow/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:service",
+   "rank": 342,
+   "lemma": "service",
+   "headword": "service",
+   "ipa": "ˈsɝvəs",
+   "translation": {
+    "pt": "serviço / atendimento"
+   },
+   "accepted": [
+    "service"
+   ],
+   "ptbr_hint": "sârvis",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/service/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "The service here is great.",
+     "pt": "O atendimento aqui é ótimo.",
+     "cloze": "The ___ here is great.",
+     "audio": "audio/service/s1.m4a"
+    },
+    {
+     "en": "Is there phone service here?",
+     "pt": "Tem sinal de celular aqui?",
+     "cloze": "Is there phone ___ here?",
+     "audio": "audio/service/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/service/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:wrong",
+   "rank": 343,
+   "lemma": "what's wrong?",
+   "headword": "wrong",
+   "ipa": "wʌts rɔŋ",
+   "translation": {
+    "pt": "o que foi?"
+   },
+   "accepted": [
+    "what's wrong",
+    "what's wrong?"
+   ],
+   "ptbr_hint": "uóts róng",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/wrong/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "What's wrong? You look sad.",
+     "pt": "O que foi? Você parece triste.",
+     "cloze": "What's ___? You look sad.",
+     "audio": "audio/wrong/s1.m4a"
+    },
+    {
+     "en": "Sorry, wrong number.",
+     "pt": "Desculpa, número errado.",
+     "cloze": "Sorry, ___ number.",
+     "audio": "audio/wrong/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/wrong/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:lose",
+   "rank": 344,
+   "lemma": "lose",
+   "headword": "lose",
+   "ipa": "luz",
+   "translation": {
+    "pt": "perder"
+   },
+   "accepted": [
+    "lose"
+   ],
+   "ptbr_hint": "lúz",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/lose/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Don't lose your keys.",
+     "pt": "Não perca suas chaves.",
+     "cloze": "Don't ___ your keys.",
+     "audio": "audio/lose/s1.m4a"
+    },
+    {
+     "en": "We can still win or lose.",
+     "pt": "Ainda podemos ganhar ou perder.",
+     "cloze": "We can still win or ___.",
+     "audio": "audio/lose/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/lose/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:easy",
+   "rank": 345,
+   "lemma": "easy",
+   "headword": "easy",
+   "ipa": "ˈizi",
+   "translation": {
+    "pt": "fácil"
+   },
+   "accepted": [
+    "easy"
+   ],
+   "ptbr_hint": "ízi",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/easy/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "This test is easy.",
+     "pt": "Essa prova é fácil.",
+     "cloze": "This test is ___.",
+     "audio": "audio/easy/s1.m4a"
+    },
+    {
+     "en": "Take it easy.",
+     "pt": "Vai com calma.",
+     "cloze": "Take it ___.",
+     "audio": "audio/easy/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/easy/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:program",
+   "rank": 347,
+   "lemma": "program",
+   "headword": "program",
+   "ipa": "pˈroʊɡræm",
+   "translation": {
+    "pt": "programa"
+   },
+   "accepted": [
+    "program"
+   ],
+   "ptbr_hint": "prôugram",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/program/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I like this TV program.",
+     "pt": "Gosto deste programa de TV.",
+     "cloze": "I like this TV ___.",
+     "audio": "audio/program/s1.m4a"
+    },
+    {
+     "en": "The program starts at nine.",
+     "pt": "O programa começa às nove.",
+     "cloze": "The ___ starts at nine.",
+     "audio": "audio/program/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/program/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:parent",
+   "rank": 348,
+   "lemma": "parents",
+   "headword": "parent",
+   "ipa": "ˈpɛrənts",
+   "translation": {
+    "pt": "pais (pai e mãe)"
+   },
+   "accepted": [
+    "parents"
+   ],
+   "ptbr_hint": "pérents",
+   "concrete": true,
+   "image": "img/parent.webp",
+   "audio": {
+    "am_michael": "audio/parent/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "My parents live far away.",
+     "pt": "Meus pais moram longe.",
+     "cloze": "My ___ live far away.",
+     "audio": "audio/parent/s1.m4a"
+    },
+    {
+     "en": "I visit my parents on Sunday.",
+     "pt": "Visito meus pais no domingo.",
+     "cloze": "I visit my ___ on Sunday.",
+     "audio": "audio/parent/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/parent/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:break",
+   "rank": 349,
+   "lemma": "take a break",
+   "headword": "break",
+   "ipa": "teɪk ə breɪk",
+   "translation": {
+    "pt": "fazer uma pausa"
+   },
+   "accepted": [
+    "take a break"
+   ],
+   "ptbr_hint": "têik â brêik",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/break/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "Let's take a break.",
+     "pt": "Vamos fazer uma pausa.",
+     "cloze": "Let's take a ___.",
+     "audio": "audio/break/s1.m4a"
+    },
+    {
+     "en": "Don't break it!",
+     "pt": "Não quebre isso!",
+     "cloze": "Don't ___ it!",
+     "audio": "audio/break/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/break/pt.m4a"
+  },
+  {
+   "id": "ngsl-spoken:agree",
+   "rank": 350,
+   "lemma": "I agree",
+   "headword": "agree",
+   "ipa": "aɪ əɡˈri",
+   "translation": {
+    "pt": "eu concordo"
+   },
+   "accepted": [
+    "I agree"
+   ],
+   "ptbr_hint": "ai âgrí",
+   "concrete": false,
+   "image": null,
+   "audio": {
+    "am_michael": "audio/agree/am_michael.m4a"
+   },
+   "sentences": [
+    {
+     "en": "I agree with you.",
+     "pt": "Concordo com você.",
+     "cloze": "I ___ with you.",
+     "audio": "audio/agree/s1.m4a"
+    },
+    {
+     "en": "I don't agree.",
+     "pt": "Não concordo.",
+     "cloze": "I don't ___.",
+     "audio": "audio/agree/s2.m4a"
+    }
+   ],
+   "audio_pt": "audio/agree/pt.m4a"
   }
  ],
  "episodes": [

@@ -1,0 +1,3667 @@
+[
+ {
+  "id": "ngsl-spoken:be",
+  "flags": [
+   "missing_target:s1",
+   "unknown_word:s1:tired",
+   "missing_target:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:the",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:you",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:and",
+  "flags": [
+   "unknown_word:s2:rice,beans"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:it",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:to",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:a",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:have",
+  "flags": [
+   "unknown_word:s1:cats"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:of",
+  "flags": [
+   "unknown_word:s2:cup"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:do",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:not",
+  "flags": [
+   "unknown_word:s1:busy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:that",
+  "flags": [
+   "unknown_word:s2:song"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:they",
+  "flags": [
+   "unknown_word:s1:friends"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:we",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:in",
+  "flags": [
+   "unknown_word:s2:brazil"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:he",
+  "flags": [
+   "unknown_word:s2:works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:know",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:get",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:go",
+  "flags": [
+   "unknown_word:s2:beach"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:so",
+  "flags": [
+   "unknown_word:s2:tired,slept"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:this",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:but",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:on",
+  "flags": [
+   "unknown_word:s1:keys"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:i",
+  "flags": [
+   "unknown_word:s1:hungry"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:for",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:think",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:like",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:there",
+  "flags": [
+   "unknown_word:s1:cat"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:will",
+  "flags": [
+   "unknown_word:s2:rain"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:say",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:she",
+  "flags": [
+   "unknown_word:s2:works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:what",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:just",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:well",
+  "flags": [
+   "unknown_word:s1:speaks,english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:one",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:with",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:if",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:at",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:all",
+  "flags": [
+   "unknown_word:s1:worked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:about",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:or",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:as",
+  "flags": [
+   "unknown_word:s2:works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:would",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:then",
+  "flags": [
+   "unknown_word:s2:ate,slept"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:because",
+  "flags": [
+   "unknown_word:s1:tired,worked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:right",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:can",
+  "flags": [
+   "unknown_word:s2:swim"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:no",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:up",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mean",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:out",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:see",
+  "flags": [
+   "unknown_word:s1:sea"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thing",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:yes",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:when",
+  "flags": [
+   "unknown_word:s1:birthday",
+   "unknown_word:s2:arrive"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:really",
+  "flags": [
+   "unknown_word:s1:didn't"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:want",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:come",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:now",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:some",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:good",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:from",
+  "flags": [
+   "unknown_word:s1:hi",
+   "unknown_word:s2:brazil"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:time",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:people",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:very",
+  "flags": [
+   "unknown_word:s2:tired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:yeah",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:make",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:look",
+  "flags": [
+   "unknown_word:s2:tired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:two",
+  "flags": [
+   "unknown_word:s2:coffees"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:take",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:here",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:which",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:could",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:work",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:more",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:who",
+  "flags": [
+   "unknown_word:s2:wants"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:other",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:laugh",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:where",
+  "flags": [
+   "unknown_word:s1:bathroom"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:use",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:something",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:how",
+  "flags": [
+   "unknown_word:s1:hi"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:back",
+  "flags": [
+   "unknown_word:s2:i'll"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:year",
+  "flags": [
+   "unknown_word:s2:lived"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:by",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:any",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:lot",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:way",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:put",
+  "flags": [
+   "unknown_word:s2:did,keys"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:down",
+  "flags": [
+   "unknown_word:s2:calm"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:give",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sort",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:three",
+  "flags": [
+   "unknown_word:s1:dogs",
+   "unknown_word:s2:o'clock"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:much",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:actually",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:need",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:talk",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:kind",
+  "flags": [
+   "unknown_word:s1:tired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tell",
+  "flags": [
+   "unknown_word:s1:truth",
+   "unknown_word:s2:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:only",
+  "flags": [
+   "unknown_word:s1:dollars"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:water",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:meeting",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:phone",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:coffee",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:house",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:car",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:money",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:friend",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:thank-you",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:morning",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:family",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:food",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:book",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:dog",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:door",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:happy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:okay",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:dad",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mom",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:baby",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:little",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:stop",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:first",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sorry",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:love",
+  "flags": [
+   "unknown_word:s1:pizza",
+   "unknown_word:s2:song"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:kid",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:bad",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:cool",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:old",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:still",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:always",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:nothing",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:nice",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:husband",
+  "flags": [
+   "unknown_word:s2:works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:school",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:together",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:you-know",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:i-know",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:come-on",
+  "flags": [
+   "unknown_word:s2:oh"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:you-guys",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:i-got-it",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:excuse-me",
+  "flags": [
+   "unknown_word:s2:yours"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:are-you-kidding",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:don-t-worry",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:i-m-gonna",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:i-m-not-sure",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:should",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:over",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:day",
+  "flags": [
+   "unknown_word:s1:beautiful"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:into",
+  "flags": [
+   "unknown_word:s2:went"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bit",
+  "flags": [
+   "unknown_word:s1:tired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:try",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:why",
+  "flags": [
+   "unknown_word:s1:sad"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:off",
+  "flags": [
+   "unknown_word:s1:tv"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:than",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:too",
+  "flags": [
+   "unknown_word:s2:hungry"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:five",
+  "flags": [
+   "unknown_word:s1:dogs",
+   "unknown_word:s2:minutes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:let",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:call",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:four",
+  "flags": [
+   "unknown_word:s2:o'clock"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:last",
+  "flags": [
+   "unknown_word:s1:slept"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:start",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:quite",
+  "flags": [
+   "unknown_word:s2:english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:find",
+  "flags": [
+   "unknown_word:s1:keys",
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:probably",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:even",
+  "flags": [
+   "unknown_word:s1:sings"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:might",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:through",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:point",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:anything",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:week",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:before",
+  "flags": [
+   "unknown_word:s1:wash,hands,lunch"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:again",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:problem",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:never",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:same",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:big",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:feel",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ask",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:question",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:also",
+  "flags": [
+   "unknown_word:s1:spanish"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:different",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sure",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:long",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:happen",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:course",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:keep",
+  "flags": [
+   "unknown_word:s1:going"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:another",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:read",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hundred",
+  "flags": [
+   "unknown_word:s1:songs",
+   "unknown_word:s2:costs,dollars"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:leave",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:many",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:after",
+  "flags": [
+   "unknown_word:s1:lunch"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thank",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:meet",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:stuff",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:end",
+  "flags": [
+   "unknown_word:s1:liked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:number",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hear",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:next",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:six",
+  "flags": [
+   "unknown_word:s1:wake",
+   "unknown_word:s2:cats"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pay",
+  "flags": [
+   "unknown_word:s2:lunch"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:place",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:remember",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:maybe",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:test",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:home",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:change",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:though",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:new",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:live",
+  "flags": [
+   "unknown_word:s1:friends"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:part",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:interest",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:around",
+  "flags": [
+   "unknown_word:s1:bank"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:write",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:most",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:move",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:every",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:today",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:twenty",
+  "flags": [
+   "unknown_word:s2:takes,minutes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:else",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:anyway",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:child",
+  "flags": [
+   "unknown_word:s1:sleeping"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:buy",
+  "flags": [
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fact",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:play",
+  "flags": [
+   "unknown_word:s2:guitar"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:great",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:job",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:seem",
+  "flags": [
+   "unknown_word:s1:tired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:man",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:night",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:away",
+  "flags": [
+   "unknown_word:s2:pain"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:issue",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:own",
+  "flags": [
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:area",
+  "flags": [
+   "unknown_word:s2:quiet"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:half",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:round",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:eight",
+  "flags": [
+   "unknown_word:s1:hours",
+   "unknown_word:s2:opens"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:help",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ten",
+  "flags": [
+   "unknown_word:s1:minutes",
+   "unknown_word:s2:friends"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:whole",
+  "flags": [
+   "unknown_word:s1:slept",
+   "unknown_word:s2:rained"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:everything",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:minute",
+  "flags": [
+   "unknown_word:s1:coming"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:may",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:whether",
+  "flags": [
+   "unknown_word:s2:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:student",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:guess",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:whatever",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sit",
+  "flags": [
+   "unknown_word:s1:relax"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bring",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:name",
+  "flags": [
+   "unknown_word:s1:hi,ana"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:run",
+  "flags": [
+   "unknown_word:s1:sunday"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:show",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:word",
+  "flags": [
+   "unknown_word:s1:learned"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:suppose",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:must",
+  "flags": [
+   "unknown_word:s1:tired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:understand",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:month",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:both",
+  "flags": [
+   "unknown_word:s2:us,tired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:idea",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:seven",
+  "flags": [
+   "unknown_word:s1:days",
+   "unknown_word:s2:wake"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pretty",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:somebody",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:able",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:item",
+  "flags": [
+   "unknown_word:s2:bought"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hour",
+  "flags": [
+   "unknown_word:s1:waited"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:side",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:enough",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ever",
+  "flags": [
+   "unknown_word:s1:been,london",
+   "unknown_word:s2:seen,snow"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:important",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:late",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:turn",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:between",
+  "flags": [
+   "unknown_word:s1:us",
+   "unknown_word:s2:bank"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thousand",
+  "flags": [
+   "unknown_word:s1:costs,dollars",
+   "unknown_word:s2:came"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:few",
+  "flags": [
+   "unknown_word:s1:friends",
+   "unknown_word:s2:minutes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:term",
+  "flags": [
+   "unknown_word:s2:starts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:life",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:nine",
+  "flags": [
+   "unknown_word:s1:opens",
+   "unknown_word:s2:cousins"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:believe",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:far",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:set",
+  "flags": [
+   "unknown_word:s2:alarm"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:thirty",
+  "flags": [
+   "unknown_word:s2:minutes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:case",
+  "flags": [
+   "unknown_word:s1:coat"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:real",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:second",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mind",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:woman",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:guy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:each",
+  "flags": [
+   "unknown_word:s1:costs,dollars"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hard",
+  "flags": [
+   "unknown_word:s1:english",
+   "unknown_word:s2:works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:couple",
+  "flags": [
+   "unknown_word:s1:minutes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:speak",
+  "flags": [
+   "unknown_word:s1:english",
+   "unknown_word:s2:slowly"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:group",
+  "flags": [
+   "unknown_word:s2:join"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:high",
+  "flags": [
+   "unknown_word:s2:wall"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:build",
+  "flags": [
+   "unknown_word:s2:apps"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:watch",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:country",
+  "flags": [
+   "unknown_word:s2:brazil"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:plan",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fifty",
+  "flags": [
+   "unknown_word:s1:costs,dollars"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:send",
+  "flags": [
+   "unknown_word:s1:message"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:obviously",
+  "flags": [
+   "unknown_word:s1:said",
+   "unknown_word:s2:tired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:reason",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:yet",
+  "flags": [
+   "unknown_word:s2:haven't,eaten"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:walk",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:either",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:wait",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:already",
+  "flags": [
+   "unknown_word:s1:ate"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:person",
+  "flags": [
+   "unknown_word:s2:missing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:open",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:once",
+  "flags": [
+   "unknown_word:s1:went"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:deal",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:report",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hand",
+  "flags": [
+   "unknown_word:s1:wash"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:alright",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:example",
+  "flags": [
+   "unknown_word:s1:rice"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cause",
+  "flags": [
+   "unknown_word:s1:friday",
+   "unknown_word:s2:stayed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:information",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:please",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:exactly",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ago",
+  "flags": [
+   "unknown_word:s1:moved",
+   "unknown_word:s2:called"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:room",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:answer",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:spend",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:stay",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:rather",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:certainly",
+  "flags": [
+   "unknown_word:s1:sir",
+   "unknown_word:s2:rain"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:while",
+  "flags": [
+   "unknown_word:s1:lived"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:everybody",
+  "flags": [
+   "unknown_word:s1:hi",
+   "unknown_word:s2:knows,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:clear",
+  "flags": [
+   "unknown_word:s2:sky"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:eat",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:perhaps",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:early",
+  "flags": [
+   "unknown_word:s1:wake"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:care",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:pick",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:type",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:matter",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:such",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:until",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hope",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:level",
+  "flags": [
+   "unknown_word:s1:english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:small",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:line",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:close",
+  "flags": [
+   "unknown_word:s2:bank"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:least",
+  "flags": [
+   "unknown_word:s1:raining",
+   "unknown_word:s2:hours"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:under",
+  "flags": [
+   "unknown_word:s1:cat"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:someone",
+  "flags": [
+   "unknown_word:s1:called"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:system",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:cost",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:state",
+  "flags": [
+   "unknown_word:s1:s,o,paulo"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sometimes",
+  "flags": [
+   "unknown_word:s1:cook",
+   "unknown_word:s2:rains"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:paper",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:top",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:concern",
+  "flags": [
+   "unknown_word:s1:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:since",
+  "flags": [
+   "unknown_word:s1:lived"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:order",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:government",
+  "flags": [
+   "unknown_word:s1:changed",
+   "unknown_word:s2:works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sound",
+  "flags": [
+   "unknown_word:s1:pizza"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tomorrow",
+  "flags": [
+   "unknown_word:s1:bye"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:service",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:wrong",
+  "flags": [
+   "unknown_word:s1:sad"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:lose",
+  "flags": [
+   "unknown_word:s1:keys"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:easy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:program",
+  "flags": [
+   "unknown_word:s1:tv",
+   "unknown_word:s2:starts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:parent",
+  "flags": [
+   "unknown_word:s2:sunday"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:break",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:agree",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:business",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:within",
+  "flags": [
+   "unknown_word:s1:reply"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:drive",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sense",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:stand",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:basically",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:process",
+  "flags": [
+   "unknown_word:s2:learning"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hold",
+  "flags": [
+   "unknown_word:s1:coming"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cut",
+  "flags": [
+   "unknown_word:s1:bread"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:moment",
+  "flags": [
+   "unknown_word:s2:busy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:girl",
+  "flags": [
+   "unknown_word:s1:smart"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:past",
+  "flags": [
+   "unknown_word:s1:smoked"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:without",
+  "flags": [
+   "unknown_word:s1:sugar"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:learn",
+  "flags": [
+   "unknown_word:s1:english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:young",
+  "flags": [
+   "unknown_word:s2:played"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:anybody",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:teacher",
+  "flags": [
+   "unknown_word:s2:english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:become",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:member",
+  "flags": [
+   "unknown_word:s1:club"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:train",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:class",
+  "flags": [
+   "unknown_word:s1:starts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:forty",
+  "flags": [
+   "unknown_word:s2:takes,minutes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:company",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:begin",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fine",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:support",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:head",
+  "flags": [
+   "unknown_word:s1:hurts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:world",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:nineteen",
+  "flags": [
+   "unknown_word:s2:goes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:view",
+  "flags": [
+   "unknown_word:s1:beautiful"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:decide",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:finish",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:expect",
+  "flags": [
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:particular",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:percent",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:shop",
+  "flags": [
+   "unknown_word:s1:closed",
+   "unknown_word:s2:saturdays"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:situation",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:involve",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:check",
+  "flags": [
+   "unknown_word:s2:email"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:along",
+  "flags": [
+   "unknown_word:s1:us",
+   "unknown_word:s2:river"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:full",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:form",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:sell",
+  "flags": [
+   "unknown_word:s2:fruit"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:story",
+  "flags": [
+   "unknown_word:s2:true"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:certain",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:local",
+  "flags": [
+   "unknown_word:s1:shops"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ring",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:figure",
+  "flags": [
+   "unknown_word:s1:i'll"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:twelve",
+  "flags": [
+   "unknown_word:s1:lunch",
+   "unknown_word:s2:eggs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wonder",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:boy",
+  "flags": [
+   "unknown_word:s1:playing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:usually",
+  "flags": [
+   "unknown_word:s1:wake",
+   "unknown_word:s2:quiet"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:public",
+  "flags": [
+   "unknown_word:s2:transport"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:less",
+  "flags": [
+   "unknown_word:s2:costs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:worry",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:funny",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:yesterday",
+  "flags": [
+   "unknown_word:s1:saw"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:road",
+  "flags": [
+   "unknown_word:s1:closed",
+   "unknown_word:s2:cross"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:discussion",
+  "flags": [
+   "unknown_word:s1:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:front",
+  "flags": [
+   "unknown_word:s1:bank"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:record",
+  "flags": [
+   "unknown_word:s1:voice"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:across",
+  "flags": [
+   "unknown_word:s1:bank",
+   "unknown_word:s2:swim,river"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:absolutely",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:short",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:policy",
+  "flags": [
+   "unknown_word:s1:return"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:difficult",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:teach",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mine",
+  "flags": [
+   "unknown_word:s1:touch"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:piece",
+  "flags": [
+   "unknown_word:s1:cake"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:provide",
+  "flags": [
+   "unknown_word:s2:hotel,towels"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:comment",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:cover",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mother",
+  "flags": [
+   "unknown_word:s1:nurse"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:almost",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:list",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:difference",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ninety",
+  "flags": [
+   "unknown_word:s1:grandma",
+   "unknown_word:s2:costs,dollars"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:against",
+  "flags": [
+   "unknown_word:s2:brazil,plays,spain"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:forget",
+  "flags": [
+   "unknown_word:s1:keys",
+   "unknown_word:s2:names"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:page",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:light",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:yourself",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:myself",
+  "flags": [
+   "unknown_word:s1:made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dollar",
+  "flags": [
+   "unknown_word:s1:costs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tape",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:allow",
+  "flags": [
+   "unknown_word:s1:dogs"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wear",
+  "flags": [
+   "unknown_word:s2:glasses"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:forward",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:follow",
+  "flags": [
+   "unknown_word:s2:online"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:experience",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:clock",
+  "flags": [
+   "unknown_word:s2:slow"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:listen",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:decision",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mention",
+  "flags": [
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:somewhere",
+  "flags": [
+   "unknown_word:s2:keys"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:eighty",
+  "flags": [
+   "unknown_word:s1:costs,dollars"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:age",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:outside",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:letter",
+  "flags": [
+   "unknown_word:s1:wrote"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:during",
+  "flags": [
+   "unknown_word:s2:slept,trip"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:language",
+  "flags": [
+   "unknown_word:s2:english,useful"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:card",
+  "flags": [
+   "unknown_word:s1:lost"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:large",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:stick",
+  "flags": [
+   "unknown_word:s2:wall"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:base",
+  "flags": [
+   "unknown_word:s2:s,o,paulo"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:picture",
+  "flags": [
+   "unknown_word:s1:us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:table",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:enjoy",
+  "flags": [
+   "unknown_word:s1:meal",
+   "unknown_word:s2:reading"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:party",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:continue",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:pass",
+  "flags": [
+   "unknown_word:s1:salt"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:add",
+  "flags": [
+   "unknown_word:s1:salt",
+   "unknown_word:s2:whatsapp"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sixty",
+  "flags": [
+   "unknown_word:s1:minutes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:often",
+  "flags": [
+   "unknown_word:s1:cook"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fall",
+  "flags": [
+   "unknown_word:s1:careful",
+   "unknown_word:s2:leaves,autumn"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:grow",
+  "flags": [
+   "unknown_word:s1:did",
+   "unknown_word:s2:fast"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:general",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:drink",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:carry",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:response",
+  "flags": [
+   "unknown_word:s2:waiting"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:price",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:include",
+  "flags": [
+   "unknown_word:s1:breakfast"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bed",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:position",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:soon",
+  "flags": [
+   "unknown_word:s1:bye",
+   "unknown_word:s2:coming"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:suggest",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:office",
+  "flags": [
+   "unknown_word:s2:opens"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:possible",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fifteen",
+  "flags": [
+   "unknown_word:s1:minutes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sign",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:face",
+  "flags": [
+   "unknown_word:s1:wash"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:draw",
+  "flags": [
+   "unknown_word:s1:cat",
+   "unknown_word:s2:son,loves"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:low",
+  "flags": [
+   "unknown_word:s2:voice"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:although",
+  "flags": [
+   "unknown_word:s1:went,raining",
+   "unknown_word:s2:wise"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:present",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:amount",
+  "flags": [
+   "unknown_word:s2:sugar"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:market",
+  "flags": [
+   "unknown_word:s1:fruit",
+   "unknown_word:s2:busy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sing",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:save",
+  "flags": [
+   "unknown_word:s1:file"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:game",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:lovely",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:choice",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:ready",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:die",
+  "flags": [
+   "unknown_word:s1:plant",
+   "unknown_word:s2:plants"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:health",
+  "flags": [
+   "unknown_word:s1:comes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:color",
+  "flags": [
+   "unknown_word:s1:favorite"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:community",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mathematics",
+  "flags": [
+   "missing_target:s1",
+   "missing_target:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:miss",
+  "flags": [
+   "unknown_word:s2:hurry,you'll"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:address",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:town",
+  "flags": [
+   "unknown_word:s1:quiet"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:win",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:foot",
+  "flags": [
+   "unknown_word:s2:hurts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:raise",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:discuss",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:committee",
+  "flags": [
+   "unknown_word:s1:meets,monday"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:pull",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:box",
+  "flags": [
+   "unknown_word:s2:heavy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:dear",
+  "flags": [
+   "unknown_word:s2:ana"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:consider",
+  "flags": [
+   "unknown_word:s2:him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rest",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:increase",
+  "flags": [
+   "unknown_word:s1:prices"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:nobody",
+  "flags": [
+   "unknown_word:s2:knows"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:computer",
+  "flags": [
+   "unknown_word:s1:slow"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:budget",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fun",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:depend",
+  "flags": [
+   "unknown_word:s2:weather"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:particularly",
+  "flags": [
+   "unknown_word:s1:hungry"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:study",
+  "flags": [
+   "unknown_word:s1:english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tonight",
+  "flags": [
+   "unknown_word:s1:doing"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:everyone",
+  "flags": [
+   "unknown_word:s1:hello"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:afternoon",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:notice",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:chance",
+  "flags": [
+   "unknown_word:s2:rain"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:standard",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:especially",
+  "flags": [
+   "unknown_word:s1:fruit,mango"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:middle",
+  "flags": [
+   "unknown_word:s2:woke"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:press",
+  "flags": [
+   "unknown_word:s1:button"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:till",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:million",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:seventy",
+  "flags": [
+   "unknown_word:s1:grandpa",
+   "unknown_word:s2:costs,dollars"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:city",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:realize",
+  "flags": [
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:score",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:weekend",
+  "flags": [
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:black",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:lead",
+  "flags": [
+   "unknown_word:s2:beach"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:result",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fit",
+  "flags": [
+   "unknown_word:s1:shirt"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:staff",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:control",
+  "flags": [
+   "unknown_word:s1:tv"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:definitely",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:conversation",
+  "flags": [
+   "unknown_word:s1:had",
+   "unknown_word:s2:english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:further",
+  "flags": [
+   "unknown_word:s2:questions"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:straight",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:free",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:shall",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:develop",
+  "flags": [
+   "unknown_word:s1:apps",
+   "unknown_word:s2:fast"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:college",
+  "flags": [
+   "unknown_word:s1:went,s,o,paulo"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:opportunity",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:near",
+  "flags": [
+   "unknown_word:s1:bank"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ought",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:per",
+  "flags": [
+   "unknown_word:s1:dollars",
+   "unknown_word:s2:twice"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bear",
+  "flags": [
+   "unknown_word:s1:heat"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:date",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:offer",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:grade",
+  "flags": [
+   "unknown_word:s2:son,third"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:toward",
+  "flags": [
+   "unknown_word:s2:came"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:war",
+  "flags": [
+   "unknown_word:s1:wants"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:throw",
+  "flags": [
+   "unknown_word:s1:ball",
+   "unknown_word:s2:trash"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:major",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:charge",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:rate",
+  "flags": [
+   "unknown_word:s2:app"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:individual",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:music",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:doctor",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:force",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:load",
+  "flags": [
+   "unknown_word:s2:heavy"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:effect",
+  "flags": [
+   "unknown_word:s1:had"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wish",
+  "flags": [
+   "unknown_word:s1:fly"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:team",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:eleven",
+  "flags": [
+   "unknown_word:s2:players"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:worth",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:brief",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:law",
+  "flags": [
+   "unknown_word:s2:studies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:unless",
+  "flags": [
+   "unknown_word:s1:i'll,rains"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:future",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:behind",
+  "flags": [
+   "unknown_word:s1:cat"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:site",
+  "flags": [
+   "unknown_word:s2:building,closed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:white",
+  "flags": [
+   "unknown_word:s1:shirts",
+   "unknown_word:s2:wall"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:special",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:main",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:trouble",
+  "flags": [
+   "unknown_word:s1:you're",
+   "unknown_word:s2:sleeping"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:project",
+  "flags": [
+   "unknown_word:s1:working"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:father",
+  "flags": [
+   "unknown_word:s1:driver"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:quality",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:themselves",
+  "flags": [
+   "unknown_word:s1:did",
+   "unknown_word:s2:dressed"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sleep",
+  "flags": [
+   "unknown_word:s1:hours",
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:share",
+  "flags": [
+   "unknown_word:s1:pizza",
+   "unknown_word:s2:link"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:available",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hit",
+  "flags": [
+   "unknown_word:s2:song"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fair",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:news",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:bottom",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:strong",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:note",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:step",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:subject",
+  "flags": [
+   "unknown_word:s2:favorite"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:clean",
+  "flags": [
+   "unknown_word:s2:kitchen"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:wife",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:machine",
+  "flags": [
+   "unknown_word:s1:broken",
+   "unknown_word:s2:wash"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:drop",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:land",
+  "flags": [
+   "unknown_word:s1:plane",
+   "unknown_word:s2:bought"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:period",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:bother",
+  "flags": [
+   "unknown_word:s1:i'll"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:development",
+  "flags": [
+   "unknown_word:s1:software"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:detail",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:marry",
+  "flags": [
+   "missing_target:s1",
+   "missing_target:s2"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:power",
+  "flags": [
+   "unknown_word:s2:knowledge"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tax",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:benefit",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:cold",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:imagine",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:vote",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hang",
+  "flags": [
+   "unknown_word:s2:coat"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:education",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:anyone",
+  "flags": [
+   "unknown_word:s1:english"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:national",
+  "flags": [
+   "unknown_word:s2:won"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fire",
+  "flags": [
+   "unknown_word:s2:sat"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:council",
+  "flags": [
+   "unknown_word:s1:meets"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:instead",
+  "flags": [
+   "unknown_word:s2:driving"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bill",
+  "flags": [
+   "unknown_word:s2:paid"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:catch",
+  "flags": [
+   "unknown_word:s1:ball"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:tend",
+  "flags": [
+   "unknown_word:s1:wake"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:account",
+  "flags": [
+   "unknown_word:s2:bank"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:statement",
+  "flags": [
+   "unknown_word:s1:bank",
+   "unknown_word:s2:made"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:board",
+  "flags": [
+   "unknown_word:s1:welcome"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:summer",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:text",
+  "flags": [
+   "unknown_word:s1:arrive"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:brother",
+  "flags": [
+   "unknown_word:s1:taller",
+   "unknown_word:s2:canada"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fairly",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:holiday",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:dinner",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:fund",
+  "flags": [
+   "unknown_word:s1:trips",
+   "unknown_word:s2:works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sister",
+  "flags": [
+   "unknown_word:s1:older"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:noise",
+  "flags": [
+   "unknown_word:s2:loud"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:push",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:accept",
+  "flags": [
+   "unknown_word:s1:cards"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:police",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:kill",
+  "flags": [
+   "unknown_word:s2:heat"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:travel",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:explain",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:movie",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hair",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:specific",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:tea",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hate",
+  "flags": [
+   "unknown_word:s1:waking",
+   "unknown_word:s2:rain"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:center",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:degree",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:choose",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:research",
+  "flags": [
+   "unknown_word:s1:did",
+   "unknown_word:s2:shows,works"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:body",
+  "flags": [
+   "unknown_word:s2:hurts"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:rule",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:produce",
+  "flags": [
+   "unknown_word:s1:brazil"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:size",
+  "flags": [
+   "unknown_word:s2:bigger"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:ahead",
+  "flags": [
+   "unknown_word:s2:listening"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:fill",
+  "flags": [
+   "unknown_word:s1:bottle"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:extra",
+  "flags": [
+   "unknown_word:s1:pen",
+   "unknown_word:s2:cheese"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:value",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:bag",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:stage",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:eye",
+  "flags": [
+   "unknown_word:s1:blue"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:window",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:park",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:hot",
+  "flags": [
+   "unknown_word:s2:careful"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:document",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:relate",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:evening",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:itself",
+  "flags": [
+   "unknown_word:s1:closed",
+   "unknown_word:s2:app,updates"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:several",
+  "flags": [
+   "unknown_word:s1:called,times",
+   "unknown_word:s2:came"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:product",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:wonderful",
+  "flags": [
+   "unknown_word:s2:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:relationship",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:floor",
+  "flags": [
+   "unknown_word:s2:fifth"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:hospital",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:plus",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:quick",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:lady",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:mile",
+  "flags": [
+   "unknown_word:s2:ran"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:aware",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:contact",
+  "flags": [
+   "unknown_word:s1:email",
+   "unknown_word:s2:lost,him"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:single",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:copy",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:effort",
+  "flags": [
+   "unknown_word:s2:takes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:review",
+  "flags": [
+   "unknown_word:s1:words"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:trade",
+  "flags": [
+   "unknown_word:s1:seats"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:sale",
+  "flags": [
+   "unknown_word:s1:shoes"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:totally",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:therefore",
+  "flags": [
+   "unknown_word:s1:rained,stayed",
+   "unknown_word:s2:said"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:air",
+  "flags": [
+   "unknown_word:s1:fresh",
+   "unknown_word:s2:conditioning"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:church",
+  "flags": [
+   "unknown_word:s2:sunday"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:visit",
+  "flags": [
+   "unknown_word:s1:us"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:awful",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:action",
+  "flags": [
+   "unknown_word:s1:movies"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:completely",
+  "flags": [
+   "unknown_word:s1:forgot"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:affect",
+  "flags": [
+   "unknown_word:s1:rain,traffic"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:cheap",
+  "flags": [
+   "unknown_word:s2:hotel"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:receive",
+  "flags": [
+   "unknown_word:s1:did,message",
+   "unknown_word:s2:gift"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:require",
+  "flags": [
+   "unknown_word:s1:passport"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:street",
+  "flags": [
+   "unknown_word:s2:cross"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:red",
+  "flags": [
+   "unknown_word:s1:cars"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:focus",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:surprise",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:apply",
+  "flags": [
+   "unknown_word:s2:online"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:correct",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:various",
+  "flags": [
+   "unknown_word:s1:colors",
+   "unknown_word:s2:reasons"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bet",
+  "flags": [
+   "unknown_word:s1:tired"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:normally",
+  "flags": [
+   "unknown_word:s2:quiet"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:purpose",
+  "flags": [
+   "unknown_word:s1:did"
+  ]
+ },
+ {
+  "id": "ngsl-spoken:bus",
+  "flags": []
+ },
+ {
+  "id": "ngsl-spoken:create",
+  "flags": [
+   "unknown_word:s1:apps"
+  ]
+ }
+]

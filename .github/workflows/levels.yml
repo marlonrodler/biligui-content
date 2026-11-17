@@ -1,0 +1,42 @@
+name: levels
+
+# Gera os dados (sem áudio) das palavras B1–C2 a partir de fontes abertas (ADR-052).
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["pipeline/levels.py", ".github/workflows/levels.yml"]
+
+concurrency:
+  group: levels
+  cancel-in-progress: true
+
+jobs:
+  levels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: pipeline
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install wordfreq orjson
+      - name: Cache das fontes (listas, Wiktionary, Tatoeba)
+        uses: actions/cache@v4
+        with:
+          path: pipeline/.cache/sources
+          key: sources-v1
+      - name: Gerar B1–C2
+        run: python pipeline/levels.py --source v7
+      - name: Salvar no repositório
+        run: |
+          git config user.name "biligui-pipeline"
+          git config user.email "biligui-pipeline@users.noreply.github.com"
+          git add pipeline/packs/ngsl-spoken/levels
+          if git diff --cached --quiet; then echo "Nada mudou."; exit 0; fi
+          git commit -m "levels: dados B1–C2 gerados (${GITHUB_SHA::7})"
+          git pull --rebase -q && git push

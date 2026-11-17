@@ -1,0 +1,173 @@
+name: pipeline
+
+# Geração do conteúdo (ADR-062): roda aqui, no repositório público, porque aqui os minutos do GitHub Actions são grátis.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["pipeline/**", ".github/workflows/pipeline.yml", "!pipeline/levels.py", "!pipeline/packs/ngsl-spoken/levels/**"]
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false  # um novo push espera a geração em andamento terminar
+
+jobs:
+  # 4 máquinas geram, cada uma, um pedaço dos áudios novos (ADR-056)
+  shard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Ferramentas do sistema (espeak-ng, ffmpeg)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
+
+      - name: Dependências Python (torch só CPU)
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r pipeline/requirements.txt
+
+      - name: Cache dos modelos (Kokoro, Whisper)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-models-v2
+
+      - name: Cache de áudio (o mais recente)
+        uses: actions/cache/restore@v4
+        with:
+          path: pipeline/.cache
+          key: media-${{ github.sha }}
+          restore-keys: media-
+
+      - name: Voz brasileira (Piper pt_BR-faber-medium, ADR-055)
+        run: |
+          mkdir -p pipeline/.cache/piper && cd pipeline/.cache/piper
+          for f in pt_BR-faber-medium.onnx pt_BR-faber-medium.onnx.json; do
+            [ -s "$f" ] || curl -fsSL --retry 3 -o "$f" "https://huggingface.co/rhasspy/piper-voices/resolve/main/pt/pt_BR/faber/medium/$f"
+          done
+
+      # o mesmo texto na mesma voz dá o mesmo áudio: só o que é novo vai para o Kokoro (ADR-047)
+      - name: Reaproveitar o que já está publicado
+        run: python pipeline/seed_cache.py . ngsl-spoken
+
+      - name: Gerar o pedaço ${{ matrix.shard }} dos áudios
+        env:
+          LERO_SHARD: "${{ matrix.shard }}/4"
+          LERO_BUDGET_MIN: "280"
+        run: python pipeline/build.py --pack ngsl-spoken --out out --skip-images --source v13
+
+      - name: Guardar o pedaço no cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: pipeline/.cache
+          key: media-${{ github.sha }}-s${{ matrix.shard }}
+
+  build:
+    needs: shard
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Ferramentas do sistema (espeak-ng, ffmpeg)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
+
+      - name: Dependências Python (torch só CPU)
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r pipeline/requirements.txt
+
+      - name: Cache dos modelos (Kokoro, Whisper)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-models-v2
+
+      - name: Cache de áudio (o mais recente)
+        uses: actions/cache/restore@v4
+        with:
+          path: pipeline/.cache
+          key: media-${{ github.sha }}
+          restore-keys: media-
+
+      - name: Voz brasileira (Piper pt_BR-faber-medium, ADR-055)
+        run: |
+          mkdir -p pipeline/.cache/piper && cd pipeline/.cache/piper
+          for f in pt_BR-faber-medium.onnx pt_BR-faber-medium.onnx.json; do
+            [ -s "$f" ] || curl -fsSL --retry 3 -o "$f" "https://huggingface.co/rhasspy/piper-voices/resolve/main/pt/pt_BR/faber/medium/$f"
+          done
+
+      # o mesmo texto na mesma voz dá o mesmo áudio: só o que é novo vai para o Kokoro (ADR-047)
+      - name: Reaproveitar o que já está publicado
+        run: python pipeline/seed_cache.py . ngsl-spoken
+
+      - name: Juntar os pedaços
+        uses: actions/cache/restore@v4
+        with:
+          path: pipeline/.cache
+          key: media-${{ github.sha }}-s0
+      - uses: actions/cache/restore@v4
+        with:
+          path: pipeline/.cache
+          key: media-${{ github.sha }}-s1
+      - uses: actions/cache/restore@v4
+        with:
+          path: pipeline/.cache
+          key: media-${{ github.sha }}-s2
+      - uses: actions/cache/restore@v4
+        with:
+          path: pipeline/.cache
+          key: media-${{ github.sha }}-s3
+
+      - name: Gerar rascunho do pacote e amostras de vozes
+        env:
+          LERO_BUDGET_MIN: "90"
+        run: python pipeline/build.py --pack ngsl-spoken --out out --source v13
+
+      - name: Guardar o cache completo
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: pipeline/.cache
+          key: media-${{ github.sha }}
+
+      - name: Publicar o rascunho aqui mesmo
+        run: |
+          rm -rf packs/ngsl-spoken/draft voices
+          cp -r out/packs/ngsl-spoken/draft packs/ngsl-spoken/draft
+          cp -r out/voices voices
+          # cada áudio uma vez só, numa pasta compartilhada entre versões (ADR-053)
+          python pipeline/publish.py packs/ngsl-spoken/draft packs/ngsl-spoken
+          git config user.name "biligui-pipeline"
+          git config user.email "biligui-pipeline@users.noreply.github.com"
+          git add -A packs voices
+          if git diff --cached --quiet; then echo "Nada mudou."; exit 0; fi
+          git commit -m "pipeline: rascunho ngsl-spoken (${GITHUB_SHA::7})"
+          git pull --rebase -q && git push

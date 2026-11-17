@@ -5790,7 +5790,7 @@
 {
 "rank": 945,
 "lemma": "fish",
-"pt": "peixe",
+"pt": "pescar / peixe",
 "accepted": [
 "fish"
 ],
@@ -5804,13 +5804,13 @@
 "O ar é para os homens o que a água é para os peixes."
 ],
 [
-"Big fish eat the small ones.",
-"Os peixes grandes comem os pequenos."
+"All I want to do is go fishing.",
+"Tudo o que quero fazer é ir pescar."
 ]
 ],
 "src": [
 "tatoeba:1522619/1341814",
-"tatoeba:9058315/9102786"
+"tatoeba:2006523/4769801"
 ]
 },
 {
@@ -14714,7 +14714,7 @@
 {
 "rank": 1289,
 "lemma": "smoke",
-"pt": "fumaça",
+"pt": "fumo",
 "accepted": [
 "smoke"
 ],
@@ -14724,17 +14724,17 @@
 "say": "smoke",
 "sentences": [
 [
-"Do you see the black smoke over there?",
-"Está vendo a fumaça preta ali?"
+"I have been smoking since I was nineteen.",
+"Eu fumo desde os dezenove anos."
 ],
 [
-"We saw smoke in the distance.",
-"Vimos fumaça a distância."
+"Keep in mind that smoking is not good for your health.",
+"Mantenha em mente que o fumo não é bom para a sua saúde."
 ]
 ],
 "src": [
-"tatoeba:12129924/12129949",
-"tatoeba:262910/1455381"
+"tatoeba:2763659/1920476",
+"tatoeba:40655/10709612"
 ]
 },
 {
@@ -29322,6 +29322,32 @@
 },
 {
 "rank": 1853,
+"lemma": "hi",
+"pt": "oi",
+"accepted": [
+"hi"
+],
+"concrete": false,
+"emoji": null,
+"ptbr_hint": null,
+"say": "hi",
+"sentences": [
+[
+"Tell her that I said hi.",
+"Diga a ela que disse oi."
+],
+[
+"Hi, I just wanted to let you know that the problem is fixed.",
+"Oi, eu só queria te avisar que o problema foi resolvido."
+]
+],
+"src": [
+"tatoeba:8715677/8812210",
+"tatoeba:2407/418124"
+]
+},
+{
+"rank": 1854,
 "lemma": "yellow",
 "pt": "amarelo",
 "accepted": [
@@ -29347,7 +29373,7 @@
 ]
 },
 {
-"rank": 1854,
+"rank": 1855,
 "lemma": "habit",
 "pt": "hábito",
 "accepted": [
@@ -29373,7 +29399,7 @@
 ]
 },
 {
-"rank": 1855,
+"rank": 1856,
 "lemma": "disk",
 "pt": "disco",
 "accepted": [
@@ -29399,7 +29425,7 @@
 ]
 },
 {
-"rank": 1856,
+"rank": 1857,
 "lemma": "core",
 "pt": "núcleo",
 "accepted": [
@@ -29425,7 +29451,7 @@
 ]
 },
 {
-"rank": 1857,
+"rank": 1858,
 "lemma": "emotional",
 "pt": "emocional",
 "accepted": [
@@ -29451,7 +29477,7 @@
 ]
 },
 {
-"rank": 1858,
+"rank": 1859,
 "lemma": "self",
 "pt": "si-próprio",
 "accepted": [
@@ -29477,7 +29503,7 @@
 ]
 },
 {
-"rank": 1859,
+"rank": 1860,
 "lemma": "metal",
 "pt": "metal",
 "accepted": [
@@ -29503,7 +29529,7 @@
 ]
 },
 {
-"rank": 1860,
+"rank": 1861,
 "lemma": "existence",
 "pt": "existência",
 "accepted": [
@@ -29529,7 +29555,7 @@
 ]
 },
 {
-"rank": 1861,
+"rank": 1862,
 "lemma": "bone",
 "pt": "osso",
 "accepted": [
@@ -29555,7 +29581,7 @@
 ]
 },
 {
-"rank": 1862,
+"rank": 1863,
 "lemma": "panel",
 "pt": "painel",
 "accepted": [
@@ -29581,7 +29607,7 @@
 ]
 },
 {
-"rank": 1863,
+"rank": 1864,
 "lemma": "prime",
 "pt": "primeiro",
 "accepted": [
@@ -29607,7 +29633,7 @@
 ]
 },
 {
-"rank": 1864,
+"rank": 1865,
 "lemma": "appointment",
 "pt": "compromisso / consulta",
 "accepted": [
@@ -29633,7 +29659,7 @@
 ]
 },
 {
-"rank": 1865,
+"rank": 1866,
 "lemma": "emphasize",
 "pt": "enfatizar",
 "accepted": [
@@ -29659,7 +29685,7 @@
 ]
 },
 {
-"rank": 1866,
+"rank": 1867,
 "lemma": "maximum",
 "pt": "máximo",
 "accepted": [
@@ -29685,7 +29711,7 @@
 ]
 },
 {
-"rank": 1867,
+"rank": 1868,
 "lemma": "effectively",
 "pt": "efetivamente",
 "accepted": [
@@ -29711,7 +29737,7 @@
 ]
 },
 {
-"rank": 1868,
+"rank": 1869,
 "lemma": "elsewhere",
 "pt": "em outro lugar",
 "accepted": [
@@ -29737,7 +29763,7 @@
 ]
 },
 {
-"rank": 1869,
+"rank": 1870,
 "lemma": "initiative",
 "pt": "iniciativo",
 "accepted": [
@@ -29763,7 +29789,7 @@
 ]
 },
 {
-"rank": 1870,
+"rank": 1871,
 "lemma": "sharp",
 "pt": "afiado",
 "accepted": [
@@ -29789,7 +29815,7 @@
 ]
 },
 {
-"rank": 1871,
+"rank": 1872,
 "lemma": "diet",
 "pt": "diet",
 "accepted": [
@@ -29815,7 +29841,7 @@
 ]
 },
 {
-"rank": 1872,
+"rank": 1873,
 "lemma": "motion",
 "pt": "movimento",
 "accepted": [
@@ -29841,7 +29867,7 @@
 ]
 },
 {
-"rank": 1873,
+"rank": 1874,
 "lemma": "gray",
 "pt": "cinzento",
 "accepted": [
@@ -29867,7 +29893,7 @@
 ]
 },
 {
-"rank": 1874,
+"rank": 1875,
 "lemma": "plastic",
 "pt": "plástico",
 "accepted": [
@@ -29893,7 +29919,7 @@
 ]
 },
 {
-"rank": 1875,
+"rank": 1876,
 "lemma": "complicate",
 "pt": "complicar",
 "accepted": [
@@ -29919,7 +29945,7 @@
 ]
 },
 {
-"rank": 1876,
+"rank": 1877,
 "lemma": "discipline",
 "pt": "disciplina",
 "accepted": [
@@ -29945,7 +29971,7 @@
 ]
 },
 {
-"rank": 1877,
+"rank": 1878,
 "lemma": "disappoint",
 "pt": "desapontar",
 "accepted": [
@@ -29971,7 +29997,7 @@
 ]
 },
 {
-"rank": 1878,
+"rank": 1879,
 "lemma": "boss",
 "pt": "chefe",
 "accepted": [
@@ -29997,7 +30023,7 @@
 ]
 },
 {
-"rank": 1879,
+"rank": 1880,
 "lemma": "assumption",
 "pt": "suposição",
 "accepted": [
@@ -30023,7 +30049,7 @@
 ]
 },
 {
-"rank": 1880,
+"rank": 1881,
 "lemma": "freeze",
 "pt": "congelar",
 "accepted": [
@@ -30049,7 +30075,7 @@
 ]
 },
 {
-"rank": 1881,
+"rank": 1882,
 "lemma": "extreme",
 "pt": "extremo",
 "accepted": [
@@ -30075,7 +30101,7 @@
 ]
 },
 {
-"rank": 1882,
+"rank": 1883,
 "lemma": "passage",
 "pt": "passagem",
 "accepted": [
@@ -30101,7 +30127,7 @@
 ]
 },
 {
-"rank": 1883,
+"rank": 1884,
 "lemma": "reputation",
 "pt": "reputação",
 "accepted": [
@@ -30127,7 +30153,7 @@
 ]
 },
 {
-"rank": 1884,
+"rank": 1885,
 "lemma": "forth",
 "pt": "adiante",
 "accepted": [
@@ -30153,7 +30179,7 @@
 ]
 },
 {
-"rank": 1885,
+"rank": 1886,
 "lemma": "negotiation",
 "pt": "negociação",
 "accepted": [
@@ -30179,7 +30205,7 @@
 ]
 },
 {
-"rank": 1886,
+"rank": 1887,
 "lemma": "coat",
 "pt": "casaco",
 "accepted": [
@@ -30205,7 +30231,7 @@
 ]
 },
 {
-"rank": 1887,
+"rank": 1888,
 "lemma": "democracy",
 "pt": "democracia",
 "accepted": [
@@ -30231,7 +30257,7 @@
 ]
 },
 {
-"rank": 1888,
+"rank": 1889,
 "lemma": "pocket",
 "pt": "bolso",
 "accepted": [
@@ -30257,7 +30283,7 @@
 ]
 },
 {
-"rank": 1889,
+"rank": 1890,
 "lemma": "lucky",
 "pt": "sortudo",
 "accepted": [
@@ -30283,7 +30309,7 @@
 ]
 },
 {
-"rank": 1890,
+"rank": 1891,
 "lemma": "crash",
 "pt": "batida / estrondo",
 "accepted": [
@@ -30309,7 +30335,7 @@
 ]
 },
 {
-"rank": 1891,
+"rank": 1892,
 "lemma": "observation",
 "pt": "observação",
 "accepted": [
@@ -30335,7 +30361,7 @@
 ]
 },
 {
-"rank": 1892,
+"rank": 1893,
 "lemma": "meat",
 "pt": "carne",
 "accepted": [
@@ -30361,7 +30387,7 @@
 ]
 },
 {
-"rank": 1893,
+"rank": 1894,
 "lemma": "concentration",
 "pt": "concentração",
 "accepted": [
@@ -30387,7 +30413,7 @@
 ]
 },
 {
-"rank": 1894,
+"rank": 1895,
 "lemma": "implication",
 "pt": "implicação",
 "accepted": [
@@ -30413,7 +30439,7 @@
 ]
 },
 {
-"rank": 1895,
+"rank": 1896,
 "lemma": "deserve",
 "pt": "merecer",
 "accepted": [
@@ -30439,7 +30465,7 @@
 ]
 },
 {
-"rank": 1896,
+"rank": 1897,
 "lemma": "unusual",
 "pt": "incomum / estranho",
 "accepted": [
@@ -30465,7 +30491,7 @@
 ]
 },
 {
-"rank": 1897,
+"rank": 1898,
 "lemma": "defend",
 "pt": "defender",
 "accepted": [
@@ -30491,7 +30517,7 @@
 ]
 },
 {
-"rank": 1898,
+"rank": 1899,
 "lemma": "classic",
 "pt": "clássico",
 "accepted": [
@@ -30517,7 +30543,7 @@
 ]
 },
 {
-"rank": 1899,
+"rank": 1900,
 "lemma": "king",
 "pt": "rei",
 "accepted": [
@@ -30543,7 +30569,7 @@
 ]
 },
 {
-"rank": 1900,
+"rank": 1901,
 "lemma": "interaction",
 "pt": "interação",
 "accepted": [
@@ -30564,7 +30590,7 @@
 ]
 },
 {
-"rank": 1901,
+"rank": 1902,
 "lemma": "repair",
 "pt": "conserto / reparar",
 "accepted": [
@@ -30590,7 +30616,7 @@
 ]
 },
 {
-"rank": 1902,
+"rank": 1903,
 "lemma": "collapse",
 "pt": "colapsar-se",
 "accepted": [
@@ -30616,7 +30642,7 @@
 ]
 },
 {
-"rank": 1903,
+"rank": 1904,
 "lemma": "borrow",
 "pt": "emprestar",
 "accepted": [
@@ -30642,7 +30668,7 @@
 ]
 },
 {
-"rank": 1904,
+"rank": 1905,
 "lemma": "fundamental",
 "pt": "fundamento",
 "accepted": [
@@ -30668,7 +30694,7 @@
 ]
 },
 {
-"rank": 1905,
+"rank": 1906,
 "lemma": "dish",
 "pt": "prato",
 "accepted": [
@@ -30694,7 +30720,7 @@
 ]
 },
 {
-"rank": 1906,
+"rank": 1907,
 "lemma": "abroad",
 "pt": "no exterior",
 "accepted": [
@@ -30720,7 +30746,7 @@
 ]
 },
 {
-"rank": 1907,
+"rank": 1908,
 "lemma": "soul",
 "pt": "alma",
 "accepted": [
@@ -30746,7 +30772,7 @@
 ]
 },
 {
-"rank": 1908,
+"rank": 1909,
 "lemma": "capable",
 "pt": "capaz",
 "accepted": [
@@ -30772,7 +30798,7 @@
 ]
 },
 {
-"rank": 1909,
+"rank": 1910,
 "lemma": "defeat",
 "pt": "derrotar",
 "accepted": [
@@ -30798,7 +30824,7 @@
 ]
 },
 {
-"rank": 1910,
+"rank": 1911,
 "lemma": "presidential",
 "pt": "presidencial",
 "accepted": [
@@ -30824,7 +30850,7 @@
 ]
 },
 {
-"rank": 1911,
+"rank": 1912,
 "lemma": "perfectly",
 "pt": "perfeitamente",
 "accepted": [
@@ -30850,7 +30876,7 @@
 ]
 },
 {
-"rank": 1912,
+"rank": 1913,
 "lemma": "enhance",
 "pt": "melhorar / aumentar",
 "accepted": [
@@ -30876,7 +30902,7 @@
 ]
 },
 {
-"rank": 1913,
+"rank": 1914,
 "lemma": "proud",
 "pt": "orgulhoso",
 "accepted": [
@@ -30902,7 +30928,7 @@
 ]
 },
 {
-"rank": 1914,
+"rank": 1915,
 "lemma": "emergency",
 "pt": "emergência",
 "accepted": [
@@ -30928,7 +30954,7 @@
 ]
 },
 {
-"rank": 1915,
+"rank": 1916,
 "lemma": "educational",
 "pt": "educacional",
 "accepted": [
@@ -30954,7 +30980,7 @@
 ]
 },
 {
-"rank": 1916,
+"rank": 1917,
 "lemma": "distinguish",
 "pt": "distinguir",
 "accepted": [
@@ -30980,7 +31006,7 @@
 ]
 },
 {
-"rank": 1917,
+"rank": 1918,
 "lemma": "nearby",
 "pt": "próximo / por perto",
 "accepted": [
@@ -31006,7 +31032,7 @@
 ]
 },
 {
-"rank": 1918,
+"rank": 1919,
 "lemma": "manufacturer",
 "pt": "fabricante",
 "accepted": [
@@ -31032,7 +31058,7 @@
 ]
 },
 {
-"rank": 1919,
+"rank": 1920,
 "lemma": "slide",
 "pt": "deslizar",
 "accepted": [
@@ -31058,7 +31084,7 @@
 ]
 },
 {
-"rank": 1920,
+"rank": 1921,
 "lemma": "valuable",
 "pt": "valioso",
 "accepted": [
@@ -31084,7 +31110,7 @@
 ]
 },
 {
-"rank": 1921,
+"rank": 1922,
 "lemma": "personally",
 "pt": "pessoalmente",
 "accepted": [
@@ -31110,7 +31136,7 @@
 ]
 },
 {
-"rank": 1922,
+"rank": 1923,
 "lemma": "cope",
 "pt": "lidar",
 "accepted": [
@@ -31136,7 +31162,7 @@
 ]
 },
 {
-"rank": 1923,
+"rank": 1924,
 "lemma": "approximately",
 "pt": "aproximadamente",
 "accepted": [
@@ -31162,7 +31188,7 @@
 ]
 },
 {
-"rank": 1924,
+"rank": 1925,
 "lemma": "accommodation",
 "pt": "alojamento",
 "accepted": [
@@ -31188,7 +31214,7 @@
 ]
 },
 {
-"rank": 1925,
+"rank": 1926,
 "lemma": "highlight",
 "pt": "realçar / ponto alto",
 "accepted": [
@@ -31214,7 +31240,7 @@
 ]
 },
 {
-"rank": 1926,
+"rank": 1927,
 "lemma": "reporter",
 "pt": "repórter",
 "accepted": [
@@ -31240,7 +31266,7 @@
 ]
 },
 {
-"rank": 1927,
+"rank": 1928,
 "lemma": "climate",
 "pt": "clima",
 "accepted": [
@@ -31266,7 +31292,7 @@
 ]
 },
 {
-"rank": 1928,
+"rank": 1929,
 "lemma": "shirt",
 "pt": "camisa",
 "accepted": [
@@ -31292,7 +31318,7 @@
 ]
 },
 {
-"rank": 1929,
+"rank": 1930,
 "lemma": "exception",
 "pt": "exceção",
 "accepted": [
@@ -31318,7 +31344,7 @@
 ]
 },
 {
-"rank": 1930,
+"rank": 1931,
 "lemma": "corporation",
 "pt": "corporação",
 "accepted": [
@@ -31344,7 +31370,7 @@
 ]
 },
 {
-"rank": 1931,
+"rank": 1932,
 "lemma": "chip",
 "pt": "batata frita / chipe",
 "accepted": [
@@ -31370,7 +31396,7 @@
 ]
 },
 {
-"rank": 1932,
+"rank": 1933,
 "lemma": "winner",
 "pt": "vencedor",
 "accepted": [
@@ -31396,7 +31422,7 @@
 ]
 },
 {
-"rank": 1933,
+"rank": 1934,
 "lemma": "encounter",
 "pt": "encontrar",
 "accepted": [
@@ -31422,7 +31448,7 @@
 ]
 },
 {
-"rank": 1934,
+"rank": 1935,
 "lemma": "brown",
 "pt": "castanho",
 "accepted": [
@@ -31448,7 +31474,7 @@
 ]
 },
 {
-"rank": 1935,
+"rank": 1936,
 "lemma": "breathe",
 "pt": "respirar",
 "accepted": [
@@ -31474,7 +31500,7 @@
 ]
 },
 {
-"rank": 1936,
+"rank": 1937,
 "lemma": "excuse",
 "pt": "desculpar",
 "accepted": [
@@ -31500,7 +31526,7 @@
 ]
 },
 {
-"rank": 1937,
+"rank": 1938,
 "lemma": "partly",
 "pt": "em parte",
 "accepted": [
@@ -31526,7 +31552,7 @@
 ]
 },
 {
-"rank": 1938,
+"rank": 1939,
 "lemma": "tennis",
 "pt": "tênis",
 "accepted": [
@@ -31552,7 +31578,7 @@
 ]
 },
 {
-"rank": 1939,
+"rank": 1940,
 "lemma": "urban",
 "pt": "urbano",
 "accepted": [
@@ -31578,7 +31604,7 @@
 ]
 },
 {
-"rank": 1940,
+"rank": 1941,
 "lemma": "confuse",
 "pt": "confundir",
 "accepted": [
@@ -31604,7 +31630,7 @@
 ]
 },
 {
-"rank": 1941,
+"rank": 1942,
 "lemma": "southern",
 "pt": "do sul",
 "accepted": [
@@ -31630,7 +31656,7 @@
 ]
 },
 {
-"rank": 1942,
+"rank": 1943,
 "lemma": "output",
 "pt": "produção",
 "accepted": [
@@ -31656,7 +31682,7 @@
 ]
 },
 {
-"rank": 1943,
+"rank": 1944,
 "lemma": "beauty",
 "pt": "beleza",
 "accepted": [
@@ -31682,7 +31708,7 @@
 ]
 },
 {
-"rank": 1944,
+"rank": 1945,
 "lemma": "massive",
 "pt": "massivo",
 "accepted": [
@@ -31708,7 +31734,7 @@
 ]
 },
 {
-"rank": 1945,
+"rank": 1946,
 "lemma": "install",
 "pt": "instalar",
 "accepted": [
@@ -31734,7 +31760,7 @@
 ]
 },
 {
-"rank": 1946,
+"rank": 1947,
 "lemma": "calculate",
 "pt": "calcular",
 "accepted": [
@@ -31760,7 +31786,7 @@
 ]
 },
 {
-"rank": 1947,
+"rank": 1948,
 "lemma": "mouse",
 "pt": "rato",
 "accepted": [
@@ -31786,7 +31812,7 @@
 ]
 },
 {
-"rank": 1948,
+"rank": 1949,
 "lemma": "upper",
 "pt": "superior",
 "accepted": [
@@ -31812,7 +31838,7 @@
 ]
 },
 {
-"rank": 1949,
+"rank": 1950,
 "lemma": "creation",
 "pt": "criação",
 "accepted": [
@@ -31838,7 +31864,7 @@
 ]
 },
 {
-"rank": 1950,
+"rank": 1951,
 "lemma": "occupy",
 "pt": "ocupar",
 "accepted": [
@@ -31864,7 +31890,7 @@
 ]
 },
 {
-"rank": 1951,
+"rank": 1952,
 "lemma": "outline",
 "pt": "contorno / esboço",
 "accepted": [
@@ -31890,7 +31916,7 @@
 ]
 },
 {
-"rank": 1952,
+"rank": 1953,
 "lemma": "sufficient",
 "pt": "suficiente",
 "accepted": [
@@ -31916,7 +31942,7 @@
 ]
 },
 {
-"rank": 1953,
+"rank": 1954,
 "lemma": "update",
 "pt": "atualizar",
 "accepted": [
@@ -31942,7 +31968,7 @@
 ]
 },
 {
-"rank": 1954,
+"rank": 1955,
 "lemma": "luck",
 "pt": "sorte",
 "accepted": [
@@ -31968,7 +31994,7 @@
 ]
 },
 {
-"rank": 1955,
+"rank": 1956,
 "lemma": "preserve",
 "pt": "preservar",
 "accepted": [
@@ -31994,7 +32020,7 @@
 ]
 },
 {
-"rank": 1956,
+"rank": 1957,
 "lemma": "split",
 "pt": "dividir / separar-se",
 "accepted": [
@@ -32020,7 +32046,7 @@
 ]
 },
 {
-"rank": 1957,
+"rank": 1958,
 "lemma": "swing",
 "pt": "baloiço / balançar",
 "accepted": [
@@ -32046,7 +32072,7 @@
 ]
 },
 {
-"rank": 1958,
+"rank": 1959,
 "lemma": "illness",
 "pt": "doença",
 "accepted": [
@@ -32072,7 +32098,7 @@
 ]
 },
 {
-"rank": 1959,
+"rank": 1960,
 "lemma": "journalist",
 "pt": "jornalista",
 "accepted": [
@@ -32098,7 +32124,7 @@
 ]
 },
 {
-"rank": 1960,
+"rank": 1961,
 "lemma": "sudden",
 "pt": "súbito",
 "accepted": [
@@ -32124,7 +32150,7 @@
 ]
 },
 {
-"rank": 1961,
+"rank": 1962,
 "lemma": "advertisement",
 "pt": "anúncio",
 "accepted": [
@@ -32150,7 +32176,7 @@
 ]
 },
 {
-"rank": 1962,
+"rank": 1963,
 "lemma": "consistent",
 "pt": "consistente",
 "accepted": [
@@ -32176,7 +32202,7 @@
 ]
 },
 {
-"rank": 1963,
+"rank": 1964,
 "lemma": "originally",
 "pt": "originalmente",
 "accepted": [
@@ -32202,7 +32228,7 @@
 ]
 },
 {
-"rank": 1964,
+"rank": 1965,
 "lemma": "aside",
 "pt": "à parte",
 "accepted": [
@@ -32228,7 +32254,7 @@
 ]
 },
 {
-"rank": 1965,
+"rank": 1966,
 "lemma": "comfort",
 "pt": "conforto",
 "accepted": [
@@ -32254,7 +32280,7 @@
 ]
 },
 {
-"rank": 1966,
+"rank": 1967,
 "lemma": "secondly",
 "pt": "segundamente",
 "accepted": [
@@ -32275,7 +32301,7 @@
 ]
 },
 {
-"rank": 1967,
+"rank": 1968,
 "lemma": "severe",
 "pt": "severo",
 "accepted": [
@@ -32301,7 +32327,7 @@
 ]
 },
 {
-"rank": 1968,
+"rank": 1969,
 "lemma": "gene",
 "pt": "gene",
 "accepted": [
@@ -32327,7 +32353,7 @@
 ]
 },
 {
-"rank": 1969,
+"rank": 1970,
 "lemma": "prospect",
 "pt": "perspectiva / expectativa",
 "accepted": [
@@ -32353,7 +32379,7 @@
 ]
 },
 {
-"rank": 1970,
+"rank": 1971,
 "lemma": "snow",
 "pt": "neve",
 "accepted": [
@@ -32379,7 +32405,7 @@
 ]
 },
 {
-"rank": 1971,
+"rank": 1972,
 "lemma": "plot",
 "pt": "enredo / tramar",
 "accepted": [
@@ -32405,7 +32431,7 @@
 ]
 },
 {
-"rank": 1972,
+"rank": 1973,
 "lemma": "neck",
 "pt": "pescoço",
 "accepted": [
@@ -32431,7 +32457,7 @@
 ]
 },
 {
-"rank": 1973,
+"rank": 1974,
 "lemma": "primarily",
 "pt": "principalmente",
 "accepted": [
@@ -32457,7 +32483,7 @@
 ]
 },
 {
-"rank": 1974,
+"rank": 1975,
 "lemma": "criticism",
 "pt": "crítica",
 "accepted": [
@@ -32483,7 +32509,7 @@
 ]
 },
 {
-"rank": 1975,
+"rank": 1976,
 "lemma": "convention",
 "pt": "convenção",
 "accepted": [
@@ -32509,7 +32535,7 @@
 ]
 },
 {
-"rank": 1976,
+"rank": 1977,
 "lemma": "retain",
 "pt": "manter / reter",
 "accepted": [
@@ -32535,7 +32561,7 @@
 ]
 },
 {
-"rank": 1977,
+"rank": 1978,
 "lemma": "sequence",
 "pt": "sequência",
 "accepted": [
@@ -32561,7 +32587,7 @@
 ]
 },
 {
-"rank": 1978,
+"rank": 1979,
 "lemma": "plain",
 "pt": "planície",
 "accepted": [
@@ -32587,7 +32613,7 @@
 ]
 },
 {
-"rank": 1979,
+"rank": 1980,
 "lemma": "volunteer",
 "pt": "voluntário",
 "accepted": [
@@ -32613,7 +32639,7 @@
 ]
 },
 {
-"rank": 1980,
+"rank": 1981,
 "lemma": "rural",
 "pt": "rural",
 "accepted": [
@@ -32639,7 +32665,7 @@
 ]
 },
 {
-"rank": 1981,
+"rank": 1982,
 "lemma": "calm",
 "pt": "calmo / acalmar",
 "accepted": [
@@ -32665,7 +32691,7 @@
 ]
 },
 {
-"rank": 1982,
+"rank": 1983,
 "lemma": "abandon",
 "pt": "abandonar",
 "accepted": [
@@ -32691,7 +32717,7 @@
 ]
 },
 {
-"rank": 1983,
+"rank": 1984,
 "lemma": "examination",
 "pt": "exame",
 "accepted": [
@@ -32717,7 +32743,7 @@
 ]
 },
 {
-"rank": 1984,
+"rank": 1985,
 "lemma": "silence",
 "pt": "silêncio",
 "accepted": [
@@ -32743,7 +32769,7 @@
 ]
 },
 {
-"rank": 1985,
+"rank": 1986,
 "lemma": "rapidly",
 "pt": "rapidamente",
 "accepted": [
@@ -32769,7 +32795,7 @@
 ]
 },
 {
-"rank": 1986,
+"rank": 1987,
 "lemma": "efficient",
 "pt": "eficiente",
 "accepted": [
@@ -32795,7 +32821,7 @@
 ]
 },
 {
-"rank": 1987,
+"rank": 1988,
 "lemma": "revolution",
 "pt": "revolução",
 "accepted": [
@@ -32821,7 +32847,7 @@
 ]
 },
 {
-"rank": 1988,
+"rank": 1989,
 "lemma": "delight",
 "pt": "encantar",
 "accepted": [
@@ -32847,7 +32873,7 @@
 ]
 },
 {
-"rank": 1989,
+"rank": 1990,
 "lemma": "spell",
 "pt": "soletrar",
 "accepted": [
@@ -32873,7 +32899,7 @@
 ]
 },
 {
-"rank": 1990,
+"rank": 1991,
 "lemma": "premise",
 "pt": "premissa",
 "accepted": [
@@ -32899,7 +32925,7 @@
 ]
 },
 {
-"rank": 1991,
+"rank": 1992,
 "lemma": "lean",
 "pt": "inclinar / apoiar-se",
 "accepted": [
@@ -32925,7 +32951,7 @@
 ]
 },
 {
-"rank": 1992,
+"rank": 1993,
 "lemma": "dramatic",
 "pt": "dramático",
 "accepted": [
@@ -32951,7 +32977,7 @@
 ]
 },
 {
-"rank": 1993,
+"rank": 1994,
 "lemma": "differ",
 "pt": "diferir",
 "accepted": [
@@ -32977,7 +33003,7 @@
 ]
 },
 {
-"rank": 1994,
+"rank": 1995,
 "lemma": "grateful",
 "pt": "grato",
 "accepted": [
@@ -33003,7 +33029,7 @@
 ]
 },
 {
-"rank": 1995,
+"rank": 1996,
 "lemma": "protein",
 "pt": "proteína",
 "accepted": [
@@ -33029,7 +33055,7 @@
 ]
 },
 {
-"rank": 1996,
+"rank": 1997,
 "lemma": "bike",
 "pt": "bicicleta",
 "accepted": [
@@ -33055,7 +33081,7 @@
 ]
 },
 {
-"rank": 1997,
+"rank": 1998,
 "lemma": "distribute",
 "pt": "distribuir",
 "accepted": [
@@ -33081,7 +33107,7 @@
 ]
 },
 {
-"rank": 1998,
+"rank": 1999,
 "lemma": "intellectual",
 "pt": "intelectual",
 "accepted": [
@@ -33107,7 +33133,7 @@
 ]
 },
 {
-"rank": 1999,
+"rank": 2000,
 "lemma": "derive",
 "pt": "derivar",
 "accepted": [
@@ -33130,32 +33156,6 @@
 "src": [
 "tatoeba:11063320/11063331",
 "tatoeba:26344/918142"
-]
-},
-{
-"rank": 2000,
-"lemma": "crucial",
-"pt": "crucial",
-"accepted": [
-"crucial"
-],
-"concrete": false,
-"emoji": null,
-"ptbr_hint": null,
-"say": "crucial",
-"sentences": [
-[
-"The timing will be crucial.",
-"O tempo será crucial."
-],
-[
-"I think that that's crucial.",
-"Acho que isso é crucial."
-]
-],
-"src": [
-"tatoeba:2882886/8960919",
-"tatoeba:8244277/8245558"
 ]
 }
 ]

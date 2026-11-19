@@ -25,7 +25,7 @@ ver = sorted((d for d in root.iterdir() if d.name.startswith("v") and d.name[1:]
 m = json.loads((ver / "manifest.json").read_text())
 ws = [w for w in m["words"] if w.get("audio_pt")]
 random.seed(7); sample = random.sample(ws, min(n, len(ws)))
-multi = [w for w in ws if " " in w["translation"]["pt"].split("(")[0].strip()][:80]  # expressões ("eu quero ir")
+multi = random.sample([w for w in ws if " " in w["translation"]["pt"].split("(")[0].strip()], 50)  # expressões ("eu quero ir")
 rng = np.random.default_rng(7)
 clips = []
 for w in sample + multi:
@@ -33,10 +33,13 @@ for w in sample + multi:
     noisy = x + rng.normal(0, np.sqrt(np.mean(x ** 2) / 10 ** (15 / 10)), x.shape).astype(np.float32)  # ruído a 15 dB
     clips.append((w, x, noisy))
 res = {}
-for size in ["tiny", "base", "small"]:
-    model = WhisperModel(size, device="cpu", compute_type="int8")
-    for cond in ["limpo", "ruido"]:
-        for prompt in [None, "Resposta curta em português do Brasil."]:
+PLAN = {"tiny": [("limpo", None), ("ruido", None), ("ruido", "Resposta curta em português do Brasil.")],
+        "base": [("limpo", None), ("ruido", None), ("ruido", "Resposta curta em português do Brasil.")],
+        "small": [("ruido", None)]}
+for size, runs in PLAN.items():
+    model = WhisperModel(size, device="cpu", compute_type="int8", cpu_threads=4)
+    for cond, prompt in runs:
+        if True:
             ok = okm = 0; t0 = time.time(); bad = []
             for i, (w, x, noisy) in enumerate(clips):
                 segs, _ = model.transcribe(x if cond == "limpo" else noisy, language="pt", beam_size=1, initial_prompt=prompt,

@@ -47,6 +47,12 @@ def main() -> None:
                 if src.exists() and not dst.exists():
                     shutil.copyfile(src, dst)
                     n += 1
+        # palavras soltas para tocar (64 kbps: a chave leva o "\0" + taxa, como em Tts.say)
+        for k, rel in (m.get("say") or {}).items():
+            src, dst = d / rel, cache / f"{key(('I' if k == 'i' else k) + chr(0) + '64k', PACK_VOICES[0])}.m4a"
+            if src.exists() and not dst.exists():
+                shutil.copyfile(src, dst)
+                n += 1
     print(f"cache: {n} áudios copiados do que já estava publicado")
 
 

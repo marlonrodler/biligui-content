@@ -452,12 +452,32 @@ def build(pack: str, out: Path, skip_audio: bool, skip_images: bool, source: str
         report.append({"id": wid, "flags": flags})
         print(f"{rank:>3} {w['lemma']:<10} {ipa or '?':<14} {'; '.join(flags) or 'ok'}")
 
+    # tocar na palavra para ouvir (ADR-069 do app): áudio de cada palavra solta das frases e expressões que não tem
+    # cartão próprio ("the", "it", "worked"), na mesma voz. Fica em manifest["say"] = {palavra: arquivo}.
+    say: dict[str, str] = {}
+    if tts:
+        have = {e["lemma"].lower() for e in words if " " not in e["lemma"] and e["audio"]}
+        forms: set[str] = set()
+        for e in words:
+            for t in re.findall(r"[A-Za-z']+", " ".join([e["lemma"]] + [x["en"] for x in e["sentences"]])):
+                k = t.lower().strip("'")
+                if k and k not in have and len(k) <= 24:
+                    forms.add(k)
+        (draft / "say").mkdir(exist_ok=True)
+        for k in sorted(forms):
+            dest = draft / "say" / f"{hashlib.sha1(k.encode()).hexdigest()[:16]}.m4a"
+            text = "I" if k == "i" else k
+            tts.say(text, PACK_VOICES[0], dest, tmp, bitrate="64k")
+            if dest.exists():
+                say[k] = f"say/{dest.name}"
+        print(f"palavras soltas para tocar: {len(say)} de {len(forms)}")
+
     manifest = {"id": pack, "version": "draft", "source_lang": "pt", "target_lang": "en", "accent": "en-US",
                 "license": "CC BY-SA 4.0",
                 "credits": ["NGSL-Spoken, NGSL 1.2, NAWL 1.2 (newgeneralservicelist.com, CC BY-SA 4.0)", "wordfreq (CC BY-SA 4.0)",
                             "Wiktionary (CC BY-SA 4.0)", "Tatoeba (tatoeba.org, CC BY 2.0 FR)", "Kokoro-82M (Apache 2.0)", "Piper pt_BR-faber-medium (MIT; dados CC0)",
                             "Fluent Emoji © Microsoft (MIT)", "CMU Pronouncing Dictionary (BSD-2)"],
-                "voices": PACK_VOICES, "voice_pt": PT_VOICE, "words": words}
+                "voices": PACK_VOICES, "voice_pt": PT_VOICE, "words": words, "say": say}
     if src.get("episodes"):
         manifest["episodes"] = src["episodes"]
     # histórias do podcast (ADR-049)

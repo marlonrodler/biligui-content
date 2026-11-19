@@ -49,6 +49,8 @@ def main() -> None:
                 s["audio"] = put(s["audio"])
     for s in m.get("stories", []):
         s["audio"] = put(s.get("audio"))
+    if m.get("say"):
+        m["say"] = {k: put(v) for k, v in m["say"].items()}
     for e in m.get("episodes", []):
         for k in ("image", "audio"):
             if e.get(k):

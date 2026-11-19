@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["pipeline/**", ".github/workflows/pipeline.yml", "!pipeline/levels.py", "!pipeline/packs/ngsl-spoken/levels/**"]
+    paths: ["pipeline/**", ".github/workflows/pipeline.yml", "!pipeline/levels.py", "!pipeline/asr_bench.py", "!pipeline/packs/ngsl-spoken/levels/**"]
 
 concurrency:
   group: pipeline
